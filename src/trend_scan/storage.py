@@ -24,6 +24,14 @@ def signals_path(run_date_str: str) -> Path:
     return REPO_ROOT / "data" / "signals" / f"{run_date_str}_signals.json"
 
 
+def error_log_path(run_date_str: str) -> Path:
+    return REPO_ROOT / "data" / "errors" / f"{run_date_str}_errors.json"
+
+
+def error_state_path() -> Path:
+    return REPO_ROOT / "data" / "errors" / "error_state.json"
+
+
 def daily_report_path(run_date_str: str) -> Path:
     return REPO_ROOT / "reports" / "daily" / f"{run_date_str}.md"
 

@@ -45,6 +45,7 @@ The public repository only handles data collection, storage, normalization, and 
 │  ├─ collect_wikipedia.py
 │  ├─ collect_polymarket.py
 │  ├─ normalize.py
+│  ├─ log_errors.py
 │  ├─ detect_signals.py
 │  ├─ generate_daily_report.py
 │  ├─ run_daily.py
@@ -62,6 +63,10 @@ Each run writes three layers of outputs:
   Unified records across all sources with one shared schema.
 - `data/signals/YYYY-MM-DD_signals.json`
   The subset of items that look materially different or important.
+- `data/errors/YYYY-MM-DD_errors.json`
+  Source errors and warnings for that run.
+- `data/errors/error_state.json`
+  Active and resolved source problems, including consecutive failure counts.
 
 Wikipedia pageviews use the most recent fully available daily point when the pipeline runs on schedule.
 

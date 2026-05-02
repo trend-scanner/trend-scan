@@ -20,6 +20,7 @@ def main() -> None:
         "collect_wikipedia.py",
         "collect_polymarket.py",
         "normalize.py",
+        "log_errors.py",
         "detect_signals.py",
         "generate_daily_report.py",
     ]

@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-02",
+  "entries": [
+    {
+      "key": "rss:warning:asahi-headlines",
+      "date": "2026-05-02",
+      "source": "rss",
+      "level": "warning",
+      "detail_id": "asahi-headlines",
+      "message": "document declared as us-ascii, but parsed as utf-8",
+      "raw": {
+        "source_id": "asahi-headlines",
+        "warning": "document declared as us-ascii, but parsed as utf-8"
+      }
+    },
+    {
+      "key": "rss:warning:asahi-business",
+      "date": "2026-05-02",
+      "source": "rss",
+      "level": "warning",
+      "detail_id": "asahi-business",
+      "message": "document declared as us-ascii, but parsed as utf-8",
+      "raw": {
+        "source_id": "asahi-business",
+        "warning": "document declared as us-ascii, but parsed as utf-8"
+      }
+    },
+    {
+      "key": "rss:warning:asahi-politics",
+      "date": "2026-05-02",
+      "source": "rss",
+      "level": "warning",
+      "detail_id": "asahi-politics",
+      "message": "document declared as us-ascii, but parsed as utf-8",
+      "raw": {
+        "source_id": "asahi-politics",
+        "warning": "document declared as us-ascii, but parsed as utf-8"
+      }
+    },
+    {
+      "key": "rss:warning:asahi-tech-science",
+      "date": "2026-05-02",
+      "source": "rss",
+      "level": "warning",
+      "detail_id": "asahi-tech-science",
+      "message": "document declared as us-ascii, but parsed as utf-8",
+      "raw": {
+        "source_id": "asahi-tech-science",
+        "warning": "document declared as us-ascii, but parsed as utf-8"
+      }
+    },
+    {
+      "key": "rss:warning:jetro-news",
+      "date": "2026-05-02",
+      "source": "rss",
+      "level": "warning",
+      "detail_id": "jetro-news",
+      "message": "document declared as us-ascii, but parsed as utf-8",
+      "raw": {
+        "source_id": "jetro-news",
+        "warning": "document declared as us-ascii, but parsed as utf-8"
+      }
+    },
+    {
+      "key": "rss:warning:jetro-biznews",
+      "date": "2026-05-02",
+      "source": "rss",
+      "level": "warning",
+      "detail_id": "jetro-biznews",
+      "message": "document declared as us-ascii, but parsed as utf-8",
+      "raw": {
+        "source_id": "jetro-biznews",
+        "warning": "document declared as us-ascii, but parsed as utf-8"
+      }
+    },
+    {
+      "key": "rss:warning:soumu-news",
+      "date": "2026-05-02",
+      "source": "rss",
+      "level": "warning",
+      "detail_id": "soumu-news",
+      "message": "document declared as us-ascii, but parsed as shift_jis",
+      "raw": {
+        "source_id": "soumu-news",
+        "warning": "document declared as us-ascii, but parsed as shift_jis"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 7,
+    "by_level": {
+      "warning": 7
+    },
+    "by_source": {
+      "rss": 7
+    },
+    "continuous_failures": []
+  }
+}
