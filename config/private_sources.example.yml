@@ -1,0 +1,14 @@
+metadata:
+  project_name: trend-scan-private
+  timezone: Asia/Tokyo
+
+rss:
+  max_entries_per_feed: 50
+  max_item_age_days: 7
+  feeds:
+    - id: nikkei-asia
+      name: Nikkei Asia
+      url: https://asia.nikkei.com/rss/feed/nar
+      region: asia
+      kind: media
+      priority: true

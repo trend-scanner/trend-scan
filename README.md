@@ -47,7 +47,8 @@ The public repository only handles data collection, storage, normalization, and 
 │  ├─ normalize.py
 │  ├─ detect_signals.py
 │  ├─ generate_daily_report.py
-│  └─ run_daily.py
+│  ├─ run_daily.py
+│  └─ run_private_daily.py
 └─ src/trend_scan/
 ```
 
@@ -89,6 +90,16 @@ You can backfill a specific day with:
 ```bash
 python scripts/run_daily.py --date 2026-05-02
 ```
+
+## Private local sources
+
+Some feeds are useful for personal monitoring but should not be committed into this public repository. For those, copy `config/private_sources.example.yml` to `config/private_sources.yml` and run:
+
+```bash
+python scripts/run_private_daily.py
+```
+
+Private outputs are written under `data/private/`, which is ignored by git. The starter private config includes Nikkei Asia RSS for personal, noncommercial reading.
 
 ## GitHub Actions schedule
 
