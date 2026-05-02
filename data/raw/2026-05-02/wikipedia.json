@@ -1,7 +1,7 @@
 {
   "source": "wikipedia",
   "run_date": "2026-05-02",
-  "snapshot_at": "2026-05-02T18:12:36.080810+09:00",
+  "snapshot_at": "2026-05-02T18:20:40.822657+09:00",
   "items": [
     {
       "page_title": "YouTube",
@@ -114,21 +114,11 @@
       "tags": [
         "resilience"
       ]
-    },
-    {
-      "page_title": "副業",
-      "project": "ja.wikipedia.org",
-      "region": "jp",
-      "observed_date": "2026-05-01",
-      "views": 28,
-      "tags": [
-        "side-business"
-      ]
     }
   ],
   "meta": {
     "page_count": 16,
-    "item_count": 12,
+    "item_count": 11,
     "observed_date": "2026-05-01",
     "errors": [
       {
@@ -146,6 +136,10 @@
       {
         "title": "物価",
         "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E7%89%A9%E4%BE%A1/daily/20260501/20260501"
+      },
+      {
+        "title": "副業",
+        "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260501/20260501"
       }
     ]
   }

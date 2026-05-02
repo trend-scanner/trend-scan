@@ -1,7 +1,7 @@
 {
   "source": "hackernews",
   "run_date": "2026-05-02",
-  "snapshot_at": "2026-05-02T18:12:23.408826+09:00",
+  "snapshot_at": "2026-05-02T18:20:31.704938+09:00",
   "items": [
     {
       "item_id": "47976415",
@@ -9,7 +9,7 @@
       "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
       "author": "lwhsiao",
       "points": 379,
-      "comments": 448,
+      "comments": 449,
       "created_at": "2026-05-01T16:08:53Z",
       "matched_queries": [
         "Claude"
@@ -86,7 +86,7 @@
       "title": "I built the Playwright for desktop apps. 80% token savings",
       "url": "https://github.com/lahfir/agent-desktop",
       "author": "lahfir",
-      "points": 67,
+      "points": 70,
       "comments": 23,
       "created_at": "2026-05-02T02:18:24Z",
       "matched_queries": [
@@ -131,7 +131,7 @@
       "title": "U.S. to Withdraw 5k Troops from Germany, Pentagon Says",
       "url": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
       "author": "mikhael",
-      "points": 45,
+      "points": 46,
       "comments": 27,
       "created_at": "2026-05-01T23:52:36Z",
       "matched_queries": [
@@ -147,7 +147,7 @@
       "url": "https://www.spiritrestructuring.com/",
       "author": "CaliforniaKarl",
       "points": 44,
-      "comments": 70,
+      "comments": 71,
       "created_at": "2026-05-02T06:28:00Z",
       "matched_queries": [
         "AI"
@@ -239,6 +239,22 @@
       ]
     },
     {
+      "item_id": "47982967",
+      "title": "The feed doesn't know you, and YouTube refuses to let you browse",
+      "url": "https://evilgeniuslabs.ca/blog/the-feed-doesnt-know-you",
+      "author": "andsoitis",
+      "points": 13,
+      "comments": 6,
+      "created_at": "2026-05-02T03:16:16Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
       "item_id": "47976391",
       "title": "Tell HN: Claude Opus 4.7 quota suddenly changed to 0 TPM in Bedrock",
       "url": "https://news.ycombinator.com/item?id=47976391",
@@ -257,19 +273,18 @@
       ]
     },
     {
-      "item_id": "47982967",
-      "title": "The feed doesn't know you, and YouTube refuses to let you browse",
-      "url": "https://evilgeniuslabs.ca/blog/the-feed-doesnt-know-you",
-      "author": "andsoitis",
+      "item_id": "47983410",
+      "title": "GrapheneOS: The Linux kernel is a fundamentally anti-security project",
+      "url": "https://twitter.com/GrapheneOS/status/2035450069118296272",
+      "author": "maxloh",
       "points": 12,
-      "comments": 5,
-      "created_at": "2026-05-02T03:16:16Z",
+      "comments": 3,
+      "created_at": "2026-05-02T04:47:41Z",
       "matched_queries": [
-        "YouTube"
+        "startup"
       ],
       "tags": [
-        "video",
-        "youtube"
+        "startup"
       ]
     },
     {
@@ -286,21 +301,6 @@
       "tags": [
         "ai",
         "video"
-      ]
-    },
-    {
-      "item_id": "47983410",
-      "title": "GrapheneOS: The Linux kernel is a fundamentally anti-security project",
-      "url": "https://twitter.com/GrapheneOS/status/2035450069118296272",
-      "author": "maxloh",
-      "points": 11,
-      "comments": 3,
-      "created_at": "2026-05-02T04:47:41Z",
-      "matched_queries": [
-        "startup"
-      ],
-      "tags": [
-        "startup"
       ]
     },
     {
@@ -354,22 +354,6 @@
       ]
     },
     {
-      "item_id": "47977189",
-      "title": "Canonical's web infrastructure is under a sustained, cross-border attack",
-      "url": "https://status.canonical.com/",
-      "author": "smoyer",
-      "points": 9,
-      "comments": 2,
-      "created_at": "2026-05-01T17:04:23Z",
-      "matched_queries": [
-        "startup"
-      ],
-      "tags": [
-        "ai",
-        "startup"
-      ]
-    },
-    {
       "item_id": "47983798",
       "title": "Trump says it's 'treasonous' to say US not winning war in Iran",
       "url": "https://www.independent.co.uk/tv/news/trump-iran-war-news-treason-video-b2969246.html",
@@ -383,6 +367,25 @@
       "tags": [
         "saas",
         "video"
+      ]
+    },
+    {
+      "item_id": "47984301",
+      "title": "Show HN: Hollow is an open-sourced self-modifying agentic system",
+      "url": "https://github.com/ninjahawk/hollow-agentOS",
+      "author": "ninjahawk1",
+      "points": 7,
+      "comments": 1,
+      "created_at": "2026-05-02T07:43:29Z",
+      "matched_queries": [
+        "agents",
+        "SEO",
+        "GitHub"
+      ],
+      "tags": [
+        "agents",
+        "github",
+        "seo"
       ]
     },
     {
@@ -401,25 +404,6 @@
       ]
     },
     {
-      "item_id": "47984301",
-      "title": "Show HN: Hollow is an open-sourced self-modifying agentic system",
-      "url": "https://github.com/ninjahawk/hollow-agentOS",
-      "author": "ninjahawk1",
-      "points": 6,
-      "comments": 1,
-      "created_at": "2026-05-02T07:43:29Z",
-      "matched_queries": [
-        "agents",
-        "SEO",
-        "GitHub"
-      ],
-      "tags": [
-        "agents",
-        "github",
-        "seo"
-      ]
-    },
-    {
       "item_id": "47981696",
       "title": "What Software Engineers Can Learn from the Aviation Industry",
       "url": "https://mwalterskirchen.dev/blog/piloting-agentic-engineering/",
@@ -432,22 +416,6 @@
       ],
       "tags": [
         "agents"
-      ]
-    },
-    {
-      "item_id": "47983138",
-      "title": "Hyperscalers are buying all the chips to then rent them to us later",
-      "url": "https://news.ycombinator.com/item?id=47983138",
-      "author": "adelks",
-      "points": 5,
-      "comments": 2,
-      "created_at": "2026-05-02T03:51:21Z",
-      "matched_queries": [
-        "AI"
-      ],
-      "tags": [
-        "ai",
-        "startup"
       ]
     },
     {
@@ -478,6 +446,21 @@
       ],
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "item_id": "47984486",
+      "title": "SKILL.make: Makefile Styled Skill File",
+      "url": "https://github.com/Teaonly/SKILL.make",
+      "author": "teaonly",
+      "points": 5,
+      "comments": 1,
+      "created_at": "2026-05-02T08:18:15Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
       ]
     },
     {
@@ -690,21 +673,6 @@
       ]
     },
     {
-      "item_id": "47984486",
-      "title": "SKILL.make: Makefile Styled Skill File",
-      "url": "https://github.com/Teaonly/SKILL.make",
-      "author": "teaonly",
-      "points": 4,
-      "comments": 1,
-      "created_at": "2026-05-02T08:18:15Z",
-      "matched_queries": [
-        "GitHub"
-      ],
-      "tags": [
-        "github"
-      ]
-    },
-    {
       "item_id": "47979771",
       "title": "What Microsoft's 10-Q Says About OpenAI",
       "url": "https://om.co/2026/05/01/what-microsofts-10-q-says-about-openai/",
@@ -911,7 +879,6 @@
       "created_at": "2026-05-01T18:18:35Z",
       "matched_queries": [
         "OpenAI",
-        "LLM",
         "SaaS"
       ],
       "tags": [
@@ -935,6 +902,39 @@
       "tags": [
         "ai",
         "llm"
+      ]
+    },
+    {
+      "item_id": "47984291",
+      "title": "Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
+      "url": "https://github.com/InsaneInfinity/Balistic",
+      "author": "insane_infinity",
+      "points": 3,
+      "comments": 1,
+      "created_at": "2026-05-02T07:42:29Z",
+      "matched_queries": [
+        "SEO",
+        "GitHub"
+      ],
+      "tags": [
+        "ai",
+        "github",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "47984673",
+      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
+      "url": "https://www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
+      "author": "zeristor",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-05-02T08:54:04Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -1016,6 +1016,25 @@
       ]
     },
     {
+      "item_id": "47984734",
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "url": "https://iesna.eu/?wasm=skyglow_demo",
+      "author": "holg",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-05-02T09:08:18Z",
+      "matched_queries": [
+        "LLM",
+        "SEO",
+        "GitHub"
+      ],
+      "tags": [
+        "github",
+        "llm",
+        "seo"
+      ]
+    },
+    {
       "item_id": "47982994",
       "title": "Wirken: Secure AI agent gateway. Encrypted vault. Single static binary",
       "url": "https://github.com/gebruder/wirken",
@@ -1047,6 +1066,23 @@
       "tags": [
         "agents",
         "ai"
+      ]
+    },
+    {
+      "item_id": "47984512",
+      "title": "Shadcn/UI: A set of beautifully designed components that you can customize",
+      "url": "https://github.com/shadcn-ui/ui",
+      "author": "doener",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-05-02T08:21:38Z",
+      "matched_queries": [
+        "SEO",
+        "GitHub"
+      ],
+      "tags": [
+        "github",
+        "seo"
       ]
     },
     {
@@ -1286,6 +1322,30 @@
       ]
     },
     {
+      "item_id": "47984675",
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "author": "nip",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-05-02T08:54:27Z",
+      "matched_queries": [
+        "AI",
+        "Claude",
+        "LLM",
+        "SEO",
+        "GitHub",
+        "startup"
+      ],
+      "tags": [
+        "ai",
+        "github",
+        "llm",
+        "seo",
+        "startup"
+      ]
+    },
+    {
       "item_id": "47981440",
       "title": "The downfall of OpenAI and who will follow",
       "url": "https://msukhareva.substack.com/p/the-downfall-of-openai-and-who-will",
@@ -1328,6 +1388,27 @@
       ],
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "item_id": "47984614",
+      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+      "url": "https://snewpapers.com/",
+      "author": "brettnbutter",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-05-02T08:42:45Z",
+      "matched_queries": [
+        "LLM",
+        "agents",
+        "SEO",
+        "GitHub"
+      ],
+      "tags": [
+        "agents",
+        "github",
+        "llm",
+        "seo"
       ]
     },
     {
@@ -1394,27 +1475,37 @@
       ]
     },
     {
-      "item_id": "47984675",
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
-      "author": "nip",
+      "item_id": "47984606",
+      "title": "AI coding tools are silently disagreeing with each other",
+      "url": "https://github.com/sampleXbro/agentsmesh",
+      "author": "samplexBro",
       "points": 2,
       "comments": 0,
-      "created_at": "2026-05-02T08:54:27Z",
+      "created_at": "2026-05-02T08:40:50Z",
       "matched_queries": [
         "AI",
-        "Claude",
-        "LLM",
-        "SEO",
-        "GitHub",
-        "startup"
+        "agents",
+        "GitHub"
       ],
       "tags": [
+        "agents",
         "ai",
-        "github",
-        "llm",
-        "seo",
-        "startup"
+        "github"
+      ]
+    },
+    {
+      "item_id": "47984034",
+      "title": "Thrml - Probabilistic Compute Simulation on GPUs",
+      "url": "https://docs.thrml.ai/en/latest/examples/01_all_of_thrml/",
+      "author": "oldfuture",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-05-02T07:01:42Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
       ]
     },
     {
@@ -1584,43 +1675,22 @@
       ]
     },
     {
-      "item_id": "47984734",
-      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-      "url": "https://iesna.eu/?wasm=skyglow_demo",
-      "author": "holg",
+      "item_id": "47984764",
+      "title": "Show HN: I built Male Hormone Lab Interpreter that does what LLMs can't",
+      "url": "https://www.longevity-tools.com/male-hormones-interpreter",
+      "author": "zsolt224",
       "points": 2,
       "comments": 0,
-      "created_at": "2026-05-02T09:08:18Z",
+      "created_at": "2026-05-02T09:12:39Z",
       "matched_queries": [
         "LLM",
         "SEO",
-        "GitHub"
+        "startup"
       ],
       "tags": [
-        "github",
         "llm",
-        "seo"
-      ]
-    },
-    {
-      "item_id": "47984614",
-      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
-      "url": "https://snewpapers.com/",
-      "author": "brettnbutter",
-      "points": 2,
-      "comments": 0,
-      "created_at": "2026-05-02T08:42:45Z",
-      "matched_queries": [
-        "LLM",
-        "agents",
-        "SEO",
-        "GitHub"
-      ],
-      "tags": [
-        "agents",
-        "github",
-        "llm",
-        "seo"
+        "seo",
+        "startup"
       ]
     },
     {
@@ -1722,6 +1792,23 @@
       ]
     },
     {
+      "item_id": "47984116",
+      "title": "Show HN: Agent with its own computer on the cloud",
+      "url": "https://pulsarbot.cloud/",
+      "author": "akshayballal95",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-05-02T07:15:45Z",
+      "matched_queries": [
+        "agents",
+        "SEO"
+      ],
+      "tags": [
+        "agents",
+        "seo"
+      ]
+    },
+    {
       "item_id": "47982803",
       "title": "Capacity Efficiency at Meta",
       "url": "https://engineering.fb.com/2026/04/16/developer-tools/capacity-efficiency-at-meta-how-unified-ai-agents-optimize-performance-at-hyperscale/",
@@ -1804,13 +1891,28 @@
       ]
     },
     {
-      "item_id": "47984512",
-      "title": "Shadcn/UI: A set of beautifully designed components that you can customize",
-      "url": "https://github.com/shadcn-ui/ui",
+      "item_id": "47984611",
+      "title": "ScopeGuard 0.0.7: Your Go-to linter for scope and shadow issues, now with MCP",
+      "url": "https://old.reddit.com/r/golang/comments/1t0nw27/scopeguard_007_your_goto_linter_for_scope_and/",
+      "author": "eik",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-05-02T08:41:23Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "47984509",
+      "title": "Lucide: Open-source icon library with 1600 vector (SVG) files for icons",
+      "url": "https://github.com/lucide-icons/lucide",
       "author": "doener",
       "points": 2,
       "comments": 0,
-      "created_at": "2026-05-02T08:21:38Z",
+      "created_at": "2026-05-02T08:21:07Z",
       "matched_queries": [
         "SEO",
         "GitHub"
@@ -1832,6 +1934,38 @@
         "SEO"
       ],
       "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "47984300",
+      "title": "Show HN: Create the right image sizes for social media",
+      "url": "https://skills.sh/branding5/social-media-image-sizes/social-media-image-sizes",
+      "author": "mnewme",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-05-02T07:43:23Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "47984196",
+      "title": "Show HN: Glacier – A zero-config macOS terminal I vibecoded in Rust",
+      "url": "https://github.com/pranjolm/glacier-terminal",
+      "author": "ArqueNova",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-05-02T07:28:19Z",
+      "matched_queries": [
+        "SEO",
+        "GitHub"
+      ],
+      "tags": [
+        "github",
         "seo"
       ]
     },
@@ -2046,6 +2180,23 @@
       ]
     },
     {
+      "item_id": "47984500",
+      "title": "A collection of Tailwind CSS v4.0 utilities for creating beautiful animations",
+      "url": "https://github.com/Wombosvideo/tw-animate-css",
+      "author": "doener",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-05-02T08:20:06Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "ai",
+        "github",
+        "video"
+      ]
+    },
+    {
       "item_id": "47976962",
       "title": "The Era of Big-Account Dominance on Instagram May Be Over, Platform Chief Says",
       "url": "https://planegraph.com/blog/the-death-of-instagram-meme-accounts",
@@ -2208,22 +2359,6 @@
       ]
     },
     {
-      "item_id": "47984752",
-      "title": "Show HN: Shutt – Turn Strava activities into shareable photo/video posts",
-      "url": "https://shutt.run",
-      "author": "zzarcon",
-      "points": 1,
-      "comments": 1,
-      "created_at": "2026-05-02T09:10:04Z",
-      "matched_queries": [
-        "SEO"
-      ],
-      "tags": [
-        "seo",
-        "video"
-      ]
-    },
-    {
       "item_id": "47972902",
       "title": "EPR-2 QaaS Blockchain",
       "url": "https://github.com/Babayagga-bite/epr2-qaas-blockchain",
@@ -2241,13 +2376,13 @@
       ]
     },
     {
-      "item_id": "47984758",
-      "title": "Spirit Airlines Is Winding Down All Operations",
-      "url": "https://spiritrestructuring.com/",
-      "author": "KoftaBob",
+      "item_id": "47984770",
+      "title": "Study: AI models that consider user's feeling are more likely to make errors",
+      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+      "author": "rbanffy",
       "points": 1,
       "comments": 0,
-      "created_at": "2026-05-02T09:11:44Z",
+      "created_at": "2026-05-02T09:13:24Z",
       "matched_queries": [
         "AI"
       ],
@@ -2256,13 +2391,13 @@
       ]
     },
     {
-      "item_id": "47984673",
-      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
-      "url": "https://www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
-      "author": "zeristor",
+      "item_id": "47984758",
+      "title": "Spirit Airlines Is Winding Down All Operations",
+      "url": "https://spiritrestructuring.com/",
+      "author": "KoftaBob",
       "points": 1,
       "comments": 0,
-      "created_at": "2026-05-02T08:54:04Z",
+      "created_at": "2026-05-02T09:11:44Z",
       "matched_queries": [
         "AI"
       ],
@@ -2300,25 +2435,6 @@
       "tags": [
         "ai",
         "startup"
-      ]
-    },
-    {
-      "item_id": "47984606",
-      "title": "AI coding tools are silently disagreeing with each other",
-      "url": "https://github.com/sampleXbro/agentsmesh",
-      "author": "samplexBro",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T08:40:50Z",
-      "matched_queries": [
-        "AI",
-        "agents",
-        "GitHub"
-      ],
-      "tags": [
-        "agents",
-        "ai",
-        "github"
       ]
     },
     {
@@ -2409,21 +2525,6 @@
       ]
     },
     {
-      "item_id": "47984034",
-      "title": "Thrml - Probabilistic Compute Simulation on GPUs",
-      "url": "https://docs.thrml.ai/en/latest/examples/01_all_of_thrml/",
-      "author": "oldfuture",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T07:01:42Z",
-      "matched_queries": [
-        "AI"
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
       "item_id": "47983918",
       "title": "DojoZero – AI Agent Sport Betting Arena",
       "url": "https://dojozero.live",
@@ -2433,13 +2534,11 @@
       "created_at": "2026-05-02T06:34:24Z",
       "matched_queries": [
         "AI",
-        "agents",
-        "SEO"
+        "agents"
       ],
       "tags": [
         "agents",
-        "ai",
-        "seo"
+        "ai"
       ]
     },
     {
@@ -2607,20 +2706,23 @@
       ]
     },
     {
-      "item_id": "47984116",
-      "title": "Show HN: Agent with its own computer on the cloud",
-      "url": "https://pulsarbot.cloud/",
-      "author": "akshayballal95",
+      "item_id": "47984799",
+      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+      "url": "https://www.youtube.com/watch?v=96jN2OCOfLs",
+      "author": "swolpers",
       "points": 1,
       "comments": 0,
-      "created_at": "2026-05-02T07:15:45Z",
+      "created_at": "2026-05-02T09:19:24Z",
       "matched_queries": [
         "agents",
-        "SEO"
+        "SEO",
+        "YouTube"
       ],
       "tags": [
         "agents",
-        "seo"
+        "seo",
+        "video",
+        "youtube"
       ]
     },
     {
@@ -2640,21 +2742,6 @@
       ]
     },
     {
-      "item_id": "47978473",
-      "title": "Agent Personality Score",
-      "url": "https://agentpersonalityscore.com/",
-      "author": "forthwall",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-01T18:46:01Z",
-      "matched_queries": [
-        "agents"
-      ],
-      "tags": [
-        "agents"
-      ]
-    },
-    {
       "item_id": "47975322",
       "title": "Automatic Brightness in Plasma",
       "url": "https://zamundaaa.github.io/wayland,display/2026/04/24/automatic-brightness.html",
@@ -2668,6 +2755,22 @@
       "tags": [
         "automation",
         "github"
+      ]
+    },
+    {
+      "item_id": "47984752",
+      "title": "Show HN: Shutt – Turn Strava activities into shareable photo/video posts",
+      "url": "https://shutt.run",
+      "author": "zzarcon",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-05-02T09:10:04Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo",
+        "video"
       ]
     },
     {
@@ -2705,38 +2808,6 @@
       ]
     },
     {
-      "item_id": "47984611",
-      "title": "ScopeGuard 0.0.7: Your Go-to linter for scope and shadow issues, now with MCP",
-      "url": "https://old.reddit.com/r/golang/comments/1t0nw27/scopeguard_007_your_goto_linter_for_scope_and/",
-      "author": "eik",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T08:41:23Z",
-      "matched_queries": [
-        "SEO"
-      ],
-      "tags": [
-        "seo"
-      ]
-    },
-    {
-      "item_id": "47984509",
-      "title": "Lucide: Open-source icon library with 1600 vector (SVG) files for icons",
-      "url": "https://github.com/lucide-icons/lucide",
-      "author": "doener",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T08:21:07Z",
-      "matched_queries": [
-        "SEO",
-        "GitHub"
-      ],
-      "tags": [
-        "github",
-        "seo"
-      ]
-    },
-    {
       "item_id": "47984488",
       "title": "There is no Shopify for service businesses. Prove me wrong",
       "url": "https://www.indiehackers.com/post/there-is-no-shopify-for-service-businesses-i-keep-waiting-for-someone-to-prove-me-wrong-6RVFnjlsPvxsEACuDgwD",
@@ -2768,74 +2839,6 @@
       ]
     },
     {
-      "item_id": "47984300",
-      "title": "Show HN: Create the right image sizes for social media",
-      "url": "https://skills.sh/branding5/social-media-image-sizes/social-media-image-sizes",
-      "author": "mnewme",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T07:43:23Z",
-      "matched_queries": [
-        "SEO"
-      ],
-      "tags": [
-        "seo"
-      ]
-    },
-    {
-      "item_id": "47984291",
-      "title": "Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
-      "url": "https://github.com/InsaneInfinity/Balistic",
-      "author": "insane_infinity",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T07:42:29Z",
-      "matched_queries": [
-        "SEO",
-        "GitHub"
-      ],
-      "tags": [
-        "ai",
-        "github",
-        "seo"
-      ]
-    },
-    {
-      "item_id": "47984196",
-      "title": "Show HN: Glacier – A zero-config macOS terminal I vibecoded in Rust",
-      "url": "https://github.com/pranjolm/glacier-terminal",
-      "author": "ArqueNova",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T07:28:19Z",
-      "matched_queries": [
-        "SEO",
-        "GitHub"
-      ],
-      "tags": [
-        "github",
-        "seo"
-      ]
-    },
-    {
-      "item_id": "47983930",
-      "title": "You'll Subscribe to Your Router, Too – The First Router Bribes Are Here [video]",
-      "url": "https://www.youtube.com/watch?v=qjesRkTFZqY",
-      "author": "stop50",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T06:37:13Z",
-      "matched_queries": [
-        "SEO",
-        "YouTube"
-      ],
-      "tags": [
-        "seo",
-        "video",
-        "youtube"
-      ]
-    },
-    {
       "item_id": "47983779",
       "title": "How to transfer money from PayPal to PayPal",
       "url": "https://sites.google.com/view/weptransfermoneypaypaltopaypal",
@@ -2847,6 +2850,22 @@
         "Google"
       ],
       "tags": []
+    },
+    {
+      "item_id": "47983930",
+      "title": "You'll Subscribe to Your Router, Too – The First Router Bribes Are Here [video]",
+      "url": "https://www.youtube.com/watch?v=qjesRkTFZqY",
+      "author": "stop50",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-05-02T06:37:13Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
     },
     {
       "item_id": "47981940",
@@ -2960,39 +2979,6 @@
         "ai",
         "video",
         "youtube"
-      ]
-    },
-    {
-      "item_id": "47972724",
-      "title": "RexIDE now has minimal \"integration\" with Codex App [video]",
-      "url": "https://www.youtube.com/watch?v=K3j8ydsLfWs",
-      "author": "tomerbd",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-01T09:23:18Z",
-      "matched_queries": [
-        "YouTube"
-      ],
-      "tags": [
-        "video",
-        "youtube"
-      ]
-    },
-    {
-      "item_id": "47984500",
-      "title": "A collection of Tailwind CSS v4.0 utilities for creating beautiful animations",
-      "url": "https://github.com/Wombosvideo/tw-animate-css",
-      "author": "doener",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T08:20:06Z",
-      "matched_queries": [
-        "GitHub"
-      ],
-      "tags": [
-        "ai",
-        "github",
-        "video"
       ]
     },
     {
@@ -3123,7 +3109,7 @@
   ],
   "meta": {
     "query_count": 12,
-    "item_count": 192,
+    "item_count": 191,
     "errors": []
   }
 }

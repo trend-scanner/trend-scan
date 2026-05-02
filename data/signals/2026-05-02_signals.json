@@ -2,51 +2,6 @@
   "date": "2026-05-02",
   "signals": [
     {
-      "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
-      "layer": "BEHAVIOR",
-      "source": "github",
-      "reason": "github_repo_surge",
-      "importance": "high",
-      "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
-      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "tags": [
-        "agents",
-        "ai",
-        "ai-research",
-        "ai-tools",
-        "aris",
-        "automation",
-        "autonomous-agent",
-        "claude",
-        "claude-code",
-        "claude-code-skills",
-        "codex",
-        "deep-learning",
-        "gpt",
-        "idea-generation",
-        "llm",
-        "machine-learning",
-        "mcp",
-        "mcp-server",
-        "ml-research",
-        "openai",
-        "paper-review",
-        "paper-writing",
-        "research-automation"
-      ],
-      "entity_key": "wanshuiyin/Auto-claude-code-research-in-sleep",
-      "metrics": {
-        "stars": 7890,
-        "forks": 734,
-        "watchers": 7890,
-        "open_issues": 52
-      },
-      "deltas": {
-        "stars": 0.0,
-        "forks": 0.0
-      }
-    },
-    {
       "title": "langbot-app/LangBot",
       "layer": "BEHAVIOR",
       "source": "github",
@@ -124,10 +79,53 @@
       ],
       "entity_key": "Anil-matcha/Open-Generative-AI",
       "metrics": {
-        "stars": 10718,
+        "stars": 10720,
         "forks": 1872,
-        "watchers": 10718,
+        "watchers": 10720,
         "open_issues": 7
+      },
+      "deltas": {
+        "stars": 0.0,
+        "forks": 0.0
+      }
+    },
+    {
+      "title": "apache/airflow",
+      "layer": "BEHAVIOR",
+      "source": "github",
+      "reason": "github_repo_surge",
+      "importance": "high",
+      "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
+      "url": "https://github.com/apache/airflow",
+      "tags": [
+        "ai",
+        "airflow",
+        "apache",
+        "apache-airflow",
+        "automation",
+        "dag",
+        "data-engineering",
+        "data-integration",
+        "data-orchestrator",
+        "data-pipelines",
+        "data-science",
+        "elt",
+        "etl",
+        "machine-learning",
+        "mlops",
+        "orchestration",
+        "python",
+        "scheduler",
+        "workflow",
+        "workflow-engine",
+        "workflow-orchestration"
+      ],
+      "entity_key": "apache/airflow",
+      "metrics": {
+        "stars": 45256,
+        "forks": 16981,
+        "watchers": 45256,
+        "open_issues": 1717
       },
       "deltas": {
         "stars": 0.0,
@@ -166,51 +164,10 @@
       ],
       "entity_key": "n8n-io/n8n",
       "metrics": {
-        "stars": 186435,
+        "stars": 186436,
         "forks": 57284,
-        "watchers": 186435,
+        "watchers": 186436,
         "open_issues": 1574
-      },
-      "deltas": {
-        "stars": 0.0,
-        "forks": 0.0
-      }
-    },
-    {
-      "title": "langchain-ai/langchain",
-      "layer": "BEHAVIOR",
-      "source": "github",
-      "reason": "github_repo_surge",
-      "importance": "high",
-      "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
-      "url": "https://github.com/langchain-ai/langchain",
-      "tags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "chatgpt",
-        "deepagents",
-        "enterprise",
-        "framework",
-        "gemini",
-        "generative-ai",
-        "langchain",
-        "langgraph",
-        "llm",
-        "multiagent",
-        "open-source",
-        "openai",
-        "pydantic",
-        "python",
-        "rag"
-      ],
-      "entity_key": "langchain-ai/langchain",
-      "metrics": {
-        "stars": 135621,
-        "forks": 22411,
-        "watchers": 135621,
-        "open_issues": 554
       },
       "deltas": {
         "stars": 0.0,
@@ -248,9 +205,9 @@
       ],
       "entity_key": "HBAI-Ltd/Toonflow-app",
       "metrics": {
-        "stars": 7551,
+        "stars": 7552,
         "forks": 1285,
-        "watchers": 7551,
+        "watchers": 7552,
         "open_issues": 1
       },
       "deltas": {
@@ -288,10 +245,50 @@
       ],
       "entity_key": "simstudioai/sim",
       "metrics": {
-        "stars": 28257,
+        "stars": 28259,
         "forks": 3563,
-        "watchers": 28257,
+        "watchers": 28259,
         "open_issues": 199
+      },
+      "deltas": {
+        "stars": 0.0,
+        "forks": 0.0
+      }
+    },
+    {
+      "title": "sgl-project/sglang",
+      "layer": "BEHAVIOR",
+      "source": "github",
+      "reason": "github_repo_surge",
+      "importance": "high",
+      "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
+      "url": "https://github.com/sgl-project/sglang",
+      "tags": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "diffusion",
+        "glm",
+        "gpt-oss",
+        "inference",
+        "llama",
+        "llm",
+        "minimax",
+        "moe",
+        "qwen",
+        "qwen-image",
+        "reinforcement-learning",
+        "transformer",
+        "vlm",
+        "wan"
+      ],
+      "entity_key": "sgl-project/sglang",
+      "metrics": {
+        "stars": 26927,
+        "forks": 5661,
+        "watchers": 26927,
+        "open_issues": 3171
       },
       "deltas": {
         "stars": 0.0,
@@ -339,6 +336,45 @@
       }
     },
     {
+      "title": "novuhq/novu",
+      "layer": "BEHAVIOR",
+      "source": "github",
+      "reason": "github_repo_surge",
+      "importance": "high",
+      "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
+      "url": "https://github.com/novuhq/novu",
+      "tags": [
+        "agents",
+        "ai",
+        "communication",
+        "email",
+        "inbox",
+        "infrastructure",
+        "javascript",
+        "nodejs",
+        "notification-center",
+        "notifications",
+        "novu",
+        "push-notifications",
+        "react",
+        "reactjs",
+        "sms",
+        "transactional",
+        "typescript"
+      ],
+      "entity_key": "novuhq/novu",
+      "metrics": {
+        "stars": 38927,
+        "forks": 4277,
+        "watchers": 38927,
+        "open_issues": 154
+      },
+      "deltas": {
+        "stars": 0.0,
+        "forks": 0.0
+      }
+    },
+    {
       "title": "NousResearch/hermes-agent",
       "layer": "BEHAVIOR",
       "source": "github",
@@ -367,10 +403,10 @@
       ],
       "entity_key": "NousResearch/hermes-agent",
       "metrics": {
-        "stars": 128834,
+        "stars": 128837,
         "forks": 19412,
-        "watchers": 128834,
-        "open_issues": 7677
+        "watchers": 128837,
+        "open_issues": 7678
       },
       "deltas": {
         "stars": 0.0,
@@ -528,35 +564,35 @@
       }
     },
     {
-      "title": "triggerdotdev/trigger.dev",
+      "title": "rtk-ai/rtk",
       "layer": "BEHAVIOR",
       "source": "github",
       "reason": "github_repo_surge",
       "importance": "high",
       "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
-      "url": "https://github.com/triggerdotdev/trigger.dev",
+      "url": "https://github.com/rtk-ai/rtk",
       "tags": [
-        "agents",
+        "agentic-coding",
         "ai",
-        "ai-agent-framework",
-        "ai-agents",
-        "automation",
-        "background-jobs",
-        "mcp",
-        "mcp-server",
-        "nextjs",
-        "orchestration",
-        "scheduler",
-        "serverless",
-        "workflow-automation",
-        "workflows"
+        "ai-coding",
+        "anthropic",
+        "claude-code",
+        "cli",
+        "command-line-tool",
+        "cost-reduction",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "productivity",
+        "rust",
+        "token-optimization"
       ],
-      "entity_key": "triggerdotdev/trigger.dev",
+      "entity_key": "rtk-ai/rtk",
       "metrics": {
-        "stars": 14755,
-        "forks": 1194,
-        "watchers": 14755,
-        "open_issues": 293
+        "stars": 39706,
+        "forks": 2412,
+        "watchers": 39706,
+        "open_issues": 784
       },
       "deltas": {
         "stars": 0.0,
@@ -588,9 +624,9 @@
       ],
       "entity_key": "safishamsi/graphify",
       "metrics": {
-        "stars": 40188,
+        "stars": 40193,
         "forks": 4434,
-        "watchers": 40188,
+        "watchers": 40193,
         "open_issues": 220
       },
       "deltas": {
@@ -721,9 +757,9 @@
       ],
       "entity_key": "ZhuLinsen/daily_stock_analysis",
       "metrics": {
-        "stars": 33617,
+        "stars": 33619,
         "forks": 33386,
-        "watchers": 33617,
+        "watchers": 33619,
         "open_issues": 57
       },
       "deltas": {
@@ -809,10 +845,10 @@
       ],
       "entity_key": "openclaw/openclaw",
       "metrics": {
-        "stars": 367327,
-        "forks": 75528,
-        "watchers": 367327,
-        "open_issues": 6652
+        "stars": 367325,
+        "forks": 75529,
+        "watchers": 367325,
+        "open_issues": 6653
       },
       "deltas": {
         "stars": 0.0,
@@ -878,9 +914,9 @@
       ],
       "entity_key": "QwenLM/qwen-code",
       "metrics": {
-        "stars": 24087,
+        "stars": 24088,
         "forks": 2320,
-        "watchers": 24087,
+        "watchers": 24088,
         "open_issues": 720
       },
       "deltas": {
@@ -1016,8 +1052,8 @@
       },
       "examples": [
         "AINYC/canonry",
-        "AOrbitron/Eridanus",
-        "Abrechen2/TravStats"
+        "Abrechen2/TravStats",
+        "AeternaLabsHQ/pullmd"
       ]
     },
     {
@@ -1083,7 +1119,7 @@
       "examples": [
         "Abrechen2/TravStats",
         "Azim-Ahmed/Automation-workflow",
-        "HBAI-Ltd/Toonflow-app"
+        "DarkKandaoMaster/QuickSay"
       ]
     },
     {
@@ -1127,7 +1163,7 @@
       "examples": [
         "AINYC/canonry",
         "AeternaLabsHQ/pullmd",
-        "Dicklesworthstone/flywheel_connectors"
+        "Alex8791-cyber/cognithor"
       ]
     },
     {
@@ -1143,8 +1179,8 @@
       ],
       "entity_key": "558934",
       "metrics": {
-        "volume": 17935624.17375441,
-        "liquidity": 954438.40145,
+        "volume": 17935723.65087541,
+        "liquidity": 954475.8807,
         "max_price": 0.8475
       },
       "deltas": {
@@ -1165,8 +1201,8 @@
       ],
       "entity_key": "556108",
       "metrics": {
-        "volume": 1514642.2688919972,
-        "liquidity": 5346.94967,
+        "volume": 1514682.2688919972,
+        "liquidity": 5324.90347,
         "max_price": 0.635
       },
       "deltas": {
@@ -1187,8 +1223,8 @@
       ],
       "entity_key": "558977",
       "metrics": {
-        "volume": 16299448.319820065,
-        "liquidity": 6525284.42949,
+        "volume": 16299538.409820065,
+        "liquidity": 6525285.9624,
         "max_price": 0.9985
       },
       "deltas": {
@@ -1209,8 +1245,8 @@
       ],
       "entity_key": "559670",
       "metrics": {
-        "volume": 31017749.410057977,
-        "liquidity": 2202921.64947,
+        "volume": 31017851.021557976,
+        "liquidity": 2202851.32895,
         "max_price": 0.9935
       },
       "deltas": {
@@ -1231,8 +1267,8 @@
       ],
       "entity_key": "540843",
       "metrics": {
-        "volume": 1807382.793636061,
-        "liquidity": 45926.1346,
+        "volume": 1807435.793636061,
+        "liquidity": 45307.8136,
         "max_price": 0.505
       },
       "deltas": {
@@ -1254,7 +1290,7 @@
       "entity_key": "47976415",
       "metrics": {
         "score": 379,
-        "comments": 448
+        "comments": 449
       },
       "deltas": {
         "score": 0.0,
@@ -1274,8 +1310,8 @@
       ],
       "entity_key": "540816",
       "metrics": {
-        "volume": 1639143.4577160513,
-        "liquidity": 48049.0669,
+        "volume": 1639186.9118510513,
+        "liquidity": 50186.3509,
         "max_price": 0.57
       },
       "deltas": {
@@ -2203,11 +2239,11 @@
     }
   ],
   "meta": {
-    "current_record_count": 440,
+    "current_record_count": 437,
     "previous_record_count": 0,
-    "signal_count": 94,
+    "signal_count": 95,
     "signals_by_source": {
-      "github": 24,
+      "github": 25,
       "hackernews": 5,
       "polymarket": 6,
       "rss": 38,
