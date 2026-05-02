@@ -98,6 +98,108 @@ rss:
       region: jp
       kind: media
       priority: false
+    - id: asahi-headlines
+      name: Asahi Shimbun Headlines
+      url: https://www.asahi.com/rss/asahi/newsheadlines.rdf
+      region: jp
+      kind: media
+      priority: false
+    - id: asahi-business
+      name: Asahi Shimbun Business
+      url: https://www.asahi.com/rss/asahi/business.rdf
+      region: jp
+      kind: media
+      priority: false
+    - id: asahi-politics
+      name: Asahi Shimbun Politics
+      url: https://www.asahi.com/rss/asahi/politics.rdf
+      region: jp
+      kind: media
+      priority: false
+    - id: asahi-tech-science
+      name: Asahi Shimbun Tech & Science
+      url: https://www.asahi.com/rss/asahi/science.rdf
+      region: jp
+      kind: media
+      priority: false
+    - id: japan-times
+      name: The Japan Times
+      url: https://www.japantimes.co.jp/feed/
+      region: jp
+      kind: media
+      priority: false
+    - id: jetro-news
+      name: JETRO News
+      url: https://www.jetro.go.jp/rss/news.xml
+      region: jp
+      kind: official
+      priority: false
+    - id: jetro-biznews
+      name: JETRO Business News
+      url: https://www.jetro.go.jp/rss/biznews.xml
+      region: jp
+      kind: official
+      priority: false
+    - id: meti-news
+      name: METI News
+      url: https://www.meti.go.jp/ml_index_release_atom.xml
+      region: jp
+      kind: official
+      priority: true
+    - id: meti-statistics
+      name: METI Statistics
+      url: https://www.meti.go.jp/statistics/st_news.xml
+      region: jp
+      kind: official
+      priority: false
+    - id: meti-journal
+      name: METI Journal
+      url: https://journal.meti.go.jp/feed/
+      region: jp
+      kind: official
+      priority: false
+    - id: soumu-news
+      name: Ministry of Internal Affairs and Communications News
+      url: https://www.soumu.go.jp/news.rdf
+      region: jp
+      kind: official
+      priority: true
+    - id: boj-whatsnew
+      name: Bank of Japan What's New
+      url: https://www.boj.or.jp/rss/whatsnew.xml
+      region: jp
+      kind: official
+      priority: true
+    - id: mof-news
+      name: Ministry of Finance News
+      url: https://www.mof.go.jp/news.rss
+      region: jp
+      kind: official
+      priority: true
+    - id: jpx-market-news
+      name: JPX Market News
+      url: https://www.jpx.co.jp/rss/markets_news.xml
+      region: jp
+      kind: official
+      priority: true
+    - id: jpx-news
+      name: JPX News
+      url: https://www.jpx.co.jp/rss/jpx-news.xml
+      region: jp
+      kind: official
+      priority: true
+    - id: jpx-suspended
+      name: JPX Suspended Equities
+      url: https://www.jpx.co.jp/rss/equities-suspended.xml
+      region: jp
+      kind: official
+      priority: false
+    - id: pr-times
+      name: PR TIMES
+      url: https://prtimes.jp/index.rdf
+      region: jp
+      kind: press-release
+      priority: false
     - id: itmedia-news
       name: ITmedia NEWS
       url: https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml

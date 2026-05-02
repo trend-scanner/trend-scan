@@ -210,6 +210,7 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
     cutoff = context.snapshot_at - timedelta(days=max_item_age_days)
     items: list[dict[str, Any]] = []
     errors: list[dict[str, str]] = []
+    warnings: list[dict[str, str]] = []
 
     for feed in feeds:
         if feed.get("parser") == "youtube_blog_html":
@@ -227,9 +228,11 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
             continue
 
         parsed = feedparser.parse(feed["url"])
-        if parsed.bozo:
+        if parsed.bozo and not parsed.entries:
             errors.append({"source_id": feed["id"], "error": str(parsed.bozo_exception)})
             continue
+        if parsed.bozo:
+            warnings.append({"source_id": feed["id"], "warning": str(parsed.bozo_exception)})
 
         kept = 0
         for entry in parsed.entries:
@@ -267,5 +270,6 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
             "feed_count": len(feeds),
             "item_count": len(items),
             "errors": errors,
+            "warnings": warnings,
         },
     }

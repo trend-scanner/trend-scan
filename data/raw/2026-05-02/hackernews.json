@@ -1,14 +1,14 @@
 {
   "source": "hackernews",
   "run_date": "2026-05-02",
-  "snapshot_at": "2026-05-02T18:33:17.099121+09:00",
+  "snapshot_at": "2026-05-02T18:47:17.938638+09:00",
   "items": [
     {
       "item_id": "47976415",
       "title": "Uber torches 2026 AI budget on Claude Code in four months",
       "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
       "author": "lwhsiao",
-      "points": 379,
+      "points": 380,
       "comments": 452,
       "created_at": "2026-05-01T16:08:53Z",
       "matched_queries": [
@@ -23,8 +23,8 @@
       "title": "Ask HN: Who is hiring? (May 2026)",
       "url": "https://news.ycombinator.com/item?id=47975571",
       "author": "whoishiring",
-      "points": 258,
-      "comments": 278,
+      "points": 260,
+      "comments": 279,
       "created_at": "2026-05-01T15:00:07Z",
       "matched_queries": [
         "Google"
@@ -39,7 +39,7 @@
       "url": "https://www.youtube.com/watch?v=nHwxV0Sd9V8",
       "author": "johnbarron",
       "points": 184,
-      "comments": 141,
+      "comments": 142,
       "created_at": "2026-05-01T17:25:36Z",
       "matched_queries": [
         "YouTube"
@@ -86,8 +86,8 @@
       "title": "I built the Playwright for desktop apps. 80% token savings",
       "url": "https://github.com/lahfir/agent-desktop",
       "author": "lahfir",
-      "points": 74,
-      "comments": 23,
+      "points": 77,
+      "comments": 24,
       "created_at": "2026-05-02T02:18:24Z",
       "matched_queries": [
         "agents",
@@ -116,8 +116,8 @@
       "title": "K3k: Kubernetes in Kubernetes",
       "url": "https://github.com/rancher/k3k",
       "author": "jzebedee",
-      "points": 50,
-      "comments": 27,
+      "points": 52,
+      "comments": 28,
       "created_at": "2026-05-02T04:00:42Z",
       "matched_queries": [
         "GitHub"
@@ -147,7 +147,7 @@
       "url": "https://www.spiritrestructuring.com/",
       "author": "CaliforniaKarl",
       "points": 44,
-      "comments": 73,
+      "comments": 74,
       "created_at": "2026-05-02T06:28:00Z",
       "matched_queries": [
         "AI"
@@ -228,7 +228,7 @@
       "url": "https://evilgeniuslabs.ca/blog/the-feed-doesnt-know-you",
       "author": "andsoitis",
       "points": 14,
-      "comments": 6,
+      "comments": 7,
       "created_at": "2026-05-02T03:16:16Z",
       "matched_queries": [
         "YouTube"
@@ -321,6 +321,21 @@
       ]
     },
     {
+      "item_id": "47984486",
+      "title": "SKILL.make: Makefile Styled Skill File",
+      "url": "https://github.com/Teaonly/SKILL.make",
+      "author": "teaonly",
+      "points": 10,
+      "comments": 1,
+      "created_at": "2026-05-02T08:18:15Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
       "item_id": "47972945",
       "title": "Om Malik – What Microsoft's 10-Q Says About OpenAI",
       "url": "https://om.co/2026/05/01/what-microsofts-10-q-says-about-openai/",
@@ -358,7 +373,7 @@
       "title": "Trump says it's 'treasonous' to say US not winning war in Iran",
       "url": "https://www.independent.co.uk/tv/news/trump-iran-war-news-treason-video-b2969246.html",
       "author": "9dev",
-      "points": 8,
+      "points": 9,
       "comments": 1,
       "created_at": "2026-05-02T06:13:41Z",
       "matched_queries": [
@@ -386,21 +401,6 @@
         "agents",
         "github",
         "seo"
-      ]
-    },
-    {
-      "item_id": "47984486",
-      "title": "SKILL.make: Makefile Styled Skill File",
-      "url": "https://github.com/Teaonly/SKILL.make",
-      "author": "teaonly",
-      "points": 7,
-      "comments": 1,
-      "created_at": "2026-05-02T08:18:15Z",
-      "matched_queries": [
-        "GitHub"
-      ],
-      "tags": [
-        "github"
       ]
     },
     {
@@ -658,6 +658,30 @@
         "startup"
       ],
       "tags": [
+        "startup"
+      ]
+    },
+    {
+      "item_id": "47984675",
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "author": "nip",
+      "points": 4,
+      "comments": 1,
+      "created_at": "2026-05-02T08:54:27Z",
+      "matched_queries": [
+        "AI",
+        "Claude",
+        "LLM",
+        "SEO",
+        "GitHub",
+        "startup"
+      ],
+      "tags": [
+        "ai",
+        "github",
+        "llm",
+        "seo",
         "startup"
       ]
     },
@@ -1107,21 +1131,6 @@
       ]
     },
     {
-      "item_id": "47984164",
-      "title": "Microsoft Now Recommends 32 GB RAM as a \"No Worries\" Upgrade for Windows 11",
-      "url": "https://www.techpowerup.com/348715/microsoft-now-recommends-32-gb-ram-as-a-no-worries-upgrade-for-windows-11",
-      "author": "SockThief",
-      "points": 3,
-      "comments": 0,
-      "created_at": "2026-05-02T07:24:13Z",
-      "matched_queries": [
-        "SEO"
-      ],
-      "tags": [
-        "seo"
-      ]
-    },
-    {
       "item_id": "47980192",
       "title": "Enabling a new model for healthcare with AI co-clinician",
       "url": "https://deepmind.google/blog/ai-co-clinician/",
@@ -1233,21 +1242,6 @@
       ]
     },
     {
-      "item_id": "47972791",
-      "title": "The Ethiopian Running Secret",
-      "url": "https://aeon.co/essays/what-ethiopian-running-says-about-the-limits-of-human-ability",
-      "author": "rifish",
-      "points": 3,
-      "comments": 0,
-      "created_at": "2026-05-01T09:35:28Z",
-      "matched_queries": [
-        "SaaS"
-      ],
-      "tags": [
-        "saas"
-      ]
-    },
-    {
       "item_id": "47983843",
       "title": "Apple Stops Selling Mac Mini with 256GB of Storage",
       "url": "https://www.macrumors.com/2026/05/01/mac-mini-now-starts-at-799/",
@@ -1346,30 +1340,6 @@
         "startup"
       ],
       "tags": [
-        "startup"
-      ]
-    },
-    {
-      "item_id": "47984675",
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
-      "author": "nip",
-      "points": 2,
-      "comments": 1,
-      "created_at": "2026-05-02T08:54:27Z",
-      "matched_queries": [
-        "AI",
-        "Claude",
-        "LLM",
-        "SEO",
-        "GitHub",
-        "startup"
-      ],
-      "tags": [
-        "ai",
-        "github",
-        "llm",
-        "seo",
         "startup"
       ]
     },
@@ -1533,21 +1503,6 @@
         "ai",
         "automation",
         "startup"
-      ]
-    },
-    {
-      "item_id": "47983298",
-      "title": "AI-CLI – Generate anything from your terminal",
-      "url": "https://ai-cli.dev/",
-      "author": "nikolay",
-      "points": 2,
-      "comments": 0,
-      "created_at": "2026-05-02T04:27:09Z",
-      "matched_queries": [
-        "AI"
-      ],
-      "tags": [
-        "ai"
       ]
     },
     {
@@ -1978,23 +1933,6 @@
       ]
     },
     {
-      "item_id": "47984196",
-      "title": "Show HN: Glacier – A zero-config macOS terminal I vibecoded in Rust",
-      "url": "https://github.com/pranjolm/glacier-terminal",
-      "author": "ArqueNova",
-      "points": 2,
-      "comments": 0,
-      "created_at": "2026-05-02T07:28:19Z",
-      "matched_queries": [
-        "SEO",
-        "GitHub"
-      ],
-      "tags": [
-        "github",
-        "seo"
-      ]
-    },
-    {
       "item_id": "47980234",
       "title": "Google-Free Phone Is IP68-Rated and Has a Replaceable Battery",
       "url": "https://www.yankodesign.com/2026/05/01/this-google-free-phone-is-ip68-rated-and-has-a-replaceable-battery/",
@@ -2206,6 +2144,21 @@
       ]
     },
     {
+      "item_id": "47984196",
+      "title": "Show HN: Glacier – A zero-config macOS terminal I vibecoded in Rust",
+      "url": "https://github.com/pranjolm/glacier-terminal",
+      "author": "ArqueNova",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-05-02T07:28:19Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
       "item_id": "47976962",
       "title": "The Era of Big-Account Dominance on Instagram May Be Over, Platform Chief Says",
       "url": "https://planegraph.com/blog/the-death-of-instagram-meme-accounts",
@@ -2360,6 +2313,23 @@
         "ai",
         "github",
         "saas"
+      ]
+    },
+    {
+      "item_id": "47984913",
+      "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
+      "url": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=home_lead",
+      "author": "dalvrosa",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-05-02T09:45:15Z",
+      "matched_queries": [
+        "AI",
+        "SEO"
+      ],
+      "tags": [
+        "ai",
+        "seo"
       ]
     },
     {
@@ -2760,6 +2730,22 @@
       ]
     },
     {
+      "item_id": "47984881",
+      "title": "Neomd: A minimal terminal email client for people who write in Markdown",
+      "url": "https://neomd.ssp.sh/",
+      "author": "handfuloflight",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-05-02T09:37:57Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "ai",
+        "seo"
+      ]
+    },
+    {
       "item_id": "47984861",
       "title": "The Discord migration that didn't happen",
       "url": "https://productimpossible.com/articles/discord-migration-that-didnt-happen/",
@@ -3110,7 +3096,7 @@
   ],
   "meta": {
     "query_count": 12,
-    "item_count": 191,
+    "item_count": 190,
     "errors": []
   }
 }
