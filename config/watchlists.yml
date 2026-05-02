@@ -1,0 +1,104 @@
+hackernews_queries:
+  - AI
+  - OpenAI
+  - Claude
+  - LLM
+  - agents
+  - automation
+  - SEO
+  - Google
+  - YouTube
+  - GitHub
+  - SaaS
+  - startup
+
+github_queries:
+  - topic:ai pushed:>{recent_30d} stars:>50
+  - topic:llm pushed:>{recent_30d} stars:>50
+  - topic:agents pushed:>{recent_30d} stars:>25
+  - topic:automation pushed:>{recent_30d} stars:>25
+  - topic:rag pushed:>{recent_30d} stars:>25
+  - topic:seo pushed:>{recent_30d} stars:>10
+  - "video generation pushed:>{recent_30d} stars:>25"
+  - "\"local llm\" pushed:>{recent_30d} stars:>25"
+  - "\"ai agents\" pushed:>{recent_7d} stars:>50"
+  - "\"workflow automation\" pushed:>{recent_30d} stars:>10"
+
+wikipedia_pages:
+  - project: en.wikipedia.org
+    title: Artificial_intelligence
+    region: global
+    tags: [ai]
+  - project: en.wikipedia.org
+    title: OpenAI
+    region: global
+    tags: [ai, openai]
+  - project: en.wikipedia.org
+    title: ChatGPT
+    region: global
+    tags: [ai, llm]
+  - project: en.wikipedia.org
+    title: Large_language_model
+    region: global
+    tags: [llm]
+  - project: en.wikipedia.org
+    title: Prediction_market
+    region: global
+    tags: [prediction-markets]
+  - project: en.wikipedia.org
+    title: Inflation
+    region: global
+    tags: [inflation]
+  - project: en.wikipedia.org
+    title: Cryptocurrency
+    region: global
+    tags: [crypto]
+  - project: en.wikipedia.org
+    title: YouTube
+    region: global
+    tags: [youtube]
+  - project: en.wikipedia.org
+    title: TikTok
+    region: global
+    tags: [video]
+  - project: ja.wikipedia.org
+    title: 人工知能
+    region: jp
+    tags: [ai]
+  - project: ja.wikipedia.org
+    title: ChatGPT
+    region: jp
+    tags: [ai, llm]
+  - project: ja.wikipedia.org
+    title: 生成AI
+    region: jp
+    tags: [ai]
+  - project: ja.wikipedia.org
+    title: 円安
+    region: jp
+    tags: [economy]
+  - project: ja.wikipedia.org
+    title: 物価
+    region: jp
+    tags: [inflation]
+  - project: ja.wikipedia.org
+    title: 副業
+    region: jp
+    tags: [side-business]
+  - project: ja.wikipedia.org
+    title: 防災
+    region: jp
+    tags: [resilience]
+
+polymarket_filters:
+  categories:
+    - AI
+    - Politics
+    - Economy
+    - Crypto
+    - Technology
+    - Geopolitics
+    - Inflation
+    - Regulation
+    - Companies
+  min_volume: 1000

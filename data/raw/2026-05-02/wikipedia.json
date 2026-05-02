@@ -1,0 +1,152 @@
+{
+  "source": "wikipedia",
+  "run_date": "2026-05-02",
+  "snapshot_at": "2026-05-02T18:12:36.080810+09:00",
+  "items": [
+    {
+      "page_title": "YouTube",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-01",
+      "views": 62359,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "page_title": "ChatGPT",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-01",
+      "views": 39851,
+      "tags": [
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "page_title": "Artificial intelligence",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-01",
+      "views": 24350,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "page_title": "TikTok",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-01",
+      "views": 14031,
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "page_title": "OpenAI",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-01",
+      "views": 10349,
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "page_title": "Large language model",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-01",
+      "views": 5888,
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "page_title": "Cryptocurrency",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-01",
+      "views": 2209,
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "page_title": "Prediction market",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-01",
+      "views": 1308,
+      "tags": [
+        "prediction-markets"
+      ]
+    },
+    {
+      "page_title": "Inflation",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-01",
+      "views": 1178,
+      "tags": [
+        "inflation"
+      ]
+    },
+    {
+      "page_title": "人工知能",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-01",
+      "views": 906,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "page_title": "防災",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-01",
+      "views": 32,
+      "tags": [
+        "resilience"
+      ]
+    },
+    {
+      "page_title": "副業",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-01",
+      "views": 28,
+      "tags": [
+        "side-business"
+      ]
+    }
+  ],
+  "meta": {
+    "page_count": 16,
+    "item_count": 12,
+    "observed_date": "2026-05-01",
+    "errors": [
+      {
+        "title": "ChatGPT",
+        "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/ChatGPT/daily/20260501/20260501"
+      },
+      {
+        "title": "生成AI",
+        "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E7%94%9F%E6%88%90AI/daily/20260501/20260501"
+      },
+      {
+        "title": "円安",
+        "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%86%86%E5%AE%89/daily/20260501/20260501"
+      },
+      {
+        "title": "物価",
+        "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E7%89%A9%E4%BE%A1/daily/20260501/20260501"
+      }
+    ]
+  }
+}
