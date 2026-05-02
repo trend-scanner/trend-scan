@@ -23,11 +23,13 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
     endpoint_template = source_config["endpoint_template"]
     observed_date = wikipedia_observed_date(context)
     observed_stamp = observed_date.strftime("%Y%m%d")
+    request_interval = float(source_config.get("request_interval_seconds", 0.2))
 
     items: list[dict[str, Any]] = []
     errors: list[dict[str, str]] = []
 
     for page in watchlists.get("wikipedia_pages", []):
+        time.sleep(request_interval)
         url = endpoint_template.format(
             project=_project_name(page["project"]),
             access=source_config.get("access", "all-access"),
@@ -46,7 +48,7 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
             except requests.HTTPError as exc:
                 status_code = exc.response.status_code if exc.response is not None else None
                 if status_code == 429 and attempt < 2:
-                    time.sleep(1 + attempt)
+                    time.sleep(max(request_interval, 1 + attempt))
                     continue
                 errors.append({"title": page["title"], "error": str(exc)})
                 payload = None
@@ -74,7 +76,6 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
                 "tags": merge_tags(page.get("tags", [])),
             }
         )
-        time.sleep(0.2)
 
     items.sort(key=lambda item: item["views"], reverse=True)
     return {

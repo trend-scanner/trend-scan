@@ -1,7 +1,7 @@
 {
   "source": "wikipedia",
   "run_date": "2026-05-02",
-  "snapshot_at": "2026-05-02T18:20:40.822657+09:00",
+  "snapshot_at": "2026-05-02T18:33:29.873663+09:00",
   "items": [
     {
       "page_title": "YouTube",
@@ -66,6 +66,16 @@
       ]
     },
     {
+      "page_title": "YouTube",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-01",
+      "views": 3225,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
       "page_title": "Cryptocurrency",
       "project": "en.wikipedia.org",
       "region": "global",
@@ -73,6 +83,17 @@
       "views": 2209,
       "tags": [
         "crypto"
+      ]
+    },
+    {
+      "page_title": "ChatGPT",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-01",
+      "views": 2129,
+      "tags": [
+        "ai",
+        "llm"
       ]
     },
     {
@@ -106,6 +127,16 @@
       ]
     },
     {
+      "page_title": "生成AI",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-01",
+      "views": 52,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "page_title": "防災",
       "project": "ja.wikipedia.org",
       "region": "jp",
@@ -114,33 +145,52 @@
       "tags": [
         "resilience"
       ]
+    },
+    {
+      "page_title": "副業",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-01",
+      "views": 28,
+      "tags": [
+        "side-business"
+      ]
+    },
+    {
+      "page_title": "備蓄",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-01",
+      "views": 20,
+      "tags": [
+        "resilience"
+      ]
+    },
+    {
+      "page_title": "物価",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-01",
+      "views": 15,
+      "tags": [
+        "inflation"
+      ]
+    },
+    {
+      "page_title": "円安",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-01",
+      "views": 3,
+      "tags": [
+        "economy"
+      ]
     }
   ],
   "meta": {
-    "page_count": 16,
-    "item_count": 11,
+    "page_count": 18,
+    "item_count": 18,
     "observed_date": "2026-05-01",
-    "errors": [
-      {
-        "title": "ChatGPT",
-        "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/ChatGPT/daily/20260501/20260501"
-      },
-      {
-        "title": "生成AI",
-        "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E7%94%9F%E6%88%90AI/daily/20260501/20260501"
-      },
-      {
-        "title": "円安",
-        "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%86%86%E5%AE%89/daily/20260501/20260501"
-      },
-      {
-        "title": "物価",
-        "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E7%89%A9%E4%BE%A1/daily/20260501/20260501"
-      },
-      {
-        "title": "副業",
-        "error": "429 Client Error: Too Many Requests for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260501/20260501"
-      }
-    ]
+    "errors": []
   }
 }

@@ -1,16 +1,16 @@
 {
   "source": "github",
   "run_date": "2026-05-02",
-  "snapshot_at": "2026-05-02T18:20:34.997805+09:00",
+  "snapshot_at": "2026-05-02T18:33:22.699013+09:00",
   "items": [
     {
       "repo_name": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 367325,
+      "stars": 367330,
       "forks": 75529,
-      "watchers": 367325,
-      "open_issues": 6653,
+      "watchers": 367330,
+      "open_issues": 6654,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -22,8 +22,8 @@
         "personal"
       ],
       "created_at": "2025-11-24T10:16:47Z",
-      "updated_at": "2026-05-02T09:16:42Z",
-      "pushed_at": "2026-05-02T09:16:28Z",
+      "updated_at": "2026-05-02T09:33:22Z",
+      "pushed_at": "2026-05-02T09:32:11Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-02 stars:>50"
       ],
@@ -42,9 +42,9 @@
       "repo_name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 186436,
-      "forks": 57284,
-      "watchers": 186436,
+      "stars": 186437,
+      "forks": 57283,
+      "watchers": 186437,
       "open_issues": 1574,
       "language": "TypeScript",
       "topics": [
@@ -70,10 +70,9 @@
         "workflow-automation"
       ],
       "created_at": "2019-06-22T09:24:21Z",
-      "updated_at": "2026-05-02T09:19:58Z",
-      "pushed_at": "2026-05-02T09:11:53Z",
+      "updated_at": "2026-05-02T09:22:09Z",
+      "pushed_at": "2026-05-02T09:30:05Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-02 stars:>50",
         "topic:automation pushed:>2026-04-02 stars:>25",
         "\"workflow automation\" pushed:>2026-04-02 stars:>10"
       ],
@@ -105,10 +104,10 @@
       "repo_name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": 128837,
-      "forks": 19412,
-      "watchers": 128837,
-      "open_issues": 7678,
+      "stars": 128858,
+      "forks": 19416,
+      "watchers": 128858,
+      "open_issues": 7675,
       "language": "Python",
       "topics": [
         "ai",
@@ -129,8 +128,8 @@
         "openclaw"
       ],
       "created_at": "2025-07-22T22:22:28Z",
-      "updated_at": "2026-05-02T09:19:01Z",
-      "pushed_at": "2026-05-02T09:14:37Z",
+      "updated_at": "2026-05-02T09:33:07Z",
+      "pushed_at": "2026-05-02T09:27:52Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-02 stars:>50",
         "topic:llm pushed:>2026-04-02 stars:>50"
@@ -154,6 +153,91 @@
         "nous-research",
         "openai",
         "openclaw"
+      ]
+    },
+    {
+      "repo_name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 75936,
+      "forks": 15050,
+      "watchers": 75936,
+      "open_issues": 759,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-collaboration",
+        "agent-harness",
+        "ai",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "gemini",
+        "gpt",
+        "knowledge-base",
+        "mcp",
+        "openai"
+      ],
+      "created_at": "2023-05-21T07:19:12Z",
+      "updated_at": "2026-05-02T09:33:07Z",
+      "pushed_at": "2026-05-02T09:28:36Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-02 stars:>50"
+      ],
+      "owner_login": "lobehub",
+      "tags": [
+        "agent",
+        "agent-collaboration",
+        "agent-harness",
+        "agents",
+        "ai",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "gemini",
+        "gpt",
+        "knowledge-base",
+        "mcp",
+        "openai"
+      ]
+    },
+    {
+      "repo_name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "stars": 53207,
+      "forks": 8538,
+      "watchers": 53207,
+      "open_issues": 155,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "monitoring",
+        "news",
+        "opensource",
+        "osint",
+        "palantir",
+        "situation"
+      ],
+      "created_at": "2026-01-08T17:26:06Z",
+      "updated_at": "2026-05-02T09:30:34Z",
+      "pushed_at": "2026-05-02T09:30:31Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-02 stars:>50"
+      ],
+      "owner_login": "koala73",
+      "tags": [
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "monitoring",
+        "news",
+        "opensource",
+        "osint",
+        "palantir",
+        "situation"
       ]
     },
     {
@@ -185,7 +269,7 @@
       "stars": 45256,
       "forks": 16981,
       "watchers": 45256,
-      "open_issues": 1717,
+      "open_issues": 1715,
       "language": "Python",
       "topics": [
         "airflow",
@@ -210,8 +294,8 @@
         "workflow-orchestration"
       ],
       "created_at": "2015-04-13T18:04:58Z",
-      "updated_at": "2026-05-02T09:17:37Z",
-      "pushed_at": "2026-05-02T09:18:43Z",
+      "updated_at": "2026-05-02T09:33:02Z",
+      "pushed_at": "2026-05-02T09:32:55Z",
       "matched_queries": [
         "topic:automation pushed:>2026-04-02 stars:>25"
       ],
@@ -238,99 +322,6 @@
         "workflow",
         "workflow-engine",
         "workflow-orchestration"
-      ]
-    },
-    {
-      "repo_name": "safishamsi/graphify",
-      "url": "https://github.com/safishamsi/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "stars": 40193,
-      "forks": 4434,
-      "watchers": 40193,
-      "open_issues": 220,
-      "language": "Python",
-      "topics": [
-        "antigravity",
-        "claude-code",
-        "codex",
-        "gemini",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter"
-      ],
-      "created_at": "2026-04-03T15:49:07Z",
-      "updated_at": "2026-05-02T09:19:54Z",
-      "pushed_at": "2026-05-02T08:37:48Z",
-      "matched_queries": [
-        "topic:rag pushed:>2026-04-02 stars:>25"
-      ],
-      "owner_login": "safishamsi",
-      "tags": [
-        "ai",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "gemini",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter",
-        "video"
-      ]
-    },
-    {
-      "repo_name": "rtk-ai/rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "stars": 39706,
-      "forks": 2412,
-      "watchers": 39706,
-      "open_issues": 784,
-      "language": "Rust",
-      "topics": [
-        "agentic-coding",
-        "ai-coding",
-        "anthropic",
-        "claude-code",
-        "cli",
-        "command-line-tool",
-        "cost-reduction",
-        "developer-tools",
-        "llm",
-        "open-source",
-        "productivity",
-        "rust",
-        "token-optimization"
-      ],
-      "created_at": "2026-01-22T16:54:16Z",
-      "updated_at": "2026-05-02T09:17:32Z",
-      "pushed_at": "2026-05-02T09:18:57Z",
-      "matched_queries": [
-        "topic:llm pushed:>2026-04-02 stars:>50"
-      ],
-      "owner_login": "rtk-ai",
-      "tags": [
-        "agentic-coding",
-        "ai",
-        "ai-coding",
-        "anthropic",
-        "claude-code",
-        "cli",
-        "command-line-tool",
-        "cost-reduction",
-        "developer-tools",
-        "llm",
-        "open-source",
-        "productivity",
-        "rust",
-        "token-optimization"
       ]
     },
     {
@@ -392,7 +383,7 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
       "stars": 33619,
-      "forks": 33386,
+      "forks": 33389,
       "watchers": 33619,
       "open_issues": 57,
       "language": "Python",
@@ -409,7 +400,7 @@
       ],
       "created_at": "2026-01-10T06:43:20Z",
       "updated_at": "2026-05-02T09:20:02Z",
-      "pushed_at": "2026-05-02T09:20:19Z",
+      "pushed_at": "2026-05-02T09:26:50Z",
       "matched_queries": [
         "topic:rag pushed:>2026-04-02 stars:>25"
       ],
@@ -525,9 +516,9 @@
       "repo_name": "simstudioai/sim",
       "url": "https://github.com/simstudioai/sim",
       "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "stars": 28259,
-      "forks": 3563,
-      "watchers": 28259,
+      "stars": 28260,
+      "forks": 3564,
+      "watchers": 28260,
       "open_issues": 199,
       "language": "TypeScript",
       "topics": [
@@ -551,13 +542,12 @@
         "typescript"
       ],
       "created_at": "2025-01-05T22:47:49Z",
-      "updated_at": "2026-05-02T09:20:34Z",
+      "updated_at": "2026-05-02T09:32:10Z",
       "pushed_at": "2026-05-02T09:07:08Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-02 stars:>25",
         "topic:automation pushed:>2026-04-02 stars:>25",
-        "topic:rag pushed:>2026-04-02 stars:>25",
-        "\"ai agents\" pushed:>2026-04-25 stars:>50"
+        "topic:rag pushed:>2026-04-02 stars:>25"
       ],
       "owner_login": "simstudioai",
       "tags": [
@@ -585,9 +575,9 @@
       "repo_name": "sgl-project/sglang",
       "url": "https://github.com/sgl-project/sglang",
       "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
-      "stars": 26927,
+      "stars": 26929,
       "forks": 5661,
-      "watchers": 26927,
+      "watchers": 26929,
       "open_issues": 3171,
       "language": "Python",
       "topics": [
@@ -611,8 +601,8 @@
         "wan"
       ],
       "created_at": "2024-01-08T04:15:52Z",
-      "updated_at": "2026-05-02T09:19:04Z",
-      "pushed_at": "2026-05-02T09:18:58Z",
+      "updated_at": "2026-05-02T09:28:46Z",
+      "pushed_at": "2026-05-02T09:30:27Z",
       "matched_queries": [
         "topic:llm pushed:>2026-04-02 stars:>50"
       ],
@@ -636,28 +626,6 @@
         "transformer",
         "vlm",
         "wan"
-      ]
-    },
-    {
-      "repo_name": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "description": "An open-source AI agent that lives in your terminal.",
-      "stars": 24088,
-      "forks": 2320,
-      "watchers": 24088,
-      "open_issues": 720,
-      "language": "TypeScript",
-      "topics": [],
-      "created_at": "2025-06-26T01:37:46Z",
-      "updated_at": "2026-05-02T09:16:10Z",
-      "pushed_at": "2026-05-02T09:03:22Z",
-      "matched_queries": [
-        "\"ai agents\" pushed:>2026-04-25 stars:>50"
-      ],
-      "owner_login": "QwenLM",
-      "tags": [
-        "agents",
-        "ai"
       ]
     },
     {
@@ -774,9 +742,10 @@
         "telegram"
       ],
       "created_at": "2024-07-09T07:55:40Z",
-      "updated_at": "2026-05-02T08:59:14Z",
-      "pushed_at": "2026-05-02T08:59:09Z",
+      "updated_at": "2026-05-02T09:30:51Z",
+      "pushed_at": "2026-05-02T09:30:44Z",
       "matched_queries": [
+        "topic:ai pushed:>2026-04-02 stars:>50",
         "topic:rag pushed:>2026-04-02 stars:>25"
       ],
       "owner_login": "elizaOS",
@@ -803,9 +772,9 @@
       "repo_name": "langbot-app/LangBot",
       "url": "https://github.com/langbot-app/LangBot",
       "description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Satori e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, MiniMax, Ollama, SiliconFlow, Moonshot, GLM, clawdbot / openclaw",
-      "stars": 15952,
+      "stars": 15953,
       "forks": 1414,
-      "watchers": 15952,
+      "watchers": 15953,
       "open_issues": 114,
       "language": "Python",
       "topics": [
@@ -831,9 +800,10 @@
         "wechat"
       ],
       "created_at": "2022-12-07T08:48:02Z",
-      "updated_at": "2026-05-02T09:09:36Z",
-      "pushed_at": "2026-05-02T09:09:34Z",
+      "updated_at": "2026-05-02T09:31:29Z",
+      "pushed_at": "2026-05-02T09:31:23Z",
       "matched_queries": [
+        "topic:llm pushed:>2026-04-02 stars:>50",
         "topic:rag pushed:>2026-04-02 stars:>25"
       ],
       "owner_login": "langbot-app",
@@ -866,9 +836,9 @@
       "repo_name": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "stars": 10720,
+      "stars": 10722,
       "forks": 1872,
-      "watchers": 10720,
+      "watchers": 10722,
       "open_issues": 7,
       "language": "JavaScript",
       "topics": [
@@ -894,7 +864,7 @@
         "wan-video"
       ],
       "created_at": "2023-05-09T14:12:37Z",
-      "updated_at": "2026-05-02T09:16:50Z",
+      "updated_at": "2026-05-02T09:29:50Z",
       "pushed_at": "2026-05-01T10:28:05Z",
       "matched_queries": [
         "video generation pushed:>2026-04-02 stars:>25"
@@ -1100,7 +1070,6 @@
       "updated_at": "2026-05-02T09:16:57Z",
       "pushed_at": "2026-05-02T09:16:53Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-02 stars:>50",
         "topic:agents pushed:>2026-04-02 stars:>25"
       ],
       "owner_login": "kyegomez",
@@ -1126,12 +1095,74 @@
       ]
     },
     {
+      "repo_name": "pbek/QOwnNotes",
+      "url": "https://github.com/pbek/QOwnNotes",
+      "description": "QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.",
+      "stars": 5731,
+      "forks": 496,
+      "watchers": 5731,
+      "open_issues": 105,
+      "language": "C++",
+      "topics": [
+        "bookmark",
+        "c-plus-plus",
+        "caldav",
+        "chrome-extension",
+        "dropbox",
+        "firefox-extension",
+        "llm",
+        "local-first",
+        "markdown",
+        "nextcloud",
+        "nextcloud-notes",
+        "note-taking",
+        "notebook",
+        "notes",
+        "owncloud",
+        "pim",
+        "pkm",
+        "qownnotes",
+        "qt",
+        "second-brain"
+      ],
+      "created_at": "2014-12-02T14:38:05Z",
+      "updated_at": "2026-05-02T09:29:35Z",
+      "pushed_at": "2026-05-02T09:30:34Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-02 stars:>50"
+      ],
+      "owner_login": "pbek",
+      "tags": [
+        "ai",
+        "bookmark",
+        "c-plus-plus",
+        "caldav",
+        "chrome-extension",
+        "dropbox",
+        "firefox-extension",
+        "llm",
+        "local-first",
+        "markdown",
+        "nextcloud",
+        "nextcloud-notes",
+        "note-taking",
+        "notebook",
+        "notes",
+        "owncloud",
+        "pim",
+        "pkm",
+        "qownnotes",
+        "qt",
+        "second-brain"
+      ]
+    },
+    {
       "repo_name": "Narcooo/inkos",
       "url": "https://github.com/Narcooo/inkos",
       "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
-      "stars": 5401,
+      "stars": 5405,
       "forks": 1019,
-      "watchers": 5401,
+      "watchers": 5405,
       "open_issues": 125,
       "language": "TypeScript",
       "topics": [
@@ -1149,9 +1180,10 @@
         "openclaw"
       ],
       "created_at": "2026-03-12T02:12:54Z",
-      "updated_at": "2026-05-02T09:08:44Z",
-      "pushed_at": "2026-05-02T09:08:40Z",
+      "updated_at": "2026-05-02T09:32:59Z",
+      "pushed_at": "2026-05-02T09:33:15Z",
       "matched_queries": [
+        "topic:ai pushed:>2026-04-02 stars:>50",
         "\"ai agents\" pushed:>2026-04-25 stars:>50"
       ],
       "owner_login": "Narcooo",
@@ -1216,13 +1248,77 @@
       ]
     },
     {
+      "repo_name": "intuitem/ciso-assistant-community",
+      "url": "https://github.com/intuitem/ciso-assistant-community",
+      "description": "CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, Privacy, and Reporting. It supports 130+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DORA, GDPR, HIPAA, CMMC, and more.",
+      "stars": 4006,
+      "forks": 707,
+      "watchers": 4006,
+      "open_issues": 125,
+      "language": "Python",
+      "topics": [
+        "audit",
+        "automation",
+        "bsi",
+        "cis",
+        "compliance",
+        "cybersecurity",
+        "dora",
+        "ebios-rm",
+        "gdpr",
+        "grc",
+        "isms",
+        "iso27001",
+        "llm",
+        "mcp",
+        "nis2",
+        "nist",
+        "quantification",
+        "risk-management",
+        "security",
+        "soc2"
+      ],
+      "created_at": "2023-09-20T16:47:58Z",
+      "updated_at": "2026-05-02T09:25:00Z",
+      "pushed_at": "2026-05-02T09:25:04Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-02 stars:>50",
+        "topic:automation pushed:>2026-04-02 stars:>25"
+      ],
+      "owner_login": "intuitem",
+      "tags": [
+        "audit",
+        "automation",
+        "bsi",
+        "cis",
+        "compliance",
+        "cybersecurity",
+        "dora",
+        "ebios-rm",
+        "gdpr",
+        "github",
+        "grc",
+        "isms",
+        "iso27001",
+        "llm",
+        "mcp",
+        "nis2",
+        "nist",
+        "quantification",
+        "regulation",
+        "risk-management",
+        "security",
+        "soc2"
+      ]
+    },
+    {
       "repo_name": "hao-ai-lab/FastVideo",
       "url": "https://github.com/hao-ai-lab/FastVideo",
       "description": "A unified inference and post-training framework for accelerated video generation.",
       "stars": 3449,
       "forks": 325,
       "watchers": 3449,
-      "open_issues": 114,
+      "open_issues": 115,
       "language": "Python",
       "topics": [
         "diffusers",
@@ -1234,7 +1330,7 @@
       ],
       "created_at": "2024-10-24T02:11:32Z",
       "updated_at": "2026-05-02T08:25:27Z",
-      "pushed_at": "2026-05-02T09:17:04Z",
+      "pushed_at": "2026-05-02T09:27:53Z",
       "matched_queries": [
         "video generation pushed:>2026-04-02 stars:>25"
       ],
@@ -1302,6 +1398,69 @@
       ]
     },
     {
+      "repo_name": "EKKOLearnAI/hermes-web-ui",
+      "url": "https://github.com/EKKOLearnAI/hermes-web-ui",
+      "description": "Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)",
+      "stars": 3266,
+      "forks": 405,
+      "watchers": 3266,
+      "open_issues": 150,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "chat-ui",
+        "chatbot",
+        "claude",
+        "dashboard",
+        "discord-bot",
+        "hermes",
+        "hermes-agent",
+        "hermes-webui",
+        "llm",
+        "multi-model",
+        "multi-platform",
+        "self-hosted",
+        "slack-bot",
+        "telegram-bot",
+        "typescript",
+        "vue3",
+        "web-ui",
+        "whatsapp"
+      ],
+      "created_at": "2026-04-11T07:38:18Z",
+      "updated_at": "2026-05-02T09:29:59Z",
+      "pushed_at": "2026-05-02T09:23:01Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-02 stars:>50"
+      ],
+      "owner_login": "EKKOLearnAI",
+      "tags": [
+        "agent",
+        "agents",
+        "ai",
+        "ai-agent",
+        "chat-ui",
+        "chatbot",
+        "claude",
+        "dashboard",
+        "discord-bot",
+        "hermes",
+        "hermes-agent",
+        "hermes-webui",
+        "llm",
+        "multi-model",
+        "multi-platform",
+        "self-hosted",
+        "slack-bot",
+        "telegram-bot",
+        "typescript",
+        "vue3",
+        "web-ui",
+        "whatsapp"
+      ]
+    },
+    {
       "repo_name": "pipeshub-ai/pipeshub-ai",
       "url": "https://github.com/pipeshub-ai/pipeshub-ai",
       "description": "PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation",
@@ -1359,9 +1518,9 @@
       "repo_name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "stars": 2691,
+      "stars": 2692,
       "forks": 213,
-      "watchers": 2691,
+      "watchers": 2692,
       "open_issues": 14,
       "language": "C#",
       "topics": [
@@ -1373,8 +1532,8 @@
         "skills"
       ],
       "created_at": "2026-03-15T07:39:12Z",
-      "updated_at": "2026-05-02T09:20:10Z",
-      "pushed_at": "2026-05-02T09:20:06Z",
+      "updated_at": "2026-05-02T09:31:28Z",
+      "pushed_at": "2026-05-02T09:31:24Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-02 stars:>50",
         "\"ai agents\" pushed:>2026-04-25 stars:>50"
@@ -1395,9 +1554,9 @@
       "repo_name": "ConardLi/garden-skills",
       "url": "https://github.com/ConardLi/garden-skills",
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "stars": 2069,
+      "stars": 2070,
       "forks": 352,
-      "watchers": 2069,
+      "watchers": 2070,
       "open_issues": 1,
       "language": "CSS",
       "topics": [
@@ -1409,7 +1568,7 @@
         "web-design"
       ],
       "created_at": "2026-04-21T11:56:17Z",
-      "updated_at": "2026-05-02T09:17:47Z",
+      "updated_at": "2026-05-02T09:29:12Z",
       "pushed_at": "2026-05-02T09:01:31Z",
       "matched_queries": [
         "topic:rag pushed:>2026-04-02 stars:>25"
@@ -1422,42 +1581,6 @@
         "rag",
         "skills",
         "web-design"
-      ]
-    },
-    {
-      "repo_name": "nizos/tdd-guard",
-      "url": "https://github.com/nizos/tdd-guard",
-      "description": "Automated TDD enforcement for Claude Code",
-      "stars": 2050,
-      "forks": 152,
-      "watchers": 2050,
-      "open_issues": 25,
-      "language": "TypeScript",
-      "topics": [
-        "agentic-coding",
-        "automation",
-        "claude-code",
-        "code-quality",
-        "hooks",
-        "llm-tools",
-        "tdd"
-      ],
-      "created_at": "2025-07-07T09:14:14Z",
-      "updated_at": "2026-05-02T09:00:22Z",
-      "pushed_at": "2026-05-02T09:06:40Z",
-      "matched_queries": [
-        "topic:automation pushed:>2026-04-02 stars:>25"
-      ],
-      "owner_login": "nizos",
-      "tags": [
-        "agentic-coding",
-        "ai",
-        "automation",
-        "claude-code",
-        "code-quality",
-        "hooks",
-        "llm-tools",
-        "tdd"
       ]
     },
     {
@@ -1589,8 +1712,8 @@
         "personal-assistant"
       ],
       "created_at": "2026-01-12T09:27:39Z",
-      "updated_at": "2026-05-02T09:17:13Z",
-      "pushed_at": "2026-05-02T09:17:09Z",
+      "updated_at": "2026-05-02T09:28:24Z",
+      "pushed_at": "2026-05-02T09:28:21Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-02 stars:>50",
         "\"ai agents\" pushed:>2026-04-25 stars:>50"
@@ -1604,6 +1727,54 @@
         "ai-memory",
         "openclaw",
         "personal-assistant"
+      ]
+    },
+    {
+      "repo_name": "hyperspaceai/agi",
+      "url": "https://github.com/hyperspaceai/agi",
+      "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+      "stars": 1555,
+      "forks": 168,
+      "watchers": 1555,
+      "open_issues": 13,
+      "language": null,
+      "topics": [
+        "agi",
+        "ai-agents",
+        "ai-research",
+        "artificial-general-intelligence",
+        "autonomous-agents",
+        "autonomous-agents-",
+        "autoresearch",
+        "collaborative-ai",
+        "decentralized",
+        "distributed-ai",
+        "llm",
+        "p2p"
+      ],
+      "created_at": "2026-03-08T23:08:37Z",
+      "updated_at": "2026-05-02T09:31:18Z",
+      "pushed_at": "2026-05-02T09:33:10Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-02 stars:>50",
+        "\"ai agents\" pushed:>2026-04-25 stars:>50"
+      ],
+      "owner_login": "hyperspaceai",
+      "tags": [
+        "agents",
+        "agi",
+        "ai",
+        "ai-agents",
+        "ai-research",
+        "artificial-general-intelligence",
+        "autonomous-agents",
+        "autonomous-agents-",
+        "autoresearch",
+        "collaborative-ai",
+        "decentralized",
+        "distributed-ai",
+        "llm",
+        "p2p"
       ]
     },
     {
@@ -1710,8 +1881,8 @@
         "review"
       ],
       "created_at": "2026-04-23T22:14:49Z",
-      "updated_at": "2026-05-02T09:18:33Z",
-      "pushed_at": "2026-05-02T09:18:30Z",
+      "updated_at": "2026-05-02T09:27:23Z",
+      "pushed_at": "2026-05-02T09:27:19Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-02 stars:>50"
       ],
@@ -1730,7 +1901,7 @@
       "stars": 1335,
       "forks": 254,
       "watchers": 1335,
-      "open_issues": 145,
+      "open_issues": 146,
       "language": "TypeScript",
       "topics": [
         "agents",
@@ -1740,9 +1911,8 @@
       ],
       "created_at": "2022-08-19T07:57:29Z",
       "updated_at": "2026-05-02T09:16:11Z",
-      "pushed_at": "2026-05-02T09:16:08Z",
+      "pushed_at": "2026-05-02T09:27:52Z",
       "matched_queries": [
-        "topic:llm pushed:>2026-04-02 stars:>50",
         "topic:agents pushed:>2026-04-02 stars:>25",
         "\"ai agents\" pushed:>2026-04-25 stars:>50"
       ],
@@ -1830,8 +2000,8 @@
         "video-prompt"
       ],
       "created_at": "2026-02-11T10:15:40Z",
-      "updated_at": "2026-05-02T09:13:40Z",
-      "pushed_at": "2026-05-02T06:23:35Z",
+      "updated_at": "2026-05-02T09:25:12Z",
+      "pushed_at": "2026-05-02T09:25:08Z",
       "matched_queries": [
         "video generation pushed:>2026-04-02 stars:>25"
       ],
@@ -1904,7 +2074,7 @@
       ],
       "created_at": "2026-03-25T13:27:01Z",
       "updated_at": "2026-05-02T08:00:58Z",
-      "pushed_at": "2026-05-02T09:18:58Z",
+      "pushed_at": "2026-05-02T09:24:53Z",
       "matched_queries": [
         "\"local llm\" pushed:>2026-04-02 stars:>25"
       ],
@@ -1916,68 +2086,6 @@
         "claude-code",
         "knowledge-graph",
         "llm"
-      ]
-    },
-    {
-      "repo_name": "bgauryy/octocode-mcp",
-      "url": "https://github.com/bgauryy/octocode-mcp",
-      "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
-      "stars": 804,
-      "forks": 68,
-      "watchers": 804,
-      "open_issues": 3,
-      "language": "TypeScript",
-      "topics": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "ai-tools",
-        "claude-ai",
-        "code-intelligence",
-        "code-search",
-        "context",
-        "cursor",
-        "cursor-ai",
-        "development",
-        "github",
-        "github-api",
-        "llm",
-        "mcp",
-        "model-context-protocol",
-        "modelcontextprotocol",
-        "octocode",
-        "semantic-search",
-        "vibe-coding"
-      ],
-      "created_at": "2025-06-05T13:56:40Z",
-      "updated_at": "2026-05-02T09:17:36Z",
-      "pushed_at": "2026-05-02T09:17:34Z",
-      "matched_queries": [
-        "topic:ai pushed:>2026-04-02 stars:>50",
-        "topic:llm pushed:>2026-04-02 stars:>50"
-      ],
-      "owner_login": "bgauryy",
-      "tags": [
-        "agent",
-        "ai",
-        "ai-agents",
-        "ai-tools",
-        "claude-ai",
-        "code-intelligence",
-        "code-search",
-        "context",
-        "cursor",
-        "cursor-ai",
-        "development",
-        "github",
-        "github-api",
-        "llm",
-        "mcp",
-        "model-context-protocol",
-        "modelcontextprotocol",
-        "octocode",
-        "semantic-search",
-        "vibe-coding"
       ]
     },
     {
@@ -2108,8 +2216,8 @@
         "wp-cli"
       ],
       "created_at": "2017-09-21T18:14:31Z",
-      "updated_at": "2026-05-02T09:18:39Z",
-      "pushed_at": "2026-05-02T09:18:35Z",
+      "updated_at": "2026-05-02T09:23:42Z",
+      "pushed_at": "2026-05-02T09:23:38Z",
       "matched_queries": [
         "topic:seo pushed:>2026-04-02 stars:>10"
       ],
@@ -2134,49 +2242,6 @@
         "vps",
         "wordpress",
         "wp-cli"
-      ]
-    },
-    {
-      "repo_name": "promptdriven/pdd",
-      "url": "https://github.com/promptdriven/pdd",
-      "description": "Prompt Driven Development Command Line Interface",
-      "stars": 673,
-      "forks": 59,
-      "watchers": 673,
-      "open_issues": 163,
-      "language": "Python",
-      "topics": [
-        "ai",
-        "cli",
-        "code",
-        "developer-tools",
-        "development",
-        "methodology",
-        "prompt",
-        "prompt-engineering",
-        "prompt-toolkit",
-        "prompts",
-        "prompts-template"
-      ],
-      "created_at": "2025-05-22T17:52:24Z",
-      "updated_at": "2026-05-02T09:18:59Z",
-      "pushed_at": "2026-05-02T09:18:55Z",
-      "matched_queries": [
-        "topic:ai pushed:>2026-04-02 stars:>50"
-      ],
-      "owner_login": "promptdriven",
-      "tags": [
-        "ai",
-        "cli",
-        "code",
-        "developer-tools",
-        "development",
-        "methodology",
-        "prompt",
-        "prompt-engineering",
-        "prompt-toolkit",
-        "prompts",
-        "prompts-template"
       ]
     },
     {
@@ -2230,6 +2295,114 @@
       "tags": [
         "ai",
         "llm"
+      ]
+    },
+    {
+      "repo_name": "AnalyseDeCircuit/oxideterm",
+      "url": "https://github.com/AnalyseDeCircuit/oxideterm",
+      "description": "Local-first SSH workspace for local shells and remote machines — SSH, SFTP, trzsz, port forwarding, lightweight remote editing, file management, and BYOK AI in one native binary. Built with Tauri 2 and pure Rust SSH. Zero Electron, zero OpenSSL, zero telemetry, and no app subscription for core SSH workflows.",
+      "stars": 634,
+      "forks": 30,
+      "watchers": 634,
+      "open_issues": 3,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "bring-your-own-key",
+        "filemanager",
+        "launchpad",
+        "mcp",
+        "rag",
+        "react",
+        "redb",
+        "russh",
+        "rust",
+        "sftp",
+        "ssh-client",
+        "tauri",
+        "terminal",
+        "terminal-emulator",
+        "terminal-emulators",
+        "tool-calling",
+        "typescript",
+        "wslg",
+        "xterm-js"
+      ],
+      "created_at": "2026-01-21T07:30:14Z",
+      "updated_at": "2026-05-02T09:20:44Z",
+      "pushed_at": "2026-05-02T09:20:40Z",
+      "matched_queries": [
+        "topic:rag pushed:>2026-04-02 stars:>25"
+      ],
+      "owner_login": "AnalyseDeCircuit",
+      "tags": [
+        "agent",
+        "ai",
+        "automation",
+        "bring-your-own-key",
+        "filemanager",
+        "launchpad",
+        "mcp",
+        "rag",
+        "react",
+        "redb",
+        "russh",
+        "rust",
+        "sftp",
+        "ssh-client",
+        "tauri",
+        "terminal",
+        "terminal-emulator",
+        "terminal-emulators",
+        "tool-calling",
+        "typescript",
+        "wslg",
+        "xterm-js"
+      ]
+    },
+    {
+      "repo_name": "rcarmo/piclaw",
+      "url": "https://github.com/rcarmo/piclaw",
+      "description": "I'm going to build my own OpenClaw, with blackjack... and bun!",
+      "stars": 614,
+      "forks": 47,
+      "watchers": 614,
+      "open_issues": 89,
+      "language": "TypeScript",
+      "topics": [
+        "adaptive-cards",
+        "ai-agent",
+        "bun",
+        "coding-agent",
+        "docker",
+        "llm",
+        "pi-agent",
+        "self-hosted",
+        "typescript",
+        "vnc",
+        "web-ui",
+        "workspace"
+      ],
+      "created_at": "2026-02-17T19:06:49Z",
+      "updated_at": "2026-05-02T09:28:13Z",
+      "pushed_at": "2026-05-02T09:22:21Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-02 stars:>50"
+      ],
+      "owner_login": "rcarmo",
+      "tags": [
+        "adaptive-cards",
+        "ai-agent",
+        "bun",
+        "coding-agent",
+        "docker",
+        "llm",
+        "pi-agent",
+        "self-hosted",
+        "typescript",
+        "vnc",
+        "web-ui",
+        "workspace"
       ]
     },
     {
@@ -2364,57 +2537,127 @@
       ]
     },
     {
-      "repo_name": "VersusControl/versus-incident",
-      "url": "https://github.com/VersusControl/versus-incident",
-      "description": "An incident management tool supporting multi-channel alerting, customizable messages, on-call integrations, and the built-in AI SRE Agent. Compatible with any tool supporting webhook alerts.",
-      "stars": 412,
-      "forks": 56,
-      "watchers": 412,
-      "open_issues": 20,
-      "language": "Go",
+      "repo_name": "violit-dev/violit",
+      "url": "https://github.com/violit-dev/violit",
+      "description": "Pure Python Web Framework. Streamlit simplicity, no reruns.",
+      "stars": 432,
+      "forks": 17,
+      "watchers": 432,
+      "open_issues": 1,
+      "language": "Python",
       "topics": [
         "ai",
-        "ai-agent",
-        "ai-tools",
-        "alert",
-        "aws",
-        "devops",
-        "devops-tools",
-        "golang",
-        "helm",
-        "lark",
-        "monitoring-tool",
-        "on-call",
-        "pagerduty",
-        "slack",
-        "sre",
-        "telegram"
+        "data-application",
+        "data-science",
+        "data-visualization",
+        "deep-learning",
+        "developer-tools",
+        "fastapi",
+        "framework",
+        "frontend",
+        "fullstack",
+        "gui",
+        "machine-learning",
+        "mvp",
+        "python",
+        "python-web-development",
+        "reactive",
+        "streamlit-alternative",
+        "ui",
+        "webapp",
+        "website"
       ],
-      "created_at": "2025-02-04T15:20:06Z",
-      "updated_at": "2026-05-02T09:16:49Z",
-      "pushed_at": "2026-05-02T09:16:44Z",
+      "created_at": "2026-01-18T15:07:06Z",
+      "updated_at": "2026-05-02T09:21:18Z",
+      "pushed_at": "2026-05-02T09:21:14Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-02 stars:>50"
       ],
-      "owner_login": "VersusControl",
+      "owner_login": "violit-dev",
+      "tags": [
+        "ai",
+        "data-application",
+        "data-science",
+        "data-visualization",
+        "deep-learning",
+        "developer-tools",
+        "fastapi",
+        "framework",
+        "frontend",
+        "fullstack",
+        "gui",
+        "machine-learning",
+        "mvp",
+        "python",
+        "python-web-development",
+        "reactive",
+        "streamlit-alternative",
+        "ui",
+        "webapp",
+        "website"
+      ]
+    },
+    {
+      "repo_name": "arimxyer/models",
+      "url": "https://github.com/arimxyer/models",
+      "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
+      "stars": 414,
+      "forks": 18,
+      "watchers": 414,
+      "open_issues": 1,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "anamolyco",
+        "artificial-analysis",
+        "benchmarks",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "gemini-cli",
+        "llm",
+        "models",
+        "models-dev",
+        "openclaw",
+        "opencode",
+        "ratatui",
+        "rust",
+        "sst",
+        "sst-inspired",
+        "status",
+        "status-page",
+        "tui"
+      ],
+      "created_at": "2026-01-08T16:53:39Z",
+      "updated_at": "2026-05-02T09:26:00Z",
+      "pushed_at": "2026-05-02T09:25:57Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-02 stars:>50",
+        "topic:llm pushed:>2026-04-02 stars:>50"
+      ],
+      "owner_login": "arimxyer",
       "tags": [
         "agents",
         "ai",
-        "ai-agent",
-        "ai-tools",
-        "alert",
-        "aws",
-        "devops",
-        "devops-tools",
-        "golang",
-        "helm",
-        "lark",
-        "monitoring-tool",
-        "on-call",
-        "pagerduty",
-        "slack",
-        "sre",
-        "telegram"
+        "anamolyco",
+        "artificial-analysis",
+        "benchmarks",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "gemini-cli",
+        "llm",
+        "models",
+        "models-dev",
+        "openclaw",
+        "opencode",
+        "ratatui",
+        "rust",
+        "sst",
+        "sst-inspired",
+        "status",
+        "status-page",
+        "tui"
       ]
     },
     {
@@ -2440,8 +2683,8 @@
         "openclaw-skills"
       ],
       "created_at": "2026-02-07T02:28:06Z",
-      "updated_at": "2026-05-02T09:13:39Z",
-      "pushed_at": "2026-05-02T09:13:35Z",
+      "updated_at": "2026-05-02T09:32:47Z",
+      "pushed_at": "2026-05-02T09:32:43Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-02 stars:>25"
       ],
@@ -2462,13 +2705,42 @@
       ]
     },
     {
+      "repo_name": "changh95/slam_lecture_codes",
+      "url": "https://github.com/changh95/slam_lecture_codes",
+      "description": "Code exercises for the SLAM courses",
+      "stars": 390,
+      "forks": 60,
+      "watchers": 390,
+      "open_issues": 0,
+      "language": "C++",
+      "topics": [
+        "ai",
+        "cpp",
+        "python",
+        "slam"
+      ],
+      "created_at": "2023-08-28T06:43:27Z",
+      "updated_at": "2026-05-02T09:30:02Z",
+      "pushed_at": "2026-05-02T09:29:58Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-02 stars:>50"
+      ],
+      "owner_login": "changh95",
+      "tags": [
+        "ai",
+        "cpp",
+        "python",
+        "slam"
+      ]
+    },
+    {
       "repo_name": "taracodlabs/aiden",
       "url": "https://github.com/taracodlabs/aiden",
       "description": "Local-first AI execution runtime for Linux & Windows — 1500+ skills · 89+ tools · 14+ providers · secure automation · AGPL-3.0 - built by solo developer",
       "stars": 367,
       "forks": 66,
       "watchers": 367,
-      "open_issues": 44,
+      "open_issues": 43,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -2487,10 +2759,10 @@
         "windows"
       ],
       "created_at": "2026-03-07T19:31:05Z",
-      "updated_at": "2026-05-02T09:10:29Z",
-      "pushed_at": "2026-05-02T09:10:22Z",
+      "updated_at": "2026-05-02T09:22:04Z",
+      "pushed_at": "2026-05-02T09:22:01Z",
       "matched_queries": [
-        "topic:llm pushed:>2026-04-02 stars:>50"
+        "topic:ai pushed:>2026-04-02 stars:>50"
       ],
       "owner_login": "taracodlabs",
       "tags": [
@@ -2549,43 +2821,6 @@
       ]
     },
     {
-      "repo_name": "notque/vexjoy-agent",
-      "url": "https://github.com/notque/vexjoy-agent",
-      "description": "VexJoy Agent - Creator of the /do router",
-      "stars": 359,
-      "forks": 34,
-      "watchers": 359,
-      "open_issues": 0,
-      "language": "Python",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-pipelines",
-        "ai-skills",
-        "ai-workflows",
-        "claude",
-        "claude-code"
-      ],
-      "created_at": "2026-03-18T01:39:09Z",
-      "updated_at": "2026-05-02T09:12:01Z",
-      "pushed_at": "2026-05-02T09:11:58Z",
-      "matched_queries": [
-        "topic:ai pushed:>2026-04-02 stars:>50"
-      ],
-      "owner_login": "notque",
-      "tags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "ai-pipelines",
-        "ai-skills",
-        "ai-workflows",
-        "claude",
-        "claude-code",
-        "youtube"
-      ]
-    },
-    {
       "repo_name": "nodetool-ai/nodetool",
       "url": "https://github.com/nodetool-ai/nodetool",
       "description": "Visual Builder for AI Workflows and Agents",
@@ -2615,8 +2850,8 @@
         "stable-diffusion"
       ],
       "created_at": "2024-03-25T13:09:15Z",
-      "updated_at": "2026-05-02T09:14:38Z",
-      "pushed_at": "2026-05-02T09:14:34Z",
+      "updated_at": "2026-05-02T09:33:05Z",
+      "pushed_at": "2026-05-02T09:33:02Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-02 stars:>50",
         "topic:llm pushed:>2026-04-02 stars:>50",
@@ -2864,31 +3099,149 @@
       ]
     },
     {
-      "repo_name": "Corvid-lang/Corvid-lang",
-      "url": "https://github.com/Corvid-lang/Corvid-lang",
-      "description": "The programming language that checks your AI before it runs.",
-      "stars": 259,
-      "forks": 22,
-      "watchers": 259,
-      "open_issues": 7,
-      "language": "Rust",
-      "topics": [
-        "ai",
-        "llm",
-        "programming-language"
-      ],
-      "created_at": "2024-08-15T10:37:54Z",
-      "updated_at": "2026-05-02T09:18:12Z",
-      "pushed_at": "2026-05-02T09:18:08Z",
+      "repo_name": "gaoyangz77/rivonclaw",
+      "url": "https://github.com/gaoyangz77/rivonclaw",
+      "description": "RivonClaw is an easy-mode runtime and UI layer built on top of OpenClaw, designed to turn long-lived AI agents into personal digital butlers. Instead of configuring skills or workflows, users interact through natural-language rules and feedback, allowing a single agent to evolve, adapt, and better understand its owner over time.",
+      "stars": 256,
+      "forks": 61,
+      "watchers": 256,
+      "open_issues": 1,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-02-07T03:09:07Z",
+      "updated_at": "2026-05-02T09:24:02Z",
+      "pushed_at": "2026-05-02T09:23:58Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-02 stars:>50",
+        "\"ai agents\" pushed:>2026-04-25 stars:>50"
+      ],
+      "owner_login": "gaoyangz77",
+      "tags": [
+        "agents",
+        "ai",
+        "automation"
+      ]
+    },
+    {
+      "repo_name": "xinyitang3/cfnb",
+      "url": "https://github.com/xinyitang3/cfnb",
+      "description": "这是一个全自动的 Cloudflare CDN 节点优选工具。它通过 TCP 延迟筛选 + IP 可用性二次检测 + 真实带宽测速 三重机制，从多个公开数据源中聚合节点，自动识别并解析任意格式（标准代码、中文名、emoji国旗、JSON等），筛选出当前网络环境下速度最快、可用性最高的 Cloudflare IP，并支持自动更新至 Cloudflare DNS 以及同步至 GitHub 仓库，同时支持微信实时通知。",
+      "stars": 244,
+      "forks": 92,
+      "watchers": 244,
+      "open_issues": 1,
+      "language": "Python",
+      "topics": [
+        "automation",
+        "bandwidth-test",
+        "cloudflare",
+        "cloudflare-cdn",
+        "cross-platform",
+        "ip-scanner",
+        "network-optimization",
+        "proxy",
+        "python",
+        "wxpusher"
+      ],
+      "created_at": "2026-04-19T06:34:41Z",
+      "updated_at": "2026-05-02T09:32:08Z",
+      "pushed_at": "2026-05-02T09:32:05Z",
+      "matched_queries": [
+        "topic:automation pushed:>2026-04-02 stars:>25"
+      ],
+      "owner_login": "xinyitang3",
+      "tags": [
+        "automation",
+        "bandwidth-test",
+        "cloudflare",
+        "cloudflare-cdn",
+        "cross-platform",
+        "github",
+        "ip-scanner",
+        "network-optimization",
+        "proxy",
+        "python",
+        "wxpusher"
+      ]
+    },
+    {
+      "repo_name": "esengine/reasonix",
+      "url": "https://github.com/esengine/reasonix",
+      "description": "DeepSeek-native agent framework: Cache-First Loop, R1 Thought Harvesting, Tool-Call Repair. TypeScript + Ink TUI.",
+      "stars": 243,
+      "forks": 16,
+      "watchers": 243,
+      "open_issues": 11,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "deepseek",
+        "ink",
+        "llm",
+        "prompt-caching",
+        "r1",
+        "tool-use",
+        "tui",
+        "typescript"
+      ],
+      "created_at": "2026-04-21T08:27:02Z",
+      "updated_at": "2026-05-02T09:29:28Z",
+      "pushed_at": "2026-05-02T09:32:38Z",
+      "matched_queries": [
         "topic:llm pushed:>2026-04-02 stars:>50"
       ],
-      "owner_login": "Corvid-lang",
+      "owner_login": "esengine",
       "tags": [
+        "agent",
+        "agent-framework",
+        "agents",
         "ai",
+        "deepseek",
+        "ink",
         "llm",
-        "programming-language"
+        "prompt-caching",
+        "r1",
+        "tool-use",
+        "tui",
+        "typescript"
+      ]
+    },
+    {
+      "repo_name": "tomasz-tomczyk/crit",
+      "url": "https://github.com/tomasz-tomczyk/crit",
+      "description": "Your feedback loop with the agent",
+      "stars": 218,
+      "forks": 17,
+      "watchers": 218,
+      "open_issues": 8,
+      "language": "Go",
+      "topics": [
+        "agentic-coding",
+        "ai-agents",
+        "ai-tools",
+        "cli",
+        "code-review",
+        "developer-tools",
+        "llm",
+        "markdown"
+      ],
+      "created_at": "2026-02-16T15:39:33Z",
+      "updated_at": "2026-05-02T09:30:46Z",
+      "pushed_at": "2026-05-02T09:31:56Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-02 stars:>50"
+      ],
+      "owner_login": "tomasz-tomczyk",
+      "tags": [
+        "agentic-coding",
+        "agents",
+        "ai-agents",
+        "ai-tools",
+        "cli",
+        "code-review",
+        "developer-tools",
+        "llm",
+        "markdown"
       ]
     },
     {
@@ -2909,8 +3262,8 @@
         "writing"
       ],
       "created_at": "2026-03-10T15:31:12Z",
-      "updated_at": "2026-05-02T09:20:20Z",
-      "pushed_at": "2026-05-02T09:20:16Z",
+      "updated_at": "2026-05-02T09:20:53Z",
+      "pushed_at": "2026-05-02T09:20:51Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-02 stars:>25"
       ],
@@ -2957,9 +3310,10 @@
         "openai"
       ],
       "created_at": "2026-03-23T03:28:17Z",
-      "updated_at": "2026-05-02T09:10:52Z",
-      "pushed_at": "2026-05-02T09:10:48Z",
+      "updated_at": "2026-05-02T09:32:04Z",
+      "pushed_at": "2026-05-02T09:32:01Z",
       "matched_queries": [
+        "topic:ai pushed:>2026-04-02 stars:>50",
         "topic:llm pushed:>2026-04-02 stars:>50"
       ],
       "owner_login": "alistaitsacle",
@@ -3026,18 +3380,55 @@
       ]
     },
     {
+      "repo_name": "AOrbitron/Eridanus",
+      "url": "https://github.com/AOrbitron/Eridanus",
+      "description": "基于 OneBot 协议的多功能bot兼开发框架。以llm function calling为核心构建了更智能的功能调用机制。",
+      "stars": 186,
+      "forks": 33,
+      "watchers": 186,
+      "open_issues": 5,
+      "language": "Python",
+      "topics": [
+        "framework",
+        "function-calling",
+        "gemini-api",
+        "llm",
+        "onebot11",
+        "openai-api",
+        "qqbot",
+        "robot"
+      ],
+      "created_at": "2024-07-23T15:12:36Z",
+      "updated_at": "2026-05-02T09:29:00Z",
+      "pushed_at": "2026-05-02T09:28:56Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-02 stars:>50"
+      ],
+      "owner_login": "AOrbitron",
+      "tags": [
+        "framework",
+        "function-calling",
+        "gemini-api",
+        "llm",
+        "onebot11",
+        "openai-api",
+        "qqbot",
+        "robot"
+      ]
+    },
+    {
       "repo_name": "h0x91b/dev-3.0",
       "url": "https://github.com/h0x91b/dev-3.0",
       "description": "App that helps you to not get lost while you managing million AI agents's in different projects.",
       "stars": 185,
       "forks": 14,
       "watchers": 185,
-      "open_issues": 15,
+      "open_issues": 16,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-02-18T12:21:07Z",
       "updated_at": "2026-05-02T09:18:49Z",
-      "pushed_at": "2026-05-02T09:18:45Z",
+      "pushed_at": "2026-05-02T09:25:04Z",
       "matched_queries": [
         "\"ai agents\" pushed:>2026-04-25 stars:>50"
       ],
@@ -3045,6 +3436,35 @@
       "tags": [
         "agents",
         "ai"
+      ]
+    },
+    {
+      "repo_name": "m-mizutani/gollem",
+      "url": "https://github.com/m-mizutani/gollem",
+      "description": "Go framework for agentic AI app with MCP and built-in tools",
+      "stars": 185,
+      "forks": 10,
+      "watchers": 185,
+      "open_issues": 0,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "go",
+        "llm"
+      ],
+      "created_at": "2025-04-19T03:36:30Z",
+      "updated_at": "2026-05-02T09:25:26Z",
+      "pushed_at": "2026-05-02T09:25:20Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-02 stars:>50"
+      ],
+      "owner_login": "m-mizutani",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "go",
+        "llm"
       ]
     },
     {
@@ -3134,7 +3554,6 @@
       "updated_at": "2026-05-02T09:18:16Z",
       "pushed_at": "2026-05-02T09:18:23Z",
       "matched_queries": [
-        "topic:llm pushed:>2026-04-02 stars:>50",
         "topic:agents pushed:>2026-04-02 stars:>25",
         "topic:rag pushed:>2026-04-02 stars:>25"
       ],
@@ -3157,53 +3576,25 @@
       ]
     },
     {
-      "repo_name": "edwin-hao-ai/Awareness-Local",
-      "url": "https://github.com/edwin-hao-ai/Awareness-Local",
-      "description": "Local-first AI agent memory — one command, works offline, no account needed. Give your Claude Code, Cursor, Windsurf, OpenClaw agent persistent memory. Markdown storage, hybrid search (FTS5 + embedding), MCP protocol, Web dashboard.",
-      "stars": 162,
-      "forks": 2,
-      "watchers": 162,
-      "open_issues": 1,
-      "language": "JavaScript",
-      "topics": [
-        "ai-agent",
-        "ai-memory",
-        "claude-code",
-        "cursor",
-        "llm",
-        "local-first",
-        "markdown",
-        "mcp",
-        "offline",
-        "openclaw",
-        "persistent-memory",
-        "sqlite",
-        "windsurf"
-      ],
-      "created_at": "2026-03-22T05:57:28Z",
-      "updated_at": "2026-05-02T09:06:30Z",
-      "pushed_at": "2026-05-02T09:06:27Z",
+      "repo_name": "heypinchy/pinchy",
+      "url": "https://github.com/heypinchy/pinchy",
+      "description": "Self-hosted AI agent platform built on OpenClaw. Enterprise-ready, offline-capable, open source. 🦞",
+      "stars": 153,
+      "forks": 19,
+      "watchers": 153,
+      "open_issues": 59,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-02-18T08:28:46Z",
+      "updated_at": "2026-05-02T09:32:42Z",
+      "pushed_at": "2026-05-02T09:32:39Z",
       "matched_queries": [
         "\"ai agents\" pushed:>2026-04-25 stars:>50"
       ],
-      "owner_login": "edwin-hao-ai",
+      "owner_login": "heypinchy",
       "tags": [
         "agents",
-        "ai",
-        "ai-agent",
-        "ai-memory",
-        "claude-code",
-        "cursor",
-        "llm",
-        "local-first",
-        "markdown",
-        "mcp",
-        "offline",
-        "openclaw",
-        "persistent-memory",
-        "rag",
-        "sqlite",
-        "windsurf"
+        "ai"
       ]
     },
     {
@@ -3250,8 +3641,6 @@
       "updated_at": "2026-05-02T09:18:45Z",
       "pushed_at": "2026-05-02T09:18:42Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-02 stars:>50",
-        "topic:llm pushed:>2026-04-02 stars:>50",
         "topic:agents pushed:>2026-04-02 stars:>25"
       ],
       "owner_login": "voocel",
@@ -3302,64 +3691,34 @@
       ]
     },
     {
-      "repo_name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-      "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-      "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic search via Qdrant vector DB",
-      "stars": 141,
-      "forks": 34,
-      "watchers": 141,
-      "open_issues": 4,
-      "language": "HTML",
+      "repo_name": "edonyzpc/personal-assistant",
+      "url": "https://github.com/edonyzpc/personal-assistant",
+      "description": "A plugin that harnesses AI agents and streamlining techniques to help you automatically manage Obsidian.",
+      "stars": 143,
+      "forks": 8,
+      "watchers": 143,
+      "open_issues": 21,
+      "language": "TypeScript",
       "topics": [
-        "agentic-workflow",
-        "ai-agents",
-        "antigravity",
-        "bim",
-        "cad",
-        "claude-code",
-        "construction",
-        "cost-estimation",
-        "dwg",
-        "estimation",
-        "ifc",
-        "kilocode",
-        "n8n",
-        "opencode",
-        "pipeline",
-        "qdrant",
-        "revit",
-        "vector-database",
-        "workflow"
+        "obsidian-md",
+        "obsidian-plugin",
+        "obsidianmd",
+        "plugin"
       ],
-      "created_at": "2025-12-09T06:19:41Z",
-      "updated_at": "2026-05-02T09:05:07Z",
-      "pushed_at": "2026-05-02T09:05:03Z",
+      "created_at": "2022-06-17T07:46:25Z",
+      "updated_at": "2026-05-02T09:26:58Z",
+      "pushed_at": "2026-05-02T09:26:52Z",
       "matched_queries": [
         "\"ai agents\" pushed:>2026-04-25 stars:>50"
       ],
-      "owner_login": "datadrivenconstruction",
+      "owner_login": "edonyzpc",
       "tags": [
-        "agentic-workflow",
         "agents",
         "ai",
-        "ai-agents",
-        "antigravity",
-        "bim",
-        "cad",
-        "claude-code",
-        "construction",
-        "cost-estimation",
-        "dwg",
-        "estimation",
-        "ifc",
-        "kilocode",
-        "n8n",
-        "opencode",
-        "pipeline",
-        "qdrant",
-        "revit",
-        "vector-database",
-        "workflow"
+        "obsidian-md",
+        "obsidian-plugin",
+        "obsidianmd",
+        "plugin"
       ]
     },
     {
@@ -3461,33 +3820,6 @@
       ]
     },
     {
-      "repo_name": "NeverSight/learn-skills.dev",
-      "url": "https://github.com/NeverSight/learn-skills.dev",
-      "description": "Curated high-quality AI Agent Skills. Search, install, copy and share. Works with Claude Code, Cursor, OpenClaw, and other AI coding tools.",
-      "stars": 123,
-      "forks": 27,
-      "watchers": 123,
-      "open_issues": 2,
-      "language": null,
-      "topics": [
-        "learn-skills",
-        "skills"
-      ],
-      "created_at": "2026-01-27T04:18:20Z",
-      "updated_at": "2026-05-02T09:05:37Z",
-      "pushed_at": "2026-05-02T09:05:32Z",
-      "matched_queries": [
-        "\"ai agents\" pushed:>2026-04-25 stars:>50"
-      ],
-      "owner_login": "NeverSight",
-      "tags": [
-        "agents",
-        "ai",
-        "learn-skills",
-        "skills"
-      ]
-    },
-    {
       "repo_name": "JetXu-LLM/DocMason",
       "url": "https://github.com/JetXu-LLM/DocMason",
       "description": "DocMason is a repo-native agent that turns your complex office files into a local LLM knowledge base and your second brain. The repo is the app. Codex is the runtime.",
@@ -3519,68 +3851,6 @@
         "knowledge-base",
         "llm",
         "repo-native-agent-app"
-      ]
-    },
-    {
-      "repo_name": "Alex8791-cyber/cognithor",
-      "url": "https://github.com/Alex8791-cyber/cognithor",
-      "description": "Cognithor · Agent OS: Local-first autonomous agent operating system. 19 LLM providers, 18 channels, 145 MCP tools, 6-tier memory, Agent Packs marketplace, zero telemetry. Python 3.12+, Apache 2.0.",
-      "stars": 118,
-      "forks": 18,
-      "watchers": 118,
-      "open_issues": 1,
-      "language": "Python",
-      "topics": [
-        "agent-os",
-        "ai-agent",
-        "anthropic",
-        "autonomous-agent",
-        "discord-bot",
-        "document-analysis",
-        "gdpr-compliant",
-        "gemini",
-        "hierarchical-retrieval",
-        "knowledge-graph",
-        "knowledge-synthesis",
-        "knowledge-vault",
-        "llm",
-        "local-first",
-        "mcp",
-        "multi-llm",
-        "obsidian",
-        "ollama",
-        "openai",
-        "telegram-bot"
-      ],
-      "created_at": "2026-02-25T01:24:40Z",
-      "updated_at": "2026-05-02T09:12:19Z",
-      "pushed_at": "2026-05-02T09:17:57Z",
-      "matched_queries": [
-        "topic:llm pushed:>2026-04-02 stars:>50"
-      ],
-      "owner_login": "Alex8791-cyber",
-      "tags": [
-        "agent-os",
-        "agents",
-        "ai-agent",
-        "anthropic",
-        "autonomous-agent",
-        "discord-bot",
-        "document-analysis",
-        "gdpr-compliant",
-        "gemini",
-        "hierarchical-retrieval",
-        "knowledge-graph",
-        "knowledge-synthesis",
-        "knowledge-vault",
-        "llm",
-        "local-first",
-        "mcp",
-        "multi-llm",
-        "obsidian",
-        "ollama",
-        "openai",
-        "telegram-bot"
       ]
     },
     {
@@ -3765,6 +4035,49 @@
       ]
     },
     {
+      "repo_name": "sepivip/SeekerClaw",
+      "url": "https://github.com/sepivip/SeekerClaw",
+      "description": "Turn your Solana Seeker (or any Android phone) into a 24/7 personal AI agent",
+      "stars": 102,
+      "forks": 29,
+      "watchers": 102,
+      "open_issues": 40,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "android",
+        "anthropic",
+        "claude",
+        "jetpack-compose",
+        "kotlin",
+        "nodejs",
+        "openclaw",
+        "solana",
+        "telegram-bot"
+      ],
+      "created_at": "2026-02-02T18:23:20Z",
+      "updated_at": "2026-05-02T09:24:26Z",
+      "pushed_at": "2026-05-02T09:24:24Z",
+      "matched_queries": [
+        "\"ai agents\" pushed:>2026-04-25 stars:>50"
+      ],
+      "owner_login": "sepivip",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agent",
+        "android",
+        "anthropic",
+        "claude",
+        "jetpack-compose",
+        "kotlin",
+        "nodejs",
+        "openclaw",
+        "solana",
+        "telegram-bot"
+      ]
+    },
+    {
       "repo_name": "hugodemenez/deltalytix",
       "url": "https://github.com/hugodemenez/deltalytix",
       "description": "Trading journal with AI agents and dashboard with statistics",
@@ -3827,7 +4140,7 @@
       "stars": 82,
       "forks": 7,
       "watchers": 82,
-      "open_issues": 15,
+      "open_issues": 16,
       "language": "Rust",
       "topics": [
         "agent-runtime",
@@ -3838,7 +4151,7 @@
       ],
       "created_at": "2025-12-18T11:46:49Z",
       "updated_at": "2026-05-02T09:10:30Z",
-      "pushed_at": "2026-05-02T09:10:27Z",
+      "pushed_at": "2026-05-02T09:23:46Z",
       "matched_queries": [
         "\"ai agents\" pushed:>2026-04-25 stars:>50"
       ],
@@ -3851,202 +4164,6 @@
         "ai-infrastructure",
         "developer-tools",
         "local-first"
-      ]
-    },
-    {
-      "repo_name": "vellum-ai/vellum-assistant",
-      "url": "https://github.com/vellum-ai/vellum-assistant",
-      "description": "A personal AI assistant that evolves with you. Memory, personality, proactive reach-outs — across macOS, Telegram, and Slack.",
-      "stars": 78,
-      "forks": 9,
-      "watchers": 78,
-      "open_issues": 101,
-      "language": "TypeScript",
-      "topics": [
-        "ai-assistant",
-        "anthropic",
-        "llm",
-        "macos",
-        "open-source",
-        "openai",
-        "personal-ai",
-        "slack-bot",
-        "telegram-bot",
-        "typescript"
-      ],
-      "created_at": "2026-02-07T21:19:17Z",
-      "updated_at": "2026-05-02T09:14:25Z",
-      "pushed_at": "2026-05-02T09:14:22Z",
-      "matched_queries": [
-        "topic:llm pushed:>2026-04-02 stars:>50"
-      ],
-      "owner_login": "vellum-ai",
-      "tags": [
-        "ai",
-        "ai-assistant",
-        "anthropic",
-        "llm",
-        "macos",
-        "open-source",
-        "openai",
-        "personal-ai",
-        "slack-bot",
-        "telegram-bot",
-        "typescript"
-      ]
-    },
-    {
-      "repo_name": "react18-tools/turborepo-template",
-      "url": "https://github.com/react18-tools/turborepo-template",
-      "description": "Template for creating React 19 / Next.js 15 libraries",
-      "stars": 77,
-      "forks": 6,
-      "watchers": 77,
-      "open_issues": 1,
-      "language": "TypeScript",
-      "topics": [
-        "automation",
-        "cicd",
-        "fork",
-        "fork-me",
-        "github-actions",
-        "mayank1513",
-        "nextjs",
-        "nextjs14",
-        "nextjs15",
-        "nodejs",
-        "react",
-        "react18",
-        "reactjs-libraries",
-        "server-components",
-        "template",
-        "tsup",
-        "turborepo",
-        "typescript",
-        "up-for-grabs",
-        "vitest"
-      ],
-      "created_at": "2023-08-27T02:45:50Z",
-      "updated_at": "2026-05-02T09:00:20Z",
-      "pushed_at": "2026-05-02T09:00:16Z",
-      "matched_queries": [
-        "topic:automation pushed:>2026-04-02 stars:>25"
-      ],
-      "owner_login": "react18-tools",
-      "tags": [
-        "automation",
-        "cicd",
-        "fork",
-        "fork-me",
-        "github",
-        "github-actions",
-        "mayank1513",
-        "nextjs",
-        "nextjs14",
-        "nextjs15",
-        "nodejs",
-        "react",
-        "react18",
-        "reactjs-libraries",
-        "server-components",
-        "template",
-        "tsup",
-        "turborepo",
-        "typescript",
-        "up-for-grabs",
-        "vitest"
-      ]
-    },
-    {
-      "repo_name": "nathandev0/Tinder_Automation_Bot",
-      "url": "https://github.com/nathandev0/Tinder_Automation_Bot",
-      "description": "Tinder Automation Bot (appium-based Tinder account creation and swiping on real devices iOS / Android)",
-      "stars": 75,
-      "forks": 2,
-      "watchers": 75,
-      "open_issues": 0,
-      "language": "Python",
-      "topics": [
-        "account-creator",
-        "account-generator",
-        "ai",
-        "appium-android",
-        "appium-automation",
-        "appium-ios",
-        "tinder",
-        "tinder-api",
-        "tinder-automation",
-        "tinder-bot",
-        "tinder-swiper",
-        "tinderapi",
-        "tinderbot"
-      ],
-      "created_at": "2024-03-30T17:44:47Z",
-      "updated_at": "2026-05-02T09:14:13Z",
-      "pushed_at": "2026-05-02T09:14:08Z",
-      "matched_queries": [
-        "topic:ai pushed:>2026-04-02 stars:>50"
-      ],
-      "owner_login": "nathandev0",
-      "tags": [
-        "account-creator",
-        "account-generator",
-        "ai",
-        "appium-android",
-        "appium-automation",
-        "appium-ios",
-        "automation",
-        "tinder",
-        "tinder-api",
-        "tinder-automation",
-        "tinder-bot",
-        "tinder-swiper",
-        "tinderapi",
-        "tinderbot"
-      ]
-    },
-    {
-      "repo_name": "whiteguo233/OpenBiliClaw",
-      "url": "https://github.com/whiteguo233/OpenBiliClaw",
-      "description": "通用个性化内容推荐 Agent —— 跑在你自己电脑上，用心理画像而不是点击记录跨平台理解你，主动帮你发现从没接触过的好内容。项目最初是想做一个开源、私有、思路完全不同的 B 站推荐算法平替（项目名由此而来：Open + Bili + Claw），现已演进为支持小红书、通用 Web 的通用跨平台 Agent",
-      "stars": 74,
-      "forks": 7,
-      "watchers": 74,
-      "open_issues": 0,
-      "language": "Python",
-      "topics": [
-        "ai-agent",
-        "bilibili",
-        "content-discovery",
-        "cross-platform",
-        "llm",
-        "multi-source",
-        "open-source",
-        "personality-profiling",
-        "privacy-first",
-        "recommendation-system",
-        "xiaohongshu"
-      ],
-      "created_at": "2026-03-07T13:46:10Z",
-      "updated_at": "2026-05-02T09:17:03Z",
-      "pushed_at": "2026-05-02T09:17:00Z",
-      "matched_queries": [
-        "topic:llm pushed:>2026-04-02 stars:>50"
-      ],
-      "owner_login": "whiteguo233",
-      "tags": [
-        "agents",
-        "ai-agent",
-        "bilibili",
-        "content-discovery",
-        "cross-platform",
-        "llm",
-        "multi-source",
-        "open-source",
-        "personality-profiling",
-        "privacy-first",
-        "recommendation-system",
-        "xiaohongshu"
       ]
     },
     {
@@ -4066,8 +4183,8 @@
         "security"
       ],
       "created_at": "2026-01-11T07:07:47Z",
-      "updated_at": "2026-05-02T09:13:14Z",
-      "pushed_at": "2026-05-02T09:13:16Z",
+      "updated_at": "2026-05-02T09:29:57Z",
+      "pushed_at": "2026-05-02T09:29:54Z",
       "matched_queries": [
         "\"ai agents\" pushed:>2026-04-25 stars:>50"
       ],
@@ -4081,6 +4198,50 @@
         "mesh-networking",
         "rust",
         "security"
+      ]
+    },
+    {
+      "repo_name": "vtempest/qwksearch-research-agent",
+      "url": "https://github.com/vtempest/qwksearch-research-agent",
+      "description": "   🤖🔎 STREAM: Search with Top Result Extraction & Answer Model 🔤📊 SEEKTOPIC 🚜📜  Tractor the Text Extractor  📈📝  REASON Docs Writing Agent",
+      "stars": 72,
+      "forks": 10,
+      "watchers": 72,
+      "open_issues": 0,
+      "language": "TypeScript",
+      "topics": [
+        "ai-search",
+        "autocomplete",
+        "hacktoberfest",
+        "keywords",
+        "knowledge-graph",
+        "mind-map",
+        "nlp",
+        "perplexity",
+        "rag",
+        "search-algorithm",
+        "wikipedia"
+      ],
+      "created_at": "2024-07-04T21:22:49Z",
+      "updated_at": "2026-05-02T09:25:09Z",
+      "pushed_at": "2026-05-02T09:25:05Z",
+      "matched_queries": [
+        "topic:rag pushed:>2026-04-02 stars:>25"
+      ],
+      "owner_login": "vtempest",
+      "tags": [
+        "agents",
+        "ai-search",
+        "autocomplete",
+        "hacktoberfest",
+        "keywords",
+        "knowledge-graph",
+        "mind-map",
+        "nlp",
+        "perplexity",
+        "rag",
+        "search-algorithm",
+        "wikipedia"
       ]
     },
     {
@@ -4197,8 +4358,8 @@
         "telegrambot"
       ],
       "created_at": "2026-03-12T08:32:26Z",
-      "updated_at": "2026-05-02T09:19:40Z",
-      "pushed_at": "2026-05-02T09:19:36Z",
+      "updated_at": "2026-05-02T09:31:10Z",
+      "pushed_at": "2026-05-02T09:31:07Z",
       "matched_queries": [
         "\"ai agents\" pushed:>2026-04-25 stars:>50"
       ],
@@ -4291,56 +4452,6 @@
         "vue",
         "workflow-automation",
         "workflows"
-      ]
-    },
-    {
-      "repo_name": "automatika-robotics/embodied-agents",
-      "url": "https://github.com/automatika-robotics/embodied-agents",
-      "description": "EmbodiedAgents is a fully-loaded ROS2 based framework for creating interactive physical agents that can understand, remember, and act upon contextual information from their environment.",
-      "stars": 55,
-      "forks": 5,
-      "watchers": 55,
-      "open_issues": 0,
-      "language": "Python",
-      "topics": [
-        "deeplearning",
-        "embodied-agent",
-        "embodied-ai",
-        "generative-ai",
-        "godel-machine",
-        "llm",
-        "machine-learning",
-        "multimodal",
-        "ollama",
-        "physical-ai",
-        "roboml",
-        "robotics",
-        "ros2",
-        "vllm"
-      ],
-      "created_at": "2023-09-05T16:11:25Z",
-      "updated_at": "2026-05-02T09:13:05Z",
-      "pushed_at": "2026-05-02T09:13:03Z",
-      "matched_queries": [
-        "topic:llm pushed:>2026-04-02 stars:>50"
-      ],
-      "owner_login": "automatika-robotics",
-      "tags": [
-        "agents",
-        "deeplearning",
-        "embodied-agent",
-        "embodied-ai",
-        "generative-ai",
-        "godel-machine",
-        "llm",
-        "machine-learning",
-        "multimodal",
-        "ollama",
-        "physical-ai",
-        "roboml",
-        "robotics",
-        "ros2",
-        "vllm"
       ]
     },
     {
@@ -4709,7 +4820,7 @@
       ],
       "created_at": "2026-01-15T14:37:51Z",
       "updated_at": "2026-05-02T09:15:55Z",
-      "pushed_at": "2026-05-02T09:18:10Z",
+      "pushed_at": "2026-05-02T09:21:16Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-02 stars:>25"
       ],
@@ -4773,50 +4884,6 @@
         "task-scheduler",
         "telegram-bot",
         "workflow-automation"
-      ]
-    },
-    {
-      "repo_name": "IgorGanapolsky/trading",
-      "url": "https://github.com/IgorGanapolsky/trading",
-      "description": "Paper-first SPY options validation platform with broker-backed scorecards, hard risk gates, paired-trade accounting, and live dashboards.",
-      "stars": 30,
-      "forks": 8,
-      "watchers": 30,
-      "open_issues": 2,
-      "language": "Python",
-      "topics": [
-        "algorithmic-trading",
-        "autonomous-trading",
-        "iron-condor",
-        "machine-learning",
-        "options-trading",
-        "paper-trading",
-        "python",
-        "quantitative-finance",
-        "rag",
-        "risk-management",
-        "spy"
-      ],
-      "created_at": "2025-10-30T14:44:39Z",
-      "updated_at": "2026-05-02T08:37:35Z",
-      "pushed_at": "2026-05-02T08:40:13Z",
-      "matched_queries": [
-        "topic:rag pushed:>2026-04-02 stars:>25"
-      ],
-      "owner_login": "IgorGanapolsky",
-      "tags": [
-        "ai",
-        "algorithmic-trading",
-        "autonomous-trading",
-        "iron-condor",
-        "machine-learning",
-        "options-trading",
-        "paper-trading",
-        "python",
-        "quantitative-finance",
-        "rag",
-        "risk-management",
-        "spy"
       ]
     },
     {
@@ -4997,8 +5064,8 @@
         "xgboost"
       ],
       "created_at": "2023-04-30T17:05:05Z",
-      "updated_at": "2026-05-02T09:08:48Z",
-      "pushed_at": "2026-05-02T09:08:45Z",
+      "updated_at": "2026-05-02T09:23:56Z",
+      "pushed_at": "2026-05-02T09:23:32Z",
       "matched_queries": [
         "topic:rag pushed:>2026-04-02 stars:>25"
       ],
@@ -5048,8 +5115,8 @@
         "wordpress-widget"
       ],
       "created_at": "2016-04-18T06:30:26Z",
-      "updated_at": "2026-05-02T09:17:05Z",
-      "pushed_at": "2026-05-02T09:17:02Z",
+      "updated_at": "2026-05-02T09:25:28Z",
+      "pushed_at": "2026-05-02T09:26:20Z",
       "matched_queries": [
         "topic:seo pushed:>2026-04-02 stars:>10"
       ],
@@ -5078,7 +5145,7 @@
       "stars": 27,
       "forks": 1,
       "watchers": 27,
-      "open_issues": 0,
+      "open_issues": 1,
       "language": "Python",
       "topics": [
         "agents",
@@ -5102,7 +5169,7 @@
       ],
       "created_at": "2025-11-15T18:52:29Z",
       "updated_at": "2026-05-02T09:17:47Z",
-      "pushed_at": "2026-05-02T09:17:42Z",
+      "pushed_at": "2026-05-02T09:28:18Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-02 stars:>25"
       ],
@@ -5317,7 +5384,7 @@
       "stars": 24,
       "forks": 6,
       "watchers": 24,
-      "open_issues": 63,
+      "open_issues": 68,
       "language": "TypeScript",
       "topics": [
         "ai-agents",
@@ -5331,7 +5398,7 @@
       ],
       "created_at": "2025-11-28T04:38:21Z",
       "updated_at": "2026-05-02T08:40:48Z",
-      "pushed_at": "2026-05-02T08:40:44Z",
+      "pushed_at": "2026-05-02T09:31:59Z",
       "matched_queries": [
         "\"workflow automation\" pushed:>2026-04-02 stars:>10"
       ],
@@ -5640,7 +5707,7 @@
   ],
   "meta": {
     "query_count": 10,
-    "item_count": 129,
+    "item_count": 131,
     "errors": []
   }
 }

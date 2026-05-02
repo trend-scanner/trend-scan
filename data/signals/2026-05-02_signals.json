@@ -35,10 +35,54 @@
       ],
       "entity_key": "langbot-app/LangBot",
       "metrics": {
-        "stars": 15952,
+        "stars": 15953,
         "forks": 1414,
-        "watchers": 15952,
+        "watchers": 15953,
         "open_issues": 114
+      },
+      "deltas": {
+        "stars": 0.0,
+        "forks": 0.0
+      }
+    },
+    {
+      "title": "intuitem/ciso-assistant-community",
+      "layer": "BEHAVIOR",
+      "source": "github",
+      "reason": "github_repo_surge",
+      "importance": "high",
+      "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
+      "url": "https://github.com/intuitem/ciso-assistant-community",
+      "tags": [
+        "audit",
+        "automation",
+        "bsi",
+        "cis",
+        "compliance",
+        "cybersecurity",
+        "dora",
+        "ebios-rm",
+        "gdpr",
+        "github",
+        "grc",
+        "isms",
+        "iso27001",
+        "llm",
+        "mcp",
+        "nis2",
+        "nist",
+        "quantification",
+        "regulation",
+        "risk-management",
+        "security",
+        "soc2"
+      ],
+      "entity_key": "intuitem/ciso-assistant-community",
+      "metrics": {
+        "stars": 4006,
+        "forks": 707,
+        "watchers": 4006,
+        "open_issues": 125
       },
       "deltas": {
         "stars": 0.0,
@@ -79,10 +123,53 @@
       ],
       "entity_key": "Anil-matcha/Open-Generative-AI",
       "metrics": {
-        "stars": 10720,
+        "stars": 10722,
         "forks": 1872,
-        "watchers": 10720,
+        "watchers": 10722,
         "open_issues": 7
+      },
+      "deltas": {
+        "stars": 0.0,
+        "forks": 0.0
+      }
+    },
+    {
+      "title": "pbek/QOwnNotes",
+      "layer": "BEHAVIOR",
+      "source": "github",
+      "reason": "github_repo_surge",
+      "importance": "high",
+      "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
+      "url": "https://github.com/pbek/QOwnNotes",
+      "tags": [
+        "ai",
+        "bookmark",
+        "c-plus-plus",
+        "caldav",
+        "chrome-extension",
+        "dropbox",
+        "firefox-extension",
+        "llm",
+        "local-first",
+        "markdown",
+        "nextcloud",
+        "nextcloud-notes",
+        "note-taking",
+        "notebook",
+        "notes",
+        "owncloud",
+        "pim",
+        "pkm",
+        "qownnotes",
+        "qt",
+        "second-brain"
+      ],
+      "entity_key": "pbek/QOwnNotes",
+      "metrics": {
+        "stars": 5731,
+        "forks": 496,
+        "watchers": 5731,
+        "open_issues": 105
       },
       "deltas": {
         "stars": 0.0,
@@ -125,7 +212,7 @@
         "stars": 45256,
         "forks": 16981,
         "watchers": 45256,
-        "open_issues": 1717
+        "open_issues": 1715
       },
       "deltas": {
         "stars": 0.0,
@@ -164,9 +251,9 @@
       ],
       "entity_key": "n8n-io/n8n",
       "metrics": {
-        "stars": 186436,
-        "forks": 57284,
-        "watchers": 186436,
+        "stars": 186437,
+        "forks": 57283,
+        "watchers": 186437,
         "open_issues": 1574
       },
       "deltas": {
@@ -245,9 +332,9 @@
       ],
       "entity_key": "simstudioai/sim",
       "metrics": {
-        "stars": 28259,
-        "forks": 3563,
-        "watchers": 28259,
+        "stars": 28260,
+        "forks": 3564,
+        "watchers": 28260,
         "open_issues": 199
       },
       "deltas": {
@@ -285,9 +372,9 @@
       ],
       "entity_key": "sgl-project/sglang",
       "metrics": {
-        "stars": 26927,
+        "stars": 26929,
         "forks": 5661,
-        "watchers": 26927,
+        "watchers": 26929,
         "open_issues": 3171
       },
       "deltas": {
@@ -403,10 +490,10 @@
       ],
       "entity_key": "NousResearch/hermes-agent",
       "metrics": {
-        "stars": 128837,
-        "forks": 19412,
-        "watchers": 128837,
-        "open_issues": 7678
+        "stars": 128858,
+        "forks": 19416,
+        "watchers": 128858,
+        "open_issues": 7675
       },
       "deltas": {
         "stars": 0.0,
@@ -564,70 +651,34 @@
       }
     },
     {
-      "title": "rtk-ai/rtk",
+      "title": "lobehub/lobehub",
       "layer": "BEHAVIOR",
       "source": "github",
       "reason": "github_repo_surge",
       "importance": "high",
       "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
-      "url": "https://github.com/rtk-ai/rtk",
+      "url": "https://github.com/lobehub/lobehub",
       "tags": [
-        "agentic-coding",
+        "agent",
+        "agent-collaboration",
+        "agent-harness",
+        "agents",
         "ai",
-        "ai-coding",
-        "anthropic",
-        "claude-code",
-        "cli",
-        "command-line-tool",
-        "cost-reduction",
-        "developer-tools",
-        "llm",
-        "open-source",
-        "productivity",
-        "rust",
-        "token-optimization"
-      ],
-      "entity_key": "rtk-ai/rtk",
-      "metrics": {
-        "stars": 39706,
-        "forks": 2412,
-        "watchers": 39706,
-        "open_issues": 784
-      },
-      "deltas": {
-        "stars": 0.0,
-        "forks": 0.0
-      }
-    },
-    {
-      "title": "safishamsi/graphify",
-      "layer": "BEHAVIOR",
-      "source": "github",
-      "reason": "github_repo_surge",
-      "importance": "high",
-      "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
-      "url": "https://github.com/safishamsi/graphify",
-      "tags": [
-        "ai",
-        "antigravity",
-        "claude-code",
-        "codex",
+        "chatgpt",
+        "claude",
+        "deepseek",
         "gemini",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter",
-        "video"
+        "gpt",
+        "knowledge-base",
+        "mcp",
+        "openai"
       ],
-      "entity_key": "safishamsi/graphify",
+      "entity_key": "lobehub/lobehub",
       "metrics": {
-        "stars": 40193,
-        "forks": 4434,
-        "watchers": 40193,
-        "open_issues": 220
+        "stars": 75936,
+        "forks": 15050,
+        "watchers": 75936,
+        "open_issues": 759
       },
       "deltas": {
         "stars": 0.0,
@@ -659,9 +710,9 @@
       ],
       "entity_key": "Narcooo/inkos",
       "metrics": {
-        "stars": 5401,
+        "stars": 5405,
         "forks": 1019,
-        "watchers": 5401,
+        "watchers": 5405,
         "open_issues": 125
       },
       "deltas": {
@@ -737,6 +788,37 @@
       }
     },
     {
+      "title": "koala73/worldmonitor",
+      "layer": "BEHAVIOR",
+      "source": "github",
+      "reason": "github_repo_surge",
+      "importance": "high",
+      "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
+      "url": "https://github.com/koala73/worldmonitor",
+      "tags": [
+        "ai",
+        "dashboard",
+        "geopolitics",
+        "monitoring",
+        "news",
+        "opensource",
+        "osint",
+        "palantir",
+        "situation"
+      ],
+      "entity_key": "koala73/worldmonitor",
+      "metrics": {
+        "stars": 53207,
+        "forks": 8538,
+        "watchers": 53207,
+        "open_issues": 155
+      },
+      "deltas": {
+        "stars": 0.0,
+        "forks": 0.0
+      }
+    },
+    {
       "title": "ZhuLinsen/daily_stock_analysis",
       "layer": "BEHAVIOR",
       "source": "github",
@@ -758,7 +840,7 @@
       "entity_key": "ZhuLinsen/daily_stock_analysis",
       "metrics": {
         "stars": 33619,
-        "forks": 33386,
+        "forks": 33389,
         "watchers": 33619,
         "open_issues": 57
       },
@@ -845,10 +927,10 @@
       ],
       "entity_key": "openclaw/openclaw",
       "metrics": {
-        "stars": 367325,
+        "stars": 367330,
         "forks": 75529,
-        "watchers": 367325,
-        "open_issues": 6653
+        "watchers": 367330,
+        "open_issues": 6654
       },
       "deltas": {
         "stars": 0.0,
@@ -901,30 +983,6 @@
       }
     },
     {
-      "title": "QwenLM/qwen-code",
-      "layer": "BEHAVIOR",
-      "source": "github",
-      "reason": "github_repo_surge",
-      "importance": "high",
-      "summary": "Repository activity suggests real developer adoption or a fast-moving launch.",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "tags": [
-        "agents",
-        "ai"
-      ],
-      "entity_key": "QwenLM/qwen-code",
-      "metrics": {
-        "stars": 24088,
-        "forks": 2320,
-        "watchers": 24088,
-        "open_issues": 720
-      },
-      "deltas": {
-        "stars": 0.0,
-        "forks": 0.0
-      }
-    },
-    {
       "title": "youtube appearing across sources",
       "layer": "MULTI_LAYER",
       "source": "combined",
@@ -941,9 +999,9 @@
         "layer_count": 4
       },
       "examples": [
-        "notque/vexjoy-agent",
         "qzw881130/AI-NovelFlow",
-        "\"I suck\" -theprimeagen [video]"
+        "\"I suck\" -theprimeagen [video]",
+        "AI Mock Interviewer That Challenges You – LoopPass [video]"
       ]
     },
     {
@@ -1013,6 +1071,50 @@
       ]
     },
     {
+      "title": "saas appearing across sources",
+      "layer": "MULTI_LAYER",
+      "source": "combined",
+      "reason": "cross_source_theme",
+      "importance": "high",
+      "summary": "saas showed up across 3 sources and 3 layers.",
+      "url": null,
+      "tags": [
+        "saas"
+      ],
+      "entity_key": "combined:saas",
+      "metrics": {
+        "source_count": 3,
+        "layer_count": 3
+      },
+      "examples": [
+        "pneumaticapp/pneumaticworkflow",
+        "Ask HN: How do you self-host your apps?",
+        "Ask HN: If there're so many advanced vibecoders mad at GitHub, where's everyone?"
+      ]
+    },
+    {
+      "title": "regulation appearing across sources",
+      "layer": "MULTI_LAYER",
+      "source": "combined",
+      "reason": "cross_source_theme",
+      "importance": "high",
+      "summary": "regulation showed up across 3 sources and 3 layers.",
+      "url": null,
+      "tags": [
+        "regulation"
+      ],
+      "entity_key": "combined:regulation",
+      "metrics": {
+        "source_count": 3,
+        "layer_count": 3
+      },
+      "examples": [
+        "intuitem/ciso-assistant-community",
+        "AI clause in new SAP API policy has partners worried over lock-in",
+        "Industrial Policy for the Intelligence Age [pdf]"
+      ]
+    },
+    {
       "title": "rag appearing across sources",
       "layer": "MULTI_LAYER",
       "source": "combined",
@@ -1029,8 +1131,8 @@
         "layer_count": 3
       },
       "examples": [
+        "AnalyseDeCircuit/oxideterm",
         "ConardLi/garden-skills",
-        "IgorGanapolsky/trading",
         "ZhuLinsen/daily_stock_analysis"
       ]
     },
@@ -1040,20 +1142,20 @@
       "source": "combined",
       "reason": "cross_source_theme",
       "importance": "high",
-      "summary": "llm showed up across 3 sources and 3 layers.",
+      "summary": "llm showed up across 4 sources and 4 layers.",
       "url": null,
       "tags": [
         "llm"
       ],
       "entity_key": "combined:llm",
       "metrics": {
-        "source_count": 3,
-        "layer_count": 3
+        "source_count": 4,
+        "layer_count": 4
       },
       "examples": [
         "AINYC/canonry",
-        "Abrechen2/TravStats",
-        "AeternaLabsHQ/pullmd"
+        "AOrbitron/Eridanus",
+        "Abrechen2/TravStats"
       ]
     },
     {
@@ -1118,8 +1220,8 @@
       },
       "examples": [
         "Abrechen2/TravStats",
-        "Azim-Ahmed/Automation-workflow",
-        "DarkKandaoMaster/QuickSay"
+        "AnalyseDeCircuit/oxideterm",
+        "Azim-Ahmed/Automation-workflow"
       ]
     },
     {
@@ -1163,7 +1265,7 @@
       "examples": [
         "AINYC/canonry",
         "AeternaLabsHQ/pullmd",
-        "Alex8791-cyber/cognithor"
+        "CloudChef/atlasclaw"
       ]
     },
     {
@@ -1180,7 +1282,7 @@
       "entity_key": "558934",
       "metrics": {
         "volume": 17935723.65087541,
-        "liquidity": 954475.8807,
+        "liquidity": 954238.00389,
         "max_price": 0.8475
       },
       "deltas": {
@@ -1201,8 +1303,8 @@
       ],
       "entity_key": "556108",
       "metrics": {
-        "volume": 1514682.2688919972,
-        "liquidity": 5324.90347,
+        "volume": 1514712.2688919972,
+        "liquidity": 5368.93108,
         "max_price": 0.635
       },
       "deltas": {
@@ -1224,7 +1326,7 @@
       "entity_key": "558977",
       "metrics": {
         "volume": 16299538.409820065,
-        "liquidity": 6525285.9624,
+        "liquidity": 6525237.82577,
         "max_price": 0.9985
       },
       "deltas": {
@@ -1245,8 +1347,8 @@
       ],
       "entity_key": "559670",
       "metrics": {
-        "volume": 31017851.021557976,
-        "liquidity": 2202851.32895,
+        "volume": 31018093.476056974,
+        "liquidity": 2201748.30857,
         "max_price": 0.9935
       },
       "deltas": {
@@ -1267,8 +1369,8 @@
       ],
       "entity_key": "540843",
       "metrics": {
-        "volume": 1807435.793636061,
-        "liquidity": 45307.8136,
+        "volume": 1807486.193636061,
+        "liquidity": 48695.0474,
         "max_price": 0.505
       },
       "deltas": {
@@ -1290,7 +1392,7 @@
       "entity_key": "47976415",
       "metrics": {
         "score": 379,
-        "comments": 449
+        "comments": 452
       },
       "deltas": {
         "score": 0.0,
@@ -1310,9 +1412,9 @@
       ],
       "entity_key": "540816",
       "metrics": {
-        "volume": 1639186.9118510513,
-        "liquidity": 50186.3509,
-        "max_price": 0.57
+        "volume": 1639239.0718510512,
+        "liquidity": 50225.7322,
+        "max_price": 0.56
       },
       "deltas": {
         "volume": 0.0,
@@ -1332,7 +1434,7 @@
       ],
       "entity_key": "47975571",
       "metrics": {
-        "score": 257,
+        "score": 258,
         "comments": 278
       },
       "deltas": {
@@ -1421,6 +1523,24 @@
       "deltas": {}
     },
     {
+      "title": "Skip to Main Content",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://blog.youtube/#jump-content",
+      "tags": [
+        "ai",
+        "regulation",
+        "video",
+        "youtube"
+      ],
+      "entity_key": "https://blog.youtube/#jump-content",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
       "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
       "layer": "NEWS",
       "source": "rss",
@@ -1439,6 +1559,24 @@
       "deltas": {}
     },
     {
+      "title": "New YouTube report shows how online animators are reshaping the entertainment industry",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://blog.youtube/culture-and-trends/independent-animation-trends-report/",
+      "tags": [
+        "ai",
+        "github",
+        "video",
+        "youtube"
+      ],
+      "entity_key": "https://blog.youtube/culture-and-trends/independent-animation-trends-report/",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
       "title": "Meet travelers in the moments that matter with Search Campaigns for Travel.",
       "layer": "NEWS",
       "source": "rss",
@@ -1453,6 +1591,24 @@
         "rag"
       ],
       "entity_key": "https://blog.google/products/ads-commerce/ai-max-for-travel/",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
+      "title": "How Meta Is Strengthening End-to-End Encrypted Backups",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://engineering.fb.com/2026/05/01/security/meta-strengthening-end-to-end-encrypted-backups/",
+      "tags": [
+        "production-engineering",
+        "rag",
+        "security-&-privacy",
+        "whatsapp"
+      ],
+      "entity_key": "https://engineering.fb.com/?p=23929",
       "metrics": {},
       "deltas": {}
     },
@@ -1546,6 +1702,23 @@
       "deltas": {}
     },
     {
+      "title": "Topics",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://blog.youtube/#topic-hub-nav",
+      "tags": [
+        "ai",
+        "video",
+        "youtube"
+      ],
+      "entity_key": "https://blog.youtube/#topic-hub-nav",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
       "title": "Production-Ready AI Agents: 5 Lessons from Refactoring a Monolith",
       "layer": "NEWS",
       "source": "rss",
@@ -1559,6 +1732,23 @@
         "rag"
       ],
       "entity_key": "https://developers.googleblog.com/production-ready-ai-agents-5-lessons-from-refactoring-a-monolith/",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
+      "title": "Press",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://blog.youtube/press/",
+      "tags": [
+        "ai",
+        "video",
+        "youtube"
+      ],
+      "entity_key": "https://blog.youtube/press/",
       "metrics": {},
       "deltas": {}
     },
@@ -1631,6 +1821,40 @@
       "deltas": {}
     },
     {
+      "title": "Learn the latest line dance routines with YouTube tutorials and playlists",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://blog.youtube/culture-and-trends/line-dancing-trends-youtube/",
+      "tags": [
+        "ai",
+        "video",
+        "youtube"
+      ],
+      "entity_key": "https://blog.youtube/culture-and-trends/line-dancing-trends-youtube/",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
+      "title": "Introducing Claude Opus 4.7 Product",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "tags": [
+        "agents",
+        "ai",
+        "anthropic"
+      ],
+      "entity_key": "https://www.anthropic.com/news/claude-opus-4-7",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
       "title": "Get ready for Google I/O: Livestream schedule revealed",
       "layer": "NEWS",
       "source": "rss",
@@ -1644,6 +1868,40 @@
         "automation"
       ],
       "entity_key": "https://developers.googleblog.com/get-ready-for-google-io-livestream-schedule-revealed/",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
+      "title": "Feed",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://blog.youtube/feed/",
+      "tags": [
+        "ai",
+        "video",
+        "youtube"
+      ],
+      "entity_key": "https://blog.youtube/feed/",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
+      "title": "Culture and Trends",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://blog.youtube/culture-and-trends/",
+      "tags": [
+        "ai",
+        "video",
+        "youtube"
+      ],
+      "entity_key": "https://blog.youtube/culture-and-trends/",
       "metrics": {},
       "deltas": {}
     },
@@ -1784,6 +2042,38 @@
         "score": 0.0,
         "comments": 0.0
       }
+    },
+    {
+      "title": "Responsible Scaling Policy",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "tags": [
+        "anthropic",
+        "regulation"
+      ],
+      "entity_key": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
+      "title": "Product",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "tags": [
+        "ai",
+        "anthropic"
+      ],
+      "entity_key": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "metrics": {},
+      "deltas": {}
     },
     {
       "title": "OpenAI available at FedRAMP Moderate",
@@ -1962,6 +2252,22 @@
       "deltas": {}
     },
     {
+      "title": "Australian government and Anthropic sign MOU for AI safety and research",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://www.anthropic.com/news/australia-MOU",
+      "tags": [
+        "ai",
+        "anthropic"
+      ],
+      "entity_key": "https://www.anthropic.com/news/australia-MOU",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
       "title": "ADK Go 1.0 Arrives!",
       "layer": "NEWS",
       "source": "rss",
@@ -2013,71 +2319,6 @@
         "AINYC/canonry",
         "AbsolutelySkilled/AbsolutelySkilled",
         "JustinBeckwith/linkinator"
-      ]
-    },
-    {
-      "title": "saas appearing across sources",
-      "layer": "MULTI_LAYER",
-      "source": "combined",
-      "reason": "cross_source_theme",
-      "importance": "medium",
-      "summary": "saas showed up across 2 sources and 2 layers.",
-      "url": null,
-      "tags": [
-        "saas"
-      ],
-      "entity_key": "combined:saas",
-      "metrics": {
-        "source_count": 2,
-        "layer_count": 2
-      },
-      "examples": [
-        "pneumaticapp/pneumaticworkflow",
-        "Ask HN: How do you self-host your apps?",
-        "Ask HN: If there're so many advanced vibecoders mad at GitHub, where's everyone?"
-      ]
-    },
-    {
-      "title": "resilience appearing across sources",
-      "layer": "MULTI_LAYER",
-      "source": "combined",
-      "reason": "cross_source_theme",
-      "importance": "medium",
-      "summary": "resilience showed up across 2 sources and 2 layers.",
-      "url": null,
-      "tags": [
-        "resilience"
-      ],
-      "entity_key": "combined:resilience",
-      "metrics": {
-        "source_count": 2,
-        "layer_count": 2
-      },
-      "examples": [
-        "石油の「国家備蓄」 鹿児島でも追加放出始まる",
-        "防災"
-      ]
-    },
-    {
-      "title": "regulation appearing across sources",
-      "layer": "MULTI_LAYER",
-      "source": "combined",
-      "reason": "cross_source_theme",
-      "importance": "medium",
-      "summary": "regulation showed up across 2 sources and 2 layers.",
-      "url": null,
-      "tags": [
-        "regulation"
-      ],
-      "entity_key": "combined:regulation",
-      "metrics": {
-        "source_count": 2,
-        "layer_count": 2
-      },
-      "examples": [
-        "AI clause in new SAP API policy has partners worried over lock-in",
-        "Industrial Policy for the Intelligence Age [pdf]",
-        "Our commitment to community safety"
       ]
     },
     {
@@ -2217,6 +2458,21 @@
       }
     },
     {
+      "title": "An update on our election safeguards",
+      "layer": "NEWS",
+      "source": "rss",
+      "reason": "official_update",
+      "importance": "medium",
+      "summary": "Priority RSS source published a likely product, policy, or platform update.",
+      "url": "https://www.anthropic.com/news/election-safeguards-update",
+      "tags": [
+        "anthropic"
+      ],
+      "entity_key": "https://www.anthropic.com/news/election-safeguards-update",
+      "metrics": {},
+      "deltas": {}
+    },
+    {
       "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
       "layer": "REACTION",
       "source": "hackernews",
@@ -2239,14 +2495,14 @@
     }
   ],
   "meta": {
-    "current_record_count": 437,
+    "current_record_count": 605,
     "previous_record_count": 0,
-    "signal_count": 95,
+    "signal_count": 108,
     "signals_by_source": {
-      "github": 25,
+      "github": 26,
       "hackernews": 5,
       "polymarket": 6,
-      "rss": 38,
+      "rss": 51,
       "wikipedia": 5
     }
   }

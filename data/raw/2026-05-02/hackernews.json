@@ -1,7 +1,7 @@
 {
   "source": "hackernews",
   "run_date": "2026-05-02",
-  "snapshot_at": "2026-05-02T18:20:31.704938+09:00",
+  "snapshot_at": "2026-05-02T18:33:17.099121+09:00",
   "items": [
     {
       "item_id": "47976415",
@@ -9,7 +9,7 @@
       "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
       "author": "lwhsiao",
       "points": 379,
-      "comments": 449,
+      "comments": 452,
       "created_at": "2026-05-01T16:08:53Z",
       "matched_queries": [
         "Claude"
@@ -23,7 +23,7 @@
       "title": "Ask HN: Who is hiring? (May 2026)",
       "url": "https://news.ycombinator.com/item?id=47975571",
       "author": "whoishiring",
-      "points": 257,
+      "points": 258,
       "comments": 278,
       "created_at": "2026-05-01T15:00:07Z",
       "matched_queries": [
@@ -86,7 +86,7 @@
       "title": "I built the Playwright for desktop apps. 80% token savings",
       "url": "https://github.com/lahfir/agent-desktop",
       "author": "lahfir",
-      "points": 70,
+      "points": 74,
       "comments": 23,
       "created_at": "2026-05-02T02:18:24Z",
       "matched_queries": [
@@ -116,8 +116,8 @@
       "title": "K3k: Kubernetes in Kubernetes",
       "url": "https://github.com/rancher/k3k",
       "author": "jzebedee",
-      "points": 48,
-      "comments": 25,
+      "points": 50,
+      "comments": 27,
       "created_at": "2026-05-02T04:00:42Z",
       "matched_queries": [
         "GitHub"
@@ -131,7 +131,7 @@
       "title": "U.S. to Withdraw 5k Troops from Germany, Pentagon Says",
       "url": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
       "author": "mikhael",
-      "points": 46,
+      "points": 47,
       "comments": 27,
       "created_at": "2026-05-01T23:52:36Z",
       "matched_queries": [
@@ -147,7 +147,7 @@
       "url": "https://www.spiritrestructuring.com/",
       "author": "CaliforniaKarl",
       "points": 44,
-      "comments": 71,
+      "comments": 73,
       "created_at": "2026-05-02T06:28:00Z",
       "matched_queries": [
         "AI"
@@ -194,7 +194,7 @@
       "title": "Create an MP4 video of a web page scrolling at a steady speed",
       "url": "https://github.com/upenn/web-scroll-video",
       "author": "shawnzam",
-      "points": 28,
+      "points": 30,
       "comments": 11,
       "created_at": "2026-05-02T02:26:38Z",
       "matched_queries": [
@@ -223,6 +223,22 @@
       ]
     },
     {
+      "item_id": "47982967",
+      "title": "The feed doesn't know you, and YouTube refuses to let you browse",
+      "url": "https://evilgeniuslabs.ca/blog/the-feed-doesnt-know-you",
+      "author": "andsoitis",
+      "points": 14,
+      "comments": 6,
+      "created_at": "2026-05-02T03:16:16Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
       "item_id": "47978340",
       "title": "Show HN: Omar – A TUI for managing 100 coding agents",
       "url": "https://omar.tech",
@@ -239,19 +255,20 @@
       ]
     },
     {
-      "item_id": "47982967",
-      "title": "The feed doesn't know you, and YouTube refuses to let you browse",
-      "url": "https://evilgeniuslabs.ca/blog/the-feed-doesnt-know-you",
-      "author": "andsoitis",
-      "points": 13,
-      "comments": 6,
-      "created_at": "2026-05-02T03:16:16Z",
+      "item_id": "47983485",
+      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
+      "url": "https://mathstick.github.io",
+      "author": "trangram",
+      "points": 12,
+      "comments": 12,
+      "created_at": "2026-05-02T05:04:39Z",
       "matched_queries": [
-        "YouTube"
+        "GitHub",
+        "startup"
       ],
       "tags": [
-        "video",
-        "youtube"
+        "github",
+        "startup"
       ]
     },
     {
@@ -301,23 +318,6 @@
       "tags": [
         "ai",
         "video"
-      ]
-    },
-    {
-      "item_id": "47983485",
-      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
-      "url": "https://mathstick.github.io",
-      "author": "trangram",
-      "points": 10,
-      "comments": 12,
-      "created_at": "2026-05-02T05:04:39Z",
-      "matched_queries": [
-        "GitHub",
-        "startup"
-      ],
-      "tags": [
-        "github",
-        "startup"
       ]
     },
     {
@@ -389,6 +389,21 @@
       ]
     },
     {
+      "item_id": "47984486",
+      "title": "SKILL.make: Makefile Styled Skill File",
+      "url": "https://github.com/Teaonly/SKILL.make",
+      "author": "teaonly",
+      "points": 7,
+      "comments": 1,
+      "created_at": "2026-05-02T08:18:15Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
       "item_id": "47978009",
       "title": "Musk Warns of Killer AI, While He and Silicon Valley Cash in on AI That Kills",
       "url": "https://theintercept.com/2026/05/01/elon-musk-openai-lawsuit-trial/",
@@ -431,36 +446,6 @@
       ],
       "tags": [
         "startup"
-      ]
-    },
-    {
-      "item_id": "47983229",
-      "title": "GPT-5.5 matches hyped Mythos Preview",
-      "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
-      "author": "y1n0",
-      "points": 5,
-      "comments": 1,
-      "created_at": "2026-05-02T04:14:03Z",
-      "matched_queries": [
-        "AI"
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "item_id": "47984486",
-      "title": "SKILL.make: Makefile Styled Skill File",
-      "url": "https://github.com/Teaonly/SKILL.make",
-      "author": "teaonly",
-      "points": 5,
-      "comments": 1,
-      "created_at": "2026-05-02T08:18:15Z",
-      "matched_queries": [
-        "GitHub"
-      ],
-      "tags": [
-        "github"
       ]
     },
     {
@@ -514,6 +499,25 @@
         "agents",
         "ai",
         "github"
+      ]
+    },
+    {
+      "item_id": "47984734",
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "url": "https://iesna.eu/?wasm=skyglow_demo",
+      "author": "holg",
+      "points": 5,
+      "comments": 0,
+      "created_at": "2026-05-02T09:08:18Z",
+      "matched_queries": [
+        "LLM",
+        "SEO",
+        "GitHub"
+      ],
+      "tags": [
+        "github",
+        "llm",
+        "seo"
       ]
     },
     {
@@ -673,6 +677,21 @@
       ]
     },
     {
+      "item_id": "47984673",
+      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
+      "url": "https://www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
+      "author": "zeristor",
+      "points": 4,
+      "comments": 0,
+      "created_at": "2026-05-02T08:54:04Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
       "item_id": "47979771",
       "title": "What Microsoft's 10-Q Says About OpenAI",
       "url": "https://om.co/2026/05/01/what-microsofts-10-q-says-about-openai/",
@@ -803,6 +822,22 @@
       ]
     },
     {
+      "item_id": "47982785",
+      "title": "Amnitex: Lossless memory layer for AI coding assistants",
+      "url": "https://github.com/Amnibro/amnitex",
+      "author": "amnibro7",
+      "points": 4,
+      "comments": 0,
+      "created_at": "2026-05-02T02:31:30Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "ai",
+        "github"
+      ]
+    },
+    {
       "item_id": "47974741",
       "title": "Palantir CEO Says Legalizing War Crimes Would Be Good for Business",
       "url": "https://futurism.com/future-society/palantir-ceo-war-crimes",
@@ -861,12 +896,10 @@
       "created_at": "2026-05-02T07:03:48Z",
       "matched_queries": [
         "AI",
-        "Claude",
-        "SEO"
+        "Claude"
       ],
       "tags": [
-        "ai",
-        "seo"
+        "ai"
       ]
     },
     {
@@ -923,33 +956,40 @@
       ]
     },
     {
-      "item_id": "47984673",
-      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
-      "url": "https://www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
-      "author": "zeristor",
+      "item_id": "47984606",
+      "title": "AI coding tools are silently disagreeing with each other",
+      "url": "https://github.com/sampleXbro/agentsmesh",
+      "author": "samplexBro",
       "points": 3,
       "comments": 0,
-      "created_at": "2026-05-02T08:54:04Z",
+      "created_at": "2026-05-02T08:40:50Z",
       "matched_queries": [
-        "AI"
+        "AI",
+        "agents",
+        "GitHub"
       ],
       "tags": [
-        "ai"
+        "agents",
+        "ai",
+        "github"
       ]
     },
     {
-      "item_id": "47983224",
-      "title": "The Hiddn Cost of AI Coding Tools: $12,000/Year",
-      "url": "https://blog.devgenius.io/the-hidden-cost-of-ai-coding-tools-12-000-year-for-our-team-4b857f6a8636",
-      "author": "freakynit",
+      "item_id": "47983673",
+      "title": "Just-Bash: A Full Shell Environment That Never Touches Your Disk",
+      "url": "https://www.codeline.co/thoughts/repo-review/2026/just-bash-virtual-shell-for-ai-agents",
+      "author": "ankitg12",
       "points": 3,
       "comments": 0,
-      "created_at": "2026-05-02T04:12:11Z",
+      "created_at": "2026-05-02T05:48:14Z",
       "matched_queries": [
-        "AI"
+        "AI",
+        "agents"
       ],
       "tags": [
-        "ai"
+        "agents",
+        "ai",
+        "github"
       ]
     },
     {
@@ -1013,25 +1053,6 @@
       "tags": [
         "ai",
         "regulation"
-      ]
-    },
-    {
-      "item_id": "47984734",
-      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-      "url": "https://iesna.eu/?wasm=skyglow_demo",
-      "author": "holg",
-      "points": 3,
-      "comments": 0,
-      "created_at": "2026-05-02T09:08:18Z",
-      "matched_queries": [
-        "LLM",
-        "SEO",
-        "GitHub"
-      ],
-      "tags": [
-        "github",
-        "llm",
-        "seo"
       ]
     },
     {
@@ -1101,21 +1122,6 @@
       ]
     },
     {
-      "item_id": "47984007",
-      "title": "Interstellar comet came from a much different solar system than ours",
-      "url": "https://www.cnn.com/2026/05/01/science/interstellar-comet-3i-atlas-deuterated-water",
-      "author": "reconnecting",
-      "points": 3,
-      "comments": 0,
-      "created_at": "2026-05-02T06:58:23Z",
-      "matched_queries": [
-        "SEO"
-      ],
-      "tags": [
-        "seo"
-      ]
-    },
-    {
       "item_id": "47980192",
       "title": "Enabling a new model for healthcare with AI co-clinician",
       "url": "https://deepmind.google/blog/ai-co-clinician/",
@@ -1144,6 +1150,22 @@
       ],
       "tags": [
         "startup"
+      ]
+    },
+    {
+      "item_id": "47983811",
+      "title": "Yann LeCun's Billion Dollar Bet",
+      "url": "https://www.youtube.com/watch?v=kYkIdXwW2AE",
+      "author": "tux1968",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-05-02T06:16:21Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
       ]
     },
     {
@@ -1176,22 +1198,6 @@
       "tags": [
         "video",
         "youtube"
-      ]
-    },
-    {
-      "item_id": "47982785",
-      "title": "Amnitex: Lossless memory layer for AI coding assistants",
-      "url": "https://github.com/Amnibro/amnitex",
-      "author": "amnibro7",
-      "points": 3,
-      "comments": 0,
-      "created_at": "2026-05-02T02:31:30Z",
-      "matched_queries": [
-        "GitHub"
-      ],
-      "tags": [
-        "ai",
-        "github"
       ]
     },
     {
@@ -1254,6 +1260,28 @@
       ],
       "tags": [
         "rag",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "47984321",
+      "title": "Ask HN: Should AI agents have their own legal entities?",
+      "url": "https://news.ycombinator.com/item?id=47984321",
+      "author": "LRG-H",
+      "points": 2,
+      "comments": 5,
+      "created_at": "2026-05-02T07:46:30Z",
+      "matched_queries": [
+        "AI",
+        "LLM",
+        "agents",
+        "SEO"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "seo",
         "startup"
       ]
     },
@@ -1475,25 +1503,6 @@
       ]
     },
     {
-      "item_id": "47984606",
-      "title": "AI coding tools are silently disagreeing with each other",
-      "url": "https://github.com/sampleXbro/agentsmesh",
-      "author": "samplexBro",
-      "points": 2,
-      "comments": 0,
-      "created_at": "2026-05-02T08:40:50Z",
-      "matched_queries": [
-        "AI",
-        "agents",
-        "GitHub"
-      ],
-      "tags": [
-        "agents",
-        "ai",
-        "github"
-      ]
-    },
-    {
       "item_id": "47984034",
       "title": "Thrml - Probabilistic Compute Simulation on GPUs",
       "url": "https://docs.thrml.ai/en/latest/examples/01_all_of_thrml/",
@@ -1524,24 +1533,6 @@
         "ai",
         "automation",
         "startup"
-      ]
-    },
-    {
-      "item_id": "47983673",
-      "title": "Just-Bash: A Full Shell Environment That Never Touches Your Disk",
-      "url": "https://www.codeline.co/thoughts/repo-review/2026/just-bash-virtual-shell-for-ai-agents",
-      "author": "ankitg12",
-      "points": 2,
-      "comments": 0,
-      "created_at": "2026-05-02T05:48:14Z",
-      "matched_queries": [
-        "AI",
-        "agents"
-      ],
-      "tags": [
-        "agents",
-        "ai",
-        "github"
       ]
     },
     {
@@ -1792,6 +1783,26 @@
       ]
     },
     {
+      "item_id": "47984799",
+      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+      "url": "https://www.youtube.com/watch?v=96jN2OCOfLs",
+      "author": "swolpers",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-05-02T09:19:24Z",
+      "matched_queries": [
+        "agents",
+        "SEO",
+        "YouTube"
+      ],
+      "tags": [
+        "agents",
+        "seo",
+        "video",
+        "youtube"
+      ]
+    },
+    {
       "item_id": "47984116",
       "title": "Show HN: Agent with its own computer on the cloud",
       "url": "https://pulsarbot.cloud/",
@@ -1800,12 +1811,10 @@
       "comments": 0,
       "created_at": "2026-05-02T07:15:45Z",
       "matched_queries": [
-        "agents",
-        "SEO"
+        "agents"
       ],
       "tags": [
-        "agents",
-        "seo"
+        "agents"
       ]
     },
     {
@@ -1923,6 +1932,22 @@
       ]
     },
     {
+      "item_id": "47984488",
+      "title": "There is no Shopify for service businesses. Prove me wrong",
+      "url": "https://www.indiehackers.com/post/there-is-no-shopify-for-service-businesses-i-keep-waiting-for-someone-to-prove-me-wrong-6RVFnjlsPvxsEACuDgwD",
+      "author": "stangineer",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-05-02T08:18:16Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "ai",
+        "seo"
+      ]
+    },
+    {
       "item_id": "47984333",
       "title": "Wine 11.8 – Run Windows Applications on Linux, BSD, Solaris and macOS",
       "url": "https://www.winehq.org/announce/11.8",
@@ -2026,22 +2051,6 @@
       ],
       "tags": [
         "startup"
-      ]
-    },
-    {
-      "item_id": "47983811",
-      "title": "Yann LeCun's Billion Dollar Bet",
-      "url": "https://www.youtube.com/watch?v=kYkIdXwW2AE",
-      "author": "tux1968",
-      "points": 2,
-      "comments": 0,
-      "created_at": "2026-05-02T06:16:21Z",
-      "matched_queries": [
-        "YouTube"
-      ],
-      "tags": [
-        "video",
-        "youtube"
       ]
     },
     {
@@ -2273,28 +2282,6 @@
       ]
     },
     {
-      "item_id": "47984321",
-      "title": "Ask HN: Should AI agents have their own legal entities?",
-      "url": "https://news.ycombinator.com/item?id=47984321",
-      "author": "LRG-H",
-      "points": 1,
-      "comments": 4,
-      "created_at": "2026-05-02T07:46:30Z",
-      "matched_queries": [
-        "AI",
-        "LLM",
-        "agents",
-        "SEO"
-      ],
-      "tags": [
-        "agents",
-        "ai",
-        "llm",
-        "seo",
-        "startup"
-      ]
-    },
-    {
       "item_id": "47975566",
       "title": "Rotating objects in space station [video]",
       "url": "https://www.youtube.com/shorts/BKGJx4d-Ncc",
@@ -2373,6 +2360,41 @@
         "ai",
         "github",
         "saas"
+      ]
+    },
+    {
+      "item_id": "47984856",
+      "title": "Show HN: Autorank – Rank on Google and AI search while you sleep",
+      "url": "https://www.getautorank.ai/",
+      "author": "alokjnv10",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-05-02T09:31:21Z",
+      "matched_queries": [
+        "AI",
+        "SEO",
+        "Google"
+      ],
+      "tags": [
+        "ai",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "47984844",
+      "title": "How Casey Newton is revamping his newsletter to compete with AI",
+      "url": "https://www.niemanlab.org/2026/04/more-scoops-less-aggregation-and-analysis-how-casey-newton-is-revamping-his-newsletter-to-compete-with-ai/",
+      "author": "giuliomagnifico",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-05-02T09:28:28Z",
+      "matched_queries": [
+        "AI",
+        "SEO"
+      ],
+      "tags": [
+        "ai",
+        "seo"
       ]
     },
     {
@@ -2706,26 +2728,6 @@
       ]
     },
     {
-      "item_id": "47984799",
-      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
-      "url": "https://www.youtube.com/watch?v=96jN2OCOfLs",
-      "author": "swolpers",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T09:19:24Z",
-      "matched_queries": [
-        "agents",
-        "SEO",
-        "YouTube"
-      ],
-      "tags": [
-        "agents",
-        "seo",
-        "video",
-        "youtube"
-      ]
-    },
-    {
       "item_id": "47978903",
       "title": "Show HN: Arc Browser + Agents IDE",
       "url": "https://github.com/armantsaturian/ArcNext",
@@ -2755,6 +2757,21 @@
       "tags": [
         "automation",
         "github"
+      ]
+    },
+    {
+      "item_id": "47984861",
+      "title": "The Discord migration that didn't happen",
+      "url": "https://productimpossible.com/articles/discord-migration-that-didnt-happen/",
+      "author": "sebakubisz",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-05-02T09:32:12Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
       ]
     },
     {
@@ -2805,22 +2822,6 @@
         "seo",
         "video",
         "youtube"
-      ]
-    },
-    {
-      "item_id": "47984488",
-      "title": "There is no Shopify for service businesses. Prove me wrong",
-      "url": "https://www.indiehackers.com/post/there-is-no-shopify-for-service-businesses-i-keep-waiting-for-someone-to-prove-me-wrong-6RVFnjlsPvxsEACuDgwD",
-      "author": "stangineer",
-      "points": 1,
-      "comments": 0,
-      "created_at": "2026-05-02T08:18:16Z",
-      "matched_queries": [
-        "SEO"
-      ],
-      "tags": [
-        "ai",
-        "seo"
       ]
     },
     {

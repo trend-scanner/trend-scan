@@ -24,6 +24,25 @@ rss:
       region: global
       kind: official
       priority: true
+    - id: youtube-official-blog
+      name: YouTube Official Blog
+      url: https://blog.youtube/
+      parser: youtube_blog_html
+      region: global
+      kind: official
+      priority: true
+    - id: meta-newsroom
+      name: Meta Newsroom
+      url: https://about.fb.com/feed
+      region: global
+      kind: official
+      priority: true
+    - id: meta-engineering
+      name: Engineering at Meta
+      url: https://engineering.fb.com/feed/
+      region: global
+      kind: official
+      priority: true
     - id: github-blog
       name: GitHub Blog
       url: https://github.blog/feed/
@@ -38,7 +57,8 @@ rss:
       priority: true
     - id: anthropic-news
       name: Anthropic News
-      url: https://www.anthropic.com/news/rss.xml
+      url: https://www.anthropic.com/news
+      parser: anthropic_news_html
       region: global
       kind: official
       priority: true
@@ -66,9 +86,33 @@ rss:
       region: global
       kind: media
       priority: false
+    - id: hacker-news-rss
+      name: Hacker News RSS
+      url: https://news.ycombinator.com/rss
+      region: global
+      kind: community
+      priority: false
     - id: nhk-news
       name: NHK News
       url: https://www3.nhk.or.jp/rss/news/cat0.xml
+      region: jp
+      kind: media
+      priority: false
+    - id: itmedia-news
+      name: ITmedia NEWS
+      url: https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml
+      region: jp
+      kind: media
+      priority: false
+    - id: itmedia-ai-plus
+      name: ITmedia AI+
+      url: https://rss.itmedia.co.jp/rss/2.0/aiplus.xml
+      region: jp
+      kind: media
+      priority: false
+    - id: atmarkit
+      name: atmarkIT
+      url: https://rss.itmedia.co.jp/rss/2.0/ait.xml
       region: jp
       kind: media
       priority: false
@@ -94,6 +138,7 @@ wikipedia:
   access: all-access
   agent: all-agents
   granularity: daily
+  request_interval_seconds: 1.0
 
 polymarket:
   gamma_endpoint: https://gamma-api.polymarket.com/markets
