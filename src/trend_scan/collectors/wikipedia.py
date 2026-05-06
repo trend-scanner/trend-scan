@@ -21,7 +21,7 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
     session = build_session()
 
     endpoint_template = source_config["endpoint_template"]
-    observed_date = wikipedia_observed_date(context)
+    observed_date = wikipedia_observed_date(context, int(source_config.get("lag_days", 1)))
     observed_stamp = observed_date.strftime("%Y%m%d")
     request_interval = float(source_config.get("request_interval_seconds", 0.2))
 
@@ -48,7 +48,9 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
             except requests.HTTPError as exc:
                 status_code = exc.response.status_code if exc.response is not None else None
                 if status_code == 429 and attempt < 2:
-                    time.sleep(max(request_interval, 1 + attempt))
+                    retry_after = exc.response.headers.get("Retry-After") if exc.response is not None else None
+                    wait_seconds = float(retry_after) if retry_after and retry_after.isdigit() else 2 + attempt
+                    time.sleep(max(request_interval, wait_seconds))
                     continue
                 errors.append({"title": page["title"], "error": str(exc)})
                 payload = None

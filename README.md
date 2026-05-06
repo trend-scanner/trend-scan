@@ -37,7 +37,8 @@ The public repository only handles data collection, storage, normalization, and 
 │  └─ signals/
 ├─ reports/
 │  ├─ daily/
-│  └─ weekly/
+│  ├─ weekly/
+│  └─ monthly/
 ├─ scripts/
 │  ├─ collect_rss.py
 │  ├─ collect_hackernews.py
@@ -48,7 +49,10 @@ The public repository only handles data collection, storage, normalization, and 
 │  ├─ log_errors.py
 │  ├─ detect_signals.py
 │  ├─ generate_daily_report.py
+│  ├─ generate_periodic_report.py
 │  ├─ run_daily.py
+│  ├─ run_weekly.py
+│  ├─ run_monthly.py
 │  └─ run_private_daily.py
 └─ src/trend_scan/
 ```
@@ -71,6 +75,8 @@ Each run writes three layers of outputs:
 Wikipedia pageviews use the most recent fully available daily point when the pipeline runs on schedule.
 
 Daily markdown reports are written to `reports/daily/YYYY-MM-DD.md`.
+Weekly reports are written to `reports/weekly/YYYY-Www.md`.
+Monthly reports are written to `reports/monthly/YYYY-MM.md` and summarize the trailing 30-day window ending on the run date.
 
 ## Quick start
 
@@ -96,6 +102,13 @@ You can backfill a specific day with:
 python scripts/run_daily.py --date 2026-05-02
 ```
 
+Generate periodic reports with:
+
+```bash
+python scripts/run_weekly.py --date 2026-05-02
+python scripts/run_monthly.py --date 2026-05-02
+```
+
 ## Private local sources
 
 Some feeds are useful for personal monitoring but should not be committed into this public repository. For those, copy `config/private_sources.example.yml` to `config/private_sources.yml` and run:
@@ -113,6 +126,8 @@ The workflow runs at `06:00` Japan time every day.
 - GitHub Actions cron is `0 21 * * *` in UTC.
 - The pipeline writes data and report changes back into the same repository.
 - GitHub API calls will use `GITHUB_TOKEN` automatically when available.
+- Weekly reports run every Monday at `06:30` Japan time.
+- Monthly reports run on the first day of each month at `07:00` Japan time.
 
 ## Configuration
 

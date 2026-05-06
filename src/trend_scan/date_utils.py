@@ -61,7 +61,5 @@ def previous_date(run_date: date) -> date:
     return run_date - timedelta(days=1)
 
 
-def wikipedia_observed_date(context: RunContext) -> date:
-    if context.explicit_date:
-        return context.run_date
-    return context.run_date - timedelta(days=1)
+def wikipedia_observed_date(context: RunContext, lag_days: int = 1) -> date:
+    return context.run_date - timedelta(days=lag_days)

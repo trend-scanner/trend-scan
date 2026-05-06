@@ -202,6 +202,23 @@ def _author_list(entry: dict[str, Any]) -> list[str]:
     return []
 
 
+def _parse_feed(feed: dict[str, Any]) -> tuple[dict[str, Any] | None, str | None]:
+    try:
+        response = requests.get(
+            feed["url"],
+            headers={"User-Agent": "trend-scan/0.1"},
+            timeout=30,
+        )
+        response.raise_for_status()
+    except Exception as exc:  # noqa: BLE001
+        return None, str(exc)
+
+    try:
+        return feedparser.parse(response.content), None
+    except Exception as exc:  # noqa: BLE001
+        return None, str(exc)
+
+
 def collect(context: RunContext, settings: dict) -> dict[str, Any]:
     source_config = settings["sources"].get("rss", {})
     feeds = source_config.get("feeds", [])
@@ -227,7 +244,11 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
                 errors.append({"source_id": feed["id"], "error": error})
             continue
 
-        parsed = feedparser.parse(feed["url"])
+        parsed, error = _parse_feed(feed)
+        if error or parsed is None:
+            errors.append({"source_id": feed["id"], "error": error or "RSS parse failed"})
+            continue
+
         if parsed.bozo and not parsed.entries:
             errors.append({"source_id": feed["id"], "error": str(parsed.bozo_exception)})
             continue

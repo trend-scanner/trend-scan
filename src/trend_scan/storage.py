@@ -36,6 +36,14 @@ def daily_report_path(run_date_str: str) -> Path:
     return REPO_ROOT / "reports" / "daily" / f"{run_date_str}.md"
 
 
+def weekly_report_path(period_id: str) -> Path:
+    return REPO_ROOT / "reports" / "weekly" / f"{period_id}.md"
+
+
+def monthly_report_path(period_id: str) -> Path:
+    return REPO_ROOT / "reports" / "monthly" / f"{period_id}.md"
+
+
 def previous_normalized_path(run_date: date) -> Path:
     previous = run_date - timedelta(days=1)
     return normalized_path(previous.isoformat())

@@ -240,7 +240,8 @@ wikipedia:
   access: all-access
   agent: all-agents
   granularity: daily
-  request_interval_seconds: 1.0
+  lag_days: 1
+  request_interval_seconds: 2.0
 
 polymarket:
   gamma_endpoint: https://gamma-api.polymarket.com/markets

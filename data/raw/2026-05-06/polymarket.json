@@ -1,0 +1,161 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-05-06",
+  "snapshot_at": "2026-05-07T00:00:00+09:00",
+  "items": [
+    {
+      "market_id": "559670",
+      "title": "Will Gina Raimondo win the 2028 Democratic presidential nomination?",
+      "slug": "will-gina-raimondo-win-the-2028-democratic-presidential-nomination-676",
+      "url": "https://polymarket.com/event/will-gina-raimondo-win-the-2028-democratic-presidential-nomination-676",
+      "category": null,
+      "volume": 31134513.64628995,
+      "liquidity": 2224360.34832,
+      "end_date": "2028-11-07T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0065
+        },
+        {
+          "name": "No",
+          "price": 0.9935
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "market_id": "558934",
+      "title": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "url": "https://polymarket.com/event/will-spain-win-the-2026-fifa-world-cup-963",
+      "category": null,
+      "volume": 18482636.89281456,
+      "liquidity": 951867.39026,
+      "end_date": "2026-07-20T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.1535
+        },
+        {
+          "name": "No",
+          "price": 0.8465
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "market_id": "558977",
+      "title": "Will Haiti win the 2026 FIFA World Cup?",
+      "slug": "will-haiti-win-the-2026-fifa-world-cup",
+      "url": "https://polymarket.com/event/will-haiti-win-the-2026-fifa-world-cup",
+      "category": null,
+      "volume": 16530001.738820048,
+      "liquidity": 6676866.67218,
+      "end_date": "2026-07-20T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0015
+        },
+        {
+          "name": "No",
+          "price": 0.9985
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "market_id": "540843",
+      "title": "Will China invades Taiwan before GTA VI?",
+      "slug": "will-china-invades-taiwan-before-gta-vi-716",
+      "url": "https://polymarket.com/event/will-china-invades-taiwan-before-gta-vi-716",
+      "category": null,
+      "volume": 1815221.6964100609,
+      "liquidity": 46706.7637,
+      "end_date": "2026-07-31T12:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.515
+        },
+        {
+          "name": "No",
+          "price": 0.485
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "market_id": "540816",
+      "title": "Russia-Ukraine Ceasefire before GTA VI?",
+      "slug": "russia-ukraine-ceasefire-before-gta-vi-554",
+      "url": "https://polymarket.com/event/russia-ukraine-ceasefire-before-gta-vi-554",
+      "category": null,
+      "volume": 1656191.4997280466,
+      "liquidity": 54073.4241,
+      "end_date": "2026-07-31T12:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.555
+        },
+        {
+          "name": "No",
+          "price": 0.445
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "market_id": "556108",
+      "title": "Will MegaETH perform an airdrop by June 30? ",
+      "slug": "will-megaeth-perform-an-airdrop-by-june-30-143-229-513-574-212-254",
+      "url": "https://polymarket.com/event/will-megaeth-perform-an-airdrop-by-june-30-143-229-513-574-212-254",
+      "category": null,
+      "volume": 1521977.2624559964,
+      "liquidity": 7078.6431,
+      "end_date": "2026-02-01T05:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.432
+        },
+        {
+          "name": "No",
+          "price": 0.568
+        }
+      ],
+      "tags": [
+        "ai"
+      ]
+    }
+  ],
+  "meta": {
+    "market_count": 6,
+    "errors": []
+  }
+}
