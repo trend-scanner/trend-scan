@@ -1,7 +1,7 @@
 {
   "source": "rss",
   "run_date": "2026-05-06",
-  "snapshot_at": "2026-05-07T00:00:00+09:00",
+  "snapshot_at": "2026-05-06T18:37:12.476442+09:00",
   "items": [
     {
       "item_id": "https://openai.com/index/gpt-5-5-instant",
@@ -97,6 +97,38 @@
       "authors": [],
       "tags": [
         "Product"
+      ]
+    },
+    {
+      "item_id": "https://openai.com/index/where-the-goblins-came-from",
+      "source_id": "openai",
+      "source_name": "OpenAI News",
+      "source_kind": "official",
+      "priority": true,
+      "region": "global",
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "published_at": "2026-04-29T20:00:00Z",
+      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "authors": [],
+      "tags": [
+        "Publication"
+      ]
+    },
+    {
+      "item_id": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "source_id": "openai",
+      "source_name": "OpenAI News",
+      "source_kind": "official",
+      "priority": true,
+      "region": "global",
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "published_at": "2026-04-29T15:00:00Z",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "authors": [],
+      "tags": [
+        "Global Affairs"
       ]
     },
     {
@@ -1138,6 +1170,25 @@
         "Instagram",
         "Messenger",
         "Youth Well-Being Resources"
+      ]
+    },
+    {
+      "item_id": "https://about.fb.com/?p=48107",
+      "source_id": "meta-newsroom",
+      "source_name": "Meta Newsroom",
+      "source_kind": "official",
+      "priority": true,
+      "region": "global",
+      "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
+      "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
+      "published_at": "2026-04-29T10:02:32Z",
+      "summary": "<div><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"501\" src=\"https://about.fb.com/wp-content/uploads/2026/04/Mobile-recharge-1.jpg?fit=890%2C501\" style=\"margin-bottom: 15px;\" width=\"890\" /></div>\n<p>We're introducing the ability for people in India to complete prepaid mobile recharges directly within WhatsApp, making it easier to stay connected by getting an everyday essential done within the app they already use.</p>\n<p>The post <a href=\"https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/\">Bringing Prepaid Mobile Recharges to WhatsApp Users in India</a> appeared first on <a href=\"https://about.fb.com\">Meta Newsroom</a>.</p>",
+      "authors": [
+        "Facebook"
+      ],
+      "tags": [
+        "Homepage - Hidden",
+        "India Newsroom"
       ]
     },
     {
@@ -2279,6 +2330,20 @@
       "tags": []
     },
     {
+      "item_id": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+      "source_id": "hacker-news-rss",
+      "source_name": "Hacker News RSS",
+      "source_kind": "community",
+      "priority": false,
+      "region": "global",
+      "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
+      "url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+      "published_at": "2026-05-03T16:32:34Z",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=47998638\">Comments</a>",
+      "authors": [],
+      "tags": []
+    },
+    {
       "item_id": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
       "source_id": "hacker-news-rss",
       "source_name": "Hacker News RSS",
@@ -2289,20 +2354,6 @@
       "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
       "published_at": "2026-05-05T20:16:35Z",
       "summary": "<a href=\"https://news.ycombinator.com/item?id=48027897\">Comments</a>",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "source_id": "hacker-news-rss",
-      "source_name": "Hacker News RSS",
-      "source_kind": "community",
-      "priority": false,
-      "region": "global",
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "published_at": "2026-05-06T01:38:44Z",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48031109\">Comments</a>",
       "authors": [],
       "tags": []
     },
@@ -2321,16 +2372,16 @@
       "tags": []
     },
     {
-      "item_id": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
+      "item_id": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
       "source_id": "hacker-news-rss",
       "source_name": "Hacker News RSS",
       "source_kind": "community",
       "priority": false,
       "region": "global",
-      "title": "Batteries Not Included, or Required, for These Smart Home Sensors",
-      "url": "https://coe.gatech.edu/news/2026/04/batteries-not-included-or-required-these-smart-home-sensors",
-      "published_at": "2026-05-03T16:32:34Z",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=47998638\">Comments</a>",
+      "title": "Knitting bullshit",
+      "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "published_at": "2026-05-06T05:13:58Z",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48032461\">Comments</a>",
       "authors": [],
       "tags": []
     },
@@ -2349,20 +2400,6 @@
       "tags": []
     },
     {
-      "item_id": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "source_id": "hacker-news-rss",
-      "source_name": "Hacker News RSS",
-      "source_kind": "community",
-      "priority": false,
-      "region": "global",
-      "title": "Write some software, give it away for free",
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "published_at": "2026-05-05T21:26:50Z",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48028842\">Comments</a>",
-      "authors": [],
-      "tags": []
-    },
-    {
       "item_id": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
       "source_id": "hacker-news-rss",
       "source_name": "Hacker News RSS",
@@ -2377,30 +2414,44 @@
       "tags": []
     },
     {
-      "item_id": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
+      "item_id": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
       "source_id": "hacker-news-rss",
       "source_name": "Hacker News RSS",
       "source_kind": "community",
       "priority": false,
       "region": "global",
-      "title": "Knitting bullshit",
-      "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
-      "published_at": "2026-05-06T05:13:58Z",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48032461\">Comments</a>",
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "published_at": "2026-05-05T21:26:50Z",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48028842\">Comments</a>",
       "authors": [],
       "tags": []
     },
     {
-      "item_id": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "item_id": "https://www.terrygodier.com/the-boring-internet",
       "source_id": "hacker-news-rss",
       "source_name": "Hacker News RSS",
       "source_kind": "community",
       "priority": false,
       "region": "global",
-      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
-      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-      "published_at": "2026-05-06T03:37:51Z",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48031867\">Comments</a>",
+      "title": "The Boring Internet",
+      "url": "https://www.terrygodier.com/the-boring-internet",
+      "published_at": "2026-05-06T08:23:43Z",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48033689\">Comments</a>",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "source_id": "hacker-news-rss",
+      "source_name": "Hacker News RSS",
+      "source_kind": "community",
+      "priority": false,
+      "region": "global",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "published_at": "2026-05-06T01:38:44Z",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48031109\">Comments</a>",
       "authors": [],
       "tags": []
     },
@@ -2415,6 +2466,20 @@
       "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
       "published_at": "2026-05-05T16:34:48Z",
       "summary": "<a href=\"https://news.ycombinator.com/item?id=48024859\">Comments</a>",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "source_id": "hacker-news-rss",
+      "source_name": "Hacker News RSS",
+      "source_kind": "community",
+      "priority": false,
+      "region": "global",
+      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "published_at": "2026-05-06T03:37:51Z",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48031867\">Comments</a>",
       "authors": [],
       "tags": []
     },
@@ -2461,20 +2526,6 @@
       "tags": []
     },
     {
-      "item_id": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
-      "source_id": "hacker-news-rss",
-      "source_name": "Hacker News RSS",
-      "source_kind": "community",
-      "priority": false,
-      "region": "global",
-      "title": "Ombudsman column: The Pentagon is trying to silence me",
-      "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
-      "published_at": "2026-05-06T03:24:49Z",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48031769\">Comments</a>",
-      "authors": [],
-      "tags": []
-    },
-    {
       "item_id": "https://productonboarding.com/articles/why-product-tours-get-skipped",
       "source_id": "hacker-news-rss",
       "source_name": "Hacker News RSS",
@@ -2485,6 +2536,20 @@
       "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
       "published_at": "2026-05-05T21:05:19Z",
       "summary": "<a href=\"https://news.ycombinator.com/item?id=48028546\">Comments</a>",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+      "source_id": "hacker-news-rss",
+      "source_name": "Hacker News RSS",
+      "source_kind": "community",
+      "priority": false,
+      "region": "global",
+      "title": "Ombudsman column: The Pentagon is trying to silence me",
+      "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+      "published_at": "2026-05-06T03:24:49Z",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48031769\">Comments</a>",
       "authors": [],
       "tags": []
     },
@@ -2503,6 +2568,20 @@
       "tags": []
     },
     {
+      "item_id": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "source_id": "hacker-news-rss",
+      "source_name": "Hacker News RSS",
+      "source_kind": "community",
+      "priority": false,
+      "region": "global",
+      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "published_at": "2026-05-05T12:10:24Z",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48021368\">Comments</a>",
+      "authors": [],
+      "tags": []
+    },
+    {
       "item_id": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
       "source_id": "hacker-news-rss",
       "source_name": "Hacker News RSS",
@@ -2517,16 +2596,30 @@
       "tags": []
     },
     {
-      "item_id": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "item_id": "https://microsoft.github.io/bocpy/",
       "source_id": "hacker-news-rss",
       "source_name": "Hacker News RSS",
       "source_kind": "community",
       "priority": false,
       "region": "global",
-      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
-      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-      "published_at": "2026-05-05T12:10:24Z",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48021368\">Comments</a>",
+      "title": "Behavior-Oriented Concurrency for Python",
+      "url": "https://microsoft.github.io/bocpy/",
+      "published_at": "2026-05-06T05:34:48Z",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48032617\">Comments</a>",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+      "source_id": "hacker-news-rss",
+      "source_name": "Hacker News RSS",
+      "source_kind": "community",
+      "priority": false,
+      "region": "global",
+      "title": "Multi-stroke text effect in CSS",
+      "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+      "published_at": "2026-05-06T04:43:25Z",
+      "summary": "<a href=\"https://news.ycombinator.com/item?id=48032265\">Comments</a>",
       "authors": [],
       "tags": []
     },
@@ -2587,20 +2680,6 @@
       "tags": []
     },
     {
-      "item_id": "https://microsoft.github.io/bocpy/",
-      "source_id": "hacker-news-rss",
-      "source_name": "Hacker News RSS",
-      "source_kind": "community",
-      "priority": false,
-      "region": "global",
-      "title": "Behavior-Oriented Concurrency for Python",
-      "url": "https://microsoft.github.io/bocpy/",
-      "published_at": "2026-05-06T05:34:48Z",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48032617\">Comments</a>",
-      "authors": [],
-      "tags": []
-    },
-    {
       "item_id": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
       "source_id": "hacker-news-rss",
       "source_name": "Hacker News RSS",
@@ -2611,20 +2690,6 @@
       "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
       "published_at": "2026-05-03T17:07:01Z",
       "summary": "<a href=\"https://news.ycombinator.com/item?id=47999020\">Comments</a>",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
-      "source_id": "hacker-news-rss",
-      "source_name": "Hacker News RSS",
-      "source_kind": "community",
-      "priority": false,
-      "region": "global",
-      "title": "Multi-stroke text effect in CSS",
-      "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
-      "published_at": "2026-05-06T04:43:25Z",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48032265\">Comments</a>",
       "authors": [],
       "tags": []
     },
@@ -2643,20 +2708,6 @@
       "tags": []
     },
     {
-      "item_id": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "source_id": "hacker-news-rss",
-      "source_name": "Hacker News RSS",
-      "source_kind": "community",
-      "priority": false,
-      "region": "global",
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "published_at": "2026-05-05T18:13:47Z",
-      "summary": "<a href=\"https://news.ycombinator.com/item?id=48026349\">Comments</a>",
-      "authors": [],
-      "tags": []
-    },
-    {
       "item_id": "http://www3.nhk.or.jp/news/html/20260506/k10015115361000.html",
       "source_id": "nhk-news",
       "source_name": "NHK News",
@@ -2665,8 +2716,8 @@
       "region": "jp",
       "title": "京都 南丹 小学生男児の遺体遺棄事件 父親を殺人容疑で再逮捕",
       "url": "http://www3.nhk.or.jp/news/html/20260506/k10015115361000.html",
-      "published_at": "2026-05-06T08:33:07Z",
-      "summary": "京都府南丹市で小学生の男子児童が遺体で見つかった事件で、京都府警察本部は、ことし3月、市内の公衆トイレで男子児童の首を絞めて殺害したとして父親の会社員、安達優季容疑者（37）を6日に殺人の疑いで再逮捕したと発表しました。",
+      "published_at": "2026-05-06T09:13:43Z",
+      "summary": "京都府南丹市で小学生の男子児童が遺体で見つかった事件で、警察は37歳の父親が、市内の公衆トイレで首を絞めて児童を殺害したとして殺人の疑いで再逮捕しました。",
       "authors": [],
       "tags": []
     },
@@ -2681,6 +2732,20 @@
       "url": "http://www3.nhk.or.jp/news/html/20260506/k10015115221000.html",
       "published_at": "2026-05-06T07:39:41Z",
       "summary": "6日午前、福島県の磐越自動車道で新潟県の高校生が乗ったマイクロバスなど、3台が関係する事故があり、マイクロバスに乗っていた17歳の男子生徒1人が死亡したほか、高校生を含む26人がけがをしたということです。",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "http://www3.nhk.or.jp/news/html/20260506/k10015115241000.html",
+      "source_id": "nhk-news",
+      "source_name": "NHK News",
+      "source_kind": "media",
+      "priority": false,
+      "region": "jp",
+      "title": "ハンタウイルス集団感染疑いの船 カナリア諸島で受け入れへ",
+      "url": "http://www3.nhk.or.jp/news/html/20260506/k10015115241000.html",
+      "published_at": "2026-05-06T08:44:54Z",
+      "summary": "大西洋に停泊しているクルーズ船で「ハンタウイルス」の集団感染が疑われている問題で、スペインの保健当局は船を大西洋のカナリア諸島で受け入れると明らかにしました。そこで乗客・乗員の検査や治療を行ったうえで、それぞれの出身国に帰国させる方針だということです。",
       "authors": [],
       "tags": []
     },
@@ -2727,20 +2792,6 @@
       "tags": []
     },
     {
-      "item_id": "http://www3.nhk.or.jp/news/html/20260506/k10015115241000.html",
-      "source_id": "nhk-news",
-      "source_name": "NHK News",
-      "source_kind": "media",
-      "priority": false,
-      "region": "jp",
-      "title": "ハンタウイルス集団感染疑いの船 カナリア諸島で受け入れへ",
-      "url": "http://www3.nhk.or.jp/news/html/20260506/k10015115241000.html",
-      "published_at": "2026-05-06T08:44:54Z",
-      "summary": "大西洋に停泊しているクルーズ船で「ハンタウイルス」の集団感染が疑われている問題で、スペインの保健当局は船を大西洋のカナリア諸島で受け入れると明らかにしました。そこで乗客・乗員の検査や治療を行ったうえで、それぞれの出身国に帰国させる方針だということです。",
-      "authors": [],
-      "tags": []
-    },
-    {
       "item_id": "http://www3.nhk.or.jp/news/html/20260505/k10015114731000.html",
       "source_id": "nhk-news",
       "source_name": "NHK News",
@@ -2761,9 +2812,9 @@
       "source_kind": "media",
       "priority": false,
       "region": "jp",
-      "title": "京都男児遺体、殺人容疑で父親を再逮捕「両手で首を絞めて殺した」",
+      "title": "京都男児遺体、殺人容疑で父親を再逮捕　かばんと靴「自分が捨てた」",
       "url": "http://www.asahi.com/articles/ASV5543TDV55PTIL005M.html?ref=rss",
-      "published_at": "2026-05-06T08:19:11Z",
+      "published_at": "2026-05-06T09:08:54Z",
       "summary": "",
       "authors": [],
       "tags": [
@@ -3699,6 +3750,54 @@
       ]
     },
     {
+      "item_id": "https://www.japantimes.co.jp/article/641038/",
+      "source_id": "japan-times",
+      "source_name": "The Japan Times",
+      "source_kind": "media",
+      "priority": false,
+      "region": "jp",
+      "title": "U.S. and Iran nearing agreement on one-page memo to end war, report says",
+      "url": "https://www.japantimes.co.jp/news/2026/05/06/world/us-iran-peace-hopes/",
+      "published_at": "2026-05-06T09:24:00Z",
+      "summary": "The news report cautioned that nothing has been agreed yet, but described this as the closest the parties ‌had been to an agreement since the war began.",
+      "authors": [],
+      "tags": [
+        "WORLD"
+      ]
+    },
+    {
+      "item_id": "https://www.japantimes.co.jp/article/641003/",
+      "source_id": "japan-times",
+      "source_name": "The Japan Times",
+      "source_kind": "media",
+      "priority": false,
+      "region": "jp",
+      "title": "Hantavirus-hit cruise ship to sail to Spain after rare Andes strain confirmed",
+      "url": "https://www.japantimes.co.jp/news/2026/05/06/world/ship-hantavirus-canary-islands-evacuations/",
+      "published_at": "2026-05-06T09:18:00Z",
+      "summary": "South Africa confirmed that it identified among the victims a strain of the virus that can — in rare cases — spread among humans.",
+      "authors": [],
+      "tags": [
+        "WORLD"
+      ]
+    },
+    {
+      "item_id": "https://www.japantimes.co.jp/article/641037/",
+      "source_id": "japan-times",
+      "source_name": "The Japan Times",
+      "source_kind": "media",
+      "priority": false,
+      "region": "jp",
+      "title": "Charting Japan’s emerging wine scene",
+      "url": "https://www.japantimes.co.jp/life/2026/05/06/food-drink/japanese-wine-book-rowan/",
+      "published_at": "2026-05-06T09:05:00Z",
+      "summary": "Nick Rowan has produced a comprehensive guide to Japan's wine regions and producers as global interest continues to grow.",
+      "authors": [],
+      "tags": [
+        "LIFE"
+      ]
+    },
+    {
       "item_id": "https://www.japantimes.co.jp/article/641026/",
       "source_id": "japan-times",
       "source_name": "The Japan Times",
@@ -3756,7 +3855,7 @@
       "title": "Japan’s SDF fires anti-ship missiles for first time in Philippine military drills",
       "url": "https://www.japantimes.co.jp/news/2026/05/06/japan/japan-philippines-military-exercises-missile-launch/",
       "published_at": "2026-05-06T07:35:00Z",
-      "summary": "The launches hit a mock enemy ship — the decommissioned Philippine Navy's Quezon corvette — about 75 kilometers off the shores of Paoay, Ilocos Norte, in the country's northwest.",
+      "summary": "The launches hit a mock enemy ship about 75 kilometers off the shores of Paoay, Ilocos Norte, in the country's northwest.",
       "authors": [],
       "tags": [
         "JAPAN"
@@ -4128,54 +4227,6 @@
       "authors": [],
       "tags": [
         "BUSINESS"
-      ]
-    },
-    {
-      "item_id": "https://www.japantimes.co.jp/article/641010/",
-      "source_id": "japan-times",
-      "source_name": "The Japan Times",
-      "source_kind": "media",
-      "priority": false,
-      "region": "jp",
-      "title": "Romania's pro-European PM ousted in no confidence vote",
-      "url": "https://www.japantimes.co.jp/news/2026/05/06/world/politics/romania-pro-europe-pm-ousted/",
-      "published_at": "2026-05-06T01:15:00Z",
-      "summary": "The Social Democrats fell out with Prime Minister Ilie Bolojan over unpopular austerity measures aimed at reducing the deficit, the biggest in the European Union.",
-      "authors": [],
-      "tags": [
-        "WORLD"
-      ]
-    },
-    {
-      "item_id": "https://www.japantimes.co.jp/article/641002/",
-      "source_id": "japan-times",
-      "source_name": "The Japan Times",
-      "source_kind": "media",
-      "priority": false,
-      "region": "jp",
-      "title": "Farage's Reform party sets sights on Scotland and Wales in battle for Britain",
-      "url": "https://www.japantimes.co.jp/news/2026/05/06/world/politics/farage-reform-scotland-wales/",
-      "published_at": "2026-05-06T01:10:00Z",
-      "summary": "The party is now making inroads in ‌the two nations, reflecting a rejection of the U.K.'s traditional two-party system.",
-      "authors": [],
-      "tags": [
-        "WORLD"
-      ]
-    },
-    {
-      "item_id": "https://www.japantimes.co.jp/article/641001/",
-      "source_id": "japan-times",
-      "source_name": "The Japan Times",
-      "source_kind": "media",
-      "priority": false,
-      "region": "jp",
-      "title": "Germany’s struggling coalition government strives to bridge differences",
-      "url": "https://www.japantimes.co.jp/news/2026/05/06/world/politics/germany-coalition-government-differences/",
-      "published_at": "2026-05-06T01:03:00Z",
-      "summary": "As German Chancellor Friedrich Merz reaches one year of being in office, approval ratings and support for his conservative coalition have plummeted amid widespread economic gloom.",
-      "authors": [],
-      "tags": [
-        "WORLD"
       ]
     },
     {
@@ -4819,132 +4870,6 @@
       ]
     },
     {
-      "item_id": "https://www.meti.go.jp/press/2026/05/20260501001/20260501001.html",
-      "source_id": "meti-news",
-      "source_name": "METI News",
-      "source_kind": "official",
-      "priority": true,
-      "region": "jp",
-      "title": "高性能AIへの対応に関して赤澤経済産業大臣が重要インフラ事業者との意見交換を実施しました",
-      "url": "https://www.meti.go.jp/press/2026/05/20260501001/20260501001.html",
-      "published_at": "2026-05-01T10:58:00Z",
-      "summary": "ソフトウェアの脆弱性発見について高い能力を有するAIの開発が進んでいる状況を踏まえ、本日、赤澤経済産業大臣は、電気事業連合会の森会長、送配電網協議会の白銀会長、日本ガス協会の内田会長、石油化学工業協会の野田副会長、日本クレジット協会の山本会長、石油連盟の森下危機管理委員長、電力分野の重要インフラ事業者（計24社）の代表者等との意見交換を実施しました。 会談では高性能AIの出現を踏まえた影響と重要インフラ分野（電力、ガス、化学、クレジット、石油）におけるリスクを低減する観点から必要な対応について、関係者で認",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://www.meti.go.jp/press/2026/05/20260501004/20260501004.html",
-      "source_id": "meti-news",
-      "source_name": "METI News",
-      "source_kind": "official",
-      "priority": true,
-      "region": "jp",
-      "title": "日越宇宙官民連携フォーラム（VIETNAM‑JAPAN SPACE HORIZONS 2026 FORUM）を開催しました",
-      "url": "https://www.meti.go.jp/press/2026/05/20260501004/20260501004.html",
-      "published_at": "2026-05-01T10:41:00Z",
-      "summary": "3月12日（木曜日）から3月15日（日曜日）にかけて、経済産業省及び国際協力機構（以下「JICA」という。）、日本貿易振興機構（以下「JETRO」という。）、宇宙航空研究開発機構（以下「JAXA」という。）は、日越両国の宇宙分野における政府、宇宙機関、民間企業等の協力を推進するため、日越宇宙官民連携フォーラム（VIETNAM-JAPAN SPACE HORIZONS 2026 FORUM）をベトナム科学技術アカデミー（以下「VAST」という。）、ベトナム国家宇宙センター（以下「VNSC」という。）と共催し",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://www.meti.go.jp/press/2026/05/20260501003/20260501003.html",
-      "source_id": "meti-news",
-      "source_name": "METI News",
-      "source_kind": "official",
-      "priority": true,
-      "region": "jp",
-      "title": "国際原子力機関の枠組みの下での追加的モニタリングの分析結果に関する報告書が公表されました",
-      "url": "https://www.meti.go.jp/press/2026/05/20260501003/20260501003.html",
-      "published_at": "2026-05-01T01:35:00Z",
-      "summary": "4月30日（木曜日）、国際原子力機関（IAEA）は、IAEAの枠組みの下での追加的モニタリングに関連する、海水希釈前のALPS処理水の分析結果に関する報告書を公表しました。",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://www.meti.go.jp/press/2026/05/20260501002/20260501002.html",
-      "source_id": "meti-news",
-      "source_name": "METI News",
-      "source_kind": "official",
-      "priority": true,
-      "region": "jp",
-      "title": "IAEAは海洋放出開始後5回目となるALPS処理水の海洋放出に関する安全性レビューミッションについての報告書を公表しました",
-      "url": "https://www.meti.go.jp/press/2026/05/20260501002/20260501002.html",
-      "published_at": "2026-05-01T01:34:00Z",
-      "summary": "4月30日（木曜日）、IAEA（国際原子力機関）は、東京電力福島第一原子力発電所におけるALPS処理水の海洋放出に関する報告書を公表しました。 報告書では、ALPS処理水の海洋放出について、これまでにIAEAが公表した報告書と同様に、タスクフォースにより「関連する国際安全基準の要求事項と合致しないいかなる点も確認されなかった」と結論づけられています。",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://www.meti.go.jp/press/2026/04/20260430003/20260430003.html",
-      "source_id": "meti-news",
-      "source_name": "METI News",
-      "source_kind": "official",
-      "priority": true,
-      "region": "jp",
-      "title": "スマートレジシステムの普及に向けた取組を強力に進めます",
-      "url": "https://www.meti.go.jp/press/2026/04/20260430003/20260430003.html",
-      "published_at": "2026-04-30T05:00:00Z",
-      "summary": "税率変更に柔軟に対応でき、生産性の向上に繋がるスマートレジシステムの普及に向けたプロモーションの一環として、赤澤経済産業大臣及び越智経済産業大臣政務官が錦糸町商店街を訪問し、スマートレジシステムの実機体験を行うとともに、全国商店街振興組合連合会（以下「全振連」という。）に対して、スマートレジシステムの普及に向けた協力を依頼しました。引き続き、経済産業省では、スマートレジシステムの普及に向けたプロモーションを強力に進めていきます。",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://www.meti.go.jp/press/2026/04/20260430004/20260430004.html",
-      "source_id": "meti-news",
-      "source_name": "METI News",
-      "source_kind": "official",
-      "priority": true,
-      "region": "jp",
-      "title": "小規模事業者持続化補助金・優良事例発表会を開催します",
-      "url": "https://www.meti.go.jp/press/2026/04/20260430004/20260430004.html",
-      "published_at": "2026-04-30T05:00:00Z",
-      "summary": "中小企業庁と独立行政法人中小企業基盤整備機構は、「小規模事業者持続化補助金」を活用して特に効果的に販路開拓等に取り組んだ事業者による「小規模事業者持続化補助金・優良事例発表会」を5月25日（月曜日）に開催します。",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://www.meti.go.jp/press/2026/04/20260430001/20260430001.html",
-      "source_id": "meti-news",
-      "source_name": "METI News",
-      "source_kind": "official",
-      "priority": true,
-      "region": "jp",
-      "title": "「企業価値を高める標準化・ルール形成 ―投資家と経営層の新たな視点―」を公表しました",
-      "url": "https://www.meti.go.jp/press/2026/04/20260430001/20260430001.html",
-      "published_at": "2026-04-30T01:00:00Z",
-      "summary": "経済産業省は、標準化・ルール形成について、企業の経営戦略における位置づけを向上させていく中で、企業経営層や投資家がその重要性を理解し、一歩踏み出す契機とすることを目的として、「企業価値を高める標準化・ルール形成 ―投資家と経営層の新たな視点―」を公表しました。",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://www.meti.go.jp/press/2026/04/20260430002/20260430002.html",
-      "source_id": "meti-news",
-      "source_name": "METI News",
-      "source_kind": "official",
-      "priority": true,
-      "region": "jp",
-      "title": "「ダイバーシティ経営推進に向けて企業に求められる具体的アクション実践事例集（ダイバーシティレポート別添2）」を公表しました",
-      "url": "https://www.meti.go.jp/press/2026/04/20260430002/20260430002.html",
-      "published_at": "2026-04-30T01:00:00Z",
-      "summary": "経済産業省は、『企業の競争力強化のためのダイバーシティ経営（ダイバーシティレポート）』で提示した「アクション」とその「打ち手」に対応する取組を実践している企業の事例についてまとめた、『ダイバーシティ経営推進に向けて企業に求められる具体的アクション実践事例集（ダイバーシティレポート別添2）』を公表しました。",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://www.meti.go.jp/statistics/tyo/sekiyuso/result.html?pk_campaign=rss_statistics#he20260430T13:30:00+09:00",
-      "source_id": "meti-statistics",
-      "source_name": "METI Statistics",
-      "source_kind": "official",
-      "priority": false,
-      "region": "jp",
-      "title": "石油統計速報（2026年3月分）",
-      "url": "https://www.meti.go.jp/statistics/tyo/sekiyuso/result.html?pk_campaign=rss_statistics",
-      "published_at": "2026-04-30T04:30:00Z",
-      "summary": "公表しました。",
-      "authors": [],
-      "tags": []
-    },
-    {
       "item_id": "https://journal.meti.go.jp/?p=45914",
       "source_id": "meti-journal",
       "source_name": "METI Journal",
@@ -5208,6 +5133,96 @@
       "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000342.html",
       "published_at": "2026-04-30T20:00:00Z",
       "summary": "2020年基準 消費者物価指数 東京都区部 2026年(令和8年)4月分(中旬速報値)",
+      "authors": [
+        "総務省"
+      ],
+      "tags": [
+        "新着情報"
+      ]
+    },
+    {
+      "item_id": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000378_00018.html",
+      "source_id": "soumu-news",
+      "source_name": "Ministry of Internal Affairs and Communications News",
+      "source_kind": "official",
+      "priority": true,
+      "region": "jp",
+      "title": "令和8年岩手県大槌町の林野火災による被害に係る普通交付税（6月定例交付分）の繰上げ交付",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01zaisei02_02000378_00018.html",
+      "published_at": "2026-04-29T20:00:00Z",
+      "summary": "令和8年岩手県大槌町の林野火災による被害に係る普通交付税（6月定例交付分）の繰上げ交付",
+      "authors": [
+        "総務省"
+      ],
+      "tags": [
+        "新着情報"
+      ]
+    },
+    {
+      "item_id": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu20_02000001_00032.html",
+      "source_id": "soumu-news",
+      "source_name": "Ministry of Internal Affairs and Communications News",
+      "source_kind": "official",
+      "priority": true,
+      "region": "jp",
+      "title": "2025年度　青少年のインターネット・リテラシー指標等に係る調査結果の公表",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu20_02000001_00032.html",
+      "published_at": "2026-04-29T20:00:00Z",
+      "summary": "2025年度　青少年のインターネット・リテラシー指標等に係る調査結果の公表",
+      "authors": [
+        "総務省"
+      ],
+      "tags": [
+        "新着情報"
+      ]
+    },
+    {
+      "item_id": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu09_02000390.html",
+      "source_id": "soumu-news",
+      "source_name": "Ministry of Internal Affairs and Communications News",
+      "source_kind": "official",
+      "priority": true,
+      "region": "jp",
+      "title": "令和8年に申請を受け付けるBS放送に係る基幹放送局に関する免許方針を定める訓令案等に関する意見募集",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu09_02000390.html",
+      "published_at": "2026-04-29T20:00:00Z",
+      "summary": "令和8年に申請を受け付けるBS放送に係る基幹放送局に関する免許方針を定める訓令案等に関する意見募集",
+      "authors": [
+        "総務省"
+      ],
+      "tags": [
+        "新着情報"
+      ]
+    },
+    {
+      "item_id": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu05_02000190.html",
+      "source_id": "soumu-news",
+      "source_name": "Ministry of Internal Affairs and Communications News",
+      "source_kind": "official",
+      "priority": true,
+      "region": "jp",
+      "title": "高齢者・障害者向けの新たなICT機器等の研究開発に対する補助金 「デジタル・ディバイド解消のための技術等研究開発推進事業」の補助金交付決定",
+      "url": "https://www.soumu.go.jp/menu_news/s-news/01ryutsu05_02000190.html",
+      "published_at": "2026-04-29T20:00:00Z",
+      "summary": "高齢者・障害者向けの新たなICT機器等の研究開発に対する補助金 「デジタル・ディバイド解消のための技術等研究開発推進事業」の補助金交付決定",
+      "authors": [
+        "総務省"
+      ],
+      "tags": [
+        "新着情報"
+      ]
+    },
+    {
+      "item_id": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/ipnet/02kiban05_04000777.html",
+      "source_id": "soumu-news",
+      "source_name": "Ministry of Internal Affairs and Communications News",
+      "source_kind": "official",
+      "priority": true,
+      "region": "jp",
+      "title": "情報通信審議会　情報通信技術分科会　IPネットワーク設備委員会 電気通信事業におけるパブリッククラウドシステム利用に関する検討作業班（第3回）",
+      "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/ipnet/02kiban05_04000777.html",
+      "published_at": "2026-04-29T20:00:00Z",
+      "summary": "情報通信審議会　情報通信技術分科会　IPネットワーク設備委員会 電気通信事業におけるパブリッククラウドシステム利用に関する検討作業班（第3回）",
       "authors": [
         "総務省"
       ],
@@ -6196,6 +6211,62 @@
       "tags": []
     },
     {
+      "item_id": "https://prtimes.jp/main/html/rd/p/000000083.000075432.html",
+      "source_id": "pr-times",
+      "source_name": "PR TIMES",
+      "source_kind": "press-release",
+      "priority": false,
+      "region": "jp",
+      "title": "アフリカと日本の次世代リーダーたちが集結",
+      "url": "https://prtimes.jp/main/html/rd/p/000000083.000075432.html",
+      "published_at": "2026-05-06T06:15:15Z",
+      "summary": "[国連開発計画]\n[画像: https://prcdn.freetls.fastly.net/release_image/75432/83/75432-83-d768c7e7e505edf4e690a2154fc23734-3900x2600.jpg?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&amp;amp...",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://prtimes.jp/main/html/rd/p/000000038.000106321.html",
+      "source_id": "pr-times",
+      "source_name": "PR TIMES",
+      "source_kind": "press-release",
+      "priority": false,
+      "region": "jp",
+      "title": "【新規番組開設】脳卒中・失語症を経験したNPO代表が贈る、生きづらさを語り合う対話の場「当事者ラジオ」をスタート",
+      "url": "https://prtimes.jp/main/html/rd/p/000000038.000106321.html",
+      "published_at": "2026-05-06T06:15:15Z",
+      "summary": "[エコロジーオンライン]\n報道関係者各位\n2026年5月6日\n特定⾮営利活動法人エコロジーオンライン\n\n\n[画像: https://prcdn.freetls.fastly.net/release_image/106321/38/106321-38-06fbdf24e642ed86aab7f3e3040123e9-1376x768.png?width=53...",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://prtimes.jp/main/html/rd/p/000000001.000181887.html",
+      "source_id": "pr-times",
+      "source_name": "PR TIMES",
+      "source_kind": "press-release",
+      "priority": false,
+      "region": "jp",
+      "title": "茨木市に「大衆焼肉正Q」が5月27日(水)リニューアルオープン！～卓上の釜で炊き上げる近江米と炭火焼きの絶品和牛焼肉～",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000181887.html",
+      "published_at": "2026-05-06T04:00:00Z",
+      "summary": "[有限会社しま]\n有限会社しま（所在地：大阪府茨木市永代町８番８号国里ビルディング４０５、取締役：石原 正久）は、長年ご愛顧いただきました「炭火焼肉 食べ放題 じゅじゅ庵 阪急茨木店」をリニューアルし、2026年5月27日(水)...",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://prtimes.jp/main/html/rd/p/000000084.000075432.html",
+      "source_id": "pr-times",
+      "source_name": "PR TIMES",
+      "source_kind": "press-release",
+      "priority": false,
+      "region": "jp",
+      "title": "UNDPアフリカ局長が来日-アフリカ・日本の戦略的パートナーシップ強化へ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000084.000075432.html",
+      "published_at": "2026-05-06T07:59:39Z",
+      "summary": "[国連開発計画]\n[画像: https://prcdn.freetls.fastly.net/release_image/75432/84/75432-84-c8c8004009dc182c61597710667cb24c-3900x2194.png?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&amp;amp...",
+      "authors": [],
+      "tags": []
+    },
+    {
       "item_id": "https://prtimes.jp/main/html/rd/p/000000017.000182000.html",
       "source_id": "pr-times",
       "source_name": "PR TIMES",
@@ -6696,62 +6767,6 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000041.000098528.html",
       "published_at": "2026-05-06T06:40:01Z",
       "summary": "[株式会社VEXZ]\n株式会社VEXZ（代表取締役社長：原佳祐、本社：東京都港区、以下：VEXZ）は、株式会社NEXUSと共同で開発したオリジナルトレーディングカードゲーム「NEXUS -ザ・フェイブカードゲーム-（以下、NEXUS）」に、スマ...",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://prtimes.jp/main/html/rd/p/000001260.000074768.html",
-      "source_id": "pr-times",
-      "source_name": "PR TIMES",
-      "source_kind": "press-release",
-      "priority": false,
-      "region": "jp",
-      "title": "2026年下半期の運勢｜真木あかりが365日の誕生日で占う総合運。公式占いサイトにて「真木あかりが占う2026年下半期の運勢」を一般公開中",
-      "url": "https://prtimes.jp/main/html/rd/p/000001260.000074768.html",
-      "published_at": "2026-05-06T06:40:01Z",
-      "summary": "[株式会社レンサ]\n株式会社レンサ（本社：東京都渋谷区、代表取締役：武井哲也）は、2026年5月5日（火）より、月額公式占いサイト「真木あかりの誕生日占い」にて、「真木あかりが占う2026年下半期の運勢」を一般向けに提供開始い...",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://prtimes.jp/main/html/rd/p/000000013.000112334.html",
-      "source_id": "pr-times",
-      "source_name": "PR TIMES",
-      "source_kind": "press-release",
-      "priority": false,
-      "region": "jp",
-      "title": "普通卵の約10倍※のルテインを含む機能性表示食品の卵「あらん(R)」。JINS運営のコーヒーショップでのスイーツの主原料に採用。JINS PARK周年祭限定品販売も。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000013.000112334.html",
-      "published_at": "2026-05-06T06:40:01Z",
-      "summary": "[高島産業]\n「食べて目をケアする卵」と、「見る」を支える企業の出会い\n高ルテイン含有卵「あらん(R)」コラボスイーツ誕生\n \n有限会社高島産業（本社：香川県）は、自社が展開する普通卵の約10倍※のルテインを含む機能性表...",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://prtimes.jp/main/html/rd/p/000000018.000168018.html",
-      "source_id": "pr-times",
-      "source_name": "PR TIMES",
-      "source_kind": "press-release",
-      "priority": false,
-      "region": "jp",
-      "title": "株式会社ミセカタ、Z世代代表と登録者10万人YouTuber出身役員による企業向けSNSリテラシー研修を開始",
-      "url": "https://prtimes.jp/main/html/rd/p/000000018.000168018.html",
-      "published_at": "2026-05-06T06:40:01Z",
-      "summary": "[株式会社ミセカタ]\n[画像1: https://prcdn.freetls.fastly.net/release_image/168018/18/168018-18-f0d786a3ee0f1c99a0ac7fc8ecf2b72d-2048x1365.jpg?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&...",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "item_id": "https://prtimes.jp/main/html/rd/p/000000008.000098748.html",
-      "source_id": "pr-times",
-      "source_name": "PR TIMES",
-      "source_kind": "press-release",
-      "priority": false,
-      "region": "jp",
-      "title": "岐阜県初本格ドローンショー × 40店舗超のフードフェス × 豪華タレント出演来場者約3,000名規模の「ひらゆさくら祭り2026」を開催",
-      "url": "https://prtimes.jp/main/html/rd/p/000000008.000098748.html",
-      "published_at": "2026-05-06T01:40:32Z",
-      "summary": "[株式会社SYNC.]\n[画像1: https://prcdn.freetls.fastly.net/release_image/98748/8/98748-8-fd3b74a8309de950428397012ce4dc04-3900x2600.jpg?width=536&amp;quality=85%2C75&amp;format=jpeg&amp;auto=webp&amp;fit=bounds&amp;...",
       "authors": [],
       "tags": []
     },
@@ -7874,12 +7889,91 @@
       "summary": "Google Cloudが、新たなAIデータセンターネットワーク、「Virgo Network」を発表した。ネットワークが原因でGPUやTPUの投資対効果が低減することを防ぐ目的がある。",
       "authors": [],
       "tags": []
+    },
+    {
+      "item_id": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news042.html",
+      "source_id": "atmarkit",
+      "source_name": "atmarkIT",
+      "source_kind": "media",
+      "priority": false,
+      "region": "jp",
+      "title": "脆弱性管理製品「Nessus」に脆弱性　Windows版で任意ファイル削除のリスク",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news042.html",
+      "published_at": "2026-04-29T22:30:00Z",
+      "summary": "Tenableは脆弱性管理製品NessusとNessus AgentのWindows版に任意ファイル削除の脆弱性があると公表した。SYSTEM権限で削除が可能で悪用時にコード実行の恐れがある。修正版への迅速な更新が推奨されている。",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news034.html",
+      "source_id": "atmarkit",
+      "source_name": "atmarkIT",
+      "source_kind": "media",
+      "priority": false,
+      "region": "jp",
+      "title": "CrowdStrike、競合すら統合　AI時代の最新機能アップデートまとめ",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news034.html",
+      "published_at": "2026-04-29T22:00:00Z",
+      "summary": "AIエージェントの導入が進む一方で“見えないリスク”が企業には広がっている。これに向けてCrowdStrikeはどのような打ち手を提供するのか。同社のAI時代に最適化された最新の製品アップデートを完全解説しよう。",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news005.html",
+      "source_id": "atmarkit",
+      "source_name": "atmarkIT",
+      "source_kind": "media",
+      "priority": false,
+      "region": "jp",
+      "title": "CNNからGPT-3.5、Stable Diffusionへ　「GPU」が汎用AIインフラになるまで、需要はどう増え続けたのか",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news005.html",
+      "published_at": "2026-04-29T20:00:00Z",
+      "summary": "GPUはHPCやAI用途の発展とともに進化してきたが、初めからその存在が一般ユーザーに強く意識されたわけではなかった。仮想通貨マイニングやLLM、画像生成AIの登場とともに、GPUの需要がどう変わってきたのかを振り返る。",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news007.html",
+      "source_id": "atmarkit",
+      "source_name": "atmarkIT",
+      "source_kind": "media",
+      "priority": false,
+      "region": "jp",
+      "title": "もしも、ユーザー企業がシャム猫のように気まぐれだったら――判例で学ぶプロジェクト管理 虎の巻【動画あり】",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news007.html",
+      "published_at": "2026-04-29T20:00:00Z",
+      "summary": "ユーザー企業の度重なる仕様変更や非協力的な態度が原因でITプロジェクトが頓挫した際、責任を問われるのはベンダー、ユーザー企業、どちらなのか。「IT訴訟動画解説」第4弾は、徹底して「お任せ」を貫き、プロジェクトを崩壊させたユーザー企業の判例をピックアップし、紛争解決のプロが核心を解説する。",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "item_id": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news011.html",
+      "source_id": "atmarkit",
+      "source_name": "atmarkIT",
+      "source_kind": "media",
+      "priority": false,
+      "region": "jp",
+      "title": "日本全体の“認証”を弱めた「SSO税」　「アカウント地雷」の撤去コストを下げる極意",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2604/30/news011.html",
+      "published_at": "2026-04-29T20:00:00Z",
+      "summary": "2026年3月3日、「ITmedia Security Week 2026 冬」で、セキュリティ啓発アニメ「こうしす！」の脚本・監督として活躍する井二かける氏が「認証技術とID統制、その第一歩を踏み出すために」と題して講演した。",
+      "authors": [],
+      "tags": []
     }
   ],
   "meta": {
     "feed_count": 36,
-    "item_count": 502,
-    "errors": [],
+    "item_count": 506,
+    "errors": [
+      {
+        "source_id": "meti-news",
+        "error": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=30)"
+      },
+      {
+        "source_id": "meti-statistics",
+        "error": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=30)"
+      }
+    ],
     "warnings": []
   }
 }
