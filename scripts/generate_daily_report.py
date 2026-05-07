@@ -12,6 +12,7 @@ from trend_scan.date_utils import build_run_context  # noqa: E402
 from trend_scan.reporting import build_daily_report  # noqa: E402
 from trend_scan.storage import (  # noqa: E402
     daily_report_path,
+    error_log_path,
     normalized_path,
     read_json,
     read_jsonl,
@@ -28,7 +29,8 @@ def main() -> None:
     context = build_run_context(args.date, settings)
     normalized_records = read_jsonl(normalized_path(context.run_date_str))
     signal_payload = read_json(signals_path(context.run_date_str), default={"signals": []})
-    report = build_daily_report(context.run_date_str, normalized_records, signal_payload)
+    error_payload = read_json(error_log_path(context.run_date_str), default=None)
+    report = build_daily_report(context.run_date_str, normalized_records, signal_payload, error_payload)
 
     path = daily_report_path(context.run_date_str)
     path.parent.mkdir(parents=True, exist_ok=True)

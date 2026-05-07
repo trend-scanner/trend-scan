@@ -63,3 +63,13 @@ def previous_date(run_date: date) -> date:
 
 def wikipedia_observed_date(context: RunContext, lag_days: int = 1) -> date:
     return context.run_date - timedelta(days=lag_days)
+
+
+def wikipedia_observed_dates(
+    context: RunContext,
+    min_lag_days: int = 1,
+    max_lag_days: int = 7,
+) -> list[date]:
+    min_lag = max(1, min_lag_days)
+    max_lag = max(min_lag, max_lag_days)
+    return [context.run_date - timedelta(days=lag) for lag in range(min_lag, max_lag + 1)]

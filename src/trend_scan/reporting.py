@@ -20,14 +20,63 @@ def _top(records: list[dict[str, Any]], source: str, metric: str | None, limit: 
     )[:limit]
 
 
+def _format_collection_health(error_payload: dict[str, Any] | None) -> list[str]:
+    if not error_payload:
+        return ["- Error log not found for this run."]
+
+    entries = error_payload.get("entries", [])
+    if not entries:
+        return ["- No failed sources or parser warnings recorded."]
+
+    by_source = Counter(entry.get("source", "unknown") for entry in entries)
+    by_level = Counter(entry.get("level", "unknown") for entry in entries)
+    lines = [
+        f"- Error/warning entries: {len(entries)}",
+        "- By level: " + ", ".join(f"{level}={count}" for level, count in sorted(by_level.items())),
+        "- By source: " + ", ".join(f"{source}={count}" for source, count in sorted(by_source.items())),
+    ]
+
+    continuous = error_payload.get("summary", {}).get("continuous_failures", [])
+    if continuous:
+        lines.append("- Continuous failures:")
+        lines.extend(
+            f"- {item.get('source')} / {item.get('detail_id')}: {item.get('consecutive_days')} days"
+            for item in continuous[:8]
+        )
+
+    return lines
+
+
+def _format_signal(signal: dict[str, Any]) -> str:
+    tags = ", ".join(signal.get("tags", []))
+    score = signal.get("score", "n/a")
+    summary = signal.get("summary") or ""
+    hint = signal.get("position_hint") or ""
+    return (
+        f"- [{signal.get('importance')}] score={score} {signal.get('title')} "
+        f"({signal.get('source')} / {signal.get('reason')}): {summary} "
+        f"Tags: {tags}. Position: {hint}"
+    )
+
+
+def _format_source_signals(signals: list[dict[str, Any]], source: str, limit: int = 5) -> list[str]:
+    rows = [signal for signal in signals if signal.get("source") == source]
+    if not rows:
+        return ["- No movement signals for this source."]
+    return [_format_signal(signal) for signal in rows[:limit]]
+
+
 def build_daily_report(
     run_date_str: str,
     normalized_records: list[dict[str, Any]],
     signal_payload: dict[str, Any],
+    error_payload: dict[str, Any] | None = None,
 ) -> str:
     counts_by_source = Counter(record.get("source") for record in normalized_records)
     counts_by_layer = Counter(record.get("layer") for record in normalized_records)
     signals = signal_payload.get("signals", [])
+    important_signals = signal_payload.get("important_signals", signals)
+    top_signals = signal_payload.get("top_signals", signals[:15])
 
     lines = [
         f"# Daily Trend Scan Report - {run_date_str}",
@@ -36,10 +85,22 @@ def build_daily_report(
         "",
         f"- Normalized records: {len(normalized_records)}",
         f"- Signals detected: {len(signals)}",
+        f"- Important signals: {len(important_signals)}",
+        f"- Top signals shown: {len(top_signals)}",
+        "",
+        "## Collection health",
+        "",
+    ]
+
+    lines.extend(_format_collection_health(error_payload))
+
+    lines.extend([
+        "",
+        "## Counts",
         "",
         "### By source",
         "",
-    ]
+    ])
 
     for source, count in sorted(counts_by_source.items()):
         lines.append(f"- {source}: {count}")
@@ -48,23 +109,24 @@ def build_daily_report(
     for layer, count in sorted(counts_by_layer.items()):
         lines.append(f"- {layer}: {count}")
 
+    lines.extend(["", "## Position candidates", ""])
+    if not top_signals:
+        lines.append("- No position candidates detected yet.")
+    else:
+        for signal in top_signals[:5]:
+            lines.append(_format_signal(signal))
+
     lines.extend(["", "## Key signals", ""])
-    if not signals:
+    if not top_signals:
         lines.append("- No strong signals detected yet.")
     else:
-        for signal in signals[:10]:
-            summary = signal.get("summary") or ""
-            tags = ", ".join(signal.get("tags", []))
-            lines.append(
-                f"- [{signal.get('importance')}] {signal.get('title')} ({signal.get('source')}): {summary} Tags: {tags}"
-            )
+        for signal in top_signals:
+            lines.append(_format_signal(signal))
 
     sections = [
         ("RSS updates", _top(normalized_records, "rss", None)),
         ("Hacker News leaders", _top(normalized_records, "hackernews", "score")),
-        ("GitHub leaders", _top(normalized_records, "github", "stars")),
         ("Wikipedia leaders", _top(normalized_records, "wikipedia", "views")),
-        ("Polymarket leaders", _top(normalized_records, "polymarket", "volume")),
     ]
 
     for title, records in sections:
@@ -88,6 +150,12 @@ def build_daily_report(
             lines.append(
                 f"- {record.get('title')} | {interesting_metric} | {record.get('url') or 'n/a'}"
             )
+
+    lines.extend(["", "## GitHub movement leaders", ""])
+    lines.extend(_format_source_signals(important_signals, "github"))
+
+    lines.extend(["", "## Polymarket watchlist movers", ""])
+    lines.extend(_format_source_signals(important_signals, "polymarket"))
 
     lines.append("")
     return "\n".join(lines)

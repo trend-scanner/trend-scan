@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import sys
+from datetime import timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -30,11 +31,20 @@ def main() -> None:
     context = build_run_context(args.date, settings)
     current = read_jsonl(normalized_path(context.run_date_str))
     previous = read_jsonl(previous_normalized_path(context.run_date))
+    history = []
+    for offset in range(1, 31):
+        history_date = context.run_date - timedelta(days=offset)
+        history.extend(read_jsonl(normalized_path(history_date.isoformat())))
+
+    signal_config = settings["sources"].get("signals", {})
     payload = detect_signals(
         current,
         previous,
         context.run_date_str,
         tracked_tags=list(settings["keyword_map"].keys()),
+        history_records=history,
+        top_limit=int(signal_config.get("top_limit", 15)),
+        important_limit=int(signal_config.get("important_limit", 40)),
     )
     write_json(signals_path(context.run_date_str), payload)
 

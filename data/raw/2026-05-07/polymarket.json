@@ -1,161 +1,111 @@
 {
   "source": "polymarket",
   "run_date": "2026-05-07",
-  "snapshot_at": "2026-05-07T07:06:04.638995+09:00",
+  "snapshot_at": "2026-05-08T00:00:00+09:00",
   "items": [
     {
-      "market_id": "559670",
-      "title": "Will Gina Raimondo win the 2028 Democratic presidential nomination?",
-      "slug": "will-gina-raimondo-win-the-2028-democratic-presidential-nomination-676",
-      "url": "https://polymarket.com/event/will-gina-raimondo-win-the-2028-democratic-presidential-nomination-676",
+      "market_id": "567621",
+      "title": "Will China invade Taiwan by end of 2026?",
+      "slug": "will-china-invade-taiwan-before-2027",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
       "category": null,
-      "volume": 31147419.21066295,
-      "liquidity": 2215868.48486,
-      "end_date": "2028-11-07T00:00:00Z",
+      "volume": 23356220.824864004,
+      "liquidity": 979680.53133,
+      "end_date": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
       "outcomes": [
         {
           "name": "Yes",
-          "price": 0.0065
+          "price": 0.0745
         },
         {
           "name": "No",
-          "price": 0.9935
+          "price": 0.9255
         }
       ],
       "tags": [
-        "ai"
+        "geopolitics"
       ]
     },
     {
-      "market_id": "558934",
-      "title": "Will Spain win the 2026 FIFA World Cup?",
-      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
-      "url": "https://polymarket.com/event/will-spain-win-the-2026-fifa-world-cup-963",
+      "market_id": "573655",
+      "title": "Will Bitcoin hit $150k by June 30, 2026?",
+      "slug": "will-bitcoin-hit-150k-by-june-30-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-hit-150k-by-june-30-2026",
       "category": null,
-      "volume": 18507797.141851593,
-      "liquidity": 939984.00715,
-      "end_date": "2026-07-20T00:00:00Z",
+      "volume": 15734008.014241,
+      "liquidity": 19822.55555,
+      "end_date": "2026-07-01T04:00:00Z",
       "active": true,
       "closed": false,
       "outcomes": [
         {
           "name": "Yes",
-          "price": 0.1535
+          "price": 0.0135
         },
         {
           "name": "No",
-          "price": 0.8465
+          "price": 0.9865
         }
       ],
       "tags": [
-        "ai"
+        "crypto"
       ]
     },
     {
-      "market_id": "558977",
-      "title": "Will Haiti win the 2026 FIFA World Cup?",
-      "slug": "will-haiti-win-the-2026-fifa-world-cup",
-      "url": "https://polymarket.com/event/will-haiti-win-the-2026-fifa-world-cup",
+      "market_id": "567687",
+      "title": "Russia x Ukraine ceasefire by end of 2026?",
+      "slug": "russia-x-ukraine-ceasefire-before-2027",
+      "url": "https://polymarket.com/event/russia-x-ukraine-ceasefire-before-2027",
       "category": null,
-      "volume": 16557707.458820036,
-      "liquidity": 6679197.4658,
-      "end_date": "2026-07-20T00:00:00Z",
+      "volume": 14502613.985482976,
+      "liquidity": 477986.7672,
+      "end_date": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
       "outcomes": [
         {
           "name": "Yes",
-          "price": 0.0015
+          "price": 0.255
         },
         {
           "name": "No",
-          "price": 0.9985
+          "price": 0.745
         }
       ],
       "tags": [
-        "ai"
+        "geopolitics"
       ]
     },
     {
-      "market_id": "540843",
-      "title": "Will China invades Taiwan before GTA VI?",
-      "slug": "will-china-invades-taiwan-before-gta-vi-716",
-      "url": "https://polymarket.com/event/will-china-invades-taiwan-before-gta-vi-716",
+      "market_id": "573656",
+      "title": "Will Bitcoin hit $150k by December 31, 2026?",
+      "slug": "will-bitcoin-hit-150k-by-december-31-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-hit-150k-by-december-31-2026",
       "category": null,
-      "volume": 1815431.5853870607,
-      "liquidity": 42977.0545,
-      "end_date": "2026-07-31T12:00:00Z",
+      "volume": 291903.3091739995,
+      "liquidity": 30019.8616,
+      "end_date": "2027-01-01T04:00:00Z",
       "active": true,
       "closed": false,
       "outcomes": [
         {
           "name": "Yes",
-          "price": 0.515
+          "price": 0.095
         },
         {
           "name": "No",
-          "price": 0.485
+          "price": 0.905
         }
       ],
       "tags": [
-        "ai"
-      ]
-    },
-    {
-      "market_id": "540816",
-      "title": "Russia-Ukraine Ceasefire before GTA VI?",
-      "slug": "russia-ukraine-ceasefire-before-gta-vi-554",
-      "url": "https://polymarket.com/event/russia-ukraine-ceasefire-before-gta-vi-554",
-      "category": null,
-      "volume": 1657726.8043870481,
-      "liquidity": 49264.2062,
-      "end_date": "2026-07-31T12:00:00Z",
-      "active": true,
-      "closed": false,
-      "outcomes": [
-        {
-          "name": "Yes",
-          "price": 0.555
-        },
-        {
-          "name": "No",
-          "price": 0.445
-        }
-      ],
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "market_id": "556108",
-      "title": "Will MegaETH perform an airdrop by June 30? ",
-      "slug": "will-megaeth-perform-an-airdrop-by-june-30-143-229-513-574-212-254",
-      "url": "https://polymarket.com/event/will-megaeth-perform-an-airdrop-by-june-30-143-229-513-574-212-254",
-      "category": null,
-      "volume": 1523641.0481219965,
-      "liquidity": 5218.77511,
-      "end_date": "2026-02-01T05:00:00Z",
-      "active": true,
-      "closed": false,
-      "outcomes": [
-        {
-          "name": "Yes",
-          "price": 0.34
-        },
-        {
-          "name": "No",
-          "price": 0.66
-        }
-      ],
-      "tags": [
-        "ai"
+        "crypto"
       ]
     }
   ],
   "meta": {
-    "market_count": 6,
+    "market_count": 4,
     "errors": []
   }
 }

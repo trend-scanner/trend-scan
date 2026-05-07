@@ -70,11 +70,11 @@ wikipedia_pages:
     region: jp
     tags: [ai, llm]
   - project: ja.wikipedia.org
-    title: 生成AI
+    title: 大規模言語モデル
     region: jp
-    tags: [ai]
+    tags: [ai, llm]
   - project: ja.wikipedia.org
-    title: 円安
+    title: 円相場
     region: jp
     tags: [economy]
   - project: ja.wikipedia.org
@@ -99,14 +99,59 @@ wikipedia_pages:
     tags: [resilience]
 
 polymarket_filters:
-  categories:
-    - AI
-    - Politics
-    - Economy
-    - Crypto
-    - Technology
-    - Geopolitics
-    - Inflation
-    - Regulation
-    - Companies
+  include_keywords:
+    - AI regulation
+    - artificial intelligence
+    - OpenAI
+    - Google
+    - Apple
+    - Nvidia
+    - semiconductor
+    - TSMC
+    - chips
+    - interest rates
+    - interest rate
+    - rate cut
+    - rate cuts
+    - Fed
+    - Federal Reserve
+    - inflation
+    - CPI
+    - recession
+    - tariffs
+    - tariff
+    - crypto
+    - Bitcoin
+    - Ethereum
+    - crypto regulation
+    - Bitcoin ETF
+    - Ethereum ETF
+    - SEC
+    - Taiwan
+    - Ukraine ceasefire
+    - Russia Ukraine
+    - oil
+    - crude
+  exclude_keywords:
+    - World Cup
+    - NBA
+    - NFL
+    - NHL
+    - MLB
+    - UFC
+    - boxing
+    - soccer
+    - football
+    - tennis
+    - Grammy
+    - Oscars
+    - movie
+    - music
+    - GTA
+    - Taylor Swift
+    - Democratic nominee
+    - Republican nominee
+    - presidential nominee
+    - election winner
+    - popular vote
   min_volume: 1000

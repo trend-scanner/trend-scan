@@ -1,85 +1,217 @@
 {
   "source": "wikipedia",
   "run_date": "2026-05-07",
-  "snapshot_at": "2026-05-07T07:04:48.804359+09:00",
-  "items": [],
+  "snapshot_at": "2026-05-08T00:00:00+09:00",
+  "items": [
+    {
+      "page_title": "ChatGPT",
+      "original_title": "ChatGPT",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-06",
+      "views": 63139,
+      "tags": [
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "page_title": "YouTube",
+      "original_title": "YouTube",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-06",
+      "views": 57383,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "page_title": "Artificial intelligence",
+      "original_title": "Artificial intelligence",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-06",
+      "views": 47289,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "page_title": "TikTok",
+      "original_title": "TikTok",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-06",
+      "views": 15627,
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "page_title": "OpenAI",
+      "original_title": "OpenAI",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-06",
+      "views": 10958,
+      "tags": [
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "page_title": "Large language model",
+      "original_title": "Large language model",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-06",
+      "views": 5825,
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "page_title": "YouTube",
+      "original_title": "YouTube",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-06",
+      "views": 3754,
+      "tags": [
+        "youtube"
+      ]
+    },
+    {
+      "page_title": "Cryptocurrency",
+      "original_title": "Cryptocurrency",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-06",
+      "views": 2536,
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "page_title": "ChatGPT",
+      "original_title": "ChatGPT",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-06",
+      "views": 2033,
+      "tags": [
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "page_title": "Prediction market",
+      "original_title": "Prediction market",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-06",
+      "views": 1764,
+      "tags": [
+        "prediction-markets"
+      ]
+    },
+    {
+      "page_title": "Inflation",
+      "original_title": "Inflation",
+      "project": "en.wikipedia.org",
+      "region": "global",
+      "observed_date": "2026-05-06",
+      "views": 1288,
+      "tags": [
+        "inflation"
+      ]
+    },
+    {
+      "page_title": "人工知能",
+      "original_title": "人工知能",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-06",
+      "views": 829,
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "page_title": "大規模言語モデル",
+      "original_title": "大規模言語モデル",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-06",
+      "views": 254,
+      "tags": [
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "page_title": "円相場",
+      "original_title": "円相場",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-06",
+      "views": 92,
+      "tags": [
+        "economy"
+      ]
+    },
+    {
+      "page_title": "防災",
+      "original_title": "防災",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-06",
+      "views": 29,
+      "tags": [
+        "resilience"
+      ]
+    },
+    {
+      "page_title": "物価",
+      "original_title": "物価",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-06",
+      "views": 24,
+      "tags": [
+        "inflation"
+      ]
+    },
+    {
+      "page_title": "副業",
+      "original_title": "副業",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-06",
+      "views": 16,
+      "tags": [
+        "side-business"
+      ]
+    },
+    {
+      "page_title": "備蓄",
+      "original_title": "備蓄",
+      "project": "ja.wikipedia.org",
+      "region": "jp",
+      "observed_date": "2026-05-06",
+      "views": 12,
+      "tags": [
+        "resilience"
+      ]
+    }
+  ],
   "meta": {
     "page_count": 18,
-    "item_count": 0,
+    "item_count": 18,
     "observed_date": "2026-05-06",
-    "errors": [
-      {
-        "title": "Artificial_intelligence",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260506/20260506"
-      },
-      {
-        "title": "OpenAI",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/OpenAI/daily/20260506/20260506"
-      },
-      {
-        "title": "ChatGPT",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/ChatGPT/daily/20260506/20260506"
-      },
-      {
-        "title": "Large_language_model",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Large_language_model/daily/20260506/20260506"
-      },
-      {
-        "title": "Prediction_market",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Prediction_market/daily/20260506/20260506"
-      },
-      {
-        "title": "Inflation",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Inflation/daily/20260506/20260506"
-      },
-      {
-        "title": "Cryptocurrency",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Cryptocurrency/daily/20260506/20260506"
-      },
-      {
-        "title": "YouTube",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/YouTube/daily/20260506/20260506"
-      },
-      {
-        "title": "TikTok",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/TikTok/daily/20260506/20260506"
-      },
-      {
-        "title": "人工知能",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD/daily/20260506/20260506"
-      },
-      {
-        "title": "ChatGPT",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/ChatGPT/daily/20260506/20260506"
-      },
-      {
-        "title": "生成AI",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E7%94%9F%E6%88%90AI/daily/20260506/20260506"
-      },
-      {
-        "title": "円安",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%86%86%E5%AE%89/daily/20260506/20260506"
-      },
-      {
-        "title": "物価",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E7%89%A9%E4%BE%A1/daily/20260506/20260506"
-      },
-      {
-        "title": "副業",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260506/20260506"
-      },
-      {
-        "title": "YouTube",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/YouTube/daily/20260506/20260506"
-      },
-      {
-        "title": "防災",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260506/20260506"
-      },
-      {
-        "title": "備蓄",
-        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%82%99%E8%93%84/daily/20260506/20260506"
-      }
-    ]
+    "observed_lag_days": 1,
+    "errors": [],
+    "warnings": []
   }
 }

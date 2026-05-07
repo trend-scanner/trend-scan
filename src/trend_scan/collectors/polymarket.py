@@ -54,18 +54,27 @@ def _tag_names(raw_tags: Any) -> list[str]:
     return tag_names
 
 
-def _should_keep(market: dict[str, Any], category_filters: list[str]) -> bool:
-    if not category_filters:
-        return True
-
+def _market_haystack(market: dict[str, Any]) -> str:
     haystack_parts = [
         str(market.get("question") or ""),
         str(market.get("title") or ""),
         str(market.get("category") or ""),
         " ".join(_tag_names(market.get("tags", []))),
     ]
-    haystack = " ".join(haystack_parts).lower()
-    return any(category.lower() in haystack for category in category_filters)
+    return " ".join(haystack_parts).lower()
+
+
+def _contains_any(haystack: str, keywords: list[str]) -> bool:
+    return any(keyword.lower() in haystack for keyword in keywords)
+
+
+def _should_keep(market: dict[str, Any], include_keywords: list[str], exclude_keywords: list[str]) -> bool:
+    haystack = _market_haystack(market)
+    if exclude_keywords and _contains_any(haystack, exclude_keywords):
+        return False
+    if include_keywords and not _contains_any(haystack, include_keywords):
+        return False
+    return True
 
 
 def collect(context: RunContext, settings: dict) -> dict[str, Any]:
@@ -77,7 +86,8 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
     endpoint = source_config["gamma_endpoint"]
     limit = int(source_config.get("limit", 200))
     filter_config = watchlists.get("polymarket_filters", {})
-    category_filters = filter_config.get("categories", [])
+    include_keywords = filter_config.get("include_keywords") or filter_config.get("categories", [])
+    exclude_keywords = filter_config.get("exclude_keywords", [])
     min_volume = float(filter_config.get("min_volume", 0))
 
     errors: list[dict[str, str]] = []
@@ -96,7 +106,7 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
     markets = payload if isinstance(payload, list) else payload.get("data", [])
 
     for market in markets:
-        if not _should_keep(market, category_filters):
+        if not _should_keep(market, include_keywords, exclude_keywords):
             continue
 
         volume = _as_float(market.get("volume")) or _as_float(market.get("volumeNum")) or 0.0

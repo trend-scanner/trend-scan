@@ -12,11 +12,18 @@ def compile_keyword_map(keywords_config: dict) -> dict[str, list[str]]:
     }
 
 
+def _term_matches(term: str, haystack: str) -> bool:
+    if term.isascii() and re.fullmatch(r"[a-z0-9][a-z0-9+.#_-]*", term):
+        pattern = rf"(?<![a-z0-9]){re.escape(term)}(?![a-z0-9])"
+        return re.search(pattern, haystack) is not None
+    return term in haystack
+
+
 def infer_tags(keyword_map: dict[str, list[str]], *values: str | None) -> list[str]:
     haystack = " ".join(value or "" for value in values).lower()
     tags: list[str] = []
     for tag, terms in keyword_map.items():
-        if any(term in haystack for term in terms):
+        if any(_term_matches(term, haystack) for term in terms):
             tags.append(tag)
     return sorted(set(tags))
 
@@ -34,6 +41,6 @@ def merge_tags(*groups: Iterable[str]) -> list[str]:
 def has_signal_terms(keywords_config: dict, *values: str | None) -> bool:
     haystack = " ".join(value or "" for value in values).lower()
     for term in keywords_config.get("signal_terms", []):
-        if term.lower() in haystack:
+        if _term_matches(term.lower(), haystack):
             return True
     return False
