@@ -11,6 +11,7 @@ This project is optimized for three questions:
 1. What is being talked about now?
 2. What suddenly accelerated?
 3. What can we compare over time later?
+4. What SNS or small-business position may be worth testing early?
 
 The public repository only handles data collection, storage, normalization, and signal detection. Any private judgment layer can be built later on top of the generated data.
 
@@ -75,9 +76,11 @@ Each run writes three layers of outputs:
 
 Signal ranking favors movement over size: first-seen items, recent acceleration, GitHub star/fork deltas, cross-source confirmation, and global-first Japan gaps rank above static incumbents. Polymarket is filtered through a strategy-relevant watchlist and excludes sports, entertainment, and election-horse-race noise by default.
 
+Signals also include public, non-personal positioning hints such as `business_relevance` and `sns_position`. These are not private strategy decisions; they are candidate angles for later validation, such as early Japanese explainers, practical checklists, workflow demos, or small landing-page tests.
+
 Wikipedia pageviews try recent daily points and use the newest available date, because Wikimedia daily data can lag behind the scheduled run.
 
-Daily markdown reports are written to `reports/daily/YYYY-MM-DD.md` and show collection health near the top so missing data is not mistaken for lack of interest.
+Daily markdown reports are written to `reports/daily/YYYY-MM-DD.md` and show collection health near the top so missing data is not mistaken for lack of interest. They also include SNS/business positioning candidates for public trend validation.
 Weekly reports are written to `reports/weekly/YYYY-Www.md`.
 Monthly reports are written to `reports/monthly/YYYY-MM.md` and summarize the trailing 30-day window ending on the run date.
 
@@ -137,7 +140,7 @@ The workflow runs at `06:00` Japan time every day.
 - `config/sources.yml`
   Source endpoints, RSS feeds, Wikipedia lag settings, and signal display limits.
 - `config/watchlists.yml`
-  Search queries, monitored Wikipedia pages, and Polymarket include/exclude filters.
+  Search queries, monitored Wikipedia pages, GitHub/HN side-business watchlists, and Polymarket include/exclude filters.
 - `config/keywords.yml`
   Theme tagging rules and signal-oriented terms.
 
@@ -154,4 +157,5 @@ The included config is a starter set for the MVP. Expand feed counts, GitHub que
 
 - Tune signal thresholds as more history accumulates.
 - Add global-vs-Japan gap reporting on weekly and monthly windows.
+- Keep improving SNS/business positioning candidates as real outcomes are validated privately.
 - Split private decision logic into a separate repository later.

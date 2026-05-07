@@ -11,6 +11,16 @@ hackernews_queries:
   - GitHub
   - SaaS
   - startup
+  - indie hackers
+  - side project
+  - creator economy
+  - content marketing
+  - newsletter
+  - affiliate marketing
+  - marketing automation
+  - social media
+  - no-code
+  - solopreneur
 
 github_queries:
   - topic:ai pushed:>{recent_30d} stars:>50
@@ -23,6 +33,16 @@ github_queries:
   - "\"local llm\" pushed:>{recent_30d} stars:>25"
   - "\"ai agents\" pushed:>{recent_7d} stars:>50"
   - "\"workflow automation\" pushed:>{recent_30d} stars:>10"
+  - "\"marketing automation\" pushed:>{recent_30d} stars:>10"
+  - "\"content automation\" pushed:>{recent_30d} stars:>10"
+  - "\"social media\" automation pushed:>{recent_30d} stars:>10"
+  - "\"newsletter\" pushed:>{recent_30d} stars:>10"
+  - "\"creator tools\" pushed:>{recent_30d} stars:>10"
+  - "\"lead generation\" pushed:>{recent_30d} stars:>10"
+  - "\"landing page\" pushed:>{recent_30d} stars:>10"
+  - "\"affiliate marketing\" pushed:>{recent_30d} stars:>10"
+  - "\"no-code\" pushed:>{recent_30d} stars:>25"
+  - "\"micro saas\" pushed:>{recent_30d} stars:>5"
 
 wikipedia_pages:
   - project: en.wikipedia.org
@@ -61,6 +81,34 @@ wikipedia_pages:
     title: TikTok
     region: global
     tags: [video]
+  - project: en.wikipedia.org
+    title: Creator_economy
+    region: global
+    tags: [creator-economy, side-business]
+  - project: en.wikipedia.org
+    title: Digital_marketing
+    region: global
+    tags: [marketing, content-marketing]
+  - project: en.wikipedia.org
+    title: Affiliate_marketing
+    region: global
+    tags: [affiliate, side-business]
+  - project: en.wikipedia.org
+    title: Search_engine_optimization
+    region: global
+    tags: [seo, search, content-marketing]
+  - project: en.wikipedia.org
+    title: Social_media_marketing
+    region: global
+    tags: [social-media, marketing]
+  - project: en.wikipedia.org
+    title: Newsletter
+    region: global
+    tags: [newsletter, content-marketing]
+  - project: en.wikipedia.org
+    title: E-commerce
+    region: global
+    tags: [ecommerce, side-business]
   - project: ja.wikipedia.org
     title: 人工知能
     region: jp

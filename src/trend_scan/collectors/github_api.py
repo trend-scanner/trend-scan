@@ -1,7 +1,10 @@
 from __future__ import annotations
 
 import os
+import time
 from typing import Any
+
+import requests
 
 from ..date_utils import RunContext, expand_template
 from ..http import build_session, get_json
@@ -29,10 +32,14 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
     queries = [expand_template(query, context) for query in watchlists.get("github_queries", [])]
     per_query = int(source_config.get("per_query", 15))
     sort = source_config.get("sort", "updated")
+    request_interval = float(source_config.get("request_interval_seconds", 0))
     deduped: dict[str, dict[str, Any]] = {}
     errors: list[dict[str, str]] = []
 
-    for query in queries:
+    for index, query in enumerate(queries):
+        if index and request_interval > 0:
+            time.sleep(request_interval)
+
         params = {
             "q": query,
             "sort": sort,
@@ -40,10 +47,27 @@ def collect(context: RunContext, settings: dict) -> dict[str, Any]:
             "per_page": per_query,
         }
 
-        try:
-            payload = get_json(session, endpoint, params=params, headers=_github_headers())
-        except Exception as exc:  # noqa: BLE001
-            errors.append({"query": query, "error": str(exc)})
+        payload = None
+        for attempt in range(2):
+            try:
+                payload = get_json(session, endpoint, params=params, headers=_github_headers())
+                break
+            except requests.HTTPError as exc:
+                status_code = exc.response.status_code if exc.response is not None else None
+                if status_code in {403, 429} and attempt == 0:
+                    reset_header = exc.response.headers.get("X-RateLimit-Reset") if exc.response is not None else None
+                    wait_seconds = request_interval or 10
+                    if reset_header and reset_header.isdigit():
+                        wait_seconds = max(wait_seconds, min(int(reset_header) - int(time.time()) + 1, 75))
+                    time.sleep(max(wait_seconds, 1))
+                    continue
+                errors.append({"query": query, "error": str(exc)})
+                break
+            except Exception as exc:  # noqa: BLE001
+                errors.append({"query": query, "error": str(exc)})
+                break
+
+        if payload is None:
             continue
 
         for repo in payload.get("items", []):

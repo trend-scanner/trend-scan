@@ -66,6 +66,28 @@ def _format_source_signals(signals: list[dict[str, Any]], source: str, limit: in
     return [_format_signal(signal) for signal in rows[:limit]]
 
 
+def _format_sns_positions(signals: list[dict[str, Any]], limit: int = 8) -> list[str]:
+    candidates = [
+        signal
+        for signal in signals
+        if signal.get("business_relevance") in {"high", "medium"} and signal.get("sns_position")
+    ]
+    if not candidates:
+        return ["- No SNS/business positioning candidates detected yet."]
+
+    lines = []
+    for signal in candidates[:limit]:
+        position = signal.get("sns_position", {})
+        formats = ", ".join(position.get("content_formats", []))
+        tags = ", ".join(signal.get("tags", []))
+        lines.append(
+            f"- {signal.get('title')} ({signal.get('source')}): "
+            f"stance={position.get('stance')} angle={position.get('angle')} "
+            f"audience={position.get('audience')} formats={formats} tags={tags}"
+        )
+    return lines
+
+
 def build_daily_report(
     run_date_str: str,
     normalized_records: list[dict[str, Any]],
@@ -115,6 +137,9 @@ def build_daily_report(
     else:
         for signal in top_signals[:5]:
             lines.append(_format_signal(signal))
+
+    lines.extend(["", "## SNS / Business positioning candidates", ""])
+    lines.extend(_format_sns_positions(top_signals))
 
     lines.extend(["", "## Key signals", ""])
     if not top_signals:
@@ -290,6 +315,34 @@ def _format_action_candidates(records: list[dict[str, Any]], signal_payloads: li
     return lines
 
 
+def _format_periodic_sns_positions(signal_payloads: list[dict[str, Any]], limit: int = 10) -> list[str]:
+    signals = []
+    for payload in signal_payloads:
+        signals.extend(payload.get("top_signals") or payload.get("important_signals") or payload.get("signals", []))
+
+    scored = []
+    for signal in signals:
+        if signal.get("business_relevance") not in {"high", "medium"}:
+            continue
+        position = signal.get("sns_position") or {}
+        if not position:
+            continue
+        scored.append((float(signal.get("score", 0)), signal, position))
+
+    scored.sort(key=lambda row: row[0], reverse=True)
+    if not scored:
+        return ["- No SNS/business positioning candidates found in this period."]
+
+    lines = []
+    for _score, signal, position in scored[:limit]:
+        formats = ", ".join(position.get("content_formats", []))
+        lines.append(
+            f"- {signal.get('title')} ({signal.get('source')}): "
+            f"{position.get('stance')} Angle: {position.get('angle')} Formats: {formats}"
+        )
+    return lines
+
+
 def build_periodic_report(
     *,
     period: str,
@@ -331,6 +384,9 @@ def build_periodic_report(
 
     lines.extend(["", "## Global-First JP Gaps", ""])
     lines.extend(_format_global_jp_gap(normalized_records))
+
+    lines.extend(["", "## SNS / Business Positioning", ""])
+    lines.extend(_format_periodic_sns_positions(signal_payloads))
 
     lines.extend(["", "## Signal Summary", ""])
     lines.extend(_format_signal_summary(signal_payloads))

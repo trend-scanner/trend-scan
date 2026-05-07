@@ -7,10 +7,10 @@
       "repo_name": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "stars": 369116,
-      "forks": 76137,
-      "watchers": 369116,
-      "open_issues": 7364,
+      "stars": 369121,
+      "forks": 76140,
+      "watchers": 369121,
+      "open_issues": 7372,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -22,8 +22,8 @@
         "personal"
       ],
       "created_at": "2025-11-24T10:16:47Z",
-      "updated_at": "2026-05-07T03:12:34Z",
-      "pushed_at": "2026-05-07T03:09:58Z",
+      "updated_at": "2026-05-07T03:27:08Z",
+      "pushed_at": "2026-05-07T03:24:55Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-07 stars:>50"
       ],
@@ -42,9 +42,9 @@
       "repo_name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "stars": 186900,
+      "stars": 186901,
       "forks": 57413,
-      "watchers": 186900,
+      "watchers": 186901,
       "open_issues": 1447,
       "language": "TypeScript",
       "topics": [
@@ -70,10 +70,11 @@
         "workflow-automation"
       ],
       "created_at": "2019-06-22T09:24:21Z",
-      "updated_at": "2026-05-07T03:00:13Z",
+      "updated_at": "2026-05-07T03:26:21Z",
       "pushed_at": "2026-05-06T23:43:35Z",
       "matched_queries": [
-        "\"workflow automation\" pushed:>2026-04-07 stars:>10"
+        "\"workflow automation\" pushed:>2026-04-07 stars:>10",
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
       ],
       "owner_login": "n8n-io",
       "tags": [
@@ -103,10 +104,10 @@
       "repo_name": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "description": "Production-ready platform for agentic workflow development.",
-      "stars": 140386,
+      "stars": 140391,
       "forks": 22016,
-      "watchers": 140386,
-      "open_issues": 785,
+      "watchers": 140391,
+      "open_issues": 786,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -131,10 +132,10 @@
         "workflow"
       ],
       "created_at": "2023-04-12T07:40:24Z",
-      "updated_at": "2026-05-07T03:07:30Z",
+      "updated_at": "2026-05-07T03:26:05Z",
       "pushed_at": "2026-05-07T02:28:23Z",
       "matched_queries": [
-        "topic:automation pushed:>2026-04-07 stars:>25"
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
       ],
       "owner_login": "langgenius",
       "tags": [
@@ -161,109 +162,13 @@
       ]
     },
     {
-      "repo_name": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "stars": 103291,
-      "forks": 13520,
-      "watchers": 103291,
-      "open_issues": 2464,
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "cli",
-        "gemini",
-        "gemini-api",
-        "mcp-client",
-        "mcp-server"
-      ],
-      "created_at": "2025-04-17T17:04:31Z",
-      "updated_at": "2026-05-07T03:10:30Z",
-      "pushed_at": "2026-05-07T03:09:03Z",
-      "matched_queries": [
-        "topic:ai pushed:>2026-04-07 stars:>50",
-        "\"ai agents\" pushed:>2026-04-30 stars:>50"
-      ],
-      "owner_login": "google-gemini",
-      "tags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "cli",
-        "gemini",
-        "gemini-api",
-        "mcp-client",
-        "mcp-server"
-      ]
-    },
-    {
-      "repo_name": "supabase/supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "stars": 101962,
-      "forks": 12318,
-      "watchers": 101962,
-      "open_issues": 989,
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "alternative",
-        "auth",
-        "database",
-        "deno",
-        "embeddings",
-        "example",
-        "firebase",
-        "nextjs",
-        "oauth2",
-        "pgvector",
-        "postgis",
-        "postgres",
-        "postgresql",
-        "postgrest",
-        "realtime",
-        "supabase",
-        "vectors",
-        "websockets"
-      ],
-      "created_at": "2019-10-12T05:56:49Z",
-      "updated_at": "2026-05-07T03:10:38Z",
-      "pushed_at": "2026-05-07T03:11:07Z",
-      "matched_queries": [
-        "topic:ai pushed:>2026-04-07 stars:>50"
-      ],
-      "owner_login": "supabase",
-      "tags": [
-        "ai",
-        "alternative",
-        "auth",
-        "database",
-        "deno",
-        "embeddings",
-        "example",
-        "firebase",
-        "nextjs",
-        "oauth2",
-        "pgvector",
-        "postgis",
-        "postgres",
-        "postgresql",
-        "postgrest",
-        "realtime",
-        "supabase",
-        "vectors",
-        "websockets"
-      ]
-    },
-    {
       "repo_name": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "stars": 79846,
       "forks": 9089,
       "watchers": 79846,
-      "open_issues": 3006,
+      "open_issues": 3007,
       "language": "Python",
       "topics": [
         "agentic-ai",
@@ -279,7 +184,7 @@
       ],
       "created_at": "2023-12-12T06:13:13Z",
       "updated_at": "2026-05-07T03:08:39Z",
-      "pushed_at": "2026-05-07T02:58:05Z",
+      "pushed_at": "2026-05-07T03:13:36Z",
       "matched_queries": [
         "topic:rag pushed:>2026-04-07 stars:>25"
       ],
@@ -296,6 +201,160 @@
         "llm-apps",
         "rag",
         "retrieval-augmented-generation"
+      ]
+    },
+    {
+      "repo_name": "Mintplex-Labs/anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.",
+      "stars": 59636,
+      "forks": 6447,
+      "watchers": 59636,
+      "open_issues": 349,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "custom-ai-agents",
+        "deepseek",
+        "kimi",
+        "llama3",
+        "llm",
+        "lmstudio",
+        "local-llm",
+        "localai",
+        "mcp",
+        "mcp-servers",
+        "moonshot",
+        "multimodal",
+        "no-code",
+        "ollama",
+        "qwen3",
+        "rag",
+        "vector-database",
+        "web-scraping"
+      ],
+      "created_at": "2023-06-04T02:29:14Z",
+      "updated_at": "2026-05-07T03:17:46Z",
+      "pushed_at": "2026-05-06T23:13:03Z",
+      "matched_queries": [
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "Mintplex-Labs",
+      "tags": [
+        "ai",
+        "ai-agents",
+        "custom-ai-agents",
+        "deepseek",
+        "kimi",
+        "llama3",
+        "llm",
+        "lmstudio",
+        "local-llm",
+        "localai",
+        "mcp",
+        "mcp-servers",
+        "moonshot",
+        "multimodal",
+        "no-code",
+        "ollama",
+        "qwen3",
+        "rag",
+        "vector-database",
+        "web-scraping"
+      ]
+    },
+    {
+      "repo_name": "TryGhost/Ghost",
+      "url": "https://github.com/TryGhost/Ghost",
+      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+      "stars": 52744,
+      "forks": 11531,
+      "watchers": 52744,
+      "open_issues": 265,
+      "language": "JavaScript",
+      "topics": [
+        "blogging",
+        "cms",
+        "ghost",
+        "javascript",
+        "journalism",
+        "nodejs",
+        "publishing",
+        "web-application"
+      ],
+      "created_at": "2013-05-04T11:09:13Z",
+      "updated_at": "2026-05-07T03:16:35Z",
+      "pushed_at": "2026-05-07T02:30:13Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "TryGhost",
+      "tags": [
+        "blogging",
+        "cms",
+        "content-marketing",
+        "ghost",
+        "javascript",
+        "journalism",
+        "nodejs",
+        "publishing",
+        "web-application"
+      ]
+    },
+    {
+      "repo_name": "FlowiseAI/Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "description": "Build AI Agents, Visually",
+      "stars": 52611,
+      "forks": 24279,
+      "watchers": 52611,
+      "open_issues": 834,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "agentic-workflow",
+        "agents",
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "javascript",
+        "langchain",
+        "large-language-models",
+        "low-code",
+        "multiagent-systems",
+        "no-code",
+        "openai",
+        "rag",
+        "react",
+        "typescript",
+        "workflow-automation"
+      ],
+      "created_at": "2023-03-31T12:23:09Z",
+      "updated_at": "2026-05-07T03:24:28Z",
+      "pushed_at": "2026-05-07T00:38:29Z",
+      "matched_queries": [
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "FlowiseAI",
+      "tags": [
+        "agentic-ai",
+        "agentic-workflow",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "javascript",
+        "langchain",
+        "large-language-models",
+        "low-code",
+        "multiagent-systems",
+        "no-code",
+        "openai",
+        "rag",
+        "react",
+        "typescript",
+        "workflow-automation"
       ]
     },
     {
@@ -318,6 +377,270 @@
       "tags": [
         "ai",
         "llm"
+      ]
+    },
+    {
+      "repo_name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 44133,
+      "forks": 4523,
+      "watchers": 44133,
+      "open_issues": 453,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "created_at": "2024-08-23T19:03:36Z",
+      "updated_at": "2026-05-07T03:27:59Z",
+      "pushed_at": "2026-05-07T03:27:53Z",
+      "matched_queries": [
+        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+      ],
+      "owner_login": "aaif-goose",
+      "tags": [
+        "acp",
+        "agents",
+        "ai",
+        "ai-agents",
+        "llm",
+        "mcp"
+      ]
+    },
+    {
+      "repo_name": "HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+      "stars": 41828,
+      "forks": 7353,
+      "watchers": 41828,
+      "open_issues": 911,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "llm",
+        "nanobot",
+        "openai",
+        "openclaw"
+      ],
+      "created_at": "2026-02-01T07:16:15Z",
+      "updated_at": "2026-05-07T03:24:26Z",
+      "pushed_at": "2026-05-07T03:20:01Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-07 stars:>50",
+        "topic:llm pushed:>2026-04-07 stars:>50",
+        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+      ],
+      "owner_login": "HKUDS",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "codex",
+        "llm",
+        "nanobot",
+        "openai",
+        "openclaw"
+      ]
+    },
+    {
+      "repo_name": "ToolJet/ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "stars": 37869,
+      "forks": 5045,
+      "watchers": 37869,
+      "open_issues": 992,
+      "language": "JavaScript",
+      "topics": [
+        "ai-app-builder",
+        "docker",
+        "hacktoberfest",
+        "internal-applications",
+        "internal-project",
+        "internal-tool",
+        "internal-tools",
+        "javascript",
+        "kubernetes",
+        "low-code",
+        "low-code-development-platform",
+        "low-code-framework",
+        "no-code",
+        "nodejs",
+        "reactjs",
+        "self-hosted",
+        "typescript",
+        "web-development-tools",
+        "workflow-automation"
+      ],
+      "created_at": "2021-03-30T08:51:34Z",
+      "updated_at": "2026-05-07T00:37:16Z",
+      "pushed_at": "2026-05-06T22:14:28Z",
+      "matched_queries": [
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "ToolJet",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-app-builder",
+        "docker",
+        "hacktoberfest",
+        "internal-applications",
+        "internal-project",
+        "internal-tool",
+        "internal-tools",
+        "javascript",
+        "kubernetes",
+        "low-code",
+        "low-code-development-platform",
+        "low-code-framework",
+        "no-code",
+        "nodejs",
+        "reactjs",
+        "self-hosted",
+        "typescript",
+        "web-development-tools",
+        "workflow-automation"
+      ]
+    },
+    {
+      "repo_name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
+      "stars": 36664,
+      "forks": 7510,
+      "watchers": 36664,
+      "open_issues": 420,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "anthropic",
+        "artifacts",
+        "aws",
+        "azure",
+        "chatgpt",
+        "chatgpt-clone",
+        "claude",
+        "clone",
+        "deepseek",
+        "gemini",
+        "google",
+        "gpt-5",
+        "librechat",
+        "mcp",
+        "o1",
+        "openai",
+        "responses-api",
+        "vision",
+        "webui"
+      ],
+      "created_at": "2023-02-12T01:06:52Z",
+      "updated_at": "2026-05-07T03:23:15Z",
+      "pushed_at": "2026-05-07T03:23:09Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-07 stars:>50"
+      ],
+      "owner_login": "danny-avila",
+      "tags": [
+        "agents",
+        "ai",
+        "anthropic",
+        "artifacts",
+        "aws",
+        "azure",
+        "chatgpt",
+        "chatgpt-clone",
+        "claude",
+        "clone",
+        "deepseek",
+        "gemini",
+        "github",
+        "google",
+        "gpt-5",
+        "librechat",
+        "mcp",
+        "o1",
+        "openai",
+        "responses-api",
+        "vision",
+        "webui"
+      ]
+    },
+    {
+      "repo_name": "directus/directus",
+      "url": "https://github.com/directus/directus",
+      "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+      "stars": 35204,
+      "forks": 4742,
+      "watchers": 35204,
+      "open_issues": 406,
+      "language": "TypeScript",
+      "topics": [
+        "api",
+        "app",
+        "cms",
+        "composable",
+        "data-visualization",
+        "database",
+        "directus",
+        "graphql",
+        "headless-cms",
+        "javascript",
+        "mariadb",
+        "mssql",
+        "mysql",
+        "no-code",
+        "node",
+        "postgresql",
+        "sql",
+        "sqlite",
+        "typescript",
+        "vue"
+      ],
+      "created_at": "2012-12-12T01:35:36Z",
+      "updated_at": "2026-05-07T03:24:57Z",
+      "pushed_at": "2026-05-06T22:03:38Z",
+      "matched_queries": [
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "directus",
+      "tags": [
+        "api",
+        "app",
+        "cms",
+        "composable",
+        "data-visualization",
+        "database",
+        "directus",
+        "graphql",
+        "headless-cms",
+        "javascript",
+        "mariadb",
+        "mssql",
+        "mysql",
+        "no-code",
+        "node",
+        "postgresql",
+        "sql",
+        "sqlite",
+        "typescript",
+        "vue"
       ]
     },
     {
@@ -376,9 +699,9 @@
       "repo_name": "Yeachan-Heo/oh-my-claudecode",
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": 32766,
+      "stars": 32768,
       "forks": 3037,
-      "watchers": 32766,
+      "watchers": 32768,
       "open_issues": 4,
       "language": "TypeScript",
       "topics": [
@@ -394,7 +717,7 @@
         "vibe-coding"
       ],
       "created_at": "2026-01-09T03:36:29Z",
-      "updated_at": "2026-05-07T03:02:47Z",
+      "updated_at": "2026-05-07T03:24:39Z",
       "pushed_at": "2026-05-07T02:48:40Z",
       "matched_queries": [
         "topic:automation pushed:>2026-04-07 stars:>25"
@@ -416,13 +739,75 @@
       ]
     },
     {
+      "repo_name": "nexu-io/open-design",
+      "url": "https://github.com/nexu-io/open-design",
+      "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+      "stars": 30747,
+      "forks": 3367,
+      "watchers": 30747,
+      "open_issues": 255,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-design",
+        "byok",
+        "claude",
+        "claude-code-for-design",
+        "claude-design",
+        "coding-agents",
+        "design-systems",
+        "design-tools",
+        "desktop-app",
+        "figma-alternative",
+        "generative-ai",
+        "hermes-agent",
+        "local-first",
+        "nextjs",
+        "no-code",
+        "prototyping",
+        "ui-generator",
+        "vibe-coding"
+      ],
+      "created_at": "2026-04-28T04:25:20Z",
+      "updated_at": "2026-05-07T03:29:30Z",
+      "pushed_at": "2026-05-07T03:28:25Z",
+      "matched_queries": [
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "nexu-io",
+      "tags": [
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "ai-design",
+        "byok",
+        "claude",
+        "claude-code-for-design",
+        "claude-design",
+        "coding-agents",
+        "design-systems",
+        "design-tools",
+        "desktop-app",
+        "figma-alternative",
+        "generative-ai",
+        "hermes-agent",
+        "local-first",
+        "nextjs",
+        "no-code",
+        "prototyping",
+        "ui-generator",
+        "vibe-coding"
+      ]
+    },
+    {
       "repo_name": "simstudioai/sim",
       "url": "https://github.com/simstudioai/sim",
       "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
       "stars": 28376,
-      "forks": 3580,
+      "forks": 3581,
       "watchers": 28376,
-      "open_issues": 199,
+      "open_issues": 198,
       "language": "TypeScript",
       "topics": [
         "agent-workflow",
@@ -446,11 +831,12 @@
       ],
       "created_at": "2025-01-05T22:47:49Z",
       "updated_at": "2026-05-07T03:05:16Z",
-      "pushed_at": "2026-05-07T03:01:45Z",
+      "pushed_at": "2026-05-07T03:25:09Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-07 stars:>25",
         "topic:automation pushed:>2026-04-07 stars:>25",
-        "topic:rag pushed:>2026-04-07 stars:>25"
+        "topic:rag pushed:>2026-04-07 stars:>25",
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
       ],
       "owner_login": "simstudioai",
       "tags": [
@@ -475,60 +861,96 @@
       ]
     },
     {
-      "repo_name": "mlflow/mlflow",
-      "url": "https://github.com/mlflow/mlflow",
-      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
-      "stars": 25776,
-      "forks": 5688,
-      "watchers": 25776,
-      "open_issues": 2059,
+      "repo_name": "4ian/GDevelop",
+      "url": "https://github.com/4ian/GDevelop",
+      "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+      "stars": 22664,
+      "forks": 1355,
+      "watchers": 22664,
+      "open_issues": 579,
+      "language": "JavaScript",
+      "topics": [
+        "2d-game",
+        "2d-game-engine",
+        "3d",
+        "3d-game",
+        "3d-game-engine",
+        "game",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "gamemaker",
+        "gdevelop",
+        "hacktoberfest",
+        "html5",
+        "html5-game-engine",
+        "javascript",
+        "multiplayer",
+        "no-code",
+        "open-source",
+        "vibe-coding"
+      ],
+      "created_at": "2014-06-29T19:58:38Z",
+      "updated_at": "2026-05-07T02:41:01Z",
+      "pushed_at": "2026-05-06T23:01:23Z",
+      "matched_queries": [
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "4ian",
+      "tags": [
+        "2d-game",
+        "2d-game-engine",
+        "3d",
+        "3d-game",
+        "3d-game-engine",
+        "game",
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "gamemaker",
+        "gdevelop",
+        "hacktoberfest",
+        "html5",
+        "html5-game-engine",
+        "javascript",
+        "multiplayer",
+        "no-code",
+        "open-source",
+        "vibe-coding"
+      ]
+    },
+    {
+      "repo_name": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "description": "Python & TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "stars": 22367,
+      "forks": 3148,
+      "watchers": 22367,
+      "open_issues": 209,
       "language": "Python",
       "topics": [
-        "agentops",
-        "agents",
         "ai",
-        "ai-governance",
-        "apache-spark",
-        "evaluation",
+        "deepagents",
         "langchain",
-        "llm-evaluation",
-        "llmops",
-        "machine-learning",
-        "ml",
-        "mlflow",
-        "mlops",
-        "model-management",
-        "observability",
-        "open-source",
-        "openai",
-        "prompt-engineering"
+        "langgraph",
+        "python",
+        "typescript"
       ],
-      "created_at": "2018-06-05T16:05:58Z",
-      "updated_at": "2026-05-07T03:06:29Z",
-      "pushed_at": "2026-05-07T02:53:10Z",
+      "created_at": "2025-07-27T23:07:53Z",
+      "updated_at": "2026-05-07T03:22:06Z",
+      "pushed_at": "2026-05-07T03:23:46Z",
       "matched_queries": [
-        "topic:agents pushed:>2026-04-07 stars:>25"
+        "topic:ai pushed:>2026-04-07 stars:>50"
       ],
-      "owner_login": "mlflow",
+      "owner_login": "langchain-ai",
       "tags": [
-        "agentops",
         "agents",
         "ai",
-        "ai-governance",
-        "apache-spark",
-        "evaluation",
+        "deepagents",
         "langchain",
-        "llm-evaluation",
-        "llmops",
-        "machine-learning",
-        "ml",
-        "mlflow",
-        "mlops",
-        "model-management",
-        "observability",
-        "open-source",
-        "openai",
-        "prompt-engineering"
+        "langgraph",
+        "python",
+        "typescript"
       ]
     },
     {
@@ -581,12 +1003,72 @@
       ]
     },
     {
+      "repo_name": "nocobase/nocobase",
+      "url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "stars": 22289,
+      "forks": 2576,
+      "watchers": 22289,
+      "open_issues": 335,
+      "language": "TypeScript",
+      "topics": [
+        "admin-dashboard",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "ai-tools",
+        "airtable",
+        "crm",
+        "crud",
+        "erp",
+        "internal-tool",
+        "internal-tools",
+        "low-code",
+        "lowcode",
+        "no-code",
+        "nocode",
+        "project-management",
+        "salesforce",
+        "self-hosted",
+        "workflows"
+      ],
+      "created_at": "2020-10-24T07:27:48Z",
+      "updated_at": "2026-05-07T01:36:40Z",
+      "pushed_at": "2026-05-07T03:29:30Z",
+      "matched_queries": [
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "nocobase",
+      "tags": [
+        "admin-dashboard",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "ai-tools",
+        "airtable",
+        "crm",
+        "crud",
+        "erp",
+        "internal-tool",
+        "internal-tools",
+        "low-code",
+        "lowcode",
+        "no-code",
+        "nocode",
+        "project-management",
+        "salesforce",
+        "self-hosted",
+        "workflows"
+      ]
+    },
+    {
       "repo_name": "activepieces/activepieces",
       "url": "https://github.com/activepieces/activepieces",
       "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
-      "stars": 22078,
+      "stars": 22079,
       "forks": 3625,
-      "watchers": 22078,
+      "watchers": 22079,
       "open_issues": 480,
       "language": "TypeScript",
       "topics": [
@@ -605,7 +1087,7 @@
         "workflows"
       ],
       "created_at": "2022-12-03T02:52:46Z",
-      "updated_at": "2026-05-07T02:58:56Z",
+      "updated_at": "2026-05-07T03:16:27Z",
       "pushed_at": "2026-05-07T02:33:36Z",
       "matched_queries": [
         "\"workflow automation\" pushed:>2026-04-07 stars:>10"
@@ -631,66 +1113,60 @@
       ]
     },
     {
-      "repo_name": "airbytehq/airbyte",
-      "url": "https://github.com/airbytehq/airbyte",
-      "description": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
-      "stars": 21211,
-      "forks": 5165,
-      "watchers": 21211,
-      "open_issues": 1720,
-      "language": "Python",
+      "repo_name": "enescingoz/awesome-n8n-templates",
+      "url": "https://github.com/enescingoz/awesome-n8n-templates",
+      "description": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
+      "stars": 21958,
+      "forks": 5970,
+      "watchers": 21958,
+      "open_issues": 23,
+      "language": null,
       "topics": [
-        "bigquery",
-        "change-data-capture",
-        "data",
-        "data-analysis",
-        "data-collection",
-        "data-engineering",
-        "data-integration",
-        "data-pipeline",
-        "elt",
-        "etl",
-        "java",
-        "mssql",
-        "mysql",
-        "pipeline",
-        "postgresql",
-        "python",
-        "redshift",
-        "s3",
+        "ai-agents",
+        "ai-automation",
+        "automation",
+        "automation-templates",
+        "awesome",
+        "awesome-list",
+        "integration",
+        "low-code",
+        "n8n",
+        "n8n-automation",
+        "n8n-template",
+        "no-code-ai",
+        "no-code-automation",
         "self-hosted",
-        "snowflake"
+        "telegram-bot",
+        "workflow-automation"
       ],
-      "created_at": "2020-07-27T23:55:54Z",
-      "updated_at": "2026-05-07T03:12:17Z",
-      "pushed_at": "2026-05-07T03:12:14Z",
+      "created_at": "2025-05-08T18:34:01Z",
+      "updated_at": "2026-05-07T02:59:59Z",
+      "pushed_at": "2026-04-09T17:13:26Z",
       "matched_queries": [
-        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+        "\"social media\" automation pushed:>2026-04-07 stars:>10"
       ],
-      "owner_login": "airbytehq",
+      "owner_login": "enescingoz",
       "tags": [
         "agents",
         "ai",
-        "bigquery",
-        "change-data-capture",
-        "data",
-        "data-analysis",
-        "data-collection",
-        "data-engineering",
-        "data-integration",
-        "data-pipeline",
-        "elt",
-        "etl",
-        "java",
-        "mssql",
-        "mysql",
-        "pipeline",
-        "postgresql",
-        "python",
-        "redshift",
-        "s3",
+        "ai-agents",
+        "ai-automation",
+        "automation",
+        "automation-templates",
+        "awesome",
+        "awesome-list",
+        "integration",
+        "low-code",
+        "n8n",
+        "n8n-automation",
+        "n8n-template",
+        "no-code-ai",
+        "no-code-automation",
+        "rag",
         "self-hosted",
-        "snowflake"
+        "social-media",
+        "telegram-bot",
+        "workflow-automation"
       ]
     },
     {
@@ -724,7 +1200,7 @@
       ],
       "created_at": "2023-04-28T15:48:49Z",
       "updated_at": "2026-05-07T03:04:27Z",
-      "pushed_at": "2026-05-07T03:11:21Z",
+      "pushed_at": "2026-05-07T03:26:18Z",
       "matched_queries": [
         "topic:rag pushed:>2026-04-07 stars:>25"
       ],
@@ -782,8 +1258,8 @@
         "sql"
       ],
       "created_at": "2017-08-10T12:13:30Z",
-      "updated_at": "2026-05-07T03:09:29Z",
-      "pushed_at": "2026-05-07T03:09:24Z",
+      "updated_at": "2026-05-07T03:27:16Z",
+      "pushed_at": "2026-05-07T03:27:10Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-07 stars:>50"
       ],
@@ -792,6 +1268,7 @@
         "agent",
         "ai",
         "bigquery",
+        "creator-tools",
         "database",
         "dbt",
         "delta-lake",
@@ -813,9 +1290,9 @@
       "repo_name": "Tencent/WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "stars": 14297,
+      "stars": 14299,
       "forks": 1741,
-      "watchers": 14297,
+      "watchers": 14299,
       "open_issues": 161,
       "language": "Go",
       "topics": [
@@ -841,11 +1318,9 @@
         "wiki"
       ],
       "created_at": "2025-07-22T08:01:23Z",
-      "updated_at": "2026-05-07T03:08:35Z",
+      "updated_at": "2026-05-07T03:22:08Z",
       "pushed_at": "2026-05-07T03:08:29Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-07 stars:>50",
-        "topic:llm pushed:>2026-04-07 stars:>50",
         "topic:rag pushed:>2026-04-07 stars:>25"
       ],
       "owner_login": "Tencent",
@@ -874,53 +1349,12 @@
       ]
     },
     {
-      "repo_name": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "stars": 13089,
-      "forks": 1278,
-      "watchers": 13089,
-      "open_issues": 937,
-      "language": "Go",
-      "topics": [
-        "agents",
-        "dev-tools",
-        "development-environment",
-        "go",
-        "golang",
-        "ide",
-        "jetbrains",
-        "remote-development",
-        "terraform",
-        "vscode"
-      ],
-      "created_at": "2021-12-22T06:08:52Z",
-      "updated_at": "2026-05-07T02:56:29Z",
-      "pushed_at": "2026-05-07T03:04:03Z",
-      "matched_queries": [
-        "topic:agents pushed:>2026-04-07 stars:>25"
-      ],
-      "owner_login": "coder",
-      "tags": [
-        "agents",
-        "dev-tools",
-        "development-environment",
-        "go",
-        "golang",
-        "ide",
-        "jetbrains",
-        "remote-development",
-        "terraform",
-        "vscode"
-      ]
-    },
-    {
       "repo_name": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "stars": 11833,
-      "forks": 2106,
-      "watchers": 11833,
+      "stars": 11836,
+      "forks": 2107,
+      "watchers": 11836,
       "open_issues": 6,
       "language": "JavaScript",
       "topics": [
@@ -946,7 +1380,7 @@
         "wan-video"
       ],
       "created_at": "2023-05-09T14:12:37Z",
-      "updated_at": "2026-05-07T03:09:02Z",
+      "updated_at": "2026-05-07T03:23:16Z",
       "pushed_at": "2026-05-06T19:31:26Z",
       "matched_queries": [
         "video generation pushed:>2026-04-07 stars:>25"
@@ -978,12 +1412,76 @@
       ]
     },
     {
+      "repo_name": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+      "stars": 10403,
+      "forks": 861,
+      "watchers": 10403,
+      "open_issues": 751,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "cursor-agent",
+        "desktop-app",
+        "developer-tools",
+        "electron",
+        "git-worktree",
+        "llm",
+        "mcp",
+        "opencode",
+        "orchestration",
+        "parallel-agents",
+        "terminal",
+        "tui",
+        "vibe-coding",
+        "worktrees"
+      ],
+      "created_at": "2025-10-21T09:16:51Z",
+      "updated_at": "2026-05-07T03:22:50Z",
+      "pushed_at": "2026-05-07T03:25:57Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-07 stars:>50",
+        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+      ],
+      "owner_login": "superset-sh",
+      "tags": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "cursor-agent",
+        "desktop-app",
+        "developer-tools",
+        "electron",
+        "git-worktree",
+        "llm",
+        "mcp",
+        "opencode",
+        "orchestration",
+        "parallel-agents",
+        "terminal",
+        "tui",
+        "vibe-coding",
+        "worktrees"
+      ]
+    },
+    {
       "repo_name": "microsoft/agent-framework",
       "url": "https://github.com/microsoft/agent-framework",
       "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-      "stars": 10170,
+      "stars": 10171,
       "forks": 1664,
-      "watchers": 10170,
+      "watchers": 10171,
       "open_issues": 819,
       "language": "Python",
       "topics": [
@@ -999,7 +1497,7 @@
         "workflows"
       ],
       "created_at": "2025-04-28T19:40:42Z",
-      "updated_at": "2026-05-07T03:07:54Z",
+      "updated_at": "2026-05-07T03:17:35Z",
       "pushed_at": "2026-05-07T03:01:26Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-07 stars:>25"
@@ -1016,6 +1514,53 @@
         "python",
         "sdk",
         "workflows"
+      ]
+    },
+    {
+      "repo_name": "mautic/mautic",
+      "url": "https://github.com/mautic/mautic",
+      "description": "Mautic: Open Source Marketing Automation Software.",
+      "stars": 9578,
+      "forks": 3271,
+      "watchers": 9578,
+      "open_issues": 286,
+      "language": "PHP",
+      "topics": [
+        "digital-experience-platform",
+        "digitalexperienceplatform",
+        "dxp",
+        "email-marketing",
+        "email-marketing-automation",
+        "email-marketing-software",
+        "hacktoberfest",
+        "marketing-automation",
+        "marketing-tools",
+        "mautic",
+        "open-source",
+        "php"
+      ],
+      "created_at": "2013-08-19T00:36:28Z",
+      "updated_at": "2026-05-07T02:16:48Z",
+      "pushed_at": "2026-05-06T10:57:12Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "mautic",
+      "tags": [
+        "automation",
+        "digital-experience-platform",
+        "digitalexperienceplatform",
+        "dxp",
+        "email-marketing",
+        "email-marketing-automation",
+        "email-marketing-software",
+        "hacktoberfest",
+        "marketing",
+        "marketing-automation",
+        "marketing-tools",
+        "mautic",
+        "open-source",
+        "php"
       ]
     },
     {
@@ -1066,6 +1611,60 @@
       ]
     },
     {
+      "repo_name": "tailcallhq/forgecode",
+      "url": "https://github.com/tailcallhq/forgecode",
+      "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+      "stars": 7224,
+      "forks": 1422,
+      "watchers": 7224,
+      "open_issues": 141,
+      "language": "Rust",
+      "topics": [
+        "ai-pair-programming",
+        "ai-workflows",
+        "artifical-intelligense",
+        "claude-3-7-sonnet",
+        "claude-4",
+        "claude-4-sonnet",
+        "cli-assistant",
+        "command-line",
+        "grok",
+        "llm",
+        "multi-agent-reinforcement-learning",
+        "open-router",
+        "open-source-claude-code",
+        "openai",
+        "qwen",
+        "shell"
+      ],
+      "created_at": "2024-12-08T20:33:37Z",
+      "updated_at": "2026-05-07T03:15:52Z",
+      "pushed_at": "2026-05-07T03:27:00Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-07 stars:>50"
+      ],
+      "owner_login": "tailcallhq",
+      "tags": [
+        "ai",
+        "ai-pair-programming",
+        "ai-workflows",
+        "artifical-intelligense",
+        "claude-3-7-sonnet",
+        "claude-4",
+        "claude-4-sonnet",
+        "cli-assistant",
+        "command-line",
+        "grok",
+        "llm",
+        "multi-agent-reinforcement-learning",
+        "open-router",
+        "open-source-claude-code",
+        "openai",
+        "qwen",
+        "shell"
+      ]
+    },
+    {
       "repo_name": "ValueCell-ai/ClawX",
       "url": "https://github.com/ValueCell-ai/ClawX",
       "description": "ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn.",
@@ -1086,10 +1685,9 @@
       ],
       "created_at": "2026-02-05T13:58:36Z",
       "updated_at": "2026-05-07T03:02:07Z",
-      "pushed_at": "2026-05-07T03:03:42Z",
+      "pushed_at": "2026-05-07T03:27:06Z",
       "matched_queries": [
-        "topic:agents pushed:>2026-04-07 stars:>25",
-        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+        "topic:agents pushed:>2026-04-07 stars:>25"
       ],
       "owner_login": "ValueCell-ai",
       "tags": [
@@ -1105,70 +1703,34 @@
       ]
     },
     {
-      "repo_name": "superradcompany/microsandbox",
-      "url": "https://github.com/superradcompany/microsandbox",
-      "description": "🧱 secure, local and programmable sandboxes for AI agents",
-      "stars": 5969,
-      "forks": 290,
-      "watchers": 5969,
-      "open_issues": 43,
-      "language": "Rust",
-      "topics": [
-        "agents",
-        "ai",
-        "container",
-        "docker",
-        "linux",
-        "macos",
-        "mcp",
-        "nodejs",
-        "orchestration",
-        "rust",
-        "sandbox",
-        "sandboxing",
-        "security",
-        "self-hosted",
-        "typescript",
-        "virtualization",
-        "vm",
-        "windows"
-      ],
-      "created_at": "2024-10-03T15:57:38Z",
-      "updated_at": "2026-05-07T02:55:27Z",
-      "pushed_at": "2026-05-07T03:03:07Z",
+      "repo_name": "gregorojstersek/resources-to-become-a-great-engineering-leader",
+      "url": "https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader",
+      "description": "List of books, blogs, newsletters and people!",
+      "stars": 6154,
+      "forks": 780,
+      "watchers": 6154,
+      "open_issues": 0,
+      "language": null,
+      "topics": [],
+      "created_at": "2024-01-16T09:59:06Z",
+      "updated_at": "2026-05-06T16:04:18Z",
+      "pushed_at": "2026-05-06T12:57:45Z",
       "matched_queries": [
-        "topic:agents pushed:>2026-04-07 stars:>25"
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
       ],
-      "owner_login": "superradcompany",
+      "owner_login": "gregorojstersek",
       "tags": [
-        "agents",
-        "ai",
-        "container",
-        "docker",
-        "linux",
-        "macos",
-        "mcp",
-        "nodejs",
-        "orchestration",
-        "rust",
-        "sandbox",
-        "sandboxing",
-        "security",
-        "self-hosted",
-        "typescript",
-        "virtualization",
-        "vm",
-        "windows"
+        "content-marketing"
       ]
     },
     {
       "repo_name": "genkit-ai/genkit",
       "url": "https://github.com/genkit-ai/genkit",
       "description": "Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google",
-      "stars": 5877,
+      "stars": 5878,
       "forks": 730,
-      "watchers": 5877,
-      "open_issues": 841,
+      "watchers": 5878,
+      "open_issues": 837,
       "language": "TypeScript",
       "topics": [
         "agents",
@@ -1181,7 +1743,7 @@
         "vector-database"
       ],
       "created_at": "2024-04-29T22:04:42Z",
-      "updated_at": "2026-05-07T03:03:42Z",
+      "updated_at": "2026-05-07T03:25:51Z",
       "pushed_at": "2026-05-07T03:09:30Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-07 stars:>25",
@@ -1200,12 +1762,40 @@
       ]
     },
     {
+      "repo_name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "stars": 5095,
+      "forks": 365,
+      "watchers": 5095,
+      "open_issues": 34,
+      "language": "Rust",
+      "topics": [
+        "agents",
+        "container",
+        "sandbox"
+      ],
+      "created_at": "2026-04-10T03:00:31Z",
+      "updated_at": "2026-05-07T03:24:34Z",
+      "pushed_at": "2026-05-07T03:13:44Z",
+      "matched_queries": [
+        "topic:agents pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "TencentCloud",
+      "tags": [
+        "agents",
+        "ai",
+        "container",
+        "sandbox"
+      ]
+    },
+    {
       "repo_name": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
       "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
-      "stars": 4990,
-      "forks": 347,
-      "watchers": 4990,
+      "stars": 4991,
+      "forks": 348,
+      "watchers": 4991,
       "open_issues": 91,
       "language": "TypeScript",
       "topics": [
@@ -1220,8 +1810,8 @@
         "skills"
       ],
       "created_at": "2025-12-28T02:09:40Z",
-      "updated_at": "2026-05-07T03:01:07Z",
-      "pushed_at": "2026-05-07T03:05:58Z",
+      "updated_at": "2026-05-07T03:13:10Z",
+      "pushed_at": "2026-05-07T03:19:39Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-07 stars:>25"
       ],
@@ -1245,7 +1835,7 @@
       "stars": 4941,
       "forks": 168,
       "watchers": 4941,
-      "open_issues": 26,
+      "open_issues": 25,
       "language": "Rust",
       "topics": [
         "agents",
@@ -1256,8 +1846,8 @@
         "worktrees"
       ],
       "created_at": "2025-10-17T22:13:14Z",
-      "updated_at": "2026-05-07T03:12:35Z",
-      "pushed_at": "2026-05-07T03:08:34Z",
+      "updated_at": "2026-05-07T03:19:56Z",
+      "pushed_at": "2026-05-07T03:26:33Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-07 stars:>25",
         "\"ai agents\" pushed:>2026-04-30 stars:>50"
@@ -1277,10 +1867,10 @@
       "repo_name": "holaboss-ai/holaOS",
       "url": "https://github.com/holaboss-ai/holaOS",
       "description": "An Open Agent Computer for ANY digital work.",
-      "stars": 4936,
+      "stars": 4938,
       "forks": 285,
-      "watchers": 4936,
-      "open_issues": 6,
+      "watchers": 4938,
+      "open_issues": 8,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1305,10 +1895,9 @@
         "workspace"
       ],
       "created_at": "2026-03-22T07:36:16Z",
-      "updated_at": "2026-05-07T03:10:51Z",
-      "pushed_at": "2026-05-07T03:08:12Z",
+      "updated_at": "2026-05-07T03:21:44Z",
+      "pushed_at": "2026-05-07T03:19:53Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-07 stars:>50",
         "topic:llm pushed:>2026-04-07 stars:>50"
       ],
       "owner_login": "holaboss-ai",
@@ -1411,107 +2000,105 @@
       ]
     },
     {
-      "repo_name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "stars": 4050,
-      "forks": 372,
-      "watchers": 4050,
-      "open_issues": 117,
-      "language": "TypeScript",
+      "repo_name": "SwanHubX/SwanLab",
+      "url": "https://github.com/SwanHubX/SwanLab",
+      "description": "⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultralytics / MMEngine / Keras etc.",
+      "stars": 3905,
+      "forks": 203,
+      "watchers": 3905,
+      "open_issues": 71,
+      "language": "Python",
       "topics": [
-        "ai-agent",
-        "ai-coding-agent",
-        "anthropic",
-        "bun",
-        "claude",
-        "cli",
-        "coding-assistant",
+        "ai-infra",
+        "data-science",
+        "deep-learning",
         "llm",
-        "mcp",
-        "multi-provider",
-        "openai",
-        "rust",
-        "terminal",
-        "tui",
-        "typescript"
+        "logging",
+        "machine-learning",
+        "mlops",
+        "model-versioning",
+        "python",
+        "pytorch",
+        "tensorboard",
+        "tensorflow",
+        "tracking",
+        "training",
+        "transformers",
+        "visualization"
       ],
-      "created_at": "2025-12-31T14:01:28Z",
-      "updated_at": "2026-05-07T03:09:44Z",
-      "pushed_at": "2026-05-07T03:09:39Z",
+      "created_at": "2023-11-24T08:54:45Z",
+      "updated_at": "2026-05-07T03:20:38Z",
+      "pushed_at": "2026-05-07T03:17:42Z",
       "matched_queries": [
         "topic:llm pushed:>2026-04-07 stars:>50"
       ],
-      "owner_login": "can1357",
+      "owner_login": "SwanHubX",
       "tags": [
-        "agents",
         "ai",
-        "ai-agent",
-        "ai-coding-agent",
-        "anthropic",
-        "bun",
-        "claude",
-        "cli",
-        "coding-assistant",
+        "ai-infra",
+        "data-science",
+        "deep-learning",
         "llm",
-        "mcp",
-        "multi-provider",
-        "openai",
-        "rust",
-        "terminal",
-        "tui",
-        "typescript"
+        "logging",
+        "machine-learning",
+        "mlops",
+        "model-versioning",
+        "python",
+        "pytorch",
+        "tensorboard",
+        "tensorflow",
+        "tracking",
+        "training",
+        "transformers",
+        "visualization"
       ]
     },
     {
-      "repo_name": "looplj/axonhub",
-      "url": "https://github.com/looplj/axonhub",
-      "description": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.",
-      "stars": 3621,
-      "forks": 433,
-      "watchers": 3621,
-      "open_issues": 49,
+      "repo_name": "flexprice/flexprice",
+      "url": "https://github.com/flexprice/flexprice",
+      "description": "Usage-based pricing and billing for developers 🔓 Cloud or self-hosted ⚙️ No-code UI 💰 Realtime usage metering 🎟 Credits & top-ups 🔑 Control feature access",
+      "stars": 3560,
+      "forks": 154,
+      "watchers": 3560,
+      "open_issues": 143,
       "language": "Go",
       "topics": [
-        "agent",
-        "agents",
-        "ai",
-        "anthropic",
-        "anthropic-api",
-        "api-gateway",
-        "claude",
-        "claude-code",
-        "codex",
-        "cost-management",
-        "deepseek",
-        "gemini-api",
-        "llm",
-        "openai",
-        "opencode"
+        "billing",
+        "clickhouse",
+        "events",
+        "go",
+        "hacktoberfest",
+        "kafka",
+        "postgresql",
+        "pricing",
+        "stripe",
+        "stripe-subscriptions",
+        "subscription-management",
+        "temporal",
+        "usage-based-pricing"
       ],
-      "created_at": "2025-09-09T17:04:33Z",
-      "updated_at": "2026-05-07T03:01:08Z",
-      "pushed_at": "2026-05-07T03:01:03Z",
+      "created_at": "2024-11-05T14:42:18Z",
+      "updated_at": "2026-05-06T21:19:28Z",
+      "pushed_at": "2026-05-06T21:19:23Z",
       "matched_queries": [
-        "topic:agents pushed:>2026-04-07 stars:>25"
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
       ],
-      "owner_login": "looplj",
+      "owner_login": "flexprice",
       "tags": [
-        "agent",
-        "agents",
-        "ai",
-        "anthropic",
-        "anthropic-api",
-        "api-gateway",
-        "claude",
-        "claude-code",
-        "codex",
-        "cost-management",
-        "deepseek",
-        "gemini-api",
-        "llm",
-        "openai",
-        "opencode"
+        "billing",
+        "clickhouse",
+        "events",
+        "go",
+        "hacktoberfest",
+        "kafka",
+        "no-code",
+        "postgresql",
+        "pricing",
+        "stripe",
+        "stripe-subscriptions",
+        "subscription-management",
+        "temporal",
+        "usage-based-pricing"
       ]
     },
     {
@@ -1533,7 +2120,7 @@
       ],
       "created_at": "2024-10-24T02:11:32Z",
       "updated_at": "2026-05-07T02:37:05Z",
-      "pushed_at": "2026-05-07T00:35:50Z",
+      "pushed_at": "2026-05-07T03:27:51Z",
       "matched_queries": [
         "video generation pushed:>2026-04-07 stars:>25"
       ],
@@ -1566,8 +2153,8 @@
         "swift"
       ],
       "created_at": "2025-05-22T16:09:06Z",
-      "updated_at": "2026-05-07T03:10:20Z",
-      "pushed_at": "2026-05-07T03:10:16Z",
+      "updated_at": "2026-05-07T03:26:00Z",
+      "pushed_at": "2026-05-07T03:25:55Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-07 stars:>50",
         "\"ai agents\" pushed:>2026-04-30 stars:>50"
@@ -1633,68 +2220,6 @@
       ]
     },
     {
-      "repo_name": "miroslavpejic85/mirotalksfu",
-      "url": "https://github.com/miroslavpejic85/mirotalksfu",
-      "description": "🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern alternative to Zoom, built on SFU architecture.",
-      "stars": 2964,
-      "forks": 457,
-      "watchers": 2964,
-      "open_issues": 0,
-      "language": "JavaScript",
-      "topics": [
-        "ai",
-        "collaboration",
-        "docker",
-        "file-sharing",
-        "live-streaming",
-        "mediasoup",
-        "mirotalk",
-        "nodejs",
-        "open-source",
-        "real-time-communication",
-        "rest-api",
-        "rtmp",
-        "screen-sharing",
-        "self-hosted",
-        "video-chat",
-        "video-conferencing",
-        "webrtc",
-        "webrtc-sfu",
-        "websocket",
-        "whiteboard"
-      ],
-      "created_at": "2021-08-17T09:24:08Z",
-      "updated_at": "2026-05-07T03:12:44Z",
-      "pushed_at": "2026-05-07T03:12:40Z",
-      "matched_queries": [
-        "topic:ai pushed:>2026-04-07 stars:>50"
-      ],
-      "owner_login": "miroslavpejic85",
-      "tags": [
-        "ai",
-        "collaboration",
-        "docker",
-        "file-sharing",
-        "live-streaming",
-        "mediasoup",
-        "mirotalk",
-        "nodejs",
-        "open-source",
-        "real-time-communication",
-        "rest-api",
-        "rtmp",
-        "screen-sharing",
-        "self-hosted",
-        "video",
-        "video-chat",
-        "video-conferencing",
-        "webrtc",
-        "webrtc-sfu",
-        "websocket",
-        "whiteboard"
-      ]
-    },
-    {
       "repo_name": "kpumuk/meta-tags",
       "url": "https://github.com/kpumuk/meta-tags",
       "description": "Search Engine Optimization (SEO) for Ruby on Rails applications.",
@@ -1738,34 +2263,120 @@
       ]
     },
     {
-      "repo_name": "modelscope/evalscope",
-      "url": "https://github.com/modelscope/evalscope",
-      "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
-      "stars": 2761,
-      "forks": 322,
-      "watchers": 2761,
-      "open_issues": 89,
+      "repo_name": "sonic-net/SONiC",
+      "url": "https://github.com/sonic-net/SONiC",
+      "description": "Landing page for Software for Open Networking in the Cloud (SONiC) - https://sonic-net.github.io/SONiC/",
+      "stars": 2790,
+      "forks": 1311,
+      "watchers": 2790,
+      "open_issues": 865,
+      "language": "HTML",
+      "topics": [
+        "hacktoberfest"
+      ],
+      "created_at": "2016-02-04T21:55:32Z",
+      "updated_at": "2026-05-06T16:58:30Z",
+      "pushed_at": "2026-05-07T02:53:06Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "sonic-net",
+      "tags": [
+        "github",
+        "hacktoberfest",
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "omkarcloud/google-maps-scraper",
+      "url": "https://github.com/omkarcloud/google-maps-scraper",
+      "description": "Google Maps Scraper & Lead Generation Tool. Extract 50+ data points including business emails, phone numbers, and social profiles. Includes enrichment features, API access, and no recurring fees",
+      "stars": 2634,
+      "forks": 419,
+      "watchers": 2634,
+      "open_issues": 4,
+      "language": null,
+      "topics": [
+        "google-maps",
+        "google-maps-api",
+        "google-maps-extractor",
+        "google-maps-review",
+        "google-maps-reviews",
+        "google-maps-reviews-scraper-python",
+        "google-maps-scraper",
+        "google-maps-scraper-api",
+        "google-maps-scraper-python",
+        "google-maps-scraping",
+        "google-reviews",
+        "google-reviews-api",
+        "google-scraper",
+        "google-search-scraper",
+        "google-serp-api",
+        "googlemaps-scraper",
+        "lead-generation",
+        "leadgen",
+        "leadgeneration",
+        "scraping-reviews-from-googlemaps"
+      ],
+      "created_at": "2023-05-19T08:39:33Z",
+      "updated_at": "2026-05-06T19:26:55Z",
+      "pushed_at": "2026-04-10T11:27:03Z",
+      "matched_queries": [
+        "\"lead generation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "omkarcloud",
+      "tags": [
+        "google-maps",
+        "google-maps-api",
+        "google-maps-extractor",
+        "google-maps-review",
+        "google-maps-reviews",
+        "google-maps-reviews-scraper-python",
+        "google-maps-scraper",
+        "google-maps-scraper-api",
+        "google-maps-scraper-python",
+        "google-maps-scraping",
+        "google-reviews",
+        "google-reviews-api",
+        "google-scraper",
+        "google-search-scraper",
+        "google-serp-api",
+        "googlemaps-scraper",
+        "lead-generation",
+        "leadgen",
+        "leadgeneration",
+        "marketing",
+        "scraping-reviews-from-googlemaps"
+      ]
+    },
+    {
+      "repo_name": "rust-lang/this-week-in-rust",
+      "url": "https://github.com/rust-lang/this-week-in-rust",
+      "description": "Data for this-week-in-rust.org",
+      "stars": 2541,
+      "forks": 1437,
+      "watchers": 2541,
+      "open_issues": 29,
       "language": "Python",
       "topics": [
-        "evaluation",
-        "llm",
-        "performance",
-        "rag",
-        "vlm"
+        "blog",
+        "newsletter",
+        "pelican",
+        "rust"
       ],
-      "created_at": "2023-12-07T06:10:49Z",
-      "updated_at": "2026-05-07T02:47:54Z",
-      "pushed_at": "2026-05-07T03:05:24Z",
+      "created_at": "2014-11-05T22:13:01Z",
+      "updated_at": "2026-05-07T03:23:09Z",
+      "pushed_at": "2026-05-07T03:23:07Z",
       "matched_queries": [
-        "topic:rag pushed:>2026-04-07 stars:>25"
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
       ],
-      "owner_login": "modelscope",
+      "owner_login": "rust-lang",
       "tags": [
-        "evaluation",
-        "llm",
-        "performance",
-        "rag",
-        "vlm"
+        "blog",
+        "content-marketing",
+        "newsletter",
+        "pelican",
+        "rust"
       ]
     },
     {
@@ -1834,13 +2445,95 @@
       ]
     },
     {
+      "repo_name": "jeremylongshore/claude-code-plugins-plus-skills",
+      "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+      "description": "425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.",
+      "stars": 2114,
+      "forks": 286,
+      "watchers": 2114,
+      "open_issues": 7,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "automation",
+        "claude-code",
+        "claude-code-plugins",
+        "developer-tools",
+        "devops",
+        "llm",
+        "marketplace",
+        "mcp",
+        "plugin-marketplace",
+        "plugin-system",
+        "saas",
+        "skills"
+      ],
+      "created_at": "2025-10-10T01:01:00Z",
+      "updated_at": "2026-05-07T03:22:05Z",
+      "pushed_at": "2026-05-07T03:22:03Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-07 stars:>50",
+        "topic:llm pushed:>2026-04-07 stars:>50",
+        "topic:automation pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "jeremylongshore",
+      "tags": [
+        "agent-skills",
+        "agents",
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "automation",
+        "claude-code",
+        "claude-code-plugins",
+        "developer-tools",
+        "devops",
+        "ecommerce",
+        "llm",
+        "marketplace",
+        "mcp",
+        "plugin-marketplace",
+        "plugin-system",
+        "saas",
+        "skills"
+      ]
+    },
+    {
+      "repo_name": "saltcorn/saltcorn",
+      "url": "https://github.com/saltcorn/saltcorn",
+      "description": "Free and open source no-code application builder",
+      "stars": 2008,
+      "forks": 346,
+      "watchers": 2008,
+      "open_issues": 699,
+      "language": "JavaScript",
+      "topics": [
+        "no-code",
+        "nocode"
+      ],
+      "created_at": "2020-03-24T14:31:21Z",
+      "updated_at": "2026-05-06T21:13:00Z",
+      "pushed_at": "2026-05-06T21:16:04Z",
+      "matched_queries": [
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "saltcorn",
+      "tags": [
+        "no-code",
+        "nocode"
+      ]
+    },
+    {
       "repo_name": "raullenchai/Rapid-MLX",
       "url": "https://github.com/raullenchai/Rapid-MLX",
       "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
-      "stars": 1723,
-      "forks": 233,
-      "watchers": 1723,
-      "open_issues": 37,
+      "stars": 1725,
+      "forks": 232,
+      "watchers": 1725,
+      "open_issues": 38,
       "language": "Python",
       "topics": [
         "apple-silicon",
@@ -1864,8 +2557,8 @@
         "tool-calling"
       ],
       "created_at": "2026-02-25T00:41:44Z",
-      "updated_at": "2026-05-07T03:11:10Z",
-      "pushed_at": "2026-05-07T03:11:07Z",
+      "updated_at": "2026-05-07T03:24:14Z",
+      "pushed_at": "2026-05-07T03:23:29Z",
       "matched_queries": [
         "topic:llm pushed:>2026-04-07 stars:>50"
       ],
@@ -1934,28 +2627,6 @@
       ]
     },
     {
-      "repo_name": "DingTalk-Real-AI/dingtalk-workspace-cli",
-      "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli",
-      "description": "DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios.",
-      "stars": 1702,
-      "forks": 104,
-      "watchers": 1702,
-      "open_issues": 16,
-      "language": "Go",
-      "topics": [],
-      "created_at": "2026-03-21T03:51:00Z",
-      "updated_at": "2026-05-07T03:07:32Z",
-      "pushed_at": "2026-05-07T03:07:28Z",
-      "matched_queries": [
-        "\"ai agents\" pushed:>2026-04-30 stars:>50"
-      ],
-      "owner_login": "DingTalk-Real-AI",
-      "tags": [
-        "agents",
-        "ai"
-      ]
-    },
-    {
       "repo_name": "ZeroLu/awesome-seedance",
       "url": "https://github.com/ZeroLu/awesome-seedance",
       "description": "The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Seedance 2.0 how to use for cinematic film, anime, UGC, social media, meme and advertising. Includes Seedance API guides and advanced video generation workflows.",
@@ -1977,15 +2648,17 @@
         "video"
       ],
       "created_at": "2026-02-10T03:17:40Z",
-      "updated_at": "2026-05-07T01:16:37Z",
-      "pushed_at": "2026-05-06T14:17:16Z",
+      "updated_at": "2026-05-07T03:22:47Z",
+      "pushed_at": "2026-05-07T03:22:42Z",
       "matched_queries": [
+        "topic:ai pushed:>2026-04-07 stars:>50",
         "video generation pushed:>2026-04-07 stars:>25"
       ],
       "owner_login": "ZeroLu",
       "tags": [
         "ai",
         "how-to-use",
+        "marketing",
         "prompt-engineering",
         "prompts",
         "seedance",
@@ -1993,7 +2666,64 @@
         "seedance-2-api",
         "seedance-api",
         "seedance2",
+        "social-media",
         "video"
+      ]
+    },
+    {
+      "repo_name": "forwardemail/forwardemail.net",
+      "url": "https://github.com/forwardemail/forwardemail.net",
+      "description": "Privacy-focused encrypted email for everyone.  All-in-one alternative to Gmail + Mailchimp + Sendgrid.",
+      "stars": 1576,
+      "forks": 199,
+      "watchers": 1576,
+      "open_issues": 50,
+      "language": "JavaScript",
+      "topics": [
+        "aes256",
+        "chacha20",
+        "custom",
+        "domain",
+        "email",
+        "encrypted",
+        "forwarder",
+        "forwarding",
+        "free",
+        "imap",
+        "mail",
+        "newsletter",
+        "pop",
+        "privacy",
+        "send",
+        "smtp",
+        "sqlite"
+      ],
+      "created_at": "2019-12-17T19:47:57Z",
+      "updated_at": "2026-05-06T23:42:14Z",
+      "pushed_at": "2026-05-06T23:42:10Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "forwardemail",
+      "tags": [
+        "aes256",
+        "chacha20",
+        "content-marketing",
+        "custom",
+        "domain",
+        "email",
+        "encrypted",
+        "forwarder",
+        "forwarding",
+        "free",
+        "imap",
+        "mail",
+        "newsletter",
+        "pop",
+        "privacy",
+        "send",
+        "smtp",
+        "sqlite"
       ]
     },
     {
@@ -2003,7 +2733,7 @@
       "stars": 1305,
       "forks": 150,
       "watchers": 1305,
-      "open_issues": 39,
+      "open_issues": 38,
       "language": "Python",
       "topics": [
         "agent",
@@ -2016,10 +2746,9 @@
         "vector-database"
       ],
       "created_at": "2022-10-24T04:08:13Z",
-      "updated_at": "2026-05-07T03:10:40Z",
-      "pushed_at": "2026-05-07T03:10:40Z",
+      "updated_at": "2026-05-07T03:27:28Z",
+      "pushed_at": "2026-05-07T03:27:27Z",
       "matched_queries": [
-        "topic:llm pushed:>2026-04-07 stars:>50",
         "\"ai agents\" pushed:>2026-04-30 stars:>50"
       ],
       "owner_login": "Open-Source-Legal",
@@ -2037,40 +2766,35 @@
       ]
     },
     {
-      "repo_name": "dyoshikawa/rulesync",
-      "url": "https://github.com/dyoshikawa/rulesync",
-      "description": "A Utility CLI for AI Coding Agents",
-      "stars": 1075,
-      "forks": 110,
-      "watchers": 1075,
-      "open_issues": 36,
+      "repo_name": "apify/apify-mcp-server",
+      "url": "https://github.com/apify/apify-mcp-server",
+      "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+      "stars": 1195,
+      "forks": 163,
+      "watchers": 1195,
+      "open_issues": 111,
       "language": "TypeScript",
       "topics": [
+        "agents",
         "ai",
-        "ai-agents",
-        "ai-coding",
-        "llm",
         "mcp",
-        "rules",
-        "skills"
+        "mcp-server"
       ],
-      "created_at": "2025-06-18T13:27:05Z",
-      "updated_at": "2026-05-07T03:08:58Z",
-      "pushed_at": "2026-05-07T03:08:54Z",
+      "created_at": "2025-01-02T15:43:09Z",
+      "updated_at": "2026-05-07T01:58:04Z",
+      "pushed_at": "2026-05-06T21:23:37Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-07 stars:>50",
-        "topic:llm pushed:>2026-04-07 stars:>50"
+        "\"social media\" automation pushed:>2026-04-07 stars:>10"
       ],
-      "owner_login": "dyoshikawa",
+      "owner_login": "apify",
       "tags": [
         "agents",
         "ai",
-        "ai-agents",
-        "ai-coding",
-        "llm",
+        "automation",
+        "ecommerce",
         "mcp",
-        "rules",
-        "skills"
+        "mcp-server",
+        "social-media"
       ]
     },
     {
@@ -2131,7 +2855,6 @@
       "updated_at": "2026-05-07T03:08:43Z",
       "pushed_at": "2026-05-07T03:08:37Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-07 stars:>50",
         "topic:agents pushed:>2026-04-07 stars:>25"
       ],
       "owner_login": "greyhaven-ai",
@@ -2183,12 +2906,48 @@
       ]
     },
     {
+      "repo_name": "nanoframework/Home",
+      "url": "https://github.com/nanoframework/Home",
+      "description": ":house: The landing page for .NET nanoFramework repositories.",
+      "stars": 935,
+      "forks": 89,
+      "watchers": 935,
+      "open_issues": 86,
+      "language": null,
+      "topics": [
+        "csharp",
+        "esp32",
+        "hacktoberfest",
+        "iot",
+        "mcu",
+        "nanoframework",
+        "stm32"
+      ],
+      "created_at": "2017-08-29T17:04:07Z",
+      "updated_at": "2026-05-06T15:20:29Z",
+      "pushed_at": "2026-05-05T09:35:09Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "nanoframework",
+      "tags": [
+        "csharp",
+        "esp32",
+        "hacktoberfest",
+        "iot",
+        "marketing",
+        "mcu",
+        "nanoframework",
+        "stm32"
+      ]
+    },
+    {
       "repo_name": "YouMind-OpenLab/awesome-seedance-2-prompts",
       "url": "https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts",
       "description": "🎬 2000+ curated Seedance 2.0 video generation prompts — cinematic, anime, UGC, ads, meme styles. Includes Seedance API guides, character consistency tips, and advanced video workflows.",
-      "stars": 923,
+      "stars": 924,
       "forks": 115,
-      "watchers": 923,
+      "watchers": 924,
       "open_issues": 2,
       "language": "TypeScript",
       "topics": [
@@ -2204,7 +2963,7 @@
         "video-prompt"
       ],
       "created_at": "2026-02-11T10:15:40Z",
-      "updated_at": "2026-05-07T03:10:42Z",
+      "updated_at": "2026-05-07T03:19:59Z",
       "pushed_at": "2026-05-07T03:10:38Z",
       "matched_queries": [
         "video generation pushed:>2026-04-07 stars:>25"
@@ -2214,6 +2973,7 @@
         "ai-video",
         "awesome",
         "awesome-list",
+        "marketing",
         "prompt-engineering",
         "seedance",
         "seedance-2",
@@ -2222,6 +2982,62 @@
         "video",
         "video-generation",
         "video-prompt"
+      ]
+    },
+    {
+      "repo_name": "hijohnnylin/neuronpedia",
+      "url": "https://github.com/hijohnnylin/neuronpedia",
+      "description": "open source interpretability platform 🧠",
+      "stars": 830,
+      "forks": 105,
+      "watchers": 830,
+      "open_issues": 74,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "interpretability"
+      ],
+      "created_at": "2023-06-21T21:33:55Z",
+      "updated_at": "2026-05-07T03:26:53Z",
+      "pushed_at": "2026-05-07T03:26:48Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-07 stars:>50"
+      ],
+      "owner_login": "hijohnnylin",
+      "tags": [
+        "ai",
+        "interpretability"
+      ]
+    },
+    {
+      "repo_name": "EvolvingLMMs-Lab/LLaVA-OneVision-2",
+      "url": "https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2",
+      "description": "Fully Open Framework for Democratized Multimodal Training",
+      "stars": 808,
+      "forks": 62,
+      "watchers": 808,
+      "open_issues": 48,
+      "language": "Python",
+      "topics": [
+        "llava",
+        "llm",
+        "mllm",
+        "qwen3",
+        "vision-language-model"
+      ],
+      "created_at": "2025-09-16T14:05:47Z",
+      "updated_at": "2026-05-07T03:17:09Z",
+      "pushed_at": "2026-05-07T03:19:13Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-07 stars:>50"
+      ],
+      "owner_login": "EvolvingLMMs-Lab",
+      "tags": [
+        "llava",
+        "llm",
+        "mllm",
+        "qwen3",
+        "vision-language-model"
       ]
     },
     {
@@ -2288,6 +3104,38 @@
       ]
     },
     {
+      "repo_name": "antvis/GPT-Vis",
+      "url": "https://github.com/antvis/GPT-Vis",
+      "description": "🤖 GPT Vision, Visualization for AI Friendly! AntV's entry for AI, and 100% generated by AI.",
+      "stars": 734,
+      "forks": 90,
+      "watchers": 734,
+      "open_issues": 5,
+      "language": "TypeScript",
+      "topics": [
+        "antvis",
+        "gpts",
+        "llm",
+        "lui",
+        "visualization"
+      ],
+      "created_at": "2023-11-13T15:07:53Z",
+      "updated_at": "2026-05-07T03:24:06Z",
+      "pushed_at": "2026-05-07T03:26:21Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-07 stars:>50"
+      ],
+      "owner_login": "antvis",
+      "tags": [
+        "ai",
+        "antvis",
+        "gpts",
+        "llm",
+        "lui",
+        "visualization"
+      ]
+    },
+    {
       "repo_name": "didilili/ai-agents-from-zero",
       "url": "https://github.com/didilili/ai-agents-from-zero",
       "description": " 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化 ",
@@ -2313,12 +3161,10 @@
         "tutorial"
       ],
       "created_at": "2026-01-29T02:49:11Z",
-      "updated_at": "2026-05-07T03:07:27Z",
+      "updated_at": "2026-05-07T03:24:53Z",
       "pushed_at": "2026-05-07T03:07:23Z",
       "matched_queries": [
-        "topic:llm pushed:>2026-04-07 stars:>50",
-        "topic:rag pushed:>2026-04-07 stars:>25",
-        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+        "topic:rag pushed:>2026-04-07 stars:>25"
       ],
       "owner_login": "didilili",
       "tags": [
@@ -2341,41 +3187,94 @@
       ]
     },
     {
-      "repo_name": "kweaver-ai/kweaver-core",
-      "url": "https://github.com/kweaver-ai/kweaver-core",
-      "description": "KWeaver Core is a harness-first foundation for enterprise decision agents. It turns fragmented data, knowledge, tools, and policies into governed context, safe execution, and verifiable feedback loops. With semantic modeling, real-time access, runtime control, and TraceAI, it helps AI systems reason, adapt, and act reliable in complex enterprises.",
-      "stars": 666,
-      "forks": 81,
-      "watchers": 666,
-      "open_issues": 83,
-      "language": "Go",
+      "repo_name": "steve02081504/fount",
+      "url": "https://github.com/steve02081504/fount",
+      "description": "⛲Imagination, Given Voice.✨",
+      "stars": 695,
+      "forks": 54,
+      "watchers": 695,
+      "open_issues": 6,
+      "language": "JavaScript",
       "topics": [
+        "a-topic",
         "agents",
-        "bkn",
-        "bussiness-knowledge-network",
-        "decision-intelligence",
-        "harness",
-        "harness-engineering",
-        "knowledge-network",
-        "ontology"
+        "ai-character",
+        "ai-chatbot",
+        "ai-chatbot-framework",
+        "ai-companion",
+        "character",
+        "characterai",
+        "characters",
+        "desktop-pet",
+        "fount",
+        "fount-repo",
+        "grok-companion",
+        "openclaw",
+        "role-playing",
+        "roleplay",
+        "sillytavern",
+        "tavernai",
+        "text-adventure",
+        "text-generation-webui"
       ],
-      "created_at": "2022-09-05T05:51:02Z",
-      "updated_at": "2026-05-07T02:57:09Z",
-      "pushed_at": "2026-05-07T03:11:29Z",
+      "created_at": "2024-09-24T09:37:59Z",
+      "updated_at": "2026-05-07T03:16:55Z",
+      "pushed_at": "2026-05-07T03:16:52Z",
       "matched_queries": [
         "topic:agents pushed:>2026-04-07 stars:>25"
       ],
-      "owner_login": "kweaver-ai",
+      "owner_login": "steve02081504",
       "tags": [
+        "a-topic",
         "agents",
-        "ai",
-        "bkn",
-        "bussiness-knowledge-network",
-        "decision-intelligence",
-        "harness",
-        "harness-engineering",
-        "knowledge-network",
-        "ontology"
+        "ai-character",
+        "ai-chatbot",
+        "ai-chatbot-framework",
+        "ai-companion",
+        "character",
+        "characterai",
+        "characters",
+        "desktop-pet",
+        "fount",
+        "fount-repo",
+        "grok-companion",
+        "openclaw",
+        "role-playing",
+        "roleplay",
+        "sillytavern",
+        "tavernai",
+        "text-adventure",
+        "text-generation-webui"
+      ]
+    },
+    {
+      "repo_name": "mkiser/WTFJHT",
+      "url": "https://github.com/mkiser/WTFJHT",
+      "description": "Logging the daily shock and awe in national politics. Read in moderation.",
+      "stars": 666,
+      "forks": 194,
+      "watchers": 666,
+      "open_issues": 50,
+      "language": "HTML",
+      "topics": [
+        "blog",
+        "news",
+        "newsletter",
+        "open-source"
+      ],
+      "created_at": "2017-01-26T20:56:26Z",
+      "updated_at": "2026-05-06T22:26:06Z",
+      "pushed_at": "2026-05-06T22:26:01Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "mkiser",
+      "tags": [
+        "blog",
+        "content-marketing",
+        "news",
+        "newsletter",
+        "open-source"
       ]
     },
     {
@@ -2410,6 +3309,81 @@
       ]
     },
     {
+      "repo_name": "openmemind/memind",
+      "url": "https://github.com/openmemind/memind",
+      "description": "Self-evolving cognitive memory and context engine for AI agents in Java. Empowering 24/7 proactive agents like OpenClaw with understanding and SOTA performance.",
+      "stars": 662,
+      "forks": 62,
+      "watchers": 662,
+      "open_issues": 5,
+      "language": "Java",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-memory",
+        "context-engineering",
+        "java",
+        "memory",
+        "openclaw",
+        "spring-ai"
+      ],
+      "created_at": "2026-03-19T07:43:53Z",
+      "updated_at": "2026-05-07T03:15:19Z",
+      "pushed_at": "2026-05-07T03:15:14Z",
+      "matched_queries": [
+        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+      ],
+      "owner_login": "openmemind",
+      "tags": [
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-memory",
+        "context-engineering",
+        "java",
+        "memory",
+        "openclaw",
+        "spring-ai"
+      ]
+    },
+    {
+      "repo_name": "litexlang/golitex",
+      "url": "https://github.com/litexlang/golitex",
+      "description": "Litex is a simple formal language Learnable in 2 hours.",
+      "stars": 647,
+      "forks": 7,
+      "watchers": 647,
+      "open_issues": 38,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "aiforscience",
+        "formal-languages",
+        "golang",
+        "litex",
+        "math",
+        "reasoning"
+      ],
+      "created_at": "2024-11-14T08:01:35Z",
+      "updated_at": "2026-05-07T03:25:14Z",
+      "pushed_at": "2026-05-07T03:25:09Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-07 stars:>50"
+      ],
+      "owner_login": "litexlang",
+      "tags": [
+        "ai",
+        "aiforscience",
+        "formal-languages",
+        "golang",
+        "litex",
+        "math",
+        "reasoning"
+      ]
+    },
+    {
       "repo_name": "agentic-community/mcp-gateway-registry",
       "url": "https://github.com/agentic-community/mcp-gateway-registry",
       "description": "Enterprise-ready MCP Gateway & Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
@@ -2440,10 +3414,11 @@
         "terraform"
       ],
       "created_at": "2025-05-29T18:23:37Z",
-      "updated_at": "2026-05-07T02:55:38Z",
-      "pushed_at": "2026-05-07T02:55:33Z",
+      "updated_at": "2026-05-07T03:24:43Z",
+      "pushed_at": "2026-05-07T03:25:23Z",
       "matched_queries": [
-        "topic:agents pushed:>2026-04-07 stars:>25"
+        "topic:agents pushed:>2026-04-07 stars:>25",
+        "\"ai agents\" pushed:>2026-04-30 stars:>50"
       ],
       "owner_login": "agentic-community",
       "tags": [
@@ -2467,6 +3442,57 @@
         "registry",
         "skills",
         "terraform"
+      ]
+    },
+    {
+      "repo_name": "r3-team/r3",
+      "url": "https://github.com/r3-team/r3",
+      "description": "REI3 - Free and open low code",
+      "stars": 560,
+      "forks": 84,
+      "watchers": 560,
+      "open_issues": 10,
+      "language": "JavaScript",
+      "topics": [
+        "application-builder",
+        "business-managment",
+        "business-software",
+        "business-solutions",
+        "free-software",
+        "golang",
+        "internal-solutions",
+        "internal-tools",
+        "low-code",
+        "lowcode",
+        "no-code",
+        "nocode",
+        "selfhosted",
+        "web-development",
+        "webdevelopment"
+      ],
+      "created_at": "2021-09-20T10:47:47Z",
+      "updated_at": "2026-05-06T20:28:24Z",
+      "pushed_at": "2026-05-06T20:54:19Z",
+      "matched_queries": [
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "r3-team",
+      "tags": [
+        "application-builder",
+        "business-managment",
+        "business-software",
+        "business-solutions",
+        "free-software",
+        "golang",
+        "internal-solutions",
+        "internal-tools",
+        "low-code",
+        "lowcode",
+        "no-code",
+        "nocode",
+        "selfhosted",
+        "web-development",
+        "webdevelopment"
       ]
     },
     {
@@ -2504,6 +3530,7 @@
       "tags": [
         "ai",
         "blocky",
+        "creator-tools",
         "embeddings",
         "fastapi",
         "langchain",
@@ -2548,10 +3575,9 @@
         "workflow-automation"
       ],
       "created_at": "2025-09-19T15:54:58Z",
-      "updated_at": "2026-05-07T03:11:42Z",
-      "pushed_at": "2026-05-07T03:11:38Z",
+      "updated_at": "2026-05-07T03:15:07Z",
+      "pushed_at": "2026-05-07T03:15:04Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-07 stars:>50",
         "topic:rag pushed:>2026-04-07 stars:>25",
         "\"workflow automation\" pushed:>2026-04-07 stars:>10"
       ],
@@ -2621,17 +3647,60 @@
       ]
     },
     {
+      "repo_name": "smallmain/vscode-unify-chat-provider",
+      "url": "https://github.com/smallmain/vscode-unify-chat-provider",
+      "description": "Integrate multiple LLM API providers into VS Code's GitHub Copilot Chat using the Language Model API. Aggregates the latest free mainstream models, configurable in just a few steps! One-click use of your Claude Code, Gemini CLI, Antigravity, Github Copilot, Qwen Code, OpenAI CodeX (ChatGPT Plus/Pro) account quotas.",
+      "stars": 458,
+      "forks": 46,
+      "watchers": 458,
+      "open_issues": 22,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "chat",
+        "copilot",
+        "custom-chat",
+        "custom-models",
+        "github-copilot",
+        "language-model",
+        "language-model-api",
+        "llm",
+        "ucp"
+      ],
+      "created_at": "2025-12-01T16:30:27Z",
+      "updated_at": "2026-05-07T03:27:06Z",
+      "pushed_at": "2026-05-07T03:27:02Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-07 stars:>50",
+        "topic:llm pushed:>2026-04-07 stars:>50"
+      ],
+      "owner_login": "smallmain",
+      "tags": [
+        "ai",
+        "chat",
+        "copilot",
+        "custom-chat",
+        "custom-models",
+        "github",
+        "github-copilot",
+        "language-model",
+        "language-model-api",
+        "llm",
+        "ucp"
+      ]
+    },
+    {
       "repo_name": "StartupHakk/OpenMonoAgent.ai",
       "url": "https://github.com/StartupHakk/OpenMonoAgent.ai",
       "description": "(BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.",
-      "stars": 419,
+      "stars": 420,
       "forks": 39,
-      "watchers": 419,
+      "watchers": 420,
       "open_issues": 17,
       "language": "C#",
       "topics": [],
       "created_at": "2026-04-30T17:32:21Z",
-      "updated_at": "2026-05-07T03:10:42Z",
+      "updated_at": "2026-05-07T03:24:09Z",
       "pushed_at": "2026-05-07T00:35:03Z",
       "matched_queries": [
         "\"local llm\" pushed:>2026-04-07 stars:>25"
@@ -2644,65 +3713,110 @@
       ]
     },
     {
-      "repo_name": "arimxyer/models",
-      "url": "https://github.com/arimxyer/models",
-      "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
-      "stars": 416,
-      "forks": 17,
-      "watchers": 416,
-      "open_issues": 1,
-      "language": "Rust",
+      "repo_name": "milady-ai/milady",
+      "url": "https://github.com/milady-ai/milady",
+      "description": "terminally online",
+      "stars": 394,
+      "forks": 68,
+      "watchers": 394,
+      "open_issues": 6,
+      "language": "TypeScript",
       "topics": [
-        "ai",
-        "anamolyco",
-        "artificial-analysis",
-        "benchmarks",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "gemini-cli",
-        "llm",
-        "models",
-        "models-dev",
+        "agent",
+        "agent-skills",
+        "agents",
+        "autonomous-agents",
+        "clawd",
+        "clawdbot",
+        "clawdbot-plugin",
+        "eliza",
+        "elizaos",
         "openclaw",
-        "opencode",
-        "ratatui",
-        "rust",
-        "sst",
-        "sst-inspired",
-        "status",
-        "status-page",
-        "tui"
+        "openclaw-skills"
       ],
-      "created_at": "2026-01-08T16:53:39Z",
-      "updated_at": "2026-05-07T03:09:22Z",
-      "pushed_at": "2026-05-07T03:06:30Z",
+      "created_at": "2026-02-07T02:28:06Z",
+      "updated_at": "2026-05-07T03:18:59Z",
+      "pushed_at": "2026-05-07T03:19:49Z",
       "matched_queries": [
-        "topic:llm pushed:>2026-04-07 stars:>50"
+        "topic:agents pushed:>2026-04-07 stars:>25"
       ],
-      "owner_login": "arimxyer",
+      "owner_login": "milady-ai",
       "tags": [
+        "agent",
+        "agent-skills",
         "agents",
         "ai",
-        "anamolyco",
-        "artificial-analysis",
-        "benchmarks",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "gemini-cli",
-        "llm",
-        "models",
-        "models-dev",
+        "autonomous-agents",
+        "clawd",
+        "clawdbot",
+        "clawdbot-plugin",
+        "eliza",
+        "elizaos",
         "openclaw",
-        "opencode",
-        "ratatui",
-        "rust",
-        "sst",
-        "sst-inspired",
-        "status",
-        "status-page",
-        "tui"
+        "openclaw-skills"
+      ]
+    },
+    {
+      "repo_name": "Affitor/affiliate-skills",
+      "url": "https://github.com/Affitor/affiliate-skills",
+      "description": "50 AI agent skills for affiliate marketing. Research trending content, write data-backed posts, generate infographics, build landing pages, deploy — full flywheel with social intelligence. Works with Claude Code, Pi, ChatGPT, Gemini, Cursor, Windsurf, any AI.",
+      "stars": 383,
+      "forks": 153,
+      "watchers": 383,
+      "open_issues": 1,
+      "language": "HTML",
+      "topics": [
+        "affiliate-marketing",
+        "agent-skills",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "content-marketing",
+        "cursor",
+        "gemini",
+        "influencer",
+        "llm",
+        "marketing",
+        "open-source",
+        "saas",
+        "seo",
+        "skill-md",
+        "social-media",
+        "tiktok",
+        "youtube"
+      ],
+      "created_at": "2026-03-15T20:51:26Z",
+      "updated_at": "2026-05-06T08:02:49Z",
+      "pushed_at": "2026-04-10T22:33:12Z",
+      "matched_queries": [
+        "\"affiliate marketing\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "Affitor",
+      "tags": [
+        "affiliate",
+        "affiliate-marketing",
+        "agent-skills",
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "content-marketing",
+        "cursor",
+        "gemini",
+        "influencer",
+        "llm",
+        "marketing",
+        "open-source",
+        "saas",
+        "seo",
+        "skill-md",
+        "social-media",
+        "tiktok",
+        "youtube"
       ]
     },
     {
@@ -2787,77 +3901,25 @@
       ]
     },
     {
-      "repo_name": "hatayama/unity-cli-loop",
-      "url": "https://github.com/hatayama/unity-cli-loop",
-      "description": "Let AI Drive Unity, from Editor to Play Mode.",
-      "stars": 343,
-      "forks": 30,
-      "watchers": 343,
-      "open_issues": 6,
-      "language": "C#",
-      "topics": [
-        "ai",
-        "automation",
-        "cli",
-        "mcp",
-        "unity",
-        "unity3d"
-      ],
-      "created_at": "2025-06-15T13:54:05Z",
-      "updated_at": "2026-05-07T03:02:02Z",
-      "pushed_at": "2026-05-07T02:38:55Z",
+      "repo_name": "dvygolov/YellowTDS",
+      "url": "https://github.com/dvygolov/YellowTDS",
+      "description": "Free Traffic Distribution System for affiliate marketing",
+      "stars": 356,
+      "forks": 159,
+      "watchers": 356,
+      "open_issues": 0,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2019-04-26T23:24:38Z",
+      "updated_at": "2026-05-05T00:12:57Z",
+      "pushed_at": "2026-04-08T12:34:22Z",
       "matched_queries": [
-        "topic:automation pushed:>2026-04-07 stars:>25"
+        "\"affiliate marketing\" pushed:>2026-04-07 stars:>10"
       ],
-      "owner_login": "hatayama",
+      "owner_login": "dvygolov",
       "tags": [
-        "ai",
-        "automation",
-        "cli",
-        "mcp",
-        "unity",
-        "unity3d"
-      ]
-    },
-    {
-      "repo_name": "lightseekorg/tokenspeed",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-      "stars": 318,
-      "forks": 18,
-      "watchers": 318,
-      "open_issues": 3,
-      "language": "Python",
-      "topics": [
-        "blackwell",
-        "deepseek",
-        "gpt-oss",
-        "kimi",
-        "lightseek",
-        "llm",
-        "minimax",
-        "qwen",
-        "speed-of-light",
-        "tokenspeed"
-      ],
-      "created_at": "2026-05-06T13:13:21Z",
-      "updated_at": "2026-05-07T03:12:03Z",
-      "pushed_at": "2026-05-07T03:10:08Z",
-      "matched_queries": [
-        "topic:llm pushed:>2026-04-07 stars:>50"
-      ],
-      "owner_login": "lightseekorg",
-      "tags": [
-        "blackwell",
-        "deepseek",
-        "gpt-oss",
-        "kimi",
-        "lightseek",
-        "llm",
-        "minimax",
-        "qwen",
-        "speed-of-light",
-        "tokenspeed"
+        "affiliate",
+        "marketing"
       ]
     },
     {
@@ -2883,8 +3945,8 @@
         "vibecoding"
       ],
       "created_at": "2024-12-12T02:41:28Z",
-      "updated_at": "2026-05-07T03:06:36Z",
-      "pushed_at": "2026-05-07T03:06:32Z",
+      "updated_at": "2026-05-07T03:21:32Z",
+      "pushed_at": "2026-05-07T03:21:29Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-07 stars:>50",
         "topic:llm pushed:>2026-04-07 stars:>50"
@@ -2939,7 +4001,8 @@
       "updated_at": "2026-05-06T23:33:06Z",
       "pushed_at": "2026-05-06T23:33:02Z",
       "matched_queries": [
-        "\"workflow automation\" pushed:>2026-04-07 stars:>10"
+        "\"workflow automation\" pushed:>2026-04-07 stars:>10",
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
       ],
       "owner_login": "Azim-Ahmed",
       "tags": [
@@ -3011,7 +4074,7 @@
       "stars": 294,
       "forks": 52,
       "watchers": 294,
-      "open_issues": 30,
+      "open_issues": 29,
       "language": "Python",
       "topics": [
         "ai",
@@ -3035,8 +4098,8 @@
         "tibetan"
       ],
       "created_at": "2026-03-10T14:05:37Z",
-      "updated_at": "2026-05-07T03:05:28Z",
-      "pushed_at": "2026-05-07T03:12:33Z",
+      "updated_at": "2026-05-07T03:14:33Z",
+      "pushed_at": "2026-05-07T03:14:30Z",
       "matched_queries": [
         "topic:rag pushed:>2026-04-07 stars:>25"
       ],
@@ -3061,6 +4124,41 @@
         "sanskrit",
         "semantic-search",
         "tibetan"
+      ]
+    },
+    {
+      "repo_name": "jedzqer/manga-translator-android",
+      "url": "https://github.com/jedzqer/manga-translator-android",
+      "description": "安卓手机端的即时自动漫画翻译软件，由LLM驱动。Instant automatic manga translation app for mobile devices, powered by LLM.",
+      "stars": 292,
+      "forks": 11,
+      "watchers": 292,
+      "open_issues": 2,
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "app",
+        "comic",
+        "comic-reader",
+        "llm",
+        "manga",
+        "translator"
+      ],
+      "created_at": "2025-12-11T10:56:58Z",
+      "updated_at": "2026-05-07T03:18:37Z",
+      "pushed_at": "2026-05-07T03:18:33Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-07 stars:>50"
+      ],
+      "owner_login": "jedzqer",
+      "tags": [
+        "android",
+        "app",
+        "comic",
+        "comic-reader",
+        "llm",
+        "manga",
+        "translator"
       ]
     },
     {
@@ -3122,6 +4220,45 @@
         "quantization",
         "transformers",
         "tui"
+      ]
+    },
+    {
+      "repo_name": "armbian/os",
+      "url": "https://github.com/armbian/os",
+      "description": "Armbian operating system rolling releases provides automated nightly builds of maintained targets",
+      "stars": 270,
+      "forks": 97,
+      "watchers": 270,
+      "open_issues": 12,
+      "language": "Shell",
+      "topics": [
+        "automation",
+        "autotest-framework",
+        "distribution",
+        "linux",
+        "qa-automation",
+        "quality-control",
+        "release",
+        "release-management",
+        "version-control"
+      ],
+      "created_at": "2023-02-20T05:40:00Z",
+      "updated_at": "2026-05-07T03:25:42Z",
+      "pushed_at": "2026-05-07T03:25:38Z",
+      "matched_queries": [
+        "topic:automation pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "armbian",
+      "tags": [
+        "automation",
+        "autotest-framework",
+        "distribution",
+        "linux",
+        "qa-automation",
+        "quality-control",
+        "release",
+        "release-management",
+        "version-control"
       ]
     },
     {
@@ -3191,8 +4328,8 @@
       "language": "Rust",
       "topics": [],
       "created_at": "2026-02-28T08:41:21Z",
-      "updated_at": "2026-05-07T03:11:36Z",
-      "pushed_at": "2026-05-07T03:11:32Z",
+      "updated_at": "2026-05-07T03:22:13Z",
+      "pushed_at": "2026-05-07T03:22:10Z",
       "matched_queries": [
         "\"ai agents\" pushed:>2026-04-30 stars:>50"
       ],
@@ -3234,8 +4371,8 @@
         "openai"
       ],
       "created_at": "2026-03-23T03:28:17Z",
-      "updated_at": "2026-05-07T03:07:15Z",
-      "pushed_at": "2026-05-07T03:07:11Z",
+      "updated_at": "2026-05-07T03:22:12Z",
+      "pushed_at": "2026-05-07T03:22:08Z",
       "matched_queries": [
         "topic:ai pushed:>2026-04-07 stars:>50",
         "topic:llm pushed:>2026-04-07 stars:>50"
@@ -3282,8 +4419,8 @@
         "orchestration"
       ],
       "created_at": "2025-03-19T11:20:50Z",
-      "updated_at": "2026-05-07T03:05:25Z",
-      "pushed_at": "2026-05-07T03:05:25Z",
+      "updated_at": "2026-05-07T03:20:41Z",
+      "pushed_at": "2026-05-07T03:20:40Z",
       "matched_queries": [
         "\"ai agents\" pushed:>2026-04-30 stars:>50"
       ],
@@ -3300,12 +4437,74 @@
       ]
     },
     {
+      "repo_name": "marcusquinn/aidevops",
+      "url": "https://github.com/marcusquinn/aidevops",
+      "description": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.",
+      "stars": 232,
+      "forks": 42,
+      "watchers": 232,
+      "open_issues": 4,
+      "language": "Shell",
+      "topics": [
+        "agents",
+        "agents-md",
+        "ai",
+        "ai-agents",
+        "ai-assistant",
+        "ai-assistants",
+        "ai-assisted-development",
+        "ai-code-review",
+        "ai-coding",
+        "ai-dev-ops",
+        "ai-devops",
+        "ai-system-admin",
+        "claude",
+        "devops",
+        "devops-tools",
+        "git-workflow",
+        "git-worktrees",
+        "opencode",
+        "opencode-plugin"
+      ],
+      "created_at": "2025-11-09T05:15:11Z",
+      "updated_at": "2026-05-07T03:26:28Z",
+      "pushed_at": "2026-05-07T03:26:25Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-07 stars:>50",
+        "topic:agents pushed:>2026-04-07 stars:>25",
+        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+      ],
+      "owner_login": "marcusquinn",
+      "tags": [
+        "agents",
+        "agents-md",
+        "ai",
+        "ai-agents",
+        "ai-assistant",
+        "ai-assistants",
+        "ai-assisted-development",
+        "ai-code-review",
+        "ai-coding",
+        "ai-dev-ops",
+        "ai-devops",
+        "ai-system-admin",
+        "automation",
+        "claude",
+        "devops",
+        "devops-tools",
+        "git-workflow",
+        "git-worktrees",
+        "opencode",
+        "opencode-plugin"
+      ]
+    },
+    {
       "repo_name": "james-see/ltx-video-mac",
       "url": "https://github.com/james-see/ltx-video-mac",
       "description": "Native macOS app for AI video generation using LTX-Video model, optimized for Apple Silicon",
-      "stars": 214,
-      "forks": 24,
-      "watchers": 214,
+      "stars": 215,
+      "forks": 25,
+      "watchers": 215,
       "open_issues": 5,
       "language": "Swift",
       "topics": [
@@ -3317,7 +4516,7 @@
         "text-to-video"
       ],
       "created_at": "2026-01-09T07:27:26Z",
-      "updated_at": "2026-05-07T02:51:37Z",
+      "updated_at": "2026-05-07T03:17:49Z",
       "pushed_at": "2026-05-07T02:51:49Z",
       "matched_queries": [
         "video generation pushed:>2026-04-07 stars:>25"
@@ -3332,6 +4531,64 @@
         "mac-native",
         "text-to-video",
         "video"
+      ]
+    },
+    {
+      "repo_name": "naqashafzal/AI-Content-Studio",
+      "url": "https://github.com/naqashafzal/AI-Content-Studio",
+      "description": "A 100% free & open-source AI Content Automation Tool that writes scripts, generates voiceovers, creates videos, and uploads them automatically — hands-free YouTube growth powered by AI.",
+      "stars": 205,
+      "forks": 75,
+      "watchers": 205,
+      "open_issues": 1,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-content-generation",
+        "caption-generation",
+        "facebook-automation",
+        "free-video-generator",
+        "youtube-automation"
+      ],
+      "created_at": "2025-09-03T15:20:22Z",
+      "updated_at": "2026-05-02T16:16:33Z",
+      "pushed_at": "2026-05-02T16:16:29Z",
+      "matched_queries": [
+        "\"content automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "naqashafzal",
+      "tags": [
+        "ai",
+        "ai-content-generation",
+        "automation",
+        "caption-generation",
+        "facebook-automation",
+        "free-video-generator",
+        "marketing",
+        "video",
+        "youtube",
+        "youtube-automation"
+      ]
+    },
+    {
+      "repo_name": "Codeinwp/otter-blocks",
+      "url": "https://github.com/Codeinwp/otter-blocks",
+      "description": "Create beautiful and attracting posts, pages, and landing pages with Gutenberg Blocks and Template Library by Otter.",
+      "stars": 196,
+      "forks": 36,
+      "watchers": 196,
+      "open_issues": 94,
+      "language": "PHP",
+      "topics": [],
+      "created_at": "2018-10-11T10:25:41Z",
+      "updated_at": "2026-05-05T22:17:39Z",
+      "pushed_at": "2026-05-05T22:17:59Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "Codeinwp",
+      "tags": [
+        "marketing"
       ]
     },
     {
@@ -3429,151 +4686,303 @@
       ]
     },
     {
-      "repo_name": "spinningfactory/kloak",
-      "url": "https://github.com/spinningfactory/kloak",
-      "description": "Cloud native zero trust security for AI agents run environments",
-      "stars": 183,
-      "forks": 4,
-      "watchers": 183,
-      "open_issues": 18,
-      "language": "C",
-      "topics": [
-        "bpf",
-        "ebpf",
-        "kubernetes",
-        "secrets",
-        "secrets-management"
-      ],
-      "created_at": "2026-02-07T16:08:49Z",
-      "updated_at": "2026-05-07T03:08:16Z",
-      "pushed_at": "2026-05-07T03:10:01Z",
-      "matched_queries": [
-        "\"ai agents\" pushed:>2026-04-30 stars:>50"
-      ],
-      "owner_login": "spinningfactory",
-      "tags": [
-        "agents",
-        "ai",
-        "bpf",
-        "ebpf",
-        "kubernetes",
-        "secrets",
-        "secrets-management"
-      ]
-    },
-    {
-      "repo_name": "zhe-qi/clhoria-template",
-      "url": "https://github.com/zhe-qi/clhoria-template",
-      "description": "Production-ready Hono backend template that doubles as an AI agent harness — providing feedforward guides, feedback sensors, and progressive specialization to make AI coding agents reliably produce architecture-conformant code./ 可用于生产环境的模板，内置权限、认证、缓存与限流，开箱即用。",
-      "stars": 167,
-      "forks": 16,
-      "watchers": 167,
+      "repo_name": "apoorvdarshan/fud-ai",
+      "url": "https://github.com/apoorvdarshan/fud-ai",
+      "description": "Fud AI is a Free & Open Sourced AI Calorie Tracker for iOS & Android",
+      "stars": 161,
+      "forks": 34,
+      "watchers": 161,
       "open_issues": 2,
-      "language": "TypeScript",
-      "topics": [
-        "backend-boilerplate",
-        "backend-template",
-        "hono-boilerplate"
-      ],
-      "created_at": "2025-05-13T02:15:48Z",
-      "updated_at": "2026-05-07T03:10:42Z",
-      "pushed_at": "2026-05-07T03:10:38Z",
-      "matched_queries": [
-        "\"ai agents\" pushed:>2026-04-30 stars:>50"
-      ],
-      "owner_login": "zhe-qi",
-      "tags": [
-        "agents",
-        "ai",
-        "backend-boilerplate",
-        "backend-template",
-        "hono-boilerplate"
-      ]
-    },
-    {
-      "repo_name": "tetherto/qvac",
-      "url": "https://github.com/tetherto/qvac",
-      "description": "QVAC - Local AI SDK and libraries for building private, cross-platform, peer-to-peer AI applications. Run LLMs, speech-to-text, translation, and more locally on Linux, macOS, Windows, Android, and iOS.",
-      "stars": 163,
-      "forks": 51,
-      "watchers": 163,
-      "open_issues": 81,
-      "language": "JavaScript",
+      "language": "Kotlin",
       "topics": [
         "ai",
-        "bare-runtime",
-        "cross-platform",
-        "embeddings",
+        "android",
+        "calorie-tracker",
+        "fitness",
+        "food-tracker",
+        "health",
+        "health-connect",
+        "healthkit",
+        "ios",
+        "jetpack-compose",
+        "kotlin",
         "llm",
-        "local-ai",
-        "native-addon",
+        "macro-tracker",
+        "nutrition",
+        "nutrition-tracker",
         "open-source",
-        "peer-to-peer",
-        "privacy",
-        "rag",
-        "speech-to-text",
-        "tether",
-        "translation"
+        "privacy-first",
+        "swift",
+        "swiftui",
+        "weight-tracker"
       ],
-      "created_at": "2026-01-03T01:59:01Z",
-      "updated_at": "2026-05-07T03:10:09Z",
-      "pushed_at": "2026-05-07T02:41:35Z",
-      "matched_queries": [
-        "topic:rag pushed:>2026-04-07 stars:>25"
-      ],
-      "owner_login": "tetherto",
-      "tags": [
-        "ai",
-        "bare-runtime",
-        "cross-platform",
-        "embeddings",
-        "llm",
-        "local-ai",
-        "native-addon",
-        "open-source",
-        "peer-to-peer",
-        "privacy",
-        "rag",
-        "speech-to-text",
-        "tether",
-        "translation"
-      ]
-    },
-    {
-      "repo_name": "baidu-baige/LoongForge",
-      "url": "https://github.com/baidu-baige/LoongForge",
-      "description": "A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
-      "stars": 153,
-      "forks": 17,
-      "watchers": 153,
-      "open_issues": 16,
-      "language": "Python",
-      "topics": [
-        "ai",
-        "diffusion",
-        "infra",
-        "llm",
-        "training",
-        "vla",
-        "vlm",
-        "wan"
-      ],
-      "created_at": "2026-04-23T08:45:42Z",
-      "updated_at": "2026-05-07T03:06:16Z",
-      "pushed_at": "2026-05-07T03:06:12Z",
+      "created_at": "2026-02-04T21:35:30Z",
+      "updated_at": "2026-05-07T03:17:13Z",
+      "pushed_at": "2026-05-07T03:17:10Z",
       "matched_queries": [
         "topic:llm pushed:>2026-04-07 stars:>50"
       ],
-      "owner_login": "baidu-baige",
+      "owner_login": "apoorvdarshan",
       "tags": [
         "ai",
-        "diffusion",
-        "infra",
+        "android",
+        "calorie-tracker",
+        "fitness",
+        "food-tracker",
+        "health",
+        "health-connect",
+        "healthkit",
+        "ios",
+        "jetpack-compose",
+        "kotlin",
         "llm",
-        "training",
-        "vla",
-        "vlm",
-        "wan"
+        "macro-tracker",
+        "nutrition",
+        "nutrition-tracker",
+        "open-source",
+        "privacy-first",
+        "swift",
+        "swiftui",
+        "weight-tracker"
+      ]
+    },
+    {
+      "repo_name": "barry-ran/QuickDesk",
+      "url": "https://github.com/barry-ran/QuickDesk",
+      "description": "QuickDesk is the first AI-native remote desktop — an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent see and control remote computers.",
+      "stars": 160,
+      "forks": 25,
+      "watchers": 160,
+      "open_issues": 1,
+      "language": "QML",
+      "topics": [
+        "agent",
+        "mcp",
+        "rdp",
+        "remote",
+        "remote-control",
+        "remote-desktop",
+        "rustdesk",
+        "teamviewer",
+        "todesk",
+        "vnc"
+      ],
+      "created_at": "2026-01-16T09:09:27Z",
+      "updated_at": "2026-05-07T03:22:28Z",
+      "pushed_at": "2026-05-07T03:22:24Z",
+      "matched_queries": [
+        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+      ],
+      "owner_login": "barry-ran",
+      "tags": [
+        "agent",
+        "agents",
+        "ai",
+        "mcp",
+        "rdp",
+        "remote",
+        "remote-control",
+        "remote-desktop",
+        "rustdesk",
+        "teamviewer",
+        "todesk",
+        "vnc"
+      ]
+    },
+    {
+      "repo_name": "mailchimp/mc-magento2",
+      "url": "https://github.com/mailchimp/mc-magento2",
+      "description": "MailChimp for Magento 2. Syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.",
+      "stars": 159,
+      "forks": 115,
+      "watchers": 159,
+      "open_issues": 16,
+      "language": "PHP",
+      "topics": [
+        "ecommerce",
+        "email-marketing",
+        "magento",
+        "magento2",
+        "php"
+      ],
+      "created_at": "2016-09-11T15:50:25Z",
+      "updated_at": "2026-04-23T16:53:28Z",
+      "pushed_at": "2026-04-28T15:48:33Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "mailchimp",
+      "tags": [
+        "automation",
+        "ecommerce",
+        "email-marketing",
+        "magento",
+        "magento2",
+        "marketing",
+        "php"
+      ]
+    },
+    {
+      "repo_name": "mailpoet/mailpoet",
+      "url": "https://github.com/mailpoet/mailpoet",
+      "description": "A free newsletter plugin for WordPress",
+      "stars": 155,
+      "forks": 73,
+      "watchers": 155,
+      "open_issues": 28,
+      "language": "PHP",
+      "topics": [
+        "emails",
+        "mailpoet",
+        "newsletters",
+        "wordpress",
+        "wordpress-plugin"
+      ],
+      "created_at": "2015-07-08T12:47:37Z",
+      "updated_at": "2026-05-06T23:13:40Z",
+      "pushed_at": "2026-05-06T23:13:37Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "mailpoet",
+      "tags": [
+        "content-marketing",
+        "emails",
+        "mailpoet",
+        "newsletters",
+        "wordpress",
+        "wordpress-plugin"
+      ]
+    },
+    {
+      "repo_name": "Micro-SaaS-Examples/Best-Micro-SaaS-Tools",
+      "url": "https://github.com/Micro-SaaS-Examples/Best-Micro-SaaS-Tools",
+      "description": "A curated list of real Micro SaaS tools categorized by niche. Perfect for inspiration, research, and startup ideas.",
+      "stars": 151,
+      "forks": 71,
+      "watchers": 151,
+      "open_issues": 20,
+      "language": null,
+      "topics": [
+        "ai-tools",
+        "api",
+        "awesome-list",
+        "browser-extensions",
+        "developer-tools",
+        "generative-ai",
+        "indie-hacker",
+        "marketing-tools",
+        "micro-saas",
+        "no-code",
+        "productivity-apps",
+        "saas-boilerplate",
+        "saas-examples",
+        "seo-tools",
+        "startup-tools"
+      ],
+      "created_at": "2025-07-11T09:40:08Z",
+      "updated_at": "2026-05-06T19:35:03Z",
+      "pushed_at": "2026-05-06T19:34:58Z",
+      "matched_queries": [
+        "\"micro saas\" pushed:>2026-04-07 stars:>5"
+      ],
+      "owner_login": "Micro-SaaS-Examples",
+      "tags": [
+        "ai-tools",
+        "api",
+        "awesome-list",
+        "browser-extensions",
+        "developer-tools",
+        "generative-ai",
+        "indie-hacker",
+        "marketing-tools",
+        "micro-saas",
+        "no-code",
+        "productivity-apps",
+        "saas",
+        "saas-boilerplate",
+        "saas-examples",
+        "seo-tools",
+        "side-business",
+        "startup",
+        "startup-tools"
+      ]
+    },
+    {
+      "repo_name": "AXERA-TECH/ax-llm",
+      "url": "https://github.com/AXERA-TECH/ax-llm",
+      "description": "Explore LLM model deployment based on AXera's AI chips",
+      "stars": 151,
+      "forks": 24,
+      "watchers": 151,
+      "open_issues": 13,
+      "language": "C++",
+      "topics": [
+        "axera",
+        "edge-computing",
+        "gemma2",
+        "huggingface",
+        "internvl2",
+        "llama3",
+        "llm",
+        "minicpm",
+        "minicpm-v",
+        "qwen2",
+        "transformer",
+        "vlm"
+      ],
+      "created_at": "2024-03-14T09:52:06Z",
+      "updated_at": "2026-05-07T03:14:19Z",
+      "pushed_at": "2026-05-07T03:14:16Z",
+      "matched_queries": [
+        "topic:llm pushed:>2026-04-07 stars:>50"
+      ],
+      "owner_login": "AXERA-TECH",
+      "tags": [
+        "ai",
+        "axera",
+        "edge-computing",
+        "gemma2",
+        "huggingface",
+        "internvl2",
+        "llama3",
+        "llm",
+        "minicpm",
+        "minicpm-v",
+        "qwen2",
+        "semiconductor",
+        "transformer",
+        "vlm"
+      ]
+    },
+    {
+      "repo_name": "Euterpe-org/Euterpe",
+      "url": "https://github.com/Euterpe-org/Euterpe",
+      "description": "The community platform for Muse Dash custom charts, mods, and creator tooling.",
+      "stars": 149,
+      "forks": 1,
+      "watchers": 149,
+      "open_issues": 2,
+      "language": "C#",
+      "topics": [
+        "mods",
+        "musedash",
+        "rhythm-game"
+      ],
+      "created_at": "2023-01-28T13:35:24Z",
+      "updated_at": "2026-05-06T19:44:33Z",
+      "pushed_at": "2026-05-06T19:44:27Z",
+      "matched_queries": [
+        "\"creator tools\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "Euterpe-org",
+      "tags": [
+        "creator-economy",
+        "creator-tools",
+        "mods",
+        "musedash",
+        "rhythm-game",
+        "youtube"
       ]
     },
     {
@@ -3618,41 +5027,6 @@
         "production-examples",
         "rag",
         "tutorials"
-      ]
-    },
-    {
-      "repo_name": "arch3rPro/1Panel-Appstore",
-      "url": "https://github.com/arch3rPro/1Panel-Appstore",
-      "description": "1Panel-第三方应用商店(运维监控、免费大模型API、Nas工具、容器管理)",
-      "stars": 146,
-      "forks": 22,
-      "watchers": 146,
-      "open_issues": 4,
-      "language": "CSS",
-      "topics": [
-        "1panel",
-        "1panel-appstore",
-        "documentation",
-        "llm",
-        "monitoring-tool",
-        "nas",
-        "network-analysis"
-      ],
-      "created_at": "2025-07-01T16:09:16Z",
-      "updated_at": "2026-05-07T03:05:54Z",
-      "pushed_at": "2026-05-07T03:05:50Z",
-      "matched_queries": [
-        "topic:llm pushed:>2026-04-07 stars:>50"
-      ],
-      "owner_login": "arch3rPro",
-      "tags": [
-        "1panel",
-        "1panel-appstore",
-        "documentation",
-        "llm",
-        "monitoring-tool",
-        "nas",
-        "network-analysis"
       ]
     },
     {
@@ -3722,6 +5096,76 @@
       ]
     },
     {
+      "repo_name": "bormaxi8080/osint-timeline",
+      "url": "https://github.com/bormaxi8080/osint-timeline",
+      "description": "OSINT Timeline Weekly Newsletter with collection of tools, services and investigations",
+      "stars": 142,
+      "forks": 7,
+      "watchers": 142,
+      "open_issues": 0,
+      "language": null,
+      "topics": [],
+      "created_at": "2023-04-01T12:46:02Z",
+      "updated_at": "2026-05-06T20:45:24Z",
+      "pushed_at": "2026-05-06T20:45:20Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "bormaxi8080",
+      "tags": [
+        "content-marketing"
+      ]
+    },
+    {
+      "repo_name": "nexscope-ai/eCommerce-Skills",
+      "url": "https://github.com/nexscope-ai/eCommerce-Skills",
+      "description": "E-commerce skills for AI agents — product research, marketing automation, supply chain optimization, and business analytics for online sellers across Amazon, Shopify, Etsy, TikTok Shop, and all platforms.",
+      "stars": 140,
+      "forks": 22,
+      "watchers": 140,
+      "open_issues": 2,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "ai-agent-skills",
+        "ai-agents",
+        "amazon-seller-tools",
+        "claude-code-skills",
+        "claude-skills",
+        "ecommerce",
+        "openclaw-skills",
+        "shopify-tools",
+        "tiktok-shop-automation"
+      ],
+      "created_at": "2026-03-18T06:42:32Z",
+      "updated_at": "2026-05-07T02:41:13Z",
+      "pushed_at": "2026-04-23T07:48:06Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "nexscope-ai",
+      "tags": [
+        "agent-skills",
+        "agents",
+        "ai",
+        "ai-agent-skills",
+        "ai-agents",
+        "amazon-seller-tools",
+        "automation",
+        "claude-code-skills",
+        "claude-skills",
+        "creator-tools",
+        "ecommerce",
+        "marketing",
+        "openclaw-skills",
+        "shopify-tools",
+        "social-media",
+        "tiktok-shop-automation",
+        "video"
+      ]
+    },
+    {
       "repo_name": "rampstackco/claude-skills",
       "url": "https://github.com/rampstackco/claude-skills",
       "description": "Stack-agnostic Claude Skills covering the full website lifecycle: brand, design, content, SEO, dev, ops, growth, and research. Build, ship, audit, optimize.",
@@ -3767,6 +5211,7 @@
         "claude-code",
         "claude-skills",
         "good-first-issue",
+        "marketing",
         "mcp",
         "product-management",
         "seo",
@@ -3778,61 +5223,52 @@
       ]
     },
     {
-      "repo_name": "memex-lab/memex",
-      "url": "https://github.com/memex-lab/memex",
-      "description": "Open-source, local-first AI journal app for iOS and Android. Capture text, photos, and voice — AI agents organize them into timeline cards and insights. Your data stays on your device. Bring your own LLM (OpenAI, Claude, Gemini, Ollama, and more).",
-      "stars": 125,
-      "forks": 13,
-      "watchers": 125,
-      "open_issues": 12,
-      "language": "Dart",
-      "topics": [
-        "ai-assistant",
-        "ai-companion",
-        "ai-diary",
-        "ai-journal",
-        "assistant-app",
-        "journal-app",
-        "journaling",
-        "journaling-app",
-        "knowledge-management",
-        "life-logging",
-        "local-agent",
-        "local-first",
-        "personal-knowledge-management",
-        "personal-knowledge-management-system",
-        "pkm",
-        "privacy",
-        "skills"
-      ],
-      "created_at": "2026-03-11T14:04:59Z",
-      "updated_at": "2026-05-07T03:04:04Z",
-      "pushed_at": "2026-05-07T03:04:00Z",
+      "repo_name": "Automattic/newspack-newsletters",
+      "url": "https://github.com/Automattic/newspack-newsletters",
+      "description": "Author email newsletters in WordPress",
+      "stars": 123,
+      "forks": 27,
+      "watchers": 123,
+      "open_issues": 92,
+      "language": "PHP",
+      "topics": [],
+      "created_at": "2020-04-02T15:31:49Z",
+      "updated_at": "2026-05-06T23:06:54Z",
+      "pushed_at": "2026-05-06T23:06:50Z",
       "matched_queries": [
-        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
       ],
-      "owner_login": "memex-lab",
+      "owner_login": "Automattic",
       "tags": [
-        "agents",
-        "ai",
-        "ai-assistant",
-        "ai-companion",
-        "ai-diary",
-        "ai-journal",
-        "assistant-app",
-        "journal-app",
-        "journaling",
-        "journaling-app",
-        "knowledge-management",
-        "life-logging",
-        "llm",
-        "local-agent",
-        "local-first",
-        "personal-knowledge-management",
-        "personal-knowledge-management-system",
-        "pkm",
-        "privacy",
-        "skills"
+        "content-marketing"
+      ]
+    },
+    {
+      "repo_name": "wenyg/douyin-creator-tools",
+      "url": "https://github.com/wenyg/douyin-creator-tools",
+      "description": "阿里虾的抖音创作者工具",
+      "stars": 122,
+      "forks": 32,
+      "watchers": 122,
+      "open_issues": 2,
+      "language": "JavaScript",
+      "topics": [
+        "openclaw",
+        "openclaw-skill"
+      ],
+      "created_at": "2026-03-18T09:00:30Z",
+      "updated_at": "2026-05-06T01:40:10Z",
+      "pushed_at": "2026-04-20T09:43:23Z",
+      "matched_queries": [
+        "\"creator tools\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "wenyg",
+      "tags": [
+        "creator-economy",
+        "creator-tools",
+        "openclaw",
+        "openclaw-skill",
+        "youtube"
       ]
     },
     {
@@ -3898,6 +5334,40 @@
       ]
     },
     {
+      "repo_name": "JetXu-LLM/DocMason",
+      "url": "https://github.com/JetXu-LLM/DocMason",
+      "description": "DocMason is a repo-native agent that turns your complex office files into a local LLM knowledge base and your second brain. The repo is the app. Codex is the runtime.",
+      "stars": 118,
+      "forks": 30,
+      "watchers": 118,
+      "open_issues": 1,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "codex",
+        "deepresearch",
+        "knowledge-base",
+        "repo-native-agent-app"
+      ],
+      "created_at": "2026-03-21T18:16:32Z",
+      "updated_at": "2026-05-07T03:27:32Z",
+      "pushed_at": "2026-05-07T03:27:28Z",
+      "matched_queries": [
+        "topic:agents pushed:>2026-04-07 stars:>25",
+        "\"local llm\" pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "JetXu-LLM",
+      "tags": [
+        "agents",
+        "codex",
+        "deepresearch",
+        "github",
+        "knowledge-base",
+        "llm",
+        "repo-native-agent-app"
+      ]
+    },
+    {
       "repo_name": "lthoangg/openagentd",
       "url": "https://github.com/lthoangg/openagentd",
       "description": "Self-hosted AI agent OS — streaming chat, tool use, persistent memory, and multi-agent teams. Runs entirely on your machine.",
@@ -3917,9 +5387,7 @@
       "updated_at": "2026-05-07T03:05:57Z",
       "pushed_at": "2026-05-07T03:05:54Z",
       "matched_queries": [
-        "topic:llm pushed:>2026-04-07 stars:>50",
-        "topic:agents pushed:>2026-04-07 stars:>25",
-        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+        "topic:agents pushed:>2026-04-07 stars:>25"
       ],
       "owner_login": "lthoangg",
       "tags": [
@@ -3931,75 +5399,209 @@
       ]
     },
     {
-      "repo_name": "jagreehal/ai-sdk-ollama",
-      "url": "https://github.com/jagreehal/ai-sdk-ollama",
-      "description": "A Vercel AI SDK provider for Ollama built on the official ollama package. Type safe, future proof, with cross provider compatibility and native Ollama features.",
-      "stars": 108,
-      "forks": 7,
-      "watchers": 108,
-      "open_issues": 1,
-      "language": "TypeScript",
+      "repo_name": "NodeDB-Lab/nodedb",
+      "url": "https://github.com/NodeDB-Lab/nodedb",
+      "description": "Document, columnar, KV, Graph, Vector, Array - The only all-in-one database that you need.",
+      "stars": 118,
+      "forks": 12,
+      "watchers": 118,
+      "open_issues": 0,
+      "language": "Rust",
       "topics": [
-        "ai"
+        "columnar",
+        "database",
+        "distributed",
+        "graph",
+        "kv-store",
+        "local",
+        "nosql",
+        "rag",
+        "sql",
+        "timeseries",
+        "vector"
       ],
-      "created_at": "2025-08-04T07:43:20Z",
-      "updated_at": "2026-05-07T03:06:44Z",
-      "pushed_at": "2026-05-07T03:11:23Z",
+      "created_at": "2026-03-16T19:32:29Z",
+      "updated_at": "2026-05-07T03:26:44Z",
+      "pushed_at": "2026-05-07T03:26:40Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-07 stars:>50"
+        "topic:rag pushed:>2026-04-07 stars:>25"
       ],
-      "owner_login": "jagreehal",
+      "owner_login": "NodeDB-Lab",
       "tags": [
-        "ai"
+        "columnar",
+        "database",
+        "distributed",
+        "graph",
+        "kv-store",
+        "local",
+        "nosql",
+        "rag",
+        "sql",
+        "timeseries",
+        "vector"
       ]
     },
     {
-      "repo_name": "VOBC/oh-my-coder",
-      "url": "https://github.com/VOBC/oh-my-coder",
-      "description": "Multi-Agent AI Coding Assistant - 支持 DeepSeek/文心/通义 等12+国产大模型，多智能体协作编程",
-      "stars": 98,
-      "forks": 20,
-      "watchers": 98,
-      "open_issues": 2,
+      "repo_name": "thearnavrustagi/marketmenow",
+      "url": "https://github.com/thearnavrustagi/marketmenow",
+      "description": "An agentic outbound marketing automation for startups (ClawCompatible)",
+      "stars": 108,
+      "forks": 33,
+      "watchers": 108,
+      "open_issues": 0,
       "language": "Python",
       "topics": [
-        "ai-coding",
-        "chinese",
-        "cli",
-        "code-assistant",
-        "code-review",
-        "deepseek-chat",
-        "developer-tool",
-        "developer-tools",
-        "glm",
-        "llm",
-        "multi-agent",
-        "opensource",
-        "python"
+        "ai",
+        "marketing",
+        "openclaw",
+        "openclaw-skills",
+        "playwright",
+        "social-media-automation"
       ],
-      "created_at": "2026-04-04T03:32:17Z",
-      "updated_at": "2026-05-07T03:11:52Z",
-      "pushed_at": "2026-05-07T03:11:49Z",
+      "created_at": "2026-03-16T11:55:51Z",
+      "updated_at": "2026-05-05T20:47:10Z",
+      "pushed_at": "2026-04-13T05:44:40Z",
       "matched_queries": [
-        "topic:llm pushed:>2026-04-07 stars:>50"
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
       ],
-      "owner_login": "VOBC",
+      "owner_login": "thearnavrustagi",
       "tags": [
+        "ai",
+        "automation",
+        "marketing",
+        "openclaw",
+        "openclaw-skills",
+        "playwright",
+        "social-media-automation"
+      ]
+    },
+    {
+      "repo_name": "Yanyutin753/LambChat",
+      "url": "https://github.com/Yanyutin753/LambChat",
+      "description": "LambChat — A multi-tenant AI Agent Harness Platform. Skills + MCP dual-engine powered, built for scale and isolation. SSE real-time streaming, multi-modal document intelligence, JWT/RBAC enterprise security, and GitHub-connected Skill marketplace.",
+      "stars": 105,
+      "forks": 13,
+      "watchers": 105,
+      "open_issues": 0,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "deepagents",
+        "mcp",
+        "skills"
+      ],
+      "created_at": "2026-02-27T05:33:40Z",
+      "updated_at": "2026-05-07T03:23:07Z",
+      "pushed_at": "2026-05-07T03:23:03Z",
+      "matched_queries": [
+        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+      ],
+      "owner_login": "Yanyutin753",
+      "tags": [
+        "agent",
         "agents",
         "ai",
-        "ai-coding",
-        "chinese",
-        "cli",
-        "code-assistant",
-        "code-review",
-        "deepseek-chat",
-        "developer-tool",
-        "developer-tools",
-        "glm",
-        "llm",
-        "multi-agent",
-        "opensource",
-        "python"
+        "deepagents",
+        "ecommerce",
+        "github",
+        "mcp",
+        "skills"
+      ]
+    },
+    {
+      "repo_name": "SurveyController/SurveyController",
+      "url": "https://github.com/SurveyController/SurveyController",
+      "description": "支持问卷星、腾讯问卷、Credamo见数的高并发自动化填写程序，附带友好的图形化界面；可指定ip地区、作答时长、AI填空，2分钟猛干300份。稳定更新",
+      "stars": 102,
+      "forks": 14,
+      "watchers": 102,
+      "open_issues": 1,
+      "language": "Python",
+      "topics": [
+        "automation",
+        "college-students",
+        "homework",
+        "playwright",
+        "python",
+        "survey"
+      ],
+      "created_at": "2025-11-23T07:07:11Z",
+      "updated_at": "2026-05-07T03:13:06Z",
+      "pushed_at": "2026-05-07T03:13:02Z",
+      "matched_queries": [
+        "topic:automation pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "SurveyController",
+      "tags": [
+        "ai",
+        "automation",
+        "college-students",
+        "homework",
+        "playwright",
+        "python",
+        "survey"
+      ]
+    },
+    {
+      "repo_name": "mmTheBest/arxie",
+      "url": "https://github.com/mmTheBest/arxie",
+      "description": "AI research workspace with a persistent paper database, structured evidence extraction, hybrid search, and proposal workflows.",
+      "stars": 101,
+      "forks": 10,
+      "watchers": 101,
+      "open_issues": 0,
+      "language": "Python",
+      "topics": [
+        "academic-research",
+        "ai-agent",
+        "arxiv",
+        "citation-analysis",
+        "fastapi",
+        "hypothesis-generation",
+        "langchain",
+        "literature-review",
+        "machine-learning",
+        "nlp",
+        "paper-search",
+        "pdf-parser",
+        "python",
+        "rag",
+        "research-assistant",
+        "research-proposal",
+        "research-workflow",
+        "retrieval-augmented-generation",
+        "scientific-papers",
+        "semantic-scholar"
+      ],
+      "created_at": "2026-02-27T16:03:21Z",
+      "updated_at": "2026-05-07T03:15:14Z",
+      "pushed_at": "2026-05-07T03:15:10Z",
+      "matched_queries": [
+        "topic:rag pushed:>2026-04-07 stars:>25"
+      ],
+      "owner_login": "mmTheBest",
+      "tags": [
+        "academic-research",
+        "ai",
+        "ai-agent",
+        "arxiv",
+        "citation-analysis",
+        "fastapi",
+        "hypothesis-generation",
+        "langchain",
+        "literature-review",
+        "machine-learning",
+        "nlp",
+        "paper-search",
+        "pdf-parser",
+        "python",
+        "rag",
+        "research-assistant",
+        "research-proposal",
+        "research-workflow",
+        "retrieval-augmented-generation",
+        "scientific-papers",
+        "semantic-scholar"
       ]
     },
     {
@@ -4046,6 +5648,70 @@
         "vue",
         "workflow-automation",
         "workflows"
+      ]
+    },
+    {
+      "repo_name": "Vardot/varbase",
+      "url": "https://github.com/Vardot/varbase",
+      "description": "Built using Drupal, an enterprise website builder platform that combines powerful editorial features, mobile, lead-generation, SEO, social media integration, and beautiful bespoke designs. Varbase is packed with adaptive functionalities and essential modules.",
+      "stars": 95,
+      "forks": 44,
+      "watchers": 95,
+      "open_issues": 0,
+      "language": "CSS",
+      "topics": [
+        "drupal",
+        "drupal-10",
+        "drupal-11",
+        "drupal-8",
+        "drupal-9",
+        "drupal-distribution",
+        "drupal-profile",
+        "php",
+        "vardot"
+      ],
+      "created_at": "2015-12-22T15:28:43Z",
+      "updated_at": "2026-05-04T07:43:09Z",
+      "pushed_at": "2026-05-04T07:43:04Z",
+      "matched_queries": [
+        "\"lead generation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "Vardot",
+      "tags": [
+        "drupal",
+        "drupal-10",
+        "drupal-11",
+        "drupal-8",
+        "drupal-9",
+        "drupal-distribution",
+        "drupal-profile",
+        "marketing",
+        "php",
+        "seo",
+        "social-media",
+        "vardot"
+      ]
+    },
+    {
+      "repo_name": "clawvisor/clawvisor",
+      "url": "https://github.com/clawvisor/clawvisor",
+      "description": "API gateway for purpose-based authorization for AI agents. Human approval for tasks, AI-native enforcement for agents.",
+      "stars": 87,
+      "forks": 12,
+      "watchers": 87,
+      "open_issues": 7,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-03-01T22:43:06Z",
+      "updated_at": "2026-05-07T03:19:15Z",
+      "pushed_at": "2026-05-07T03:26:28Z",
+      "matched_queries": [
+        "\"ai agents\" pushed:>2026-04-30 stars:>50"
+      ],
+      "owner_login": "clawvisor",
+      "tags": [
+        "agents",
+        "ai"
       ]
     },
     {
@@ -4112,13 +5778,35 @@
       ]
     },
     {
+      "repo_name": "mailchimp/mc-woocommerce",
+      "url": "https://github.com/mailchimp/mc-woocommerce",
+      "description": "MailChimp for Woocommerce Integration. Syncs all data (subscriber, customers, orders, products) and enables marketing automation with email campaigns, automations, ads, postcards and more.",
+      "stars": 83,
+      "forks": 72,
+      "watchers": 83,
+      "open_issues": 10,
+      "language": "PHP",
+      "topics": [],
+      "created_at": "2016-07-15T15:54:29Z",
+      "updated_at": "2026-04-15T04:49:27Z",
+      "pushed_at": "2026-05-06T17:33:46Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "mailchimp",
+      "tags": [
+        "automation",
+        "marketing"
+      ]
+    },
+    {
       "repo_name": "shinpr/sub-agents-mcp",
       "url": "https://github.com/shinpr/sub-agents-mcp",
       "description": "Define task-specific AI sub-agents in Markdown for any MCP-compatible tool.",
       "stars": 81,
       "forks": 15,
       "watchers": 81,
-      "open_issues": 1,
+      "open_issues": 0,
       "language": "TypeScript",
       "topics": [
         "agent-workflow",
@@ -4137,8 +5825,8 @@
         "sub-agents"
       ],
       "created_at": "2025-08-15T13:07:13Z",
-      "updated_at": "2026-05-07T02:48:06Z",
-      "pushed_at": "2026-05-07T02:49:09Z",
+      "updated_at": "2026-05-07T03:13:26Z",
+      "pushed_at": "2026-05-07T03:13:28Z",
       "matched_queries": [
         "topic:automation pushed:>2026-04-07 stars:>25"
       ],
@@ -4163,6 +5851,43 @@
       ]
     },
     {
+      "repo_name": "ultralytics/stars",
+      "url": "https://github.com/ultralytics/stars",
+      "description": "Count GitHub Stars ⭐",
+      "stars": 81,
+      "forks": 5,
+      "watchers": 81,
+      "open_issues": 0,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "github",
+        "github-stars",
+        "ml",
+        "ultralytics",
+        "yolo",
+        "yolov5",
+        "yolov8"
+      ],
+      "created_at": "2022-03-31T17:00:13Z",
+      "updated_at": "2026-05-07T03:26:22Z",
+      "pushed_at": "2026-05-07T03:26:19Z",
+      "matched_queries": [
+        "topic:ai pushed:>2026-04-07 stars:>50"
+      ],
+      "owner_login": "ultralytics",
+      "tags": [
+        "ai",
+        "github",
+        "github-stars",
+        "ml",
+        "ultralytics",
+        "yolo",
+        "yolov5",
+        "yolov8"
+      ]
+    },
+    {
       "repo_name": "Dicklesworthstone/frankenterm",
       "url": "https://github.com/Dicklesworthstone/frankenterm",
       "description": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
@@ -4179,10 +5904,11 @@
         "wezterm"
       ],
       "created_at": "2026-01-18T20:19:33Z",
-      "updated_at": "2026-05-07T02:56:16Z",
-      "pushed_at": "2026-05-07T02:56:16Z",
+      "updated_at": "2026-05-07T03:19:46Z",
+      "pushed_at": "2026-05-07T03:19:47Z",
       "matched_queries": [
-        "topic:automation pushed:>2026-04-07 stars:>25"
+        "topic:automation pushed:>2026-04-07 stars:>25",
+        "\"ai agents\" pushed:>2026-04-30 stars:>50"
       ],
       "owner_login": "Dicklesworthstone",
       "tags": [
@@ -4258,6 +5984,27 @@
       ]
     },
     {
+      "repo_name": "adafruit/circuitpython-weekly-newsletter",
+      "url": "https://github.com/adafruit/circuitpython-weekly-newsletter",
+      "description": "Community newsletter for Python on Microcontrollers. Please feel free to put your current news, projects, etc. as a PR or Issue.",
+      "stars": 71,
+      "forks": 43,
+      "watchers": 71,
+      "open_issues": 1,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2018-03-19T16:52:22Z",
+      "updated_at": "2026-05-06T22:21:25Z",
+      "pushed_at": "2026-05-06T22:21:20Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "adafruit",
+      "tags": [
+        "content-marketing"
+      ]
+    },
+    {
       "repo_name": "roomi-fields/notebooklm-mcp",
       "url": "https://github.com/roomi-fields/notebooklm-mcp",
       "description": "Google NotebookLM over MCP + a local HTTP REST API. Citation-backed Q&A, audio/video/content generation, multi-account rotation. For Claude Code, Codex, Cursor, n8n, Zapier, Make.",
@@ -4312,49 +6059,6 @@
       ]
     },
     {
-      "repo_name": "gengchaogit/llm_speedtest",
-      "url": "https://github.com/gengchaogit/llm_speedtest",
-      "description": "Local LLM Inference Speed Test Tool",
-      "stars": 65,
-      "forks": 7,
-      "watchers": 65,
-      "open_issues": 0,
-      "language": "HTML",
-      "topics": [],
-      "created_at": "2025-11-08T09:52:13Z",
-      "updated_at": "2026-05-06T11:44:10Z",
-      "pushed_at": "2026-05-06T11:44:05Z",
-      "matched_queries": [
-        "\"local llm\" pushed:>2026-04-07 stars:>25"
-      ],
-      "owner_login": "gengchaogit",
-      "tags": [
-        "llm"
-      ]
-    },
-    {
-      "repo_name": "tyxben/roboot",
-      "url": "https://github.com/tyxben/roboot",
-      "description": "Personal AI agent hub on macOS — iTerm2 sessions, voice, web console, Telegram, Cloudflare Worker relay with E2EE",
-      "stars": 60,
-      "forks": 0,
-      "watchers": 60,
-      "open_issues": 0,
-      "language": "Python",
-      "topics": [],
-      "created_at": "2026-04-15T12:59:52Z",
-      "updated_at": "2026-05-07T03:08:12Z",
-      "pushed_at": "2026-05-07T03:08:08Z",
-      "matched_queries": [
-        "\"ai agents\" pushed:>2026-04-30 stars:>50"
-      ],
-      "owner_login": "tyxben",
-      "tags": [
-        "agents",
-        "ai"
-      ]
-    },
-    {
       "repo_name": "carpedkm/disentangled-subject-to-vid",
       "url": "https://github.com/carpedkm/disentangled-subject-to-vid",
       "description": "[Unofficial Implementation] Learning Zero-Shot Subject-Driven Video Generation Using 1% Compute",
@@ -4376,64 +6080,260 @@
       ]
     },
     {
-      "repo_name": "elkimek/get-based",
-      "url": "https://github.com/elkimek/get-based",
-      "description": "Free, open-source blood work dashboard — AI-powered PDF import, DNA raw data analysis (42 SNPs), trend charts, and personalized health insights for 287+ biomarkers. Local-first, no account required.",
+      "repo_name": "Azim-Ahmed/chat-flow-builder",
+      "url": "https://github.com/Azim-Ahmed/chat-flow-builder",
+      "description": "React-flow chatbot",
       "stars": 57,
-      "forks": 8,
+      "forks": 12,
       "watchers": 57,
-      "open_issues": 10,
-      "language": "JavaScript",
+      "open_issues": 0,
+      "language": "TypeScript",
       "topics": [
-        "ai",
-        "biomarker-tracking",
-        "biomarkers",
-        "blood-test",
-        "blood-work",
-        "dashboard",
-        "dna",
-        "evidence-based",
-        "free",
-        "genetics",
-        "health",
-        "health-dashboard",
-        "lab-results",
-        "local-first",
-        "open-source",
-        "pdf-import",
-        "privacy-first",
-        "pwa",
-        "self-hosted",
-        "snp"
+        "automation",
+        "automation-builder",
+        "chatbot",
+        "figjam",
+        "flow-builder",
+        "landbot",
+        "low-code",
+        "miro",
+        "n8n",
+        "n8n-workflow",
+        "no-code",
+        "react-flow",
+        "react-flow-renderer",
+        "reactflow",
+        "workflow-builder",
+        "xyflow"
       ],
-      "created_at": "2026-02-14T11:38:30Z",
-      "updated_at": "2026-05-07T03:12:00Z",
-      "pushed_at": "2026-05-07T03:11:55Z",
+      "created_at": "2024-09-28T09:39:24Z",
+      "updated_at": "2026-05-06T23:33:41Z",
+      "pushed_at": "2026-05-06T23:33:37Z",
       "matched_queries": [
-        "topic:ai pushed:>2026-04-07 stars:>50"
+        "\"no-code\" pushed:>2026-04-07 stars:>25"
       ],
-      "owner_login": "elkimek",
+      "owner_login": "Azim-Ahmed",
       "tags": [
-        "ai",
-        "biomarker-tracking",
-        "biomarkers",
-        "blood-test",
-        "blood-work",
-        "dashboard",
-        "dna",
-        "evidence-based",
-        "free",
-        "genetics",
-        "health",
-        "health-dashboard",
-        "lab-results",
-        "local-first",
+        "automation",
+        "automation-builder",
+        "chatbot",
+        "figjam",
+        "flow-builder",
+        "landbot",
+        "low-code",
+        "miro",
+        "n8n",
+        "n8n-workflow",
+        "no-code",
+        "react-flow",
+        "react-flow-renderer",
+        "reactflow",
+        "workflow-builder",
+        "xyflow"
+      ]
+    },
+    {
+      "repo_name": "FiltersHeroes/PolishAnnoyanceFilters",
+      "url": "https://github.com/FiltersHeroes/PolishAnnoyanceFilters",
+      "description": "Polskie Filtry Elementów Irytujących ukrywają i blokują wyskakujące okienka, widgety, newslettery, powiadomienia push, strzałki, niezgodne z tematem artykułów otagowane linki wewnętrzne i inne drażniące elementy (Polskie Filtry RODO-Ciasteczkowe są już w nich zawarte).",
+      "stars": 56,
+      "forks": 4,
+      "watchers": 56,
+      "open_issues": 0,
+      "language": "Adblock Filter List",
+      "topics": [
+        "adblock",
+        "adguard",
+        "annoyances",
+        "arrows",
+        "buttons",
+        "ciasteczka",
+        "filtry",
+        "irytujace",
+        "newsletter",
+        "polish-filters",
+        "popup",
+        "przyciski",
+        "push",
+        "rodo",
+        "scrolling-videos",
+        "strzalki",
+        "ublock",
+        "widgets",
+        "widgety"
+      ],
+      "created_at": "2016-10-24T17:12:49Z",
+      "updated_at": "2026-05-06T22:19:49Z",
+      "pushed_at": "2026-05-06T16:58:01Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "FiltersHeroes",
+      "tags": [
+        "adblock",
+        "adguard",
+        "annoyances",
+        "arrows",
+        "buttons",
+        "ciasteczka",
+        "content-marketing",
+        "filtry",
+        "irytujace",
+        "newsletter",
+        "polish-filters",
+        "popup",
+        "przyciski",
+        "push",
+        "rodo",
+        "scrolling-videos",
+        "strzalki",
+        "ublock",
+        "widgets",
+        "widgety"
+      ]
+    },
+    {
+      "repo_name": "plausible/website",
+      "url": "https://github.com/plausible/website",
+      "description": "The landing page & blog for Plausible",
+      "stars": 55,
+      "forks": 21,
+      "watchers": 55,
+      "open_issues": 9,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2020-03-30T08:59:42Z",
+      "updated_at": "2026-05-06T08:30:54Z",
+      "pushed_at": "2026-05-06T08:30:51Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "plausible",
+      "tags": [
+        "content-marketing",
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "qdrant/landing_page",
+      "url": "https://github.com/qdrant/landing_page",
+      "description": "Landing page for qdrant.tech",
+      "stars": 54,
+      "forks": 135,
+      "watchers": 54,
+      "open_issues": 56,
+      "language": "SCSS",
+      "topics": [],
+      "created_at": "2021-03-20T14:48:31Z",
+      "updated_at": "2026-05-06T10:23:02Z",
+      "pushed_at": "2026-05-06T22:05:46Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "qdrant",
+      "tags": [
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "groundhoggwp/groundhogg",
+      "url": "https://github.com/groundhoggwp/groundhogg",
+      "description": "Marketing Automation Plugin",
+      "stars": 54,
+      "forks": 16,
+      "watchers": 54,
+      "open_issues": 18,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2018-07-22T17:17:48Z",
+      "updated_at": "2026-04-15T01:48:04Z",
+      "pushed_at": "2026-04-09T20:05:41Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "groundhoggwp",
+      "tags": [
+        "automation",
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "somiibo/somiibo-microservice-template",
+      "url": "https://github.com/somiibo/somiibo-microservice-template",
+      "description": "A free social media automation platform that organically grows your online presence and gets you more followers.",
+      "stars": 53,
+      "forks": 12,
+      "watchers": 53,
+      "open_issues": 0,
+      "language": null,
+      "topics": [
+        "agency",
+        "automation",
+        "front-end",
+        "frontend",
+        "javascript",
+        "marketing",
+        "marketing-automation",
+        "nodejs",
+        "saas",
+        "social-media",
+        "social-media-automation"
+      ],
+      "created_at": "2023-02-07T09:02:36Z",
+      "updated_at": "2026-05-06T04:36:11Z",
+      "pushed_at": "2026-05-06T04:36:07Z",
+      "matched_queries": [
+        "\"social media\" automation pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "somiibo",
+      "tags": [
+        "agency",
+        "automation",
+        "front-end",
+        "frontend",
+        "javascript",
+        "marketing",
+        "marketing-automation",
+        "nodejs",
+        "saas",
+        "social-media",
+        "social-media-automation"
+      ]
+    },
+    {
+      "repo_name": "Refferq/Refferq",
+      "url": "https://github.com/Refferq/Refferq",
+      "description": "🌟 Open Source Referral and Affiliate Marketing Platform for SaaS Business Owners - Launch your referral program in minutes!",
+      "stars": 52,
+      "forks": 46,
+      "watchers": 52,
+      "open_issues": 12,
+      "language": "TypeScript",
+      "topics": [
+        "affiliate-marketing",
+        "free-affiliate-software",
         "open-source",
-        "pdf-import",
-        "privacy-first",
-        "pwa",
-        "self-hosted",
-        "snp"
+        "referral-system",
+        "referral-tracking",
+        "self-hosted"
+      ],
+      "created_at": "2025-10-10T09:22:40Z",
+      "updated_at": "2026-05-07T02:53:41Z",
+      "pushed_at": "2026-05-06T03:17:16Z",
+      "matched_queries": [
+        "\"affiliate marketing\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "Refferq",
+      "tags": [
+        "affiliate",
+        "affiliate-marketing",
+        "free-affiliate-software",
+        "marketing",
+        "open-source",
+        "referral-system",
+        "referral-tracking",
+        "saas",
+        "self-hosted"
       ]
     },
     {
@@ -4531,7 +6431,7 @@
       "stars": 48,
       "forks": 10,
       "watchers": 48,
-      "open_issues": 8,
+      "open_issues": 7,
       "language": "TypeScript",
       "topics": [
         "better-auth",
@@ -4554,8 +6454,8 @@
         "whatsapp"
       ],
       "created_at": "2026-03-01T15:58:38Z",
-      "updated_at": "2026-05-07T03:03:38Z",
-      "pushed_at": "2026-05-07T03:04:55Z",
+      "updated_at": "2026-05-07T03:26:05Z",
+      "pushed_at": "2026-05-07T03:27:25Z",
       "matched_queries": [
         "topic:rag pushed:>2026-04-07 stars:>25"
       ],
@@ -4581,6 +6481,153 @@
         "typescript",
         "vite",
         "whatsapp"
+      ]
+    },
+    {
+      "repo_name": "BusyBee3333/Go-High-Level-MCP-2026-Complete",
+      "url": "https://github.com/BusyBee3333/Go-High-Level-MCP-2026-Complete",
+      "description": "GoHighLevel MCP Server — 520+ tools across 40 categories. Voice AI, Proposals, Contacts, Calendars, Conversations, Opportunities, Invoices, Payments, Workflows, Social Media, and more. MCP SDK 1.26, Streamable HTTP, tool annotations.",
+      "stars": 47,
+      "forks": 45,
+      "watchers": 47,
+      "open_issues": 2,
+      "language": "TypeScript",
+      "topics": [
+        "ai-automation",
+        "automation",
+        "claude",
+        "crm",
+        "gohighlevel",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "created_at": "2026-01-27T01:40:35Z",
+      "updated_at": "2026-05-05T23:38:26Z",
+      "pushed_at": "2026-04-20T13:22:20Z",
+      "matched_queries": [
+        "\"social media\" automation pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "BusyBee3333",
+      "tags": [
+        "ai",
+        "ai-automation",
+        "automation",
+        "claude",
+        "crm",
+        "gohighlevel",
+        "mcp",
+        "model-context-protocol",
+        "social-media"
+      ]
+    },
+    {
+      "repo_name": "Shudesu/x-harness-oss",
+      "url": "https://github.com/Shudesu/x-harness-oss",
+      "description": "Open-source X (Twitter) marketing automation — the self-hosted alternative to XTEP",
+      "stars": 44,
+      "forks": 15,
+      "watchers": 44,
+      "open_issues": 0,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-04-02T11:13:47Z",
+      "updated_at": "2026-05-05T01:15:29Z",
+      "pushed_at": "2026-04-10T02:00:11Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "Shudesu",
+      "tags": [
+        "automation",
+        "marketing",
+        "social-media"
+      ]
+    },
+    {
+      "repo_name": "DayMoonDevelopment/post-for-me",
+      "url": "https://github.com/DayMoonDevelopment/post-for-me",
+      "description": "Integrate social media platforms into your app.",
+      "stars": 44,
+      "forks": 13,
+      "watchers": 44,
+      "open_issues": 3,
+      "language": "TypeScript",
+      "topics": [
+        "automation",
+        "bluesky",
+        "facebook",
+        "instagram",
+        "linkedin",
+        "pinterest",
+        "social-media",
+        "threads",
+        "tiktok",
+        "x-twitter",
+        "youtube"
+      ],
+      "created_at": "2025-08-12T15:46:53Z",
+      "updated_at": "2026-05-06T20:51:01Z",
+      "pushed_at": "2026-05-07T01:56:46Z",
+      "matched_queries": [
+        "\"social media\" automation pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "DayMoonDevelopment",
+      "tags": [
+        "automation",
+        "bluesky",
+        "facebook",
+        "instagram",
+        "linkedin",
+        "pinterest",
+        "social-media",
+        "threads",
+        "tiktok",
+        "x-twitter",
+        "youtube"
+      ]
+    },
+    {
+      "repo_name": "hans1801/AI-Content-Automation-Engine",
+      "url": "https://github.com/hans1801/AI-Content-Automation-Engine",
+      "description": null,
+      "stars": 43,
+      "forks": 33,
+      "watchers": 43,
+      "open_issues": 0,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-15T05:20:53Z",
+      "updated_at": "2026-05-05T01:07:43Z",
+      "pushed_at": "2026-04-20T10:00:31Z",
+      "matched_queries": [
+        "\"content automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "hans1801",
+      "tags": [
+        "ai",
+        "automation"
+      ]
+    },
+    {
+      "repo_name": "open-goal/open-goal.github.io",
+      "url": "https://github.com/open-goal/open-goal.github.io",
+      "description": "OpenGOAL Project Landing Page",
+      "stars": 43,
+      "forks": 20,
+      "watchers": 43,
+      "open_issues": 11,
+      "language": "MDX",
+      "topics": [],
+      "created_at": "2022-02-08T05:23:51Z",
+      "updated_at": "2026-05-06T02:44:46Z",
+      "pushed_at": "2026-05-06T02:44:42Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "open-goal",
+      "tags": [
+        "github",
+        "marketing"
       ]
     },
     {
@@ -4618,6 +6665,58 @@
         "openclaw",
         "productivity",
         "vercel"
+      ]
+    },
+    {
+      "repo_name": "EndlessFractal/Threat-Intel-Feed",
+      "url": "https://github.com/EndlessFractal/Threat-Intel-Feed",
+      "description": "Automated threat intel feed parsing and consolidation💻👾🤖 ",
+      "stars": 41,
+      "forks": 10,
+      "watchers": 41,
+      "open_issues": 0,
+      "language": "Python",
+      "topics": [
+        "automated",
+        "consolidation",
+        "cti",
+        "cyber",
+        "cyber-threat-intelligence",
+        "cybersecurity",
+        "github-actions",
+        "news",
+        "newsletter",
+        "parsing",
+        "python",
+        "rss",
+        "rss-feed",
+        "security",
+        "threat-intelligence"
+      ],
+      "created_at": "2023-10-07T22:17:11Z",
+      "updated_at": "2026-05-07T02:35:36Z",
+      "pushed_at": "2026-05-07T02:35:32Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "EndlessFractal",
+      "tags": [
+        "automated",
+        "consolidation",
+        "content-marketing",
+        "cti",
+        "cyber",
+        "cyber-threat-intelligence",
+        "cybersecurity",
+        "github-actions",
+        "news",
+        "newsletter",
+        "parsing",
+        "python",
+        "rss",
+        "rss-feed",
+        "security",
+        "threat-intelligence"
       ]
     },
     {
@@ -4701,8 +6800,8 @@
         "workflow"
       ],
       "created_at": "2025-12-04T16:26:10Z",
-      "updated_at": "2026-05-07T03:08:10Z",
-      "pushed_at": "2026-05-07T03:08:09Z",
+      "updated_at": "2026-05-07T03:17:06Z",
+      "pushed_at": "2026-05-07T03:17:03Z",
       "matched_queries": [
         "topic:automation pushed:>2026-04-07 stars:>25"
       ],
@@ -4719,6 +6818,7 @@
         "coding-assistant",
         "developer-tools",
         "devops",
+        "ecommerce",
         "llm",
         "marketplace",
         "mcp",
@@ -4729,6 +6829,53 @@
         "semantic-release",
         "skills",
         "workflow"
+      ]
+    },
+    {
+      "repo_name": "shad712/Social-Media-Mass-Automation-Suite",
+      "url": "https://github.com/shad712/Social-Media-Mass-Automation-Suite",
+      "description": "A stealth-grade automation suite for X, Facebook, and Instagram—powering scalable account creation, content posting, and AI-driven engagement with undetectable mobile emulation.",
+      "stars": 39,
+      "forks": 13,
+      "watchers": 39,
+      "open_issues": 1,
+      "language": null,
+      "topics": [
+        "account-creation-bot",
+        "automation",
+        "automation-suites",
+        "bot",
+        "engagement",
+        "instagram-automation",
+        "ios-automation",
+        "mother-child-strategy",
+        "multiplatform-bot",
+        "proxy-rotation",
+        "real-devices",
+        "social-media-automation"
+      ],
+      "created_at": "2025-05-21T22:59:17Z",
+      "updated_at": "2026-05-07T01:59:56Z",
+      "pushed_at": "2026-05-07T01:59:52Z",
+      "matched_queries": [
+        "\"social media\" automation pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "shad712",
+      "tags": [
+        "account-creation-bot",
+        "ai",
+        "automation",
+        "automation-suites",
+        "bot",
+        "engagement",
+        "instagram-automation",
+        "ios-automation",
+        "mother-child-strategy",
+        "multiplatform-bot",
+        "proxy-rotation",
+        "real-devices",
+        "social-media",
+        "social-media-automation"
       ]
     },
     {
@@ -4782,59 +6929,51 @@
       ]
     },
     {
-      "repo_name": "marichu-kt/marichu-kt",
-      "url": "https://github.com/marichu-kt/marichu-kt",
-      "description": "README for the GitHub  Profile Overview",
+      "repo_name": "itsliaaa/baileys",
+      "url": "https://github.com/itsliaaa/baileys",
+      "description": "Enhanced Baileys v7 with fixed newsletter media upload, plus support for interactive messages, albums, and more message types.",
       "stars": 36,
-      "forks": 6,
+      "forks": 22,
       "watchers": 36,
-      "open_issues": 1,
-      "language": null,
+      "open_issues": 2,
+      "language": "JavaScript",
       "topics": [
-        "ascii-art",
         "automation",
-        "bash",
-        "cli-tools",
-        "cplusplus",
-        "cybersecurity",
-        "data-analysis",
-        "developer",
-        "ethical-hacking",
-        "github-api",
-        "javascript",
-        "linux",
-        "opensource",
-        "portfolio",
-        "python",
-        "security-tools",
-        "terminal"
+        "baileys",
+        "baileys-fork",
+        "baileys-mod",
+        "interactive-messages",
+        "js-whatsapp",
+        "multi-device",
+        "whatsapp",
+        "whatsapp-api",
+        "whatsapp-bot",
+        "whatsapp-chat",
+        "whatsapp-group",
+        "whatsapp-web"
       ],
-      "created_at": "2025-03-28T10:23:58Z",
-      "updated_at": "2026-05-07T02:44:50Z",
-      "pushed_at": "2026-05-07T02:44:47Z",
+      "created_at": "2026-02-04T12:38:09Z",
+      "updated_at": "2026-05-06T15:32:45Z",
+      "pushed_at": "2026-05-06T15:24:16Z",
       "matched_queries": [
-        "topic:automation pushed:>2026-04-07 stars:>25"
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
       ],
-      "owner_login": "marichu-kt",
+      "owner_login": "itsliaaa",
       "tags": [
-        "ascii-art",
         "automation",
-        "bash",
-        "cli-tools",
-        "cplusplus",
-        "cybersecurity",
-        "data-analysis",
-        "developer",
-        "ethical-hacking",
-        "github",
-        "github-api",
-        "javascript",
-        "linux",
-        "opensource",
-        "portfolio",
-        "python",
-        "security-tools",
-        "terminal"
+        "baileys",
+        "baileys-fork",
+        "baileys-mod",
+        "content-marketing",
+        "interactive-messages",
+        "js-whatsapp",
+        "multi-device",
+        "whatsapp",
+        "whatsapp-api",
+        "whatsapp-bot",
+        "whatsapp-chat",
+        "whatsapp-group",
+        "whatsapp-web"
       ]
     },
     {
@@ -4880,6 +7019,40 @@
         "seo",
         "seo-optimization",
         "websearch"
+      ]
+    },
+    {
+      "repo_name": "LeadCMS/leadcms.core",
+      "url": "https://github.com/LeadCMS/leadcms.core",
+      "description": "AI-powered CMS & CRM for SaaS teams to rapidly build landing pages, manage content, and boost lead generation.",
+      "stars": 33,
+      "forks": 21,
+      "watchers": 33,
+      "open_issues": 4,
+      "language": "C#",
+      "topics": [
+        "cms",
+        "cms-backend",
+        "cms-frontend",
+        "dotnet",
+        "headless"
+      ],
+      "created_at": "2022-10-09T08:44:06Z",
+      "updated_at": "2026-04-25T07:40:48Z",
+      "pushed_at": "2026-04-25T07:40:43Z",
+      "matched_queries": [
+        "\"lead generation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "LeadCMS",
+      "tags": [
+        "ai",
+        "cms",
+        "cms-backend",
+        "cms-frontend",
+        "dotnet",
+        "headless",
+        "marketing",
+        "saas"
       ]
     },
     {
@@ -4992,6 +7165,48 @@
         "gemini",
         "git-worktrees",
         "ide"
+      ]
+    },
+    {
+      "repo_name": "affiliatetheme/affiliatetheme",
+      "url": "https://github.com/affiliatetheme/affiliatetheme",
+      "description": "The affiliatetheme is a WordPress theme perfect for creating new affiliate pages, landing pages or satellite pages. It's an all-in-one solution that doesn't require any other affiliate plugins or any programming skills and helps you with your affiliate marketing website. ❤️",
+      "stars": 31,
+      "forks": 5,
+      "watchers": 31,
+      "open_issues": 3,
+      "language": "PHP",
+      "topics": [
+        "affiliate",
+        "affiliate-marketing",
+        "affiliate-theme",
+        "affiliatetheme",
+        "amazon-plugin",
+        "wordpress",
+        "wordpress-affiliate",
+        "wordpress-amazon",
+        "wordpress-plugin",
+        "wordpress-theme"
+      ],
+      "created_at": "2022-12-27T11:27:53Z",
+      "updated_at": "2026-05-03T16:23:11Z",
+      "pushed_at": "2026-04-21T11:34:11Z",
+      "matched_queries": [
+        "\"affiliate marketing\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "affiliatetheme",
+      "tags": [
+        "affiliate",
+        "affiliate-marketing",
+        "affiliate-theme",
+        "affiliatetheme",
+        "amazon-plugin",
+        "marketing",
+        "wordpress",
+        "wordpress-affiliate",
+        "wordpress-amazon",
+        "wordpress-plugin",
+        "wordpress-theme"
       ]
     },
     {
@@ -5115,8 +7330,8 @@
         "windows"
       ],
       "created_at": "2025-08-27T15:16:29Z",
-      "updated_at": "2026-05-07T03:09:03Z",
-      "pushed_at": "2026-05-07T03:08:59Z",
+      "updated_at": "2026-05-07T03:19:12Z",
+      "pushed_at": "2026-05-07T03:19:09Z",
       "matched_queries": [
         "topic:automation pushed:>2026-04-07 stars:>25"
       ],
@@ -5128,6 +7343,27 @@
         "qt",
         "text-expander",
         "windows"
+      ]
+    },
+    {
+      "repo_name": "coollabsio/coolify.io",
+      "url": "https://github.com/coollabsio/coolify.io",
+      "description": "Landing page of coolify.io",
+      "stars": 28,
+      "forks": 32,
+      "watchers": 28,
+      "open_issues": 0,
+      "language": "Astro",
+      "topics": [],
+      "created_at": "2024-01-08T07:56:54Z",
+      "updated_at": "2026-05-05T19:05:16Z",
+      "pushed_at": "2026-05-05T19:04:29Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "coollabsio",
+      "tags": [
+        "marketing"
       ]
     },
     {
@@ -5164,6 +7400,30 @@
         "native-code-generation",
         "regulation",
         "scheme-dialect"
+      ]
+    },
+    {
+      "repo_name": "pawbytes/skill-suites",
+      "url": "https://github.com/pawbytes/skill-suites",
+      "description": "50+ AI agent skills for Claude, Codex, OpenClaw etc — agentic marketing automation, AI creative agency, and developer productivity tools",
+      "stars": 28,
+      "forks": 3,
+      "watchers": 28,
+      "open_issues": 2,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-02T03:43:07Z",
+      "updated_at": "2026-05-06T07:37:17Z",
+      "pushed_at": "2026-04-21T22:36:31Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "pawbytes",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "marketing"
       ]
     },
     {
@@ -5225,6 +7485,28 @@
       ]
     },
     {
+      "repo_name": "isene/fe2o3",
+      "url": "https://github.com/isene/fe2o3",
+      "description": "Fe2O3 — a suite of fast terminal tools in Rust. Landing page: https://isene.github.io/fe2o3/",
+      "stars": 28,
+      "forks": 1,
+      "watchers": 28,
+      "open_issues": 1,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-04-21T08:39:45Z",
+      "updated_at": "2026-05-06T14:48:45Z",
+      "pushed_at": "2026-05-05T17:30:35Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "isene",
+      "tags": [
+        "github",
+        "marketing"
+      ]
+    },
+    {
       "repo_name": "Extra-Chill/data-machine",
       "url": "https://github.com/Extra-Chill/data-machine",
       "description": "Agentic workflow automation for WordPress.",
@@ -5254,6 +7536,45 @@
         "automation",
         "wordpress-plugin",
         "wp-cli"
+      ]
+    },
+    {
+      "repo_name": "MateuszDabrowski/mateuszdabrowski.pl",
+      "url": "https://github.com/MateuszDabrowski/mateuszdabrowski.pl",
+      "description": "Personal Website: Automate Marketing Automation",
+      "stars": 26,
+      "forks": 12,
+      "watchers": 26,
+      "open_issues": 0,
+      "language": "MDX",
+      "topics": [
+        "ampscript",
+        "api",
+        "automation",
+        "javascript",
+        "marketing",
+        "sfmc",
+        "snippets",
+        "sql",
+        "ssjs"
+      ],
+      "created_at": "2020-06-21T08:22:44Z",
+      "updated_at": "2026-05-06T14:07:59Z",
+      "pushed_at": "2026-05-06T14:04:47Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "MateuszDabrowski",
+      "tags": [
+        "ampscript",
+        "api",
+        "automation",
+        "javascript",
+        "marketing",
+        "sfmc",
+        "snippets",
+        "sql",
+        "ssjs"
       ]
     },
     {
@@ -5304,6 +7625,7 @@
       ],
       "owner_login": "gatteo",
       "tags": [
+        "content-marketing",
         "mdx",
         "nextjs",
         "nextjs16",
@@ -5446,6 +7768,206 @@
       ]
     },
     {
+      "repo_name": "Atlas-Authority/marketing-automation",
+      "url": "https://github.com/Atlas-Authority/marketing-automation",
+      "description": null,
+      "stars": 24,
+      "forks": 19,
+      "watchers": 24,
+      "open_issues": 28,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2021-01-10T15:25:48Z",
+      "updated_at": "2026-04-29T15:49:17Z",
+      "pushed_at": "2026-05-01T20:39:27Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "Atlas-Authority",
+      "tags": [
+        "automation",
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "dkast/biztro",
+      "url": "https://github.com/dkast/biztro",
+      "description": "Biztro (QR Menu Micro-SaaS)",
+      "stars": 24,
+      "forks": 11,
+      "watchers": 24,
+      "open_issues": 0,
+      "language": "TypeScript",
+      "topics": [
+        "nextjs",
+        "prisma",
+        "tailwindcss"
+      ],
+      "created_at": "2022-03-18T21:38:57Z",
+      "updated_at": "2026-05-06T01:52:57Z",
+      "pushed_at": "2026-05-06T19:57:02Z",
+      "matched_queries": [
+        "\"micro saas\" pushed:>2026-04-07 stars:>5"
+      ],
+      "owner_login": "dkast",
+      "tags": [
+        "nextjs",
+        "prisma",
+        "saas",
+        "side-business",
+        "tailwindcss"
+      ]
+    },
+    {
+      "repo_name": "replayio/landing-page",
+      "url": "https://github.com/replayio/landing-page",
+      "description": null,
+      "stars": 23,
+      "forks": 7,
+      "watchers": 23,
+      "open_issues": 6,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2022-06-27T20:26:10Z",
+      "updated_at": "2026-05-06T19:44:20Z",
+      "pushed_at": "2026-05-06T19:44:15Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "replayio",
+      "tags": [
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "in2code-de/lux",
+      "url": "https://github.com/in2code-de/lux",
+      "description": "Living User eXperience - LUX - the Marketing Automation tool for TYPO3.",
+      "stars": 21,
+      "forks": 12,
+      "watchers": 21,
+      "open_issues": 9,
+      "language": "PHP",
+      "topics": [
+        "automation",
+        "marketing",
+        "marketing-automation",
+        "typo3",
+        "typo3-extension"
+      ],
+      "created_at": "2019-02-24T12:33:55Z",
+      "updated_at": "2026-04-21T06:35:01Z",
+      "pushed_at": "2026-04-21T06:35:16Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "in2code-de",
+      "tags": [
+        "automation",
+        "marketing",
+        "marketing-automation",
+        "typo3",
+        "typo3-extension"
+      ]
+    },
+    {
+      "repo_name": "GaloisField2718/tldr_news",
+      "url": "https://github.com/GaloisField2718/tldr_news",
+      "description": "This repo contains TLDR newsletter received in my mailbox and save each email in Markdown format with corresponding article. In a near future, we can use AI 🤖 to name each file and make indexes.",
+      "stars": 20,
+      "forks": 4,
+      "watchers": 20,
+      "open_issues": 1,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2023-09-01T11:36:58Z",
+      "updated_at": "2026-05-07T00:00:14Z",
+      "pushed_at": "2026-05-07T00:00:07Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "GaloisField2718",
+      "tags": [
+        "ai",
+        "content-marketing",
+        "github"
+      ]
+    },
+    {
+      "repo_name": "LessieAI/lessie-skill",
+      "url": "https://github.com/LessieAI/lessie-skill",
+      "description": "A Claude Code/Codex skill for searching, qualifying, and enriching people and companies. Supports candidate sourcing, B2B lead generation, contact enrichment (email, phone, LinkedIn), company research (industry, funding, tech stack, hiring), and background intelligence on people or organizations.",
+      "stars": 20,
+      "forks": 1,
+      "watchers": 20,
+      "open_issues": 0,
+      "language": null,
+      "topics": [
+        "claude-code-skill",
+        "claude-skills"
+      ],
+      "created_at": "2026-03-30T09:38:32Z",
+      "updated_at": "2026-04-24T07:08:09Z",
+      "pushed_at": "2026-04-09T13:29:18Z",
+      "matched_queries": [
+        "\"lead generation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "LessieAI",
+      "tags": [
+        "ai",
+        "claude-code-skill",
+        "claude-skills",
+        "marketing",
+        "saas",
+        "social-media"
+      ]
+    },
+    {
+      "repo_name": "fancyson-ai/sora-creator-tools",
+      "url": "https://github.com/fancyson-ai/sora-creator-tools",
+      "description": null,
+      "stars": 19,
+      "forks": 19,
+      "watchers": 19,
+      "open_issues": 14,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2025-10-14T22:52:04Z",
+      "updated_at": "2026-05-05T12:24:00Z",
+      "pushed_at": "2026-04-28T06:56:04Z",
+      "matched_queries": [
+        "\"creator tools\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "fancyson-ai",
+      "tags": [
+        "ai",
+        "creator-economy",
+        "creator-tools",
+        "youtube"
+      ]
+    },
+    {
+      "repo_name": "opensacorg/openbudgetsac.org",
+      "url": "https://github.com/opensacorg/openbudgetsac.org",
+      "description": "Code for Sacramento's Open Budget Project (landing page + D3.js files)",
+      "stars": 18,
+      "forks": 27,
+      "watchers": 18,
+      "open_issues": 8,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2015-09-24T00:23:21Z",
+      "updated_at": "2026-05-07T02:17:49Z",
+      "pushed_at": "2026-05-07T02:22:34Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "opensacorg",
+      "tags": [
+        "marketing"
+      ]
+    },
+    {
       "repo_name": "garrettjsmith/localseoskills",
       "url": "https://github.com/garrettjsmith/localseoskills",
       "description": "Open-source Claude SEO tool for local search visibility — skills, tool integrations, and automation templates that turn Claude into a Local SEO expert.",
@@ -5506,6 +8028,103 @@
       ]
     },
     {
+      "repo_name": "doinel1a/next-ts-shadcn-hero-ui",
+      "url": "https://github.com/doinel1a/next-ts-shadcn-hero-ui",
+      "description": "Boilerplate template designed to quickly bootstrap a Next.js Web App, SPA, website or landing page with Next.js 16, React.js 19, TypeScript, Shadcn/ui, HeroUI, TailwindCSS 4 and much more in just 30 seconds. ",
+      "stars": 17,
+      "forks": 4,
+      "watchers": 17,
+      "open_issues": 0,
+      "language": "TypeScript",
+      "topics": [
+        "hero-ui",
+        "nextjs",
+        "nextjs-boilerplate",
+        "nextjs-template",
+        "shadcn",
+        "shadcn-ui",
+        "tailwindcss",
+        "typescript"
+      ],
+      "created_at": "2024-03-09T16:42:19Z",
+      "updated_at": "2026-05-05T17:41:55Z",
+      "pushed_at": "2026-05-05T17:41:51Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "doinel1a",
+      "tags": [
+        "hero-ui",
+        "marketing",
+        "nextjs",
+        "nextjs-boilerplate",
+        "nextjs-template",
+        "shadcn",
+        "shadcn-ui",
+        "tailwindcss",
+        "typescript"
+      ]
+    },
+    {
+      "repo_name": "worldscraping/google-maps-scraper",
+      "url": "https://github.com/worldscraping/google-maps-scraper",
+      "description": "A Python script to scrape Google Maps and export business data to CSV. Get names, addresses, phone numbers, ratings, websites, and opening hours for any city, ready for lead generation, market research, or competitive analysis. No browser or Selenium needed.",
+      "stars": 17,
+      "forks": 1,
+      "watchers": 17,
+      "open_issues": 0,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-15T21:43:32Z",
+      "updated_at": "2026-05-06T17:28:56Z",
+      "pushed_at": "2026-04-15T22:51:01Z",
+      "matched_queries": [
+        "\"lead generation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "worldscraping",
+      "tags": [
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "jlantunez/Blook",
+      "url": "https://github.com/jlantunez/Blook",
+      "description": "Blook is a super simple way to publish your blog, turn your book into a website, or share your newsletter online. This is the blog version of my newsletter.",
+      "stars": 16,
+      "forks": 3,
+      "watchers": 16,
+      "open_issues": 0,
+      "language": "CSS",
+      "topics": [
+        "blog",
+        "css",
+        "deno",
+        "javascript",
+        "lume",
+        "newsletter",
+        "personal",
+        "portfolio"
+      ],
+      "created_at": "2025-09-15T18:58:49Z",
+      "updated_at": "2026-05-06T12:50:50Z",
+      "pushed_at": "2026-05-06T12:50:46Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "jlantunez",
+      "tags": [
+        "blog",
+        "content-marketing",
+        "css",
+        "deno",
+        "javascript",
+        "lume",
+        "newsletter",
+        "personal",
+        "portfolio"
+      ]
+    },
+    {
       "repo_name": "citedy/adclaw",
       "url": "https://github.com/citedy/adclaw",
       "description": "Multi-agent AI marketing team with 150+ skills, 25+ LLM providers, shared memory, personas agent multi-player office",
@@ -5562,6 +8181,27 @@
       ]
     },
     {
+      "repo_name": "datocms/next-landing-page-demo",
+      "url": "https://github.com/datocms/next-landing-page-demo",
+      "description": null,
+      "stars": 15,
+      "forks": 12,
+      "watchers": 15,
+      "open_issues": 1,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2023-07-21T13:19:17Z",
+      "updated_at": "2026-05-06T19:43:08Z",
+      "pushed_at": "2026-05-06T19:43:09Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "datocms",
+      "tags": [
+        "marketing"
+      ]
+    },
+    {
       "repo_name": "atomicinnovation/accelerator",
       "url": "https://github.com/atomicinnovation/accelerator",
       "description": "Development acceleration toolkit with multi-lens code review, implementation planning, codebase research, and git workflow automation.",
@@ -5598,6 +8238,72 @@
       ]
     },
     {
+      "repo_name": "verygoodplugins/wp-fusion-lite",
+      "url": "https://github.com/verygoodplugins/wp-fusion-lite",
+      "description": "WP Fusion connects your WordPress website to your CRM or marketing automation system.",
+      "stars": 14,
+      "forks": 13,
+      "watchers": 14,
+      "open_issues": 1,
+      "language": "PHP",
+      "topics": [],
+      "created_at": "2018-09-08T15:51:13Z",
+      "updated_at": "2026-04-21T23:23:21Z",
+      "pushed_at": "2026-04-21T23:23:18Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "verygoodplugins",
+      "tags": [
+        "automation",
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "laminas/laminas.github.io",
+      "url": "https://github.com/laminas/laminas.github.io",
+      "description": "Source code for landing page and assets of https://docs.laminas.dev",
+      "stars": 14,
+      "forks": 13,
+      "watchers": 14,
+      "open_issues": 20,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2019-12-19T02:28:49Z",
+      "updated_at": "2026-05-05T10:55:19Z",
+      "pushed_at": "2026-05-05T10:56:48Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "laminas",
+      "tags": [
+        "github",
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "cporter202/best-apis-for-lead-gen",
+      "url": "https://github.com/cporter202/best-apis-for-lead-gen",
+      "description": "A curated collection of the best APIs for lead generation, contact enrichment, prospect research, and outreach automation.",
+      "stars": 14,
+      "forks": 10,
+      "watchers": 14,
+      "open_issues": 0,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-04-29T19:04:59Z",
+      "updated_at": "2026-05-07T01:08:41Z",
+      "pushed_at": "2026-04-30T14:02:15Z",
+      "matched_queries": [
+        "\"lead generation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "cporter202",
+      "tags": [
+        "automation",
+        "marketing"
+      ]
+    },
+    {
       "repo_name": "die-Manufaktur/AI-SEO-Copilot-for-Webflow",
       "url": "https://github.com/die-Manufaktur/AI-SEO-Copilot-for-Webflow",
       "description": "AI SEO Copilot is a Free Webflow SEO app to help you with your SEO.  Our ambition is to build the Yoast SEO for Webflow.",
@@ -5621,6 +8327,263 @@
         "ai",
         "marketing",
         "seo"
+      ]
+    },
+    {
+      "repo_name": "tensake/litehook",
+      "url": "https://github.com/tensake/litehook",
+      "description": "Lightweight social media monitoring tool built with Rust",
+      "stars": 14,
+      "forks": 1,
+      "watchers": 14,
+      "open_issues": 0,
+      "language": "Rust",
+      "topics": [
+        "async",
+        "automation",
+        "bot",
+        "dashboard",
+        "docker",
+        "http",
+        "monitoring",
+        "no-authentication",
+        "rust",
+        "scraper",
+        "scraping",
+        "self-bot",
+        "self-hosted",
+        "server",
+        "social-media-analysis",
+        "telegram",
+        "telegram-channel",
+        "tool",
+        "webhook",
+        "webhook-server"
+      ],
+      "created_at": "2026-02-10T18:00:43Z",
+      "updated_at": "2026-05-03T12:08:17Z",
+      "pushed_at": "2026-05-03T12:08:13Z",
+      "matched_queries": [
+        "\"social media\" automation pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "tensake",
+      "tags": [
+        "async",
+        "automation",
+        "bot",
+        "dashboard",
+        "docker",
+        "http",
+        "monitoring",
+        "no-authentication",
+        "rust",
+        "scraper",
+        "scraping",
+        "self-bot",
+        "self-hosted",
+        "server",
+        "social-media",
+        "social-media-analysis",
+        "telegram",
+        "telegram-channel",
+        "tool",
+        "webhook",
+        "webhook-server"
+      ]
+    },
+    {
+      "repo_name": "alexeygrigorev/telegram-writing-assistant",
+      "url": "https://github.com/alexeygrigorev/telegram-writing-assistant",
+      "description": "A drafting system for writers, developers, and creators who regularly publish articles or newsletters.",
+      "stars": 14,
+      "forks": 0,
+      "watchers": 14,
+      "open_issues": 2,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-01-16T22:30:27Z",
+      "updated_at": "2026-05-06T20:58:56Z",
+      "pushed_at": "2026-05-06T20:58:53Z",
+      "matched_queries": [
+        "\"newsletter\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "alexeygrigorev",
+      "tags": [
+        "content-marketing"
+      ]
+    },
+    {
+      "repo_name": "TimmyZinin/hh-outreach",
+      "url": "https://github.com/TimmyZinin/hh-outreach",
+      "description": "HH.ru outreach automation skill for Claude Code. Lead generation through job vacancy responses.",
+      "stars": 13,
+      "forks": 10,
+      "watchers": 13,
+      "open_issues": 0,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-04-03T11:55:47Z",
+      "updated_at": "2026-04-17T19:44:22Z",
+      "pushed_at": "2026-04-11T11:37:01Z",
+      "matched_queries": [
+        "\"lead generation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "TimmyZinin",
+      "tags": [
+        "ai",
+        "automation",
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "sirlifehacker/lead-gen-hacker",
+      "url": "https://github.com/sirlifehacker/lead-gen-hacker",
+      "description": "A multi-source lead generation and enrichment system built with n8n, Apify, and AI agents.",
+      "stars": 13,
+      "forks": 2,
+      "watchers": 13,
+      "open_issues": 0,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-05-02T20:50:29Z",
+      "updated_at": "2026-05-05T10:20:30Z",
+      "pushed_at": "2026-05-02T20:57:15Z",
+      "matched_queries": [
+        "\"lead generation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "sirlifehacker",
+      "tags": [
+        "agents",
+        "ai",
+        "marketing"
+      ]
+    },
+    {
+      "repo_name": "LeadCMS/leadcms.admin",
+      "url": "https://github.com/LeadCMS/leadcms.admin",
+      "description": "Admin UI for LeadCMS.ai - AI-powered CMS & CRM for SaaS teams to rapidly build landing pages, manage content, and boost lead generation.",
+      "stars": 11,
+      "forks": 12,
+      "watchers": 11,
+      "open_issues": 49,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2022-12-27T12:29:15Z",
+      "updated_at": "2026-04-27T07:10:35Z",
+      "pushed_at": "2026-04-27T07:10:31Z",
+      "matched_queries": [
+        "\"lead generation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "LeadCMS",
+      "tags": [
+        "ai",
+        "marketing",
+        "saas"
+      ]
+    },
+    {
+      "repo_name": "NetSendo/NetSendo",
+      "url": "https://github.com/NetSendo/NetSendo",
+      "description": "Self-hosted professional email marketing & automation platform with email, SMS, workflows, CRM, analytics and AI integrations. Built with Laravel, Vue.js and Docker.",
+      "stars": 11,
+      "forks": 5,
+      "watchers": 11,
+      "open_issues": 13,
+      "language": "Vue",
+      "topics": [
+        "docker",
+        "docker-compose",
+        "email-campaigns",
+        "email-marketing",
+        "email-marketing-automation",
+        "email-marketing-campaigns",
+        "email-marketing-dashboard",
+        "email-marketing-software",
+        "marketing",
+        "marketing-automation",
+        "marketing-automation-pipeline",
+        "newsletter",
+        "newsletter-mail",
+        "newsletters",
+        "self-hosted",
+        "selfhosted",
+        "sms-marketing",
+        "workflows"
+      ],
+      "created_at": "2025-12-20T00:27:13Z",
+      "updated_at": "2026-05-05T03:15:03Z",
+      "pushed_at": "2026-05-02T14:39:10Z",
+      "matched_queries": [
+        "\"marketing automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "NetSendo",
+      "tags": [
+        "ai",
+        "automation",
+        "creator-tools",
+        "docker",
+        "docker-compose",
+        "email-campaigns",
+        "email-marketing",
+        "email-marketing-automation",
+        "email-marketing-campaigns",
+        "email-marketing-dashboard",
+        "email-marketing-software",
+        "marketing",
+        "marketing-automation",
+        "marketing-automation-pipeline",
+        "newsletter",
+        "newsletter-mail",
+        "newsletters",
+        "self-hosted",
+        "selfhosted",
+        "sms-marketing",
+        "workflows"
+      ]
+    },
+    {
+      "repo_name": "aboodi332/Lead-generation-n8n-email-FULLSTACK",
+      "url": "https://github.com/aboodi332/Lead-generation-n8n-email-FULLSTACK",
+      "description": "This repository contains a full-stack lead generation application built with React.js for the frontend and a backend service for handling email submissions. Explore the project to see how the Lead Capture Form efficiently collects user data and sends it to the backend. 🐙🌐",
+      "stars": 11,
+      "forks": 5,
+      "watchers": 11,
+      "open_issues": 0,
+      "language": "JavaScript",
+      "topics": [
+        "api",
+        "backend-development",
+        "fronted-development",
+        "full-stack-web-development",
+        "javascript",
+        "mern-stack-development",
+        "nodejs",
+        "responsive-web-design",
+        "rest-api",
+        "sqlite",
+        "sqlite3"
+      ],
+      "created_at": "2025-05-31T04:37:38Z",
+      "updated_at": "2026-05-07T02:01:03Z",
+      "pushed_at": "2026-05-07T02:00:59Z",
+      "matched_queries": [
+        "\"lead generation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "aboodi332",
+      "tags": [
+        "api",
+        "backend-development",
+        "fronted-development",
+        "full-stack-web-development",
+        "github",
+        "javascript",
+        "marketing",
+        "mern-stack-development",
+        "nodejs",
+        "responsive-web-design",
+        "rest-api",
+        "sqlite",
+        "sqlite3"
       ]
     },
     {
@@ -5663,11 +8626,132 @@
         "python",
         "seo"
       ]
+    },
+    {
+      "repo_name": "citedy/citedy-seo-agent",
+      "url": "https://github.com/citedy/citedy-seo-agent",
+      "description": "AI-powered SEO content automation agent skill — trend scouting, competitor analysis, article generation in 55 languages, social media adaptations, and cron-based sessions.",
+      "stars": 11,
+      "forks": 2,
+      "watchers": 11,
+      "open_issues": 1,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "autogpt",
+        "content-marketing",
+        "seo"
+      ],
+      "created_at": "2026-02-15T02:04:27Z",
+      "updated_at": "2026-05-06T10:41:19Z",
+      "pushed_at": "2026-05-05T13:21:45Z",
+      "matched_queries": [
+        "\"content automation\" pushed:>2026-04-07 stars:>10",
+        "\"social media\" automation pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "citedy",
+      "tags": [
+        "agent-skills",
+        "agents",
+        "ai",
+        "ai-agent",
+        "autogpt",
+        "automation",
+        "content-marketing",
+        "seo",
+        "social-media"
+      ]
+    },
+    {
+      "repo_name": "manishkumar8312/manishkumar8312",
+      "url": "https://github.com/manishkumar8312/manishkumar8312",
+      "description": "This repository contains configuration files for my GitHub profile, including profile README content, automation workflows, and other settings used to personalize and maintain my GitHub presence.",
+      "stars": 11,
+      "forks": 1,
+      "watchers": 11,
+      "open_issues": 0,
+      "language": null,
+      "topics": [
+        "config",
+        "github-config"
+      ],
+      "created_at": "2024-12-21T14:19:55Z",
+      "updated_at": "2026-04-15T13:08:56Z",
+      "pushed_at": "2026-05-07T02:32:02Z",
+      "matched_queries": [
+        "\"content automation\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "manishkumar8312",
+      "tags": [
+        "automation",
+        "config",
+        "github",
+        "github-config"
+      ]
+    },
+    {
+      "repo_name": "code0-tech/cygnus",
+      "url": "https://github.com/code0-tech/cygnus",
+      "description": "The official product landing page.",
+      "stars": 11,
+      "forks": 1,
+      "watchers": 11,
+      "open_issues": 7,
+      "language": "TypeScript",
+      "topics": [
+        "cool",
+        "landing-page",
+        "nextjs",
+        "react",
+        "typescript",
+        "webapp",
+        "website"
+      ],
+      "created_at": "2024-04-29T09:07:30Z",
+      "updated_at": "2026-05-06T18:42:09Z",
+      "pushed_at": "2026-05-07T01:27:13Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "code0-tech",
+      "tags": [
+        "cool",
+        "landing-page",
+        "marketing",
+        "nextjs",
+        "react",
+        "typescript",
+        "webapp",
+        "website"
+      ]
+    },
+    {
+      "repo_name": "LingMethodsHub/LingMethodsHub.github.io",
+      "url": "https://github.com/LingMethodsHub/LingMethodsHub.github.io",
+      "description": "Landing Page",
+      "stars": 11,
+      "forks": 0,
+      "watchers": 11,
+      "open_issues": 7,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2022-08-09T18:48:18Z",
+      "updated_at": "2026-05-06T17:18:17Z",
+      "pushed_at": "2026-05-06T21:11:33Z",
+      "matched_queries": [
+        "\"landing page\" pushed:>2026-04-07 stars:>10"
+      ],
+      "owner_login": "LingMethodsHub",
+      "tags": [
+        "github",
+        "marketing"
+      ]
     }
   ],
   "meta": {
-    "query_count": 10,
-    "item_count": 129,
+    "query_count": 20,
+    "item_count": 215,
     "errors": []
   }
 }

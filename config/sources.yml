@@ -24,6 +24,12 @@ rss:
       region: global
       kind: official
       priority: true
+    - id: google-search-central
+      name: Google Search Central Blog
+      url: https://feeds.feedburner.com/blogspot/amDG
+      region: global
+      kind: official
+      priority: true
     - id: youtube-official-blog
       name: YouTube Official Blog
       url: https://blog.youtube/
@@ -71,6 +77,18 @@ rss:
     - id: aws-news
       name: AWS News Blog
       url: https://aws.amazon.com/blogs/aws/feed/
+      region: global
+      kind: official
+      priority: true
+    - id: apple-newsroom
+      name: Apple Newsroom
+      url: https://www.apple.com/newsroom/rss-feed.rss
+      region: global
+      kind: official
+      priority: true
+    - id: nvidia-blog
+      name: NVIDIA Blog
+      url: https://blogs.nvidia.com/feed/
       region: global
       kind: official
       priority: true
@@ -234,6 +252,7 @@ github:
   endpoint: https://api.github.com/search/repositories
   per_query: 15
   sort: updated
+  request_interval_seconds: 7.0
 
 wikipedia:
   endpoint_template: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/{project}/{access}/{agent}/{article}/{granularity}/{start}/{end}

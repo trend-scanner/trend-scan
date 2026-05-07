@@ -5,6 +5,45 @@ from datetime import date
 from typing import Any
 
 
+BUSINESS_POSITION_TAGS = {
+    "affiliate",
+    "automation",
+    "content-marketing",
+    "creator-economy",
+    "creator-tools",
+    "ecommerce",
+    "marketing",
+    "newsletter",
+    "no-code",
+    "platform-risk",
+    "saas",
+    "search",
+    "seo",
+    "side-business",
+    "social-media",
+    "youtube",
+}
+
+SNS_POSITION_TAGS = {
+    "ai",
+    "agents",
+    "automation",
+    "content-marketing",
+    "creator-economy",
+    "creator-tools",
+    "llm",
+    "marketing",
+    "newsletter",
+    "platform-risk",
+    "search",
+    "seo",
+    "side-business",
+    "social-media",
+    "video",
+    "youtube",
+}
+
+
 def _importance(score: float) -> str:
     if score >= 4.0:
         return "high"
@@ -127,6 +166,24 @@ def _region_gap(record: dict[str, Any], region_counts: dict[str, dict[str, int]]
     return {"status": "balanced_or_unclear"}
 
 
+def _business_relevance(tags: list[str]) -> str:
+    tag_set = set(tags)
+    if tag_set & BUSINESS_POSITION_TAGS:
+        return "high"
+    if tag_set & {"ai", "agents", "automation", "llm", "rag", "crypto", "regulation", "economy"}:
+        return "medium"
+    return "low"
+
+
+def _business_boost(tags: list[str]) -> float:
+    relevance = _business_relevance(tags)
+    if relevance == "high":
+        return 0.55
+    if relevance == "medium":
+        return 0.25
+    return 0.0
+
+
 def _position_hint(source: str, reason: str, region_gap: dict[str, Any]) -> str:
     if region_gap.get("status") == "global_strong_jp_weak":
         return "Global-first candidate: validate Japanese demand before the topic becomes crowded."
@@ -143,6 +200,68 @@ def _position_hint(source: str, reason: str, region_gap: dict[str, Any]) -> str:
     if reason == "cross_source_theme":
         return "Multi-source candidate: prioritize for private strategy review."
     return "Watch candidate: validate persistence over the next 7 days."
+
+
+def _sns_position(
+    *,
+    source: str,
+    tags: list[str],
+    reason: str,
+    region_gap: dict[str, Any],
+) -> dict[str, Any]:
+    tag_set = set(tags)
+    stance = "Observe first; publish only if the signal persists."
+    angle = "Track the change, explain why it may matter, and avoid overclaiming."
+    audience = "Curious builders and small business operators"
+    formats = ["short explainer", "watchlist post", "7-day follow-up"]
+
+    if region_gap.get("status") == "global_strong_jp_weak":
+        stance = "Take the early Japanese explainer position."
+        angle = "Explain the global signal in Japanese before it becomes a crowded topic."
+        audience = "Japanese creators, side hustlers, and small businesses"
+        formats = ["Japanese explainer thread", "beginner checklist", "small test landing page"]
+    elif tag_set & {"seo", "search", "platform-risk"}:
+        stance = "Take the practical platform-change interpreter position."
+        angle = "Translate search, API, ranking, or policy changes into concrete actions."
+        audience = "Bloggers, creators, affiliates, and small site operators"
+        formats = ["checklist", "before/after explanation", "risk memo"]
+    elif tag_set & {"creator-economy", "social-media", "youtube", "video", "newsletter", "content-marketing"}:
+        stance = "Take the creator-operator position."
+        angle = "Show what creators should test next, not just what happened."
+        audience = "Creators, newsletter writers, YouTubers, and SNS operators"
+        formats = ["post idea list", "content experiment", "platform playbook"]
+    elif tag_set & {"automation", "agents", "no-code", "creator-tools"} or source == "github":
+        stance = "Take the hands-on workflow tester position."
+        angle = "Turn the tool or repo into a repeatable workflow others can copy."
+        audience = "Solo operators, developers, and automation-minded creators"
+        formats = ["demo post", "template", "mini tutorial"]
+    elif tag_set & {"affiliate", "ecommerce", "marketing", "side-business", "saas"}:
+        stance = "Take the small-business application position."
+        angle = "Connect the trend to acquisition, conversion, pricing, or a micro-offer."
+        audience = "Indie hackers, freelancers, affiliates, and small businesses"
+        formats = ["business idea note", "offer test", "case-study outline"]
+    elif tag_set & {"economy", "inflation", "geopolitics", "energy", "semiconductor"}:
+        stance = "Take the risk-aware operator position."
+        angle = "Explain second-order effects for costs, supply, demand, or content timing."
+        audience = "Small business owners and personal finance-minded readers"
+        formats = ["risk brief", "scenario post", "watchlist update"]
+    elif reason == "cross_source_theme":
+        stance = "Take the synthesis position."
+        angle = "Connect multiple sources into one narrative and name what to validate next."
+        audience = "People who want signal over noise"
+        formats = ["trend map", "weekly synthesis", "what changed post"]
+
+    return {
+        "stance": stance,
+        "angle": angle,
+        "audience": audience,
+        "content_formats": formats,
+        "validation": [
+            "Check whether the signal persists for 7 days.",
+            "Look for a Japanese information gap.",
+            "Test with one small post, checklist, or landing page before committing.",
+        ],
+    }
 
 
 def _causal_notes(source: str, reason: str) -> tuple[list[str], list[str]]:
@@ -178,6 +297,7 @@ def _signal(
     examples: list[str] | None = None,
 ) -> dict[str, Any]:
     source = str(record.get("source"))
+    tags = record.get("tags", [])
     alternatives, validations = _causal_notes(source, reason)
     return {
         "title": record.get("title"),
@@ -189,13 +309,20 @@ def _signal(
         "score": round(score, 3),
         "summary": summary,
         "url": record.get("url"),
-        "tags": record.get("tags", []),
+        "tags": tags,
         "entity_key": record.get("entity_key"),
         "metrics": record.get("metrics", {}),
         "deltas": deltas or {},
         "novelty": novelty,
         "region_gap": region_gap,
+        "business_relevance": _business_relevance(tags),
         "position_hint": _position_hint(source, reason, region_gap),
+        "sns_position": _sns_position(
+            source=source,
+            tags=tags,
+            reason=reason,
+            region_gap=region_gap,
+        ),
         "causal_status": "correlation_only",
         "alternative_explanations": alternatives,
         "suggested_validation": validations,
@@ -243,6 +370,7 @@ def _record_signals(
     region_gap = _region_gap(record, region_counts)
     novelty_score = _novelty_boost(novelty)
     gap_score = 0.5 if region_gap.get("status") == "global_strong_jp_weak" else 0.0
+    business_score = _business_boost(record.get("tags", []))
     reference = _reference(history, previous)
 
     if source == "rss":
@@ -251,7 +379,7 @@ def _record_signals(
             and record.get("attributes", {}).get("signal_candidate")
             and record.get("tags")
         ):
-            score = 2.2 + novelty_score + gap_score
+            score = 2.2 + novelty_score + gap_score + business_score
             return [
                 _signal(
                     record,
@@ -278,6 +406,7 @@ def _record_signals(
                 + max(score_delta / 45.0, comments_delta / 35.0, score_value / 220.0)
                 + novelty_score
                 + gap_score
+                + business_score
             )
             return [
                 _signal(
@@ -320,6 +449,7 @@ def _record_signals(
             + novelty_score
             + (0.4 if recent_repo else 0.0)
             + gap_score
+            + business_score
             - large_repo_penalty
         )
         return [
@@ -353,7 +483,7 @@ def _record_signals(
                 _signal(
                     record,
                     "wikipedia_interest_spike",
-                    2.0 + max(views / 50000.0, views_delta / 5000.0, pct) + novelty_score + gap_score,
+                    2.0 + max(views / 50000.0, views_delta / 5000.0, pct) + novelty_score + gap_score + business_score,
                     "Wikipedia pageviews point to broad interest movement worth validating.",
                     signal_type="broad_interest_acceleration" if moved else "new_broad_interest",
                     novelty=novelty,
@@ -376,7 +506,7 @@ def _record_signals(
                 _signal(
                     record,
                     "polymarket_probability_shift",
-                    2.1 + max(swing * 6.0, volume_delta_component, volume_size_component) + novelty_score + gap_score,
+                    2.1 + max(swing * 6.0, volume_delta_component, volume_size_component) + novelty_score + gap_score + business_score,
                     "Prediction market pricing or volume moved in a strategy-relevant watchlist theme.",
                     signal_type="expectation_shift" if moved else "new_expectation_market",
                     novelty=novelty,
@@ -427,6 +557,7 @@ def _cross_source_signals(
         score = 2.6 + (len(sources) * 0.35) + (len(tag_layers[tag]) * 0.25)
         if gap["status"] == "global_strong_jp_weak":
             score += 0.7
+        score += _business_boost([tag])
         synthetic_record = {
             "title": f"{tag} moving across sources",
             "layer": "MULTI_LAYER",
