@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "sources": {
     "rss:error:meti-news": {
       "source": "rss",
@@ -7,8 +7,8 @@
       "detail_id": "meti-news",
       "message": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=30)",
       "first_seen": "2026-05-08",
-      "last_seen": "2026-05-09",
-      "consecutive_days": 2
+      "last_seen": "2026-05-10",
+      "consecutive_days": 3
     },
     "rss:error:meti-statistics": {
       "source": "rss",
@@ -16,8 +16,8 @@
       "detail_id": "meti-statistics",
       "message": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=30)",
       "first_seen": "2026-05-08",
-      "last_seen": "2026-05-09",
-      "consecutive_days": 2
+      "last_seen": "2026-05-10",
+      "consecutive_days": 3
     }
   },
   "resolved": [],
