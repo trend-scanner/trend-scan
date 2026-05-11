@@ -1,0 +1,86 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-05-12",
+  "snapshot_at": "2026-05-12T07:19:02.941365+09:00",
+  "items": [
+    {
+      "market_id": "567621",
+      "title": "Will China invade Taiwan by end of 2026?",
+      "slug": "will-china-invade-taiwan-before-2027",
+      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
+      "category": null,
+      "volume": 23356220.824864004,
+      "liquidity": 979680.53133,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0745
+        },
+        {
+          "name": "No",
+          "price": 0.9255
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ]
+    },
+    {
+      "market_id": "573655",
+      "title": "Will Bitcoin hit $150k by June 30, 2026?",
+      "slug": "will-bitcoin-hit-150k-by-june-30-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-hit-150k-by-june-30-2026",
+      "category": null,
+      "volume": 15734008.014241,
+      "liquidity": 19822.55555,
+      "end_date": "2026-07-01T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0135
+        },
+        {
+          "name": "No",
+          "price": 0.9865
+        }
+      ],
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "market_id": "573656",
+      "title": "Will Bitcoin hit $150k by December 31, 2026?",
+      "slug": "will-bitcoin-hit-150k-by-december-31-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-hit-150k-by-december-31-2026",
+      "category": null,
+      "volume": 291903.3091739995,
+      "liquidity": 30019.8616,
+      "end_date": "2027-01-01T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.095
+        },
+        {
+          "name": "No",
+          "price": 0.905
+        }
+      ],
+      "tags": [
+        "crypto"
+      ]
+    }
+  ],
+  "meta": {
+    "market_count": 3,
+    "errors": []
+  }
+}
