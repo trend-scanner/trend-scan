@@ -1,0 +1,75 @@
+{
+  "date": "2026-05-17",
+  "entries": [
+    {
+      "key": "rss:error:meti-news",
+      "date": "2026-05-17",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "meti-news",
+      "message": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=30)",
+      "raw": {
+        "source_id": "meti-news",
+        "error": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=30)"
+      }
+    },
+    {
+      "key": "rss:error:meti-statistics",
+      "date": "2026-05-17",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "meti-statistics",
+      "message": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=30)",
+      "raw": {
+        "source_id": "meti-statistics",
+        "error": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=30)"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-05-17",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260516/20260516",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-05-16",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260516/20260516"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 3,
+    "by_level": {
+      "error": 2,
+      "warning": 1
+    },
+    "by_source": {
+      "rss": 2,
+      "wikipedia": 1
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:meti-news",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "meti-news",
+        "message": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=30)",
+        "first_seen": "2026-05-08",
+        "last_seen": "2026-05-17",
+        "consecutive_days": 10
+      },
+      {
+        "key": "rss:error:meti-statistics",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "meti-statistics",
+        "message": "HTTPSConnectionPool(host='www.meti.go.jp', port=443): Read timed out. (read timeout=30)",
+        "first_seen": "2026-05-08",
+        "last_seen": "2026-05-17",
+        "consecutive_days": 10
+      }
+    ]
+  }
+}
