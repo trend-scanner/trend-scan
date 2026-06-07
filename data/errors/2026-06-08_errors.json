@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-08",
+  "entries": [
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-06-08",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260607/20260607",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-06-07",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260607/20260607"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 1,
+    "by_level": {
+      "warning": 1
+    },
+    "by_source": {
+      "wikipedia": 1
+    },
+    "continuous_failures": []
+  }
+}
