@@ -201,6 +201,7 @@ def _polymarket_records(run_date_str: str, raw: dict[str, Any], settings: dict) 
                     "category": item.get("category"),
                     "end_date": item.get("end_date"),
                     "outcomes": item.get("outcomes", []),
+                    "relevance": item.get("relevance", {}),
                 },
             }
         )

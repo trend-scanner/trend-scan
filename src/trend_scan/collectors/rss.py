@@ -221,7 +221,7 @@ def _parse_feed(feed: dict[str, Any]) -> tuple[dict[str, Any] | None, str | None
 
 def collect(context: RunContext, settings: dict) -> dict[str, Any]:
     source_config = settings["sources"].get("rss", {})
-    feeds = source_config.get("feeds", [])
+    feeds = [feed for feed in source_config.get("feeds", []) if feed.get("enabled", True)]
     max_entries_per_feed = int(source_config.get("max_entries_per_feed", 40))
     max_item_age_days = int(source_config.get("max_item_age_days", 7))
     cutoff = context.snapshot_at - timedelta(days=max_item_age_days)

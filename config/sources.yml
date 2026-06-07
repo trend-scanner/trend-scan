@@ -161,12 +161,14 @@ rss:
     - id: meti-news
       name: METI News
       url: https://www.meti.go.jp/ml_index_release_atom.xml
+      enabled: false
       region: jp
       kind: official
       priority: true
     - id: meti-statistics
       name: METI Statistics
       url: https://www.meti.go.jp/statistics/st_news.xml
+      enabled: false
       region: jp
       kind: official
       priority: false
@@ -266,6 +268,9 @@ wikipedia:
 polymarket:
   gamma_endpoint: https://gamma-api.polymarket.com/markets
   limit: 500
+  page_size: 100
+  pages: 5
+  order: volume
 
 signals:
   top_limit: 15

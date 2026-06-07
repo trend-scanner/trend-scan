@@ -61,6 +61,10 @@ def _safe_float(value: Any, default: float = 0.0) -> float:
         return default
 
 
+def _cap(value: float, limit: float) -> float:
+    return min(max(value, 0.0), limit)
+
+
 def _parse_date(value: str | None) -> date | None:
     if not value:
         return None
@@ -204,58 +208,87 @@ def _position_hint(source: str, reason: str, region_gap: dict[str, Any]) -> str:
 
 def _sns_position(
     *,
+    title: str | None,
     source: str,
     tags: list[str],
     reason: str,
     region_gap: dict[str, Any],
 ) -> dict[str, Any]:
     tag_set = set(tags)
+    topic = title or ", ".join(tags[:3]) or "this signal"
     stance = "Observe first; publish only if the signal persists."
     angle = "Track the change, explain why it may matter, and avoid overclaiming."
     audience = "Curious builders and small business operators"
     formats = ["short explainer", "watchlist post", "7-day follow-up"]
+    post_theme = f"What changed around {topic}, and what should small operators watch next?"
+    first_post = f"Explain what changed around {topic}, why it may matter now, and one small validation step."
+    validation_metric = "saves, replies, profile clicks, and 7-day follow-up interest"
 
     if region_gap.get("status") == "global_strong_jp_weak":
         stance = "Take the early Japanese explainer position."
         angle = "Explain the global signal in Japanese before it becomes a crowded topic."
         audience = "Japanese creators, side hustlers, and small businesses"
         formats = ["Japanese explainer thread", "beginner checklist", "small test landing page"]
+        post_theme = f"Early Japanese explainer for {topic}"
+        first_post = f"Show why {topic} is appearing globally first, then list 3 Japanese use cases to test."
+        validation_metric = "Japanese saves, tutorial requests, newsletter signups, and search impressions"
     elif tag_set & {"seo", "search", "platform-risk"}:
         stance = "Take the practical platform-change interpreter position."
         angle = "Translate search, API, ranking, or policy changes into concrete actions."
         audience = "Bloggers, creators, affiliates, and small site operators"
         formats = ["checklist", "before/after explanation", "risk memo"]
+        post_theme = f"Practical platform-change checklist for {topic}"
+        first_post = f"Turn {topic} into a checklist: what changed, who is affected, and what to check today."
+        validation_metric = "checklist saves, site-owner replies, and clicks to detailed notes"
     elif tag_set & {"creator-economy", "social-media", "youtube", "video", "newsletter", "content-marketing"}:
         stance = "Take the creator-operator position."
         angle = "Show what creators should test next, not just what happened."
         audience = "Creators, newsletter writers, YouTubers, and SNS operators"
         formats = ["post idea list", "content experiment", "platform playbook"]
+        post_theme = f"Creator experiment ideas from {topic}"
+        first_post = f"Extract 5 post or video experiments from {topic}, with one metric to watch for each."
+        validation_metric = "creator replies, reposts, content idea saves, and experiment reports"
     elif tag_set & {"automation", "agents", "no-code", "creator-tools"} or source == "github":
         stance = "Take the hands-on workflow tester position."
         angle = "Turn the tool or repo into a repeatable workflow others can copy."
         audience = "Solo operators, developers, and automation-minded creators"
         formats = ["demo post", "template", "mini tutorial"]
+        post_theme = f"Hands-on workflow test for {topic}"
+        first_post = f"Build a tiny demo with {topic}: input, steps, output, and who should copy it."
+        validation_metric = "template downloads, GitHub clicks, demo requests, and implementation questions"
     elif tag_set & {"affiliate", "ecommerce", "marketing", "side-business", "saas"}:
         stance = "Take the small-business application position."
         angle = "Connect the trend to acquisition, conversion, pricing, or a micro-offer."
         audience = "Indie hackers, freelancers, affiliates, and small businesses"
         formats = ["business idea note", "offer test", "case-study outline"]
+        post_theme = f"Small-business application of {topic}"
+        first_post = f"Map {topic} to one offer idea, one audience, one acquisition channel, and one 7-day test."
+        validation_metric = "DMs, waitlist signups, lead magnet downloads, and landing page clicks"
     elif tag_set & {"economy", "inflation", "geopolitics", "energy", "semiconductor"}:
         stance = "Take the risk-aware operator position."
         angle = "Explain second-order effects for costs, supply, demand, or content timing."
         audience = "Small business owners and personal finance-minded readers"
         formats = ["risk brief", "scenario post", "watchlist update"]
+        post_theme = f"Second-order business effects of {topic}"
+        first_post = f"Explain how {topic} could affect costs, demand, tools, or timing for small operators."
+        validation_metric = "scenario saves, questions from operators, and follow-up reads"
     elif reason == "cross_source_theme":
         stance = "Take the synthesis position."
         angle = "Connect multiple sources into one narrative and name what to validate next."
         audience = "People who want signal over noise"
         formats = ["trend map", "weekly synthesis", "what changed post"]
+        post_theme = f"Multi-source trend map for {topic}"
+        first_post = f"Connect the signals behind {topic}, separate evidence from guesses, and name the next validation."
+        validation_metric = "thread completion rate, saves, and requests for deeper breakdowns"
 
     return {
         "stance": stance,
         "angle": angle,
         "audience": audience,
         "content_formats": formats,
+        "post_theme": post_theme,
+        "first_post": first_post,
+        "validation_metric": validation_metric,
         "validation": [
             "Check whether the signal persists for 7 days.",
             "Look for a Japanese information gap.",
@@ -318,6 +351,7 @@ def _signal(
         "business_relevance": _business_relevance(tags),
         "position_hint": _position_hint(source, reason, region_gap),
         "sns_position": _sns_position(
+            title=record.get("title"),
             source=source,
             tags=tags,
             reason=reason,
@@ -443,9 +477,15 @@ def _record_signals(
             return []
 
         large_repo_penalty = 0.6 if stars >= 20000 and stars_delta < 50 else 0.0
+        growth_component = max(
+            _cap(stars_delta / 35.0, 3.0),
+            _cap(forks_delta / 12.0, 2.0),
+            _cap(stars_30d_delta / 120.0, 3.0),
+            _cap(stars_30d_pct, 1.5),
+        )
         signal_score = (
             2.2
-            + max(stars_delta / 35.0, forks_delta / 12.0, stars_30d_delta / 120.0, min(stars_30d_pct, 2.0))
+            + growth_component
             + novelty_score
             + (0.4 if recent_repo else 0.0)
             + gap_score
@@ -616,9 +656,9 @@ def _select_top_signals(signals: list[dict[str, Any]], limit: int) -> list[dict[
             break
         source = signal.get("source", "unknown")
         reason = signal.get("reason", "unknown")
-        if source_counts[source] >= 5:
+        if source_counts[source] >= 4:
             continue
-        if reason_counts[reason] >= 4:
+        if reason_counts[reason] >= 3:
             continue
         selected.append(signal)
         source_counts[source] += 1

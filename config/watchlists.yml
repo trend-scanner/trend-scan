@@ -147,16 +147,27 @@ wikipedia_pages:
     tags: [resilience]
 
 polymarket_filters:
+  target_count: 60
+  fallback_min_volume: 50000
   include_keywords:
+    - AI
     - AI regulation
     - artificial intelligence
+    - AGI
     - OpenAI
+    - Anthropic
+    - Claude
     - Google
     - Apple
+    - Microsoft
+    - Meta
     - Nvidia
+    - GPU
     - semiconductor
+    - semiconductors
     - TSMC
     - chips
+    - chip export
     - interest rates
     - interest rate
     - rate cut
@@ -166,22 +177,44 @@ polymarket_filters:
     - inflation
     - CPI
     - recession
+    - GDP
+    - unemployment
     - tariffs
     - tariff
+    - trade war
     - crypto
     - Bitcoin
     - Ethereum
+    - Solana
     - crypto regulation
     - Bitcoin ETF
     - Ethereum ETF
     - SEC
+    - regulation
+    - antitrust
     - Taiwan
+    - China
+    - Ukraine
     - Ukraine ceasefire
     - Russia Ukraine
+    - ceasefire
     - oil
     - crude
+    - TikTok
+    - TikTok ban
+    - YouTube
+    - App Store
+    - search
+    - Google Search
+    - startup
+    - IPO
+    - Shopify
+    - Amazon
+    - Tesla
+    - Apple Intelligence
   exclude_keywords:
     - World Cup
+    - Champions League
     - NBA
     - NFL
     - NHL
@@ -190,16 +223,33 @@ polymarket_filters:
     - boxing
     - soccer
     - football
+    - Super Bowl
+    - Formula 1
+    - F1
     - tennis
     - Grammy
+    - Grammys
     - Oscars
+    - Emmy
     - movie
+    - box office
     - music
+    - album
+    - song
     - GTA
     - Taylor Swift
+    - celebrity
+    - episode
+    - TV show
+    - reality show
     - Democratic nominee
     - Republican nominee
     - presidential nominee
+    - presidential nomination
+    - Democratic nomination
+    - Republican nomination
     - election winner
     - popular vote
+    - mayoral election
+    - governor election
   min_volume: 1000

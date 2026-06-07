@@ -5,6 +5,9 @@ from datetime import date, timedelta
 from typing import Any
 
 
+BROAD_ACTION_TAGS = {"ai", "llm", "github", "startup"}
+
+
 def _top(records: list[dict[str, Any]], source: str, metric: str | None, limit: int = 5) -> list[dict[str, Any]]:
     candidates = [record for record in records if record.get("source") == source]
     if metric is None:
@@ -66,6 +69,19 @@ def _format_source_signals(signals: list[dict[str, Any]], source: str, limit: in
     return [_format_signal(signal) for signal in rows[:limit]]
 
 
+def _unique_signals(*groups: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    seen = set()
+    rows = []
+    for group in groups:
+        for signal in group:
+            key = (signal.get("source"), signal.get("entity_key"), signal.get("reason"))
+            if key in seen:
+                continue
+            seen.add(key)
+            rows.append(signal)
+    return rows
+
+
 def _format_sns_positions(signals: list[dict[str, Any]], limit: int = 8) -> list[str]:
     candidates = [
         signal
@@ -82,7 +98,8 @@ def _format_sns_positions(signals: list[dict[str, Any]], limit: int = 8) -> list
         tags = ", ".join(signal.get("tags", []))
         lines.append(
             f"- {signal.get('title')} ({signal.get('source')}): "
-            f"stance={position.get('stance')} angle={position.get('angle')} "
+            f"stance={position.get('stance')} theme={position.get('post_theme')} "
+            f"first_post={position.get('first_post')} metric={position.get('validation_metric')} "
             f"audience={position.get('audience')} formats={formats} tags={tags}"
         )
     return lines
@@ -99,6 +116,7 @@ def build_daily_report(
     signals = signal_payload.get("signals", [])
     important_signals = signal_payload.get("important_signals", signals)
     top_signals = signal_payload.get("top_signals", signals[:15])
+    display_signals = _unique_signals(top_signals, important_signals)
 
     lines = [
         f"# Daily Trend Scan Report - {run_date_str}",
@@ -139,7 +157,7 @@ def build_daily_report(
             lines.append(_format_signal(signal))
 
     lines.extend(["", "## SNS / Business positioning candidates", ""])
-    lines.extend(_format_sns_positions(top_signals))
+    lines.extend(_format_sns_positions(display_signals))
 
     lines.extend(["", "## Key signals", ""])
     if not top_signals:
@@ -177,10 +195,10 @@ def build_daily_report(
             )
 
     lines.extend(["", "## GitHub movement leaders", ""])
-    lines.extend(_format_source_signals(important_signals, "github"))
+    lines.extend(_format_source_signals(display_signals, "github"))
 
     lines.extend(["", "## Polymarket watchlist movers", ""])
-    lines.extend(_format_source_signals(important_signals, "polymarket"))
+    lines.extend(_format_source_signals(display_signals, "polymarket"))
 
     lines.append("")
     return "\n".join(lines)
@@ -307,38 +325,98 @@ def _format_action_candidates(records: list[dict[str, Any]], signal_payloads: li
         return ["- Not enough data yet."]
 
     lines = []
-    for tag, score, record_count, signal_count in action_tags[:8]:
+    specific_tags = [row for row in action_tags if row[0] not in BROAD_ACTION_TAGS]
+    selected_tags = specific_tags or action_tags
+    for tag, score, record_count, signal_count in selected_tags[:8]:
         lines.append(
             f"- Watch `{tag}`: score={score}, records={record_count}, signals={signal_count}. "
-            "Check whether this deserves a post, tool idea, or deeper private review."
+            f"{_tag_action_hint(tag)}"
         )
     return lines
 
 
+def _tag_action_hint(tag: str) -> str:
+    hints = {
+        "agents": "Test a repeatable workflow and turn it into a tutorial, template, or small paid asset.",
+        "automation": "Look for boring tasks people repeat weekly, then validate a checklist or micro-tool.",
+        "creator-tools": "Try a creator-facing demo and measure saves, replies, and template requests.",
+        "content-marketing": "Package the signal as posts, newsletter ideas, or a search-intent cluster.",
+        "seo": "Create a practical before/after checklist for site owners and affiliates.",
+        "search": "Translate platform or ranking changes into concrete actions for small publishers.",
+        "side-business": "Map the trend to one offer, one audience, one acquisition channel, and one 7-day test.",
+        "platform-risk": "Publish a risk memo that explains who is affected and what to change first.",
+        "inflation": "Connect the theme to cost pressure, inventory timing, or household/business resilience.",
+        "semiconductor": "Watch downstream effects on AI tools, device prices, cloud costs, and supply chains.",
+        "geopolitics": "Frame scenarios carefully and validate with primary sources before acting.",
+    }
+    return hints.get(tag, "Check whether this deserves a post, tool idea, or deeper private review.")
+
+
+def _signal_key(signal: dict[str, Any]) -> tuple[str, str]:
+    source = str(signal.get("source") or "unknown")
+    entity = str(signal.get("entity_key") or signal.get("title") or "unknown").strip().lower()
+    return source, entity
+
+
+def _position_value(position: dict[str, Any], key: str, fallback: str) -> str:
+    value = position.get(key)
+    return str(value) if value else fallback
+
+
 def _format_periodic_sns_positions(signal_payloads: list[dict[str, Any]], limit: int = 10) -> list[str]:
-    signals = []
+    grouped: dict[tuple[str, str], dict[str, Any]] = {}
     for payload in signal_payloads:
-        signals.extend(payload.get("top_signals") or payload.get("important_signals") or payload.get("signals", []))
+        payload_date = payload.get("date")
+        for signal in payload.get("top_signals") or payload.get("important_signals") or payload.get("signals", []):
+            if signal.get("business_relevance") not in {"high", "medium"}:
+                continue
+            position = signal.get("sns_position") or {}
+            if not position:
+                continue
+            key = _signal_key(signal)
+            group = grouped.setdefault(
+                key,
+                {
+                    "signal": signal,
+                    "position": position,
+                    "count": 0,
+                    "max_score": 0.0,
+                    "dates": set(),
+                },
+            )
+            score = float(signal.get("score", 0))
+            group["count"] += 1
+            group["max_score"] = max(group["max_score"], min(score, 8.0))
+            if payload_date:
+                group["dates"].add(payload_date)
+            if score >= float(group["signal"].get("score", 0)):
+                group["signal"] = signal
+                group["position"] = position
 
-    scored = []
-    for signal in signals:
-        if signal.get("business_relevance") not in {"high", "medium"}:
-            continue
-        position = signal.get("sns_position") or {}
-        if not position:
-            continue
-        scored.append((float(signal.get("score", 0)), signal, position))
-
-    scored.sort(key=lambda row: row[0], reverse=True)
-    if not scored:
+    if not grouped:
         return ["- No SNS/business positioning candidates found in this period."]
 
+    scored = sorted(
+        grouped.values(),
+        key=lambda group: (group["count"], group["max_score"], group["signal"].get("title") or ""),
+        reverse=True,
+    )
+
     lines = []
-    for _score, signal, position in scored[:limit]:
+    for group in scored[:limit]:
+        signal = group["signal"]
+        position = group["position"]
         formats = ", ".join(position.get("content_formats", []))
+        dates = sorted(group["dates"])
+        last_seen = dates[-1] if dates else "n/a"
+        theme = _position_value(position, "post_theme", position.get("angle") or signal.get("position_hint") or "Review this signal for a focused post.")
+        first_post = _position_value(position, "first_post", signal.get("position_hint") or "Explain what changed, why it matters, and what to validate next.")
+        metric = _position_value(position, "validation_metric", "saves, replies, clicks, and 7-day persistence")
         lines.append(
             f"- {signal.get('title')} ({signal.get('source')}): "
-            f"{position.get('stance')} Angle: {position.get('angle')} Formats: {formats}"
+            f"seen={group['count']} days, max_score={round(group['max_score'], 3)}, last_seen={last_seen}. "
+            f"{position.get('stance')} Theme: {theme} "
+            f"First post: {first_post} Metric: {metric} Formats: {formats}"
         )
     return lines
 
