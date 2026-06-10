@@ -1,11 +1,25 @@
 {
-  "date": "2026-06-10",
-  "sources": {},
+  "date": "2026-06-11",
+  "sources": {
+    "rss:error:microsoft-ai": {
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "first_seen": "2026-06-11",
+      "last_seen": "2026-06-11",
+      "consecutive_days": 1
+    }
+  },
   "resolved": [],
   "summary": {
-    "active_count": 0,
+    "active_count": 1,
     "resolved_count": 0,
-    "active_by_level": {},
-    "active_by_source": {}
+    "active_by_level": {
+      "error": 1
+    },
+    "active_by_source": {
+      "rss": 1
+    }
   }
 }
