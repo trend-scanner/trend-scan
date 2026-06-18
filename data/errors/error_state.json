@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,8 +7,8 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-06-18",
-      "consecutive_days": 8
+      "last_seen": "2026-06-19",
+      "consecutive_days": 9
     }
   },
   "resolved": [],
