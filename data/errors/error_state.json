@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,19 +7,47 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-06-27",
-      "consecutive_days": 17
+      "last_seen": "2026-06-28",
+      "consecutive_days": 18
+    },
+    "wikipedia:error:Creator_economy": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Creator_economy",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Creator_economy/daily/20260626/20260626",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "consecutive_days": 1
+    },
+    "wikipedia:error:Digital_marketing": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Digital_marketing",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Digital_marketing/daily/20260626/20260626",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "consecutive_days": 1
+    },
+    "wikipedia:error:副業": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "副業",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260626/20260626",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "consecutive_days": 1
     }
   },
   "resolved": [],
   "summary": {
-    "active_count": 1,
+    "active_count": 4,
     "resolved_count": 0,
     "active_by_level": {
-      "error": 1
+      "error": 4
     },
     "active_by_source": {
-      "rss": 1
+      "rss": 1,
+      "wikipedia": 3
     }
   }
 }

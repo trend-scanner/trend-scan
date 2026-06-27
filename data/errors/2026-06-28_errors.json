@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-28",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-06-28",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "wikipedia:error:Creator_economy",
+      "date": "2026-06-28",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Creator_economy",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Creator_economy/daily/20260626/20260626",
+      "raw": {
+        "title": "Creator_economy",
+        "resolved_title": "Creator economy",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Creator_economy/daily/20260626/20260626"
+      }
+    },
+    {
+      "key": "wikipedia:error:Digital_marketing",
+      "date": "2026-06-28",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Digital_marketing",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Digital_marketing/daily/20260626/20260626",
+      "raw": {
+        "title": "Digital_marketing",
+        "resolved_title": "Digital marketing",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Digital_marketing/daily/20260626/20260626"
+      }
+    },
+    {
+      "key": "wikipedia:error:副業",
+      "date": "2026-06-28",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "副業",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260626/20260626",
+      "raw": {
+        "title": "副業",
+        "resolved_title": "副業",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260626/20260626"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-06-28",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260627/20260627",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-06-27",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260627/20260627"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 5,
+    "by_level": {
+      "error": 4,
+      "warning": 1
+    },
+    "by_source": {
+      "rss": 1,
+      "wikipedia": 4
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-06-28",
+        "consecutive_days": 18
+      }
+    ]
+  }
+}
