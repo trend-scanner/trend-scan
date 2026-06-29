@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,47 +7,47 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-06-29",
-      "consecutive_days": 19
+      "last_seen": "2026-06-30",
+      "consecutive_days": 20
+    },
+    "wikipedia:error:Newsletter": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Newsletter",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Newsletter/daily/20260628/20260628",
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-06-30",
+      "consecutive_days": 1
+    },
+    "wikipedia:error:TikTok": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "TikTok",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/TikTok/daily/20260628/20260628",
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-06-30",
+      "consecutive_days": 1
+    },
+    "wikipedia:error:防災": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "防災",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260628/20260628",
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-06-30",
+      "consecutive_days": 1
     }
   },
-  "resolved": [
-    {
-      "key": "wikipedia:error:Creator_economy",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Creator_economy",
-      "last_seen": "2026-06-28",
-      "consecutive_days": 1,
-      "resolved_on": "2026-06-29"
-    },
-    {
-      "key": "wikipedia:error:Digital_marketing",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Digital_marketing",
-      "last_seen": "2026-06-28",
-      "consecutive_days": 1,
-      "resolved_on": "2026-06-29"
-    },
-    {
-      "key": "wikipedia:error:副業",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "副業",
-      "last_seen": "2026-06-28",
-      "consecutive_days": 1,
-      "resolved_on": "2026-06-29"
-    }
-  ],
+  "resolved": [],
   "summary": {
-    "active_count": 1,
-    "resolved_count": 3,
+    "active_count": 4,
+    "resolved_count": 0,
     "active_by_level": {
-      "error": 1
+      "error": 4
     },
     "active_by_source": {
-      "rss": 1
+      "rss": 1,
+      "wikipedia": 3
     }
   }
 }
