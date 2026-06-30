@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,47 +7,47 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-06-30",
-      "consecutive_days": 20
-    },
-    "wikipedia:error:Newsletter": {
+      "last_seen": "2026-07-01",
+      "consecutive_days": 21
+    }
+  },
+  "resolved": [
+    {
+      "key": "wikipedia:error:Newsletter",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "Newsletter",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Newsletter/daily/20260628/20260628",
-      "first_seen": "2026-06-30",
       "last_seen": "2026-06-30",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-07-01"
     },
-    "wikipedia:error:TikTok": {
+    {
+      "key": "wikipedia:error:TikTok",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "TikTok",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/TikTok/daily/20260628/20260628",
-      "first_seen": "2026-06-30",
       "last_seen": "2026-06-30",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-07-01"
     },
-    "wikipedia:error:防災": {
+    {
+      "key": "wikipedia:error:防災",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "防災",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260628/20260628",
-      "first_seen": "2026-06-30",
       "last_seen": "2026-06-30",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-07-01"
     }
-  },
-  "resolved": [],
+  ],
   "summary": {
-    "active_count": 4,
-    "resolved_count": 0,
+    "active_count": 1,
+    "resolved_count": 3,
     "active_by_level": {
-      "error": 4
+      "error": 1
     },
     "active_by_source": {
-      "rss": 1,
-      "wikipedia": 3
+      "rss": 1
     }
   }
 }
