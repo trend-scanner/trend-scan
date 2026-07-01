@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,42 +7,14 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-07-01",
-      "consecutive_days": 21
+      "last_seen": "2026-07-02",
+      "consecutive_days": 22
     }
   },
-  "resolved": [
-    {
-      "key": "wikipedia:error:Newsletter",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Newsletter",
-      "last_seen": "2026-06-30",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-01"
-    },
-    {
-      "key": "wikipedia:error:TikTok",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "TikTok",
-      "last_seen": "2026-06-30",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-01"
-    },
-    {
-      "key": "wikipedia:error:防災",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "防災",
-      "last_seen": "2026-06-30",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-01"
-    }
-  ],
+  "resolved": [],
   "summary": {
     "active_count": 1,
-    "resolved_count": 3,
+    "resolved_count": 0,
     "active_by_level": {
       "error": 1
     },
