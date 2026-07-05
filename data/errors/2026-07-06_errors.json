@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-06",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-07-06",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-07-06",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260705/20260705",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-07-05",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260705/20260705"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 2,
+    "by_level": {
+      "error": 1,
+      "warning": 1
+    },
+    "by_source": {
+      "rss": 1,
+      "wikipedia": 1
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-07-06",
+        "consecutive_days": 26
+      }
+    ]
+  }
+}
