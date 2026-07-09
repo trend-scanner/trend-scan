@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,38 +7,38 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-07-09",
-      "consecutive_days": 29
+      "last_seen": "2026-07-10",
+      "consecutive_days": 30
+    },
+    "wikipedia:error:Search_engine_optimization": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Search_engine_optimization",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Search_engine_optimization/daily/20260708/20260708",
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-10",
+      "consecutive_days": 1
+    },
+    "wikipedia:error:TikTok": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "TikTok",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/TikTok/daily/20260708/20260708",
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-10",
+      "consecutive_days": 1
     }
   },
-  "resolved": [
-    {
-      "key": "wikipedia:error:Digital_marketing",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Digital_marketing",
-      "last_seen": "2026-07-08",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-09"
-    },
-    {
-      "key": "wikipedia:error:備蓄",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "備蓄",
-      "last_seen": "2026-07-08",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-09"
-    }
-  ],
+  "resolved": [],
   "summary": {
-    "active_count": 1,
-    "resolved_count": 2,
+    "active_count": 3,
+    "resolved_count": 0,
     "active_by_level": {
-      "error": 1
+      "error": 3
     },
     "active_by_source": {
-      "rss": 1
+      "rss": 1,
+      "wikipedia": 2
     }
   }
 }
