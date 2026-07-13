@@ -1,0 +1,1189 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-07-14",
+  "snapshot_at": "2026-07-14T07:06:04.945486+09:00",
+  "items": [
+    {
+      "market_id": "701504",
+      "title": "Will Bitcoin dip to $25,000 by December 31, 2026?",
+      "slug": "will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417-178",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417-178",
+      "category": null,
+      "volume": 976048.5257890002,
+      "liquidity": 72771.3147,
+      "end_date": "2027-01-01T05:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.055
+        },
+        {
+          "name": "No",
+          "price": 0.945
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 8.6,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "701492",
+      "title": "Will Bitcoin reach $140,000 by December 31, 2026?",
+      "slug": "will-bitcoin-reach-140000-by-december-31-2026-131-829-299",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-140000-by-december-31-2026-131-829-299",
+      "category": null,
+      "volume": 950159.5589520023,
+      "liquidity": 52609.72997,
+      "end_date": "2027-01-01T05:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.033
+        },
+        {
+          "name": "No",
+          "price": 0.967
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 8.6,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2677860",
+      "title": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in July?",
+      "slug": "will-wti-reach-120-in-july-2026",
+      "url": "https://polymarket.com/event/will-wti-reach-120-in-july-2026",
+      "category": null,
+      "volume": 98237.87028199999,
+      "liquidity": 40831.85911,
+      "end_date": "2026-08-01T03:59:59.999Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.019
+        },
+        {
+          "name": "No",
+          "price": 0.981
+        }
+      ],
+      "tags": [
+        "energy"
+      ],
+      "relevance": {
+        "score": 7.749,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "oil",
+          "crude"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "energy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2732525",
+      "title": "Will Russia and Ukraine hold any diplomatic meeting by July 31, 2026?",
+      "slug": "untitled-market-1-20260629155005352",
+      "url": "https://polymarket.com/event/untitled-market-1-20260629155005352",
+      "category": null,
+      "volume": 96516.28698899993,
+      "liquidity": 47416.084,
+      "end_date": "2026-07-31T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.435
+        },
+        {
+          "name": "No",
+          "price": 0.565
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 7.513,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2833125",
+      "title": "Will the price of Bitcoin be above $60,000 on July 14?",
+      "slug": "bitcoin-above-60k-on-july-14-2026",
+      "url": "https://polymarket.com/event/bitcoin-above-60k-on-july-14-2026",
+      "category": null,
+      "volume": 93803.15195700011,
+      "liquidity": 33390.96121,
+      "end_date": "2026-07-14T16:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.958
+        },
+        {
+          "name": "No",
+          "price": 0.042
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 7.206,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "693519",
+      "title": "Ukraine agrees to limit size of armed forces before 2027?",
+      "slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+      "url": "https://polymarket.com/event/ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+      "category": null,
+      "volume": 98331.56716500006,
+      "liquidity": 20684.7282,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.085
+        },
+        {
+          "name": "No",
+          "price": 0.915
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 6.997,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2299991",
+      "title": "Will OpenAI's valuation hit (HIGH) $900B by December 31?",
+      "slug": "will-openais-valuation-hit-high-900b-by-december-31-942-235",
+      "url": "https://polymarket.com/event/will-openais-valuation-hit-high-900b-by-december-31-942-235",
+      "category": null,
+      "volume": 98969.62255899994,
+      "liquidity": 16791.5655,
+      "end_date": "2027-01-01T12:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.715
+        },
+        {
+          "name": "No",
+          "price": 0.285
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.926,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2299986",
+      "title": "Will OpenAI's valuation hit (HIGH) $2.0T by December 31?",
+      "slug": "will-openais-valuation-hit-high-2pt0t-by-december-31-937-533",
+      "url": "https://polymarket.com/event/will-openais-valuation-hit-high-2pt0t-by-december-31-937-533",
+      "category": null,
+      "volume": 95349.95313699997,
+      "liquidity": 9202.2186,
+      "end_date": "2027-01-01T12:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.105
+        },
+        {
+          "name": "No",
+          "price": 0.895
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.738,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2109524",
+      "title": "Will Meta have a #1 AI model by December 31, 2026?",
+      "slug": "will-meta-have-a-1-ai-model-by-december-31-2026",
+      "url": "https://polymarket.com/event/will-meta-have-a-1-ai-model-by-december-31-2026",
+      "category": null,
+      "volume": 9873.865892,
+      "liquidity": 6406.9069,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.115
+        },
+        {
+          "name": "No",
+          "price": 0.885
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.177,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "Meta"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2833087",
+      "title": "Will the price of Ethereum be above $2,000 on July 14?",
+      "slug": "ethereum-above-2000-on-july-14-2026",
+      "url": "https://polymarket.com/event/ethereum-above-2000-on-july-14-2026",
+      "category": null,
+      "volume": 9971.502322000002,
+      "liquidity": 21620.47105,
+      "end_date": "2026-07-14T16:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0005
+        },
+        {
+          "name": "No",
+          "price": 0.9995
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 6.132,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ethereum"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2860514",
+      "title": "Will the price of Bitcoin be above $62,000 on July 16?",
+      "slug": "bitcoin-above-62k-on-july-16-2026",
+      "url": "https://polymarket.com/event/bitcoin-above-62k-on-july-16-2026",
+      "category": null,
+      "volume": 9450.633038999991,
+      "liquidity": 20968.7568,
+      "end_date": "2026-07-16T16:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.545
+        },
+        {
+          "name": "No",
+          "price": 0.455
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 6.114,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2901767",
+      "title": "Will Bitcoin reach $70,000 July 13-19?",
+      "slug": "will-bitcoin-reach-70k-july-13-19-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-july-13-19-2026",
+      "category": null,
+      "volume": 9492.544952000006,
+      "liquidity": 19507.93718,
+      "end_date": "2026-07-20T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0145
+        },
+        {
+          "name": "No",
+          "price": 0.9855
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 6.085,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2833083",
+      "title": "Will the price of Ethereum be above $1,800 on July 14?",
+      "slug": "ethereum-above-1800-on-july-14-2026",
+      "url": "https://polymarket.com/event/ethereum-above-1800-on-july-14-2026",
+      "category": null,
+      "volume": 9961.698409999999,
+      "liquidity": 14732.2019,
+      "end_date": "2026-07-14T16:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.185
+        },
+        {
+          "name": "No",
+          "price": 0.815
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 5.994,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ethereum"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2787890",
+      "title": "US Government removes public access to a major Chinese AI model in 2026?",
+      "slug": "us-government-removes-public-access-to-a-major-chinese-ai-model-in-2026-20260703203328223",
+      "url": "https://polymarket.com/event/us-government-removes-public-access-to-a-major-chinese-ai-model-in-2026-20260703203328223",
+      "category": null,
+      "volume": 9392.923675999999,
+      "liquidity": 9518.0703,
+      "end_date": "2026-12-31T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.225
+        },
+        {
+          "name": "No",
+          "price": 0.775
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.884,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "690207",
+      "title": "Will the Fed’s lower bound reach 1.75% or lower before 2027?",
+      "slug": "will-the-feds-lower-bound-reach-1pt75-or-lower-before-2027-123-334-678-153-953-848-473",
+      "url": "https://polymarket.com/event/will-the-feds-lower-bound-reach-1pt75-or-lower-before-2027-123-334-678-153-953-848-473",
+      "category": null,
+      "volume": 9863.547323999997,
+      "liquidity": 7614.9759,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.045
+        },
+        {
+          "name": "No",
+          "price": 0.955
+        }
+      ],
+      "tags": [
+        "economy"
+      ],
+      "relevance": {
+        "score": 5.851,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Fed"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "economy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2431250",
+      "title": "Will MiniMax have the best Chinese AI model at the end of July 2026?",
+      "slug": "will-minimax-have-the-best-chinese-ai-model-at-the-end-of-july-2026",
+      "url": "https://polymarket.com/event/will-minimax-have-the-best-chinese-ai-model-at-the-end-of-july-2026",
+      "category": null,
+      "volume": 9895.348854999997,
+      "liquidity": 6666.23576,
+      "end_date": "2026-07-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.004
+        },
+        {
+          "name": "No",
+          "price": 0.996
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.832,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2431241",
+      "title": "Will ByteDance have the best Chinese AI model at the end of July 2026?",
+      "slug": "will-bytedance-have-the-best-chinese-ai-model-at-the-end-of-july-2026",
+      "url": "https://polymarket.com/event/will-bytedance-have-the-best-chinese-ai-model-at-the-end-of-july-2026",
+      "category": null,
+      "volume": 9927.02636,
+      "liquidity": 6384.78746,
+      "end_date": "2026-07-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0015
+        },
+        {
+          "name": "No",
+          "price": 0.9985
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.827,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1243899",
+      "title": "Will Brazil’s Annual Inflation in 2026 be between 4.00% and 4.49%?",
+      "slug": "will-brazils-annual-inflation-in-2026-be-between-4pt00-and-4pt49",
+      "url": "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-between-4pt00-and-4pt49",
+      "category": null,
+      "volume": 9463.750520999998,
+      "liquidity": 6524.01128,
+      "end_date": "2027-01-12T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.062
+        },
+        {
+          "name": "No",
+          "price": 0.938
+        }
+      ],
+      "tags": [
+        "inflation"
+      ],
+      "relevance": {
+        "score": 5.825,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "inflation"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "inflation"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2374258",
+      "title": "Will Ukraine re-enter Uspenivka by December 31?",
+      "slug": "will-ukraine-re-enter-uspenivka-by-december-31",
+      "url": "https://polymarket.com/event/will-ukraine-re-enter-uspenivka-by-december-31",
+      "category": null,
+      "volume": 9607.712982999992,
+      "liquidity": 4394.5388,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.34
+        },
+        {
+          "name": "No",
+          "price": 0.66
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 5.784,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2374243",
+      "title": "Will Ukraine re-enter Obratne or Temyrivka by December 31?",
+      "slug": "will-ukraine-re-enter-obratne-or-temyrivka-by-december-31",
+      "url": "https://polymarket.com/event/will-ukraine-re-enter-obratne-or-temyrivka-by-december-31",
+      "category": null,
+      "volume": 9913.065904000006,
+      "liquidity": 2913.317,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.47
+        },
+        {
+          "name": "No",
+          "price": 0.53
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 5.757,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1348502",
+      "title": "Will South Korea’s 2026 Annual Inflation be at least 3.0%?",
+      "slug": "will-south-koreas-2026-annual-inflation-be-at-least-3pt0",
+      "url": "https://polymarket.com/event/will-south-koreas-2026-annual-inflation-be-at-least-3pt0",
+      "category": null,
+      "volume": 9953.103466999999,
+      "liquidity": 1627.0476,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.305
+        },
+        {
+          "name": "No",
+          "price": 0.695
+        }
+      ],
+      "tags": [
+        "inflation"
+      ],
+      "relevance": {
+        "score": 5.732,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "inflation"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "inflation"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1340780",
+      "title": "Bitmine sells any Ethereum in 2026?",
+      "slug": "bitmine-sells-any-ethereum-in-2026",
+      "url": "https://polymarket.com/event/bitmine-sells-any-ethereum-in-2026",
+      "category": null,
+      "volume": 9738.168626000002,
+      "liquidity": 1180.1564,
+      "end_date": "2027-01-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.16
+        },
+        {
+          "name": "No",
+          "price": 0.84
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 5.721,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ethereum"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2110753",
+      "title": "Will Anthropic’s market cap be 1.8T or greater at market close on IPO day by December 31 2027?",
+      "slug": "will-anthropics-market-cap-be-1pt8t-or-greater-at-market-close-on-ipo-day-by-december-31-2027",
+      "url": "https://polymarket.com/event/will-anthropics-market-cap-be-1pt8t-or-greater-at-market-close-on-ipo-day-by-december-31-2027",
+      "category": null,
+      "volume": 97656.542709,
+      "liquidity": 6575.4514,
+      "end_date": "2027-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.525
+        },
+        {
+          "name": "No",
+          "price": 0.475
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 5.308,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Anthropic",
+          "IPO"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2674107",
+      "title": "Will Apple be the third-largest company in the world by market cap on July 31?",
+      "slug": "will-apple-be-the-third-largest-company-in-the-world-by-market-cap-on-july-31-20260624193044990",
+      "url": "https://polymarket.com/event/will-apple-be-the-third-largest-company-in-the-world-by-market-cap-on-july-31-20260624193044990",
+      "category": null,
+      "volume": 9585.582313000003,
+      "liquidity": 14692.2553,
+      "end_date": "2026-07-31T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.245
+        },
+        {
+          "name": "No",
+          "price": 0.755
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.24,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Apple"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1215428",
+      "title": "Will UK annual GDP growth in 2026 be below 0%?",
+      "slug": "will-uk-annual-gdp-growth-in-2026-be-below-0",
+      "url": "https://polymarket.com/event/will-uk-annual-gdp-growth-in-2026-be-below-0",
+      "category": null,
+      "volume": 9858.331502999998,
+      "liquidity": 3213.8328,
+      "end_date": "2027-02-12T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.13
+        },
+        {
+          "name": "No",
+          "price": 0.87
+        }
+      ],
+      "tags": [
+        "marketing"
+      ],
+      "relevance": {
+        "score": 4.013,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "GDP"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2676288",
+      "title": "Will Russia capture Sloviansk by December 31?",
+      "slug": "will-russia-capture-sloviansk-by-december-31",
+      "url": "https://polymarket.com/event/will-russia-capture-sloviansk-by-december-31",
+      "category": null,
+      "volume": 97281.016894,
+      "liquidity": 35202.314,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.08
+        },
+        {
+          "name": "No",
+          "price": 0.92
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 3.427,
+        "reasons": [
+          "strategy_tag"
+        ],
+        "matched_keywords": [],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2046122",
+      "title": "Will United Russia (ER) win the second-most seats in the next Russian parliamentary election?",
+      "slug": "will-united-russia-er-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
+      "url": "https://polymarket.com/event/will-united-russia-er-win-the-second-most-seats-in-the-next-russian-parliamentary-election",
+      "category": null,
+      "volume": 9442.683648,
+      "liquidity": 22962.78877,
+      "end_date": "2026-09-20T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.022
+        },
+        {
+          "name": "No",
+          "price": 0.978
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 2.304,
+        "reasons": [
+          "strategy_tag"
+        ],
+        "matched_keywords": [],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1125103",
+      "title": "Will United Russia win between 310 and 324 seats in the next Russian State Duma election?",
+      "slug": "will-united-russia-win-between-310-and-324-seats-in-the-next-russian-state-duma-election",
+      "url": "https://polymarket.com/event/will-united-russia-win-between-310-and-324-seats-in-the-next-russian-state-duma-election",
+      "category": null,
+      "volume": 9631.722960000003,
+      "liquidity": 20065.1851,
+      "end_date": "2026-09-20T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.147
+        },
+        {
+          "name": "No",
+          "price": 0.853
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 2.248,
+        "reasons": [
+          "strategy_tag"
+        ],
+        "matched_keywords": [],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2125425",
+      "title": "Will Russia capture Prymorske by September 30, 2026?",
+      "slug": "will-russia-capture-prymorske-by-september-30-2026",
+      "url": "https://polymarket.com/event/will-russia-capture-prymorske-by-september-30-2026",
+      "category": null,
+      "volume": 9682.378633999982,
+      "liquidity": 5019.2835,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.075
+        },
+        {
+          "name": "No",
+          "price": 0.925
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 1.947,
+        "reasons": [
+          "strategy_tag"
+        ],
+        "matched_keywords": [],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2373875",
+      "title": "Will Russia capture Sofiivka by December 31?",
+      "slug": "will-russia-capture-sofiivka-by-december-31",
+      "url": "https://polymarket.com/event/will-russia-capture-sofiivka-by-december-31",
+      "category": null,
+      "volume": 9406.473538,
+      "liquidity": 2325.7712,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.64
+        },
+        {
+          "name": "No",
+          "price": 0.36
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 1.891,
+        "reasons": [
+          "strategy_tag"
+        ],
+        "matched_keywords": [],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 30,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
