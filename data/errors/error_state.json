@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,42 +7,14 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-07-15",
-      "consecutive_days": 35
+      "last_seen": "2026-07-16",
+      "consecutive_days": 36
     }
   },
-  "resolved": [
-    {
-      "key": "wikipedia:error:Creator_economy",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Creator_economy",
-      "last_seen": "2026-07-14",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-15"
-    },
-    {
-      "key": "wikipedia:error:E-commerce",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "E-commerce",
-      "last_seen": "2026-07-14",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-15"
-    },
-    {
-      "key": "wikipedia:error:TikTok",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "TikTok",
-      "last_seen": "2026-07-14",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-15"
-    }
-  ],
+  "resolved": [],
   "summary": {
     "active_count": 1,
-    "resolved_count": 3,
+    "resolved_count": 0,
     "active_by_level": {
       "error": 1
     },
