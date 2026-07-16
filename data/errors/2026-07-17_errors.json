@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-17",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-07-17",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "wikipedia:error:TikTok",
+      "date": "2026-07-17",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "TikTok",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/TikTok/daily/20260715/20260715",
+      "raw": {
+        "title": "TikTok",
+        "resolved_title": "TikTok",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/TikTok/daily/20260715/20260715"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-07-17",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260716/20260716",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-07-16",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260716/20260716"
+      }
+    },
+    {
+      "key": "wikipedia:warning:TikTok",
+      "date": "2026-07-17",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "TikTok",
+      "message": "429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&titles=TikTok",
+      "raw": {
+        "title": "TikTok",
+        "warning": "429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&titles=TikTok"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 4,
+    "by_level": {
+      "error": 2,
+      "warning": 2
+    },
+    "by_source": {
+      "rss": 1,
+      "wikipedia": 3
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-07-17",
+        "consecutive_days": 37
+      }
+    ]
+  }
+}
