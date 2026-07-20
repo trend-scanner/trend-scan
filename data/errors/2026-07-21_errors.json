@@ -1,0 +1,102 @@
+{
+  "date": "2026-07-21",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-07-21",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "wikipedia:error:Search_engine_optimization",
+      "date": "2026-07-21",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Search_engine_optimization",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Search_engine_optimization/daily/20260719/20260719",
+      "raw": {
+        "title": "Search_engine_optimization",
+        "resolved_title": "Search engine optimization",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Search_engine_optimization/daily/20260719/20260719"
+      }
+    },
+    {
+      "key": "wikipedia:error:副業",
+      "date": "2026-07-21",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "副業",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260719/20260719",
+      "raw": {
+        "title": "副業",
+        "resolved_title": "副業",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260719/20260719"
+      }
+    },
+    {
+      "key": "wikipedia:error:YouTube",
+      "date": "2026-07-21",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "YouTube",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/YouTube/daily/20260719/20260719",
+      "raw": {
+        "title": "YouTube",
+        "resolved_title": "YouTube",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/YouTube/daily/20260719/20260719"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-07-21",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260720/20260720",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-07-20",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260720/20260720"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 5,
+    "by_level": {
+      "error": 4,
+      "warning": 1
+    },
+    "by_source": {
+      "rss": 1,
+      "wikipedia": 4
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-07-21",
+        "consecutive_days": 41
+      },
+      {
+        "key": "wikipedia:error:YouTube",
+        "source": "wikipedia",
+        "level": "error",
+        "detail_id": "YouTube",
+        "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/YouTube/daily/20260719/20260719",
+        "first_seen": "2026-07-20",
+        "last_seen": "2026-07-21",
+        "consecutive_days": 2
+      }
+    ]
+  }
+}
