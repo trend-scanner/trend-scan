@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,57 +7,57 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-07-21",
-      "consecutive_days": 41
+      "last_seen": "2026-07-22",
+      "consecutive_days": 42
     },
     "wikipedia:error:Search_engine_optimization": {
       "source": "wikipedia",
       "level": "error",
       "detail_id": "Search_engine_optimization",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Search_engine_optimization/daily/20260719/20260719",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Search_engine_optimization/daily/20260720/20260720",
       "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21",
-      "consecutive_days": 1
-    },
-    "wikipedia:error:YouTube": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "YouTube",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/YouTube/daily/20260719/20260719",
-      "first_seen": "2026-07-20",
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-07-22",
       "consecutive_days": 2
     },
-    "wikipedia:error:副業": {
+    "wikipedia:error:防災": {
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "副業",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260719/20260719",
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-21",
+      "detail_id": "防災",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260720/20260720",
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-07-22",
       "consecutive_days": 1
     }
   },
   "resolved": [
     {
-      "key": "wikipedia:error:防災",
+      "key": "wikipedia:error:YouTube",
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "防災",
-      "last_seen": "2026-07-20",
+      "detail_id": "YouTube",
+      "last_seen": "2026-07-21",
+      "consecutive_days": 2,
+      "resolved_on": "2026-07-22"
+    },
+    {
+      "key": "wikipedia:error:副業",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "副業",
+      "last_seen": "2026-07-21",
       "consecutive_days": 1,
-      "resolved_on": "2026-07-21"
+      "resolved_on": "2026-07-22"
     }
   ],
   "summary": {
-    "active_count": 4,
-    "resolved_count": 1,
+    "active_count": 3,
+    "resolved_count": 2,
     "active_by_level": {
-      "error": 4
+      "error": 3
     },
     "active_by_source": {
       "rss": 1,
-      "wikipedia": 3
+      "wikipedia": 2
     }
   }
 }

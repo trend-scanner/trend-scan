@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-22",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-07-22",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "wikipedia:error:Search_engine_optimization",
+      "date": "2026-07-22",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Search_engine_optimization",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Search_engine_optimization/daily/20260720/20260720",
+      "raw": {
+        "title": "Search_engine_optimization",
+        "resolved_title": "Search engine optimization",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Search_engine_optimization/daily/20260720/20260720"
+      }
+    },
+    {
+      "key": "wikipedia:error:防災",
+      "date": "2026-07-22",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "防災",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260720/20260720",
+      "raw": {
+        "title": "防災",
+        "resolved_title": "防災",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260720/20260720"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-07-22",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260721/20260721",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-07-21",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260721/20260721"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 4,
+    "by_level": {
+      "error": 3,
+      "warning": 1
+    },
+    "by_source": {
+      "rss": 1,
+      "wikipedia": 3
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-07-22",
+        "consecutive_days": 42
+      },
+      {
+        "key": "wikipedia:error:Search_engine_optimization",
+        "source": "wikipedia",
+        "level": "error",
+        "detail_id": "Search_engine_optimization",
+        "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Search_engine_optimization/daily/20260720/20260720",
+        "first_seen": "2026-07-21",
+        "last_seen": "2026-07-22",
+        "consecutive_days": 2
+      }
+    ]
+  }
+}
