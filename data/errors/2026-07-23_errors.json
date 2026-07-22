@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-23",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-07-23",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "wikipedia:error:大規模言語モデル",
+      "date": "2026-07-23",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "大規模言語モデル",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB/daily/20260721/20260721",
+      "raw": {
+        "title": "大規模言語モデル",
+        "resolved_title": "大規模言語モデル",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB/daily/20260721/20260721"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-07-23",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260722/20260722",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-07-22",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260722/20260722"
+      }
+    },
+    {
+      "key": "wikipedia:warning:大規模言語モデル",
+      "date": "2026-07-23",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "大規模言語モデル",
+      "message": "429 Client Error: Too Many Requests for url: https://ja.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&titles=%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB",
+      "raw": {
+        "title": "大規模言語モデル",
+        "warning": "429 Client Error: Too Many Requests for url: https://ja.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&titles=%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 4,
+    "by_level": {
+      "error": 2,
+      "warning": 2
+    },
+    "by_source": {
+      "rss": 1,
+      "wikipedia": 3
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-07-23",
+        "consecutive_days": 43
+      }
+    ]
+  }
+}

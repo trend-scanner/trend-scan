@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,57 +7,48 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-07-22",
-      "consecutive_days": 42
+      "last_seen": "2026-07-23",
+      "consecutive_days": 43
     },
-    "wikipedia:error:Search_engine_optimization": {
+    "wikipedia:error:大規模言語モデル": {
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "Search_engine_optimization",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Search_engine_optimization/daily/20260720/20260720",
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-22",
-      "consecutive_days": 2
-    },
-    "wikipedia:error:防災": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "防災",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260720/20260720",
-      "first_seen": "2026-07-22",
-      "last_seen": "2026-07-22",
+      "detail_id": "大規模言語モデル",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB/daily/20260721/20260721",
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-23",
       "consecutive_days": 1
     }
   },
   "resolved": [
     {
-      "key": "wikipedia:error:YouTube",
+      "key": "wikipedia:error:Search_engine_optimization",
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "YouTube",
-      "last_seen": "2026-07-21",
+      "detail_id": "Search_engine_optimization",
+      "last_seen": "2026-07-22",
       "consecutive_days": 2,
-      "resolved_on": "2026-07-22"
+      "resolved_on": "2026-07-23"
     },
     {
-      "key": "wikipedia:error:副業",
+      "key": "wikipedia:error:防災",
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "副業",
-      "last_seen": "2026-07-21",
+      "detail_id": "防災",
+      "last_seen": "2026-07-22",
       "consecutive_days": 1,
-      "resolved_on": "2026-07-22"
+      "resolved_on": "2026-07-23"
     }
   ],
   "summary": {
-    "active_count": 3,
+    "active_count": 2,
     "resolved_count": 2,
     "active_by_level": {
-      "error": 3
+      "error": 2
     },
     "active_by_source": {
       "rss": 1,
-      "wikipedia": 2
+      "wikipedia": 1
     }
   }
 }
