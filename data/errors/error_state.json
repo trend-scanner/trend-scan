@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,29 +7,38 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-07-24",
-      "consecutive_days": 44
-    }
-  },
-  "resolved": [
-    {
-      "key": "wikipedia:error:大規模言語モデル",
+      "last_seen": "2026-07-25",
+      "consecutive_days": 45
+    },
+    "wikipedia:error:Digital_marketing": {
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "大規模言語モデル",
-      "last_seen": "2026-07-23",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-24"
+      "detail_id": "Digital_marketing",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Digital_marketing/daily/20260723/20260723",
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "consecutive_days": 1
+    },
+    "wikipedia:error:備蓄": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "備蓄",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%82%99%E8%93%84/daily/20260723/20260723",
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "consecutive_days": 1
     }
-  ],
+  },
+  "resolved": [],
   "summary": {
-    "active_count": 1,
-    "resolved_count": 1,
+    "active_count": 3,
+    "resolved_count": 0,
     "active_by_level": {
-      "error": 1
+      "error": 3
     },
     "active_by_source": {
-      "rss": 1
+      "rss": 1,
+      "wikipedia": 2
     }
   }
 }
