@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,57 +7,47 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-07-26",
-      "consecutive_days": 46
-    },
-    "wikipedia:error:Digital_marketing": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Digital_marketing",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Digital_marketing/daily/20260723/20260723",
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "consecutive_days": 2
-    },
-    "wikipedia:error:TikTok": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "TikTok",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/TikTok/daily/20260723/20260723",
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "consecutive_days": 1
-    },
-    "wikipedia:error:副業": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "副業",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260723/20260723",
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "consecutive_days": 1
+      "last_seen": "2026-07-27",
+      "consecutive_days": 47
     }
   },
   "resolved": [
     {
-      "key": "wikipedia:error:備蓄",
+      "key": "wikipedia:error:Digital_marketing",
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "備蓄",
-      "last_seen": "2026-07-25",
+      "detail_id": "Digital_marketing",
+      "last_seen": "2026-07-26",
+      "consecutive_days": 2,
+      "resolved_on": "2026-07-27"
+    },
+    {
+      "key": "wikipedia:error:TikTok",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "TikTok",
+      "last_seen": "2026-07-26",
       "consecutive_days": 1,
-      "resolved_on": "2026-07-26"
+      "resolved_on": "2026-07-27"
+    },
+    {
+      "key": "wikipedia:error:副業",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "副業",
+      "last_seen": "2026-07-26",
+      "consecutive_days": 1,
+      "resolved_on": "2026-07-27"
     }
   ],
   "summary": {
-    "active_count": 4,
-    "resolved_count": 1,
+    "active_count": 1,
+    "resolved_count": 3,
     "active_by_level": {
-      "error": 4
+      "error": 1
     },
     "active_by_source": {
-      "rss": 1,
-      "wikipedia": 3
+      "rss": 1
     }
   }
 }
