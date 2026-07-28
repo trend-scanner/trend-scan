@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,38 +7,38 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-07-28",
-      "consecutive_days": 48
-    },
-    "wikipedia:error:YouTube": {
+      "last_seen": "2026-07-29",
+      "consecutive_days": 49
+    }
+  },
+  "resolved": [
+    {
+      "key": "wikipedia:error:YouTube",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "YouTube",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/YouTube/daily/20260726/20260726",
-      "first_seen": "2026-07-28",
       "last_seen": "2026-07-28",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-07-29"
     },
-    "wikipedia:error:備蓄": {
+    {
+      "key": "wikipedia:error:備蓄",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "備蓄",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%82%99%E8%93%84/daily/20260726/20260726",
-      "first_seen": "2026-07-28",
       "last_seen": "2026-07-28",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-07-29"
     }
-  },
-  "resolved": [],
+  ],
   "summary": {
-    "active_count": 3,
-    "resolved_count": 0,
+    "active_count": 1,
+    "resolved_count": 2,
     "active_by_level": {
-      "error": 3
+      "error": 1
     },
     "active_by_source": {
-      "rss": 1,
-      "wikipedia": 2
+      "rss": 1
     }
   }
 }
