@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,38 +7,38 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-07-29",
-      "consecutive_days": 49
+      "last_seen": "2026-07-30",
+      "consecutive_days": 50
+    },
+    "wikipedia:error:Creator_economy": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Creator_economy",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Creator_economy/daily/20260728/20260728",
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "consecutive_days": 1
+    },
+    "wikipedia:error:E-commerce": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "E-commerce",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/E-commerce/daily/20260728/20260728",
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "consecutive_days": 1
     }
   },
-  "resolved": [
-    {
-      "key": "wikipedia:error:YouTube",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "YouTube",
-      "last_seen": "2026-07-28",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-29"
-    },
-    {
-      "key": "wikipedia:error:備蓄",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "備蓄",
-      "last_seen": "2026-07-28",
-      "consecutive_days": 1,
-      "resolved_on": "2026-07-29"
-    }
-  ],
+  "resolved": [],
   "summary": {
-    "active_count": 1,
-    "resolved_count": 2,
+    "active_count": 3,
+    "resolved_count": 0,
     "active_by_level": {
-      "error": 1
+      "error": 3
     },
     "active_by_source": {
-      "rss": 1
+      "rss": 1,
+      "wikipedia": 2
     }
   }
 }
