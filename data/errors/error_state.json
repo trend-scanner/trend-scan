@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,47 +7,38 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-08-07",
-      "consecutive_days": 58
+      "last_seen": "2026-08-08",
+      "consecutive_days": 59
+    },
+    "wikipedia:error:ChatGPT": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "ChatGPT",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/ChatGPT/daily/20260806/20260806",
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "consecutive_days": 1
+    },
+    "wikipedia:error:Creator_economy": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Creator_economy",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Creator_economy/daily/20260806/20260806",
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "consecutive_days": 1
     }
   },
-  "resolved": [
-    {
-      "key": "wikipedia:error:Search_engine_optimization",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Search_engine_optimization",
-      "last_seen": "2026-08-06",
-      "consecutive_days": 1,
-      "resolved_on": "2026-08-07"
-    },
-    {
-      "key": "wikipedia:error:YouTube",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "YouTube",
-      "last_seen": "2026-08-06",
-      "consecutive_days": 1,
-      "resolved_on": "2026-08-07"
-    },
-    {
-      "key": "wikipedia:error:防災",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "防災",
-      "last_seen": "2026-08-06",
-      "consecutive_days": 2,
-      "resolved_on": "2026-08-07"
-    }
-  ],
+  "resolved": [],
   "summary": {
-    "active_count": 1,
-    "resolved_count": 3,
+    "active_count": 3,
+    "resolved_count": 0,
     "active_by_level": {
-      "error": 1
+      "error": 3
     },
     "active_by_source": {
-      "rss": 1
+      "rss": 1,
+      "wikipedia": 2
     }
   }
 }
