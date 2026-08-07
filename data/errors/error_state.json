@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,57 +7,47 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-08-06",
-      "consecutive_days": 57
-    },
-    "wikipedia:error:Search_engine_optimization": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Search_engine_optimization",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Search_engine_optimization/daily/20260804/20260804",
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "consecutive_days": 1
-    },
-    "wikipedia:error:YouTube": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "YouTube",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/YouTube/daily/20260804/20260804",
-      "first_seen": "2026-08-06",
-      "last_seen": "2026-08-06",
-      "consecutive_days": 1
-    },
-    "wikipedia:error:防災": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "防災",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260804/20260804",
-      "first_seen": "2026-08-05",
-      "last_seen": "2026-08-06",
-      "consecutive_days": 2
+      "last_seen": "2026-08-07",
+      "consecutive_days": 58
     }
   },
   "resolved": [
     {
-      "key": "wikipedia:error:Creator_economy",
+      "key": "wikipedia:error:Search_engine_optimization",
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "Creator_economy",
-      "last_seen": "2026-08-05",
+      "detail_id": "Search_engine_optimization",
+      "last_seen": "2026-08-06",
       "consecutive_days": 1,
-      "resolved_on": "2026-08-06"
+      "resolved_on": "2026-08-07"
+    },
+    {
+      "key": "wikipedia:error:YouTube",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "YouTube",
+      "last_seen": "2026-08-06",
+      "consecutive_days": 1,
+      "resolved_on": "2026-08-07"
+    },
+    {
+      "key": "wikipedia:error:防災",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "防災",
+      "last_seen": "2026-08-06",
+      "consecutive_days": 2,
+      "resolved_on": "2026-08-07"
     }
   ],
   "summary": {
-    "active_count": 4,
-    "resolved_count": 1,
+    "active_count": 1,
+    "resolved_count": 3,
     "active_by_level": {
-      "error": 4
+      "error": 1
     },
     "active_by_source": {
-      "rss": 1,
-      "wikipedia": 3
+      "rss": 1
     }
   }
 }
