@@ -1,0 +1,844 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-08-09",
+  "snapshot_at": "2026-08-09T06:41:03.467820+09:00",
+  "items": [
+    {
+      "market_id": "2126460",
+      "title": "Will Crude Oil reach a new all-time high by September 30?",
+      "slug": "will-crude-oil-reach-a-new-all-time-high-by-september-30",
+      "url": "https://polymarket.com/event/will-crude-oil-reach-a-new-all-time-high-by-september-30",
+      "category": null,
+      "volume": 957368.7607470002,
+      "liquidity": 64880.44616,
+      "end_date": "2026-09-30T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.032
+        },
+        {
+          "name": "No",
+          "price": 0.968
+        }
+      ],
+      "tags": [
+        "energy"
+      ],
+      "relevance": {
+        "score": 8.95,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "oil",
+          "crude"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "energy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "676739",
+      "title": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "category": null,
+      "volume": 995461.7629990001,
+      "liquidity": 71919.0335,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.705
+        },
+        {
+          "name": "No",
+          "price": 0.295
+        }
+      ],
+      "tags": [
+        "semiconductor"
+      ],
+      "relevance": {
+        "score": 8.6,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Nvidia"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "semiconductor"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2314379",
+      "title": "Will OpenAI IPO by September 30 2026?",
+      "slug": "will-openai-ipo-by-september-30-2026",
+      "url": "https://polymarket.com/event/will-openai-ipo-by-september-30-2026",
+      "category": null,
+      "volume": 99693.79745,
+      "liquidity": 16049.86335,
+      "end_date": null,
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0275
+        },
+        {
+          "name": "No",
+          "price": 0.9725
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 7.268,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI",
+          "IPO"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2955054",
+      "title": "Will Amazon have the best AI model at the end of August 2026?",
+      "slug": "will-amazon-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210296",
+      "url": "https://polymarket.com/event/will-amazon-have-the-best-ai-model-at-the-end-of-august-2026-20260717020210296",
+      "category": null,
+      "volume": 9771.6245,
+      "liquidity": 54181.43388,
+      "end_date": "2026-08-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0005
+        },
+        {
+          "name": "No",
+          "price": 0.9995
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 7.048,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "Amazon"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "690202",
+      "title": "Will the Fed’s upper bound reach 4.25% or higher before 2027?",
+      "slug": "will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027",
+      "url": "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027",
+      "category": null,
+      "volume": 98827.957613,
+      "liquidity": 20702.592,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.2245
+        },
+        {
+          "name": "No",
+          "price": 0.7755
+        }
+      ],
+      "tags": [
+        "economy"
+      ],
+      "relevance": {
+        "score": 7.002,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Fed"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "economy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3212544",
+      "title": "Will Donald Trump visit Ukraine by December 31, 2026?",
+      "slug": "will-donald-trump-visit-ukraine-by-december-31-2026-20260729210126060",
+      "url": "https://polymarket.com/event/will-donald-trump-visit-ukraine-by-december-31-2026-20260729210126060",
+      "category": null,
+      "volume": 97387.667378,
+      "liquidity": 9635.6443,
+      "end_date": "2026-12-31T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.055
+        },
+        {
+          "name": "No",
+          "price": 0.945
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 6.767,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2299990",
+      "title": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
+      "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
+      "url": "https://polymarket.com/event/will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
+      "category": null,
+      "volume": 96720.597526,
+      "liquidity": 7755.2861,
+      "end_date": "2027-01-01T12:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.755
+        },
+        {
+          "name": "No",
+          "price": 0.245
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.722,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1560230",
+      "title": "Will Ethereum hit $1,000 or $3,000 first?",
+      "slug": "will-ethereum-hit-1k-or-3k-first",
+      "url": "https://polymarket.com/event/will-ethereum-hit-1k-or-3k-first",
+      "category": null,
+      "volume": 96018.90989400001,
+      "liquidity": 7414.6626,
+      "end_date": "2027-01-01T05:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "$1,000",
+          "price": 0.535
+        },
+        {
+          "name": "$3,000",
+          "price": 0.465
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 6.708,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ethereum"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3008499",
+      "title": "Will OpenAI have the best AI model at the end of September 2026?",
+      "slug": "will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
+      "url": "https://polymarket.com/event/will-openai-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137058",
+      "category": null,
+      "volume": 9710.568651,
+      "liquidity": 15080.75608,
+      "end_date": "2026-09-30T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.1045
+        },
+        {
+          "name": "No",
+          "price": 0.8955
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.349,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2955117",
+      "title": "Will Google have the best Text-to-Video AI at the end of August 2026?",
+      "slug": "will-google-have-the-best-text-to-video-ai-at-the-end-of-august-2026-20260717022544477",
+      "url": "https://polymarket.com/event/will-google-have-the-best-text-to-video-ai-at-the-end-of-august-2026-20260717022544477",
+      "category": null,
+      "volume": 9998.898444999999,
+      "liquidity": 1254.3585,
+      "end_date": "2026-08-31T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.73
+        },
+        {
+          "name": "No",
+          "price": 0.27
+        }
+      ],
+      "tags": [
+        "ai",
+        "video"
+      ],
+      "relevance": {
+        "score": 6.325,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "Google"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai",
+          "video"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3008506",
+      "title": "Will ByteDance have the best AI model at the end of September 2026?",
+      "slug": "will-bytedance-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137065",
+      "url": "https://polymarket.com/event/will-bytedance-have-the-best-ai-model-at-the-end-of-september-2026-20260717143137065",
+      "category": null,
+      "volume": 9602.6045,
+      "liquidity": 27193.78686,
+      "end_date": "2026-09-30T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0015
+        },
+        {
+          "name": "No",
+          "price": 0.9985
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.24,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3007945",
+      "title": "Will OpenAI have the best Text-to-Image AI at the end of September 2026?",
+      "slug": "will-openai-have-the-best-text-to-image-ai-at-the-end-of-september-2026-20260717133742994",
+      "url": "https://polymarket.com/event/will-openai-have-the-best-text-to-image-ai-at-the-end-of-september-2026-20260717133742994",
+      "category": null,
+      "volume": 9808.235329,
+      "liquidity": 4642.9732,
+      "end_date": "2026-09-30T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.795
+        },
+        {
+          "name": "No",
+          "price": 0.205
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.141,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3211877",
+      "title": "Will OpenAI have the best AI model on LiveBench (Coding) at the end of September 2026?",
+      "slug": "will-openai-have-the-best-ai-model-on-livebench-coding-at-the-end-of-september-2026-20260728165808287",
+      "url": "https://polymarket.com/event/will-openai-have-the-best-ai-model-on-livebench-coding-at-the-end-of-september-2026-20260728165808287",
+      "category": null,
+      "volume": 9755.588776,
+      "liquidity": 589.996,
+      "end_date": "2026-09-30T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.195
+        },
+        {
+          "name": "No",
+          "price": 0.805
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.059,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1126856",
+      "title": "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?",
+      "slug": "will-venezuelan-crude-oil-production-reach-1pt5m-barrels-per-day-in-2026",
+      "url": "https://polymarket.com/event/will-venezuelan-crude-oil-production-reach-1pt5m-barrels-per-day-in-2026",
+      "category": null,
+      "volume": 9718.716797,
+      "liquidity": 472.50737,
+      "end_date": "2027-02-28T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0765
+        },
+        {
+          "name": "No",
+          "price": 0.9235
+        }
+      ],
+      "tags": [
+        "energy"
+      ],
+      "relevance": {
+        "score": 6.057,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "oil",
+          "crude"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "energy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2925099",
+      "title": "Will monthly inflation decrease by 0.6% in July?",
+      "slug": "will-monthly-inflation-decrease-by-0pt6-in-july-20260714151054968",
+      "url": "https://polymarket.com/event/will-monthly-inflation-decrease-by-0pt6-in-july-20260714151054968",
+      "category": null,
+      "volume": 9823.9589,
+      "liquidity": 5695.53742,
+      "end_date": "2026-08-12T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0015
+        },
+        {
+          "name": "No",
+          "price": 0.9985
+        }
+      ],
+      "tags": [
+        "inflation"
+      ],
+      "relevance": {
+        "score": 5.812,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "inflation"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "inflation"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1831354",
+      "title": "Will any AI model reach 1540 Overall Arena Score by September 30, 2026?",
+      "slug": "will-any-ai-model-reach-1540-overall-arena-score-by-september-30-2026",
+      "url": "https://polymarket.com/event/will-any-ai-model-reach-1540-overall-arena-score-by-september-30-2026",
+      "category": null,
+      "volume": 9819.978571,
+      "liquidity": 985.4935,
+      "end_date": "2026-09-30T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.085
+        },
+        {
+          "name": "No",
+          "price": 0.915
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.718,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1323318",
+      "title": "Will the US federal government take a stake in OpenAI?",
+      "slug": "will-the-us-federal-government-take-a-stake-in-openai",
+      "url": "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-openai",
+      "category": null,
+      "volume": 9643.878804,
+      "liquidity": 443.8485,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.19
+        },
+        {
+          "name": "No",
+          "price": 0.81
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.705,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3257429",
+      "title": "Will Solana reach $160 in August?",
+      "slug": "will-solana-reach-160-in-august-2026",
+      "url": "https://polymarket.com/event/will-solana-reach-160-in-august-2026",
+      "category": null,
+      "volume": 9572.130883,
+      "liquidity": 93828.7943,
+      "end_date": "2026-09-01T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0025
+        },
+        {
+          "name": "No",
+          "price": 0.9975
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.946,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Solana"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2299960",
+      "title": "Will Anthropic's valuation hit (LOW) $800B by December 31?",
+      "slug": "will-anthropics-valuation-hit-low-800b-by-december-31-957-743",
+      "url": "https://polymarket.com/event/will-anthropics-valuation-hit-low-800b-by-december-31-957-743",
+      "category": null,
+      "volume": 99654.21881899997,
+      "liquidity": 4914.7272,
+      "end_date": "2027-01-01T12:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.145
+        },
+        {
+          "name": "No",
+          "price": 0.855
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.945,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2324609",
+      "title": "Will Oura's market cap be between $17.5B and $20B at market close on IPO day?",
+      "slug": "will-ouras-market-cap-be-between-17pt5b-and-20b-at-market-close-on-ipo-day",
+      "url": "https://polymarket.com/event/will-ouras-market-cap-be-between-17pt5b-and-20b-at-market-close-on-ipo-day",
+      "category": null,
+      "volume": 9771.574633,
+      "liquidity": 18212.5421,
+      "end_date": "2027-01-01T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.155
+        },
+        {
+          "name": "No",
+          "price": 0.845
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.312,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "IPO"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1243588",
+      "title": "Will Tesla release Optimus by December 31, 2026?",
+      "slug": "will-tesla-release-optimus-by-december-31-2026",
+      "url": "https://polymarket.com/event/will-tesla-release-optimus-by-december-31-2026",
+      "category": null,
+      "volume": 9765.497052,
+      "liquidity": 4685.5694,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.145
+        },
+        {
+          "name": "No",
+          "price": 0.855
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.041,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Tesla"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 21,
+    "fetched_market_count": 498,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
