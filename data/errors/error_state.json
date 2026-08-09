@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,57 +7,57 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-08-09",
-      "consecutive_days": 60
+      "last_seen": "2026-08-10",
+      "consecutive_days": 61
+    },
+    "wikipedia:error:ChatGPT": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "ChatGPT",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/ChatGPT/daily/20260808/20260808",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "consecutive_days": 1
+    },
+    "wikipedia:error:Creator_economy": {
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Creator_economy",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Creator_economy/daily/20260808/20260808",
+      "first_seen": "2026-08-10",
+      "last_seen": "2026-08-10",
+      "consecutive_days": 1
     },
     "wikipedia:error:YouTube": {
       "source": "wikipedia",
       "level": "error",
       "detail_id": "YouTube",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/YouTube/daily/20260807/20260807",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/YouTube/daily/20260808/20260808",
       "first_seen": "2026-08-09",
-      "last_seen": "2026-08-09",
-      "consecutive_days": 1
-    },
-    "wikipedia:error:防災": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "防災",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260807/20260807",
-      "first_seen": "2026-08-09",
-      "last_seen": "2026-08-09",
-      "consecutive_days": 1
+      "last_seen": "2026-08-10",
+      "consecutive_days": 2
     }
   },
   "resolved": [
     {
-      "key": "wikipedia:error:ChatGPT",
+      "key": "wikipedia:error:防災",
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "ChatGPT",
-      "last_seen": "2026-08-08",
+      "detail_id": "防災",
+      "last_seen": "2026-08-09",
       "consecutive_days": 1,
-      "resolved_on": "2026-08-09"
-    },
-    {
-      "key": "wikipedia:error:Creator_economy",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Creator_economy",
-      "last_seen": "2026-08-08",
-      "consecutive_days": 1,
-      "resolved_on": "2026-08-09"
+      "resolved_on": "2026-08-10"
     }
   ],
   "summary": {
-    "active_count": 3,
-    "resolved_count": 2,
+    "active_count": 4,
+    "resolved_count": 1,
     "active_by_level": {
-      "error": 3
+      "error": 4
     },
     "active_by_source": {
       "rss": 1,
-      "wikipedia": 2
+      "wikipedia": 3
     }
   }
 }
