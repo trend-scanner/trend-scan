@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,42 +7,33 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-08-11",
-      "consecutive_days": 62
+      "last_seen": "2026-08-12",
+      "consecutive_days": 63
     },
-    "wikipedia:error:YouTube": {
+    "wikipedia:error:備蓄": {
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "YouTube",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/YouTube/daily/20260809/20260809",
-      "first_seen": "2026-08-09",
-      "last_seen": "2026-08-11",
-      "consecutive_days": 3
+      "detail_id": "備蓄",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%82%99%E8%93%84/daily/20260810/20260810",
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "consecutive_days": 1
     }
   },
   "resolved": [
     {
-      "key": "wikipedia:error:ChatGPT",
+      "key": "wikipedia:error:YouTube",
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "ChatGPT",
-      "last_seen": "2026-08-10",
-      "consecutive_days": 1,
-      "resolved_on": "2026-08-11"
-    },
-    {
-      "key": "wikipedia:error:Creator_economy",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Creator_economy",
-      "last_seen": "2026-08-10",
-      "consecutive_days": 1,
-      "resolved_on": "2026-08-11"
+      "detail_id": "YouTube",
+      "last_seen": "2026-08-11",
+      "consecutive_days": 3,
+      "resolved_on": "2026-08-12"
     }
   ],
   "summary": {
     "active_count": 2,
-    "resolved_count": 2,
+    "resolved_count": 1,
     "active_by_level": {
       "error": 2
     },

@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-12",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-08-12",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "wikipedia:error:備蓄",
+      "date": "2026-08-12",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "備蓄",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%82%99%E8%93%84/daily/20260810/20260810",
+      "raw": {
+        "title": "備蓄",
+        "resolved_title": "備蓄",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%82%99%E8%93%84/daily/20260810/20260810"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-08-12",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260811/20260811",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-08-11",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260811/20260811"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 3,
+    "by_level": {
+      "error": 2,
+      "warning": 1
+    },
+    "by_source": {
+      "rss": 1,
+      "wikipedia": 2
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-08-12",
+        "consecutive_days": 63
+      }
+    ]
+  }
+}
