@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,28 +7,28 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-08-12",
-      "consecutive_days": 63
+      "last_seen": "2026-08-13",
+      "consecutive_days": 64
     },
-    "wikipedia:error:備蓄": {
+    "wikipedia:error:防災": {
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "備蓄",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%82%99%E8%93%84/daily/20260810/20260810",
-      "first_seen": "2026-08-12",
-      "last_seen": "2026-08-12",
+      "detail_id": "防災",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260811/20260811",
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-08-13",
       "consecutive_days": 1
     }
   },
   "resolved": [
     {
-      "key": "wikipedia:error:YouTube",
+      "key": "wikipedia:error:備蓄",
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "YouTube",
-      "last_seen": "2026-08-11",
-      "consecutive_days": 3,
-      "resolved_on": "2026-08-12"
+      "detail_id": "備蓄",
+      "last_seen": "2026-08-12",
+      "consecutive_days": 1,
+      "resolved_on": "2026-08-13"
     }
   ],
   "summary": {
