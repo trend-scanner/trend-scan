@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-14",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-08-14",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "wikipedia:error:Large_language_model",
+      "date": "2026-08-14",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "Large_language_model",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Large_language_model/daily/20260812/20260812",
+      "raw": {
+        "title": "Large_language_model",
+        "resolved_title": "Large language model",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Large_language_model/daily/20260812/20260812"
+      }
+    },
+    {
+      "key": "wikipedia:error:YouTube",
+      "date": "2026-08-14",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "YouTube",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/YouTube/daily/20260812/20260812",
+      "raw": {
+        "title": "YouTube",
+        "resolved_title": "YouTube",
+        "error": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/YouTube/daily/20260812/20260812"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-08-14",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260813/20260813",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-08-13",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260813/20260813"
+      }
+    },
+    {
+      "key": "wikipedia:warning:YouTube",
+      "date": "2026-08-14",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "YouTube",
+      "message": "429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&titles=YouTube",
+      "raw": {
+        "title": "YouTube",
+        "warning": "429 Client Error: Too Many Requests for url: https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&titles=YouTube"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 5,
+    "by_level": {
+      "error": 3,
+      "warning": 2
+    },
+    "by_source": {
+      "rss": 1,
+      "wikipedia": 4
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-08-14",
+        "consecutive_days": 65
+      }
+    ]
+  }
+}
