@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,48 +7,38 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-08-14",
-      "consecutive_days": 65
-    },
-    "wikipedia:error:Large_language_model": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Large_language_model",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Large_language_model/daily/20260812/20260812",
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "consecutive_days": 1
-    },
-    "wikipedia:error:YouTube": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "YouTube",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/YouTube/daily/20260812/20260812",
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "consecutive_days": 1
+      "last_seen": "2026-08-15",
+      "consecutive_days": 66
     }
   },
   "resolved": [
     {
-      "key": "wikipedia:error:防災",
+      "key": "wikipedia:error:Large_language_model",
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "防災",
-      "last_seen": "2026-08-13",
+      "detail_id": "Large_language_model",
+      "last_seen": "2026-08-14",
       "consecutive_days": 1,
-      "resolved_on": "2026-08-14"
+      "resolved_on": "2026-08-15"
+    },
+    {
+      "key": "wikipedia:error:YouTube",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "YouTube",
+      "last_seen": "2026-08-14",
+      "consecutive_days": 1,
+      "resolved_on": "2026-08-15"
     }
   ],
   "summary": {
-    "active_count": 3,
-    "resolved_count": 1,
+    "active_count": 1,
+    "resolved_count": 2,
     "active_by_level": {
-      "error": 3
+      "error": 1
     },
     "active_by_source": {
-      "rss": 1,
-      "wikipedia": 2
+      "rss": 1
     }
   }
 }
