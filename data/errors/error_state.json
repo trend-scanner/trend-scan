@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,66 +7,56 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-08-17",
-      "consecutive_days": 68
-    },
-    "wikipedia:error:Affiliate_marketing": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Affiliate_marketing",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Affiliate_marketing/daily/20260813/20260813",
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "consecutive_days": 1
-    },
-    "wikipedia:error:ChatGPT": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "ChatGPT",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/ChatGPT/daily/20260813/20260813",
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-08-17",
-      "consecutive_days": 1
-    },
-    "wikipedia:error:副業": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "副業",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%89%AF%E6%A5%AD/daily/20260813/20260813",
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-17",
-      "consecutive_days": 2
-    },
-    "wikipedia:error:防災": {
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "防災",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E9%98%B2%E7%81%BD/daily/20260813/20260813",
-      "first_seen": "2026-08-16",
-      "last_seen": "2026-08-17",
-      "consecutive_days": 2
+      "last_seen": "2026-08-18",
+      "consecutive_days": 69
     }
   },
   "resolved": [
     {
-      "key": "wikipedia:error:Search_engine_optimization",
+      "key": "wikipedia:error:Affiliate_marketing",
       "source": "wikipedia",
       "level": "error",
-      "detail_id": "Search_engine_optimization",
-      "last_seen": "2026-08-16",
+      "detail_id": "Affiliate_marketing",
+      "last_seen": "2026-08-17",
       "consecutive_days": 1,
-      "resolved_on": "2026-08-17"
+      "resolved_on": "2026-08-18"
+    },
+    {
+      "key": "wikipedia:error:ChatGPT",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "ChatGPT",
+      "last_seen": "2026-08-17",
+      "consecutive_days": 1,
+      "resolved_on": "2026-08-18"
+    },
+    {
+      "key": "wikipedia:error:副業",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "副業",
+      "last_seen": "2026-08-17",
+      "consecutive_days": 2,
+      "resolved_on": "2026-08-18"
+    },
+    {
+      "key": "wikipedia:error:防災",
+      "source": "wikipedia",
+      "level": "error",
+      "detail_id": "防災",
+      "last_seen": "2026-08-17",
+      "consecutive_days": 2,
+      "resolved_on": "2026-08-18"
     }
   ],
   "summary": {
-    "active_count": 5,
-    "resolved_count": 1,
+    "active_count": 1,
+    "resolved_count": 4,
     "active_by_level": {
-      "error": 5
+      "error": 1
     },
     "active_by_source": {
-      "rss": 1,
-      "wikipedia": 4
+      "rss": 1
     }
   }
 }
