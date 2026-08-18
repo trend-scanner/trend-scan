@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,51 +7,14 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-08-18",
-      "consecutive_days": 69
+      "last_seen": "2026-08-19",
+      "consecutive_days": 70
     }
   },
-  "resolved": [
-    {
-      "key": "wikipedia:error:Affiliate_marketing",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Affiliate_marketing",
-      "last_seen": "2026-08-17",
-      "consecutive_days": 1,
-      "resolved_on": "2026-08-18"
-    },
-    {
-      "key": "wikipedia:error:ChatGPT",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "ChatGPT",
-      "last_seen": "2026-08-17",
-      "consecutive_days": 1,
-      "resolved_on": "2026-08-18"
-    },
-    {
-      "key": "wikipedia:error:副業",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "副業",
-      "last_seen": "2026-08-17",
-      "consecutive_days": 2,
-      "resolved_on": "2026-08-18"
-    },
-    {
-      "key": "wikipedia:error:防災",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "防災",
-      "last_seen": "2026-08-17",
-      "consecutive_days": 2,
-      "resolved_on": "2026-08-18"
-    }
-  ],
+  "resolved": [],
   "summary": {
     "active_count": 1,
-    "resolved_count": 4,
+    "resolved_count": 0,
     "active_by_level": {
       "error": 1
     },
