@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
       "level": "error",
       "detail_id": "microsoft-ai",
-      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "message": "403 Client Error: Forbidden for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-08-21",
-      "consecutive_days": 72
+      "last_seen": "2026-08-22",
+      "consecutive_days": 73
     }
   },
   "resolved": [],
