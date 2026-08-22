@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,8 +7,8 @@
       "detail_id": "microsoft-ai",
       "message": "403 Client Error: Forbidden for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-08-22",
-      "consecutive_days": 73
+      "last_seen": "2026-08-23",
+      "consecutive_days": 74
     }
   },
   "resolved": [],
