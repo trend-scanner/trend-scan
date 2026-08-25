@@ -1,0 +1,873 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-08-26",
+  "snapshot_at": "2026-08-26T06:39:03.919584+09:00",
+  "items": [
+    {
+      "market_id": "3102462",
+      "title": "Will WTI Crude Oil (WTI) hit (HIGH) $95 in August?",
+      "slug": "will-wti-reach-95-in-august-2026",
+      "url": "https://polymarket.com/event/will-wti-reach-95-in-august-2026",
+      "category": null,
+      "volume": 985342.1173180027,
+      "liquidity": 48259.57461,
+      "end_date": "2026-09-01T03:59:59.999Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0245
+        },
+        {
+          "name": "No",
+          "price": 0.9755
+        }
+      ],
+      "tags": [
+        "energy"
+      ],
+      "relevance": {
+        "score": 8.915,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "oil",
+          "crude"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "energy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2468461",
+      "title": "Will Ethereum dip to $500 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-500-by-december-31-2026-from-june-8",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-500-by-december-31-2026-from-june-8",
+      "category": null,
+      "volume": 97543.7611,
+      "liquidity": 82511.80013,
+      "end_date": "2027-01-01T05:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0245
+        },
+        {
+          "name": "No",
+          "price": 0.9755
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 7.575,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ethereum"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3724023",
+      "title": "Will the price of Bitcoin be above $70,000 on August 26?",
+      "slug": "bitcoin-above-70k-on-august-26-2026",
+      "url": "https://polymarket.com/event/bitcoin-above-70k-on-august-26-2026",
+      "category": null,
+      "volume": 97351.15467,
+      "liquidity": 66780.83388,
+      "end_date": "2026-08-26T16:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.9985
+        },
+        {
+          "name": "No",
+          "price": 0.0015
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 7.574,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3724027",
+      "title": "Will the price of Bitcoin be above $74,000 on August 26?",
+      "slug": "bitcoin-above-74k-on-august-26-2026",
+      "url": "https://polymarket.com/event/bitcoin-above-74k-on-august-26-2026",
+      "category": null,
+      "volume": 98506.609519,
+      "liquidity": 35848.87233,
+      "end_date": "2026-08-26T16:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.9845
+        },
+        {
+          "name": "No",
+          "price": 0.0155
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 7.302,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1560230",
+      "title": "Will Ethereum hit $1,000 or $3,000 first?",
+      "slug": "will-ethereum-hit-1k-or-3k-first",
+      "url": "https://polymarket.com/event/will-ethereum-hit-1k-or-3k-first",
+      "category": null,
+      "volume": 98944.25058300002,
+      "liquidity": 13807.1778,
+      "end_date": "2027-01-01T05:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "$1,000",
+          "price": 0.265
+        },
+        {
+          "name": "$3,000",
+          "price": 0.735
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 6.866,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ethereum"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2299952",
+      "title": "Will Anthropic's valuation hit (HIGH) $3.0T by December 31?",
+      "slug": "will-anthropics-valuation-hit-high-3pt0t-by-december-31",
+      "url": "https://polymarket.com/event/will-anthropics-valuation-hit-high-3pt0t-by-december-31",
+      "category": null,
+      "volume": 964788.5049749997,
+      "liquidity": 84168.5887,
+      "end_date": "2027-01-01T12:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.285
+        },
+        {
+          "name": "No",
+          "price": 0.715
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 6.85,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2299990",
+      "title": "Will OpenAI's valuation hit (HIGH) $1.0T by December 31?",
+      "slug": "will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
+      "url": "https://polymarket.com/event/will-openais-valuation-hit-high-1pt0t-by-december-31-846-461",
+      "category": null,
+      "volume": 98730.05026000002,
+      "liquidity": 7638.5838,
+      "end_date": "2027-01-01T12:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.675
+        },
+        {
+          "name": "No",
+          "price": 0.325
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.74,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3763323",
+      "title": "Will the price of Bitcoin be above $82,000 on August 28?",
+      "slug": "bitcoin-above-82k-on-august-28-2026",
+      "url": "https://polymarket.com/event/bitcoin-above-82k-on-august-28-2026",
+      "category": null,
+      "volume": 9612.004744000002,
+      "liquidity": 32321.9418,
+      "end_date": "2026-08-28T16:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.14
+        },
+        {
+          "name": "No",
+          "price": 0.86
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 6.343,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3829966",
+      "title": "Will Ethereum reach $2,800 August 24-30?",
+      "slug": "will-ethereum-reach-2800-august-24-30-2026",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2800-august-24-30-2026",
+      "category": null,
+      "volume": 9623.452993,
+      "liquidity": 23584.0702,
+      "end_date": "2026-08-31T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.07
+        },
+        {
+          "name": "No",
+          "price": 0.93
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 6.168,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ethereum"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1126856",
+      "title": "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?",
+      "slug": "will-venezuelan-crude-oil-production-reach-1pt5m-barrels-per-day-in-2026",
+      "url": "https://polymarket.com/event/will-venezuelan-crude-oil-production-reach-1pt5m-barrels-per-day-in-2026",
+      "category": null,
+      "volume": 9840.316797000001,
+      "liquidity": 1011.091,
+      "end_date": "2027-02-28T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.043
+        },
+        {
+          "name": "No",
+          "price": 0.957
+        }
+      ],
+      "tags": [
+        "energy"
+      ],
+      "relevance": {
+        "score": 6.069,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "oil",
+          "crude"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "energy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3866068",
+      "title": "Will Bitcoin reach $84,000 on August 25?",
+      "slug": "will-bitcoin-reach-84k-on-august-25-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-on-august-25-2026",
+      "category": null,
+      "volume": 9824.460132,
+      "liquidity": 13473.14221,
+      "end_date": "2026-08-26T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.004
+        },
+        {
+          "name": "No",
+          "price": 0.996
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 5.968,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2773241",
+      "title": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the September interest rate announcement?",
+      "slug": "will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-september-interest-rate-announcement-20260701223915215",
+      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-september-interest-rate-announcement-20260701223915215",
+      "category": null,
+      "volume": 9710.010080000002,
+      "liquidity": 7365.65149,
+      "end_date": "2026-09-02T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0015
+        },
+        {
+          "name": "No",
+          "price": 0.9985
+        }
+      ],
+      "tags": [
+        "economy"
+      ],
+      "relevance": {
+        "score": 5.844,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "interest rate"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "economy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3748376",
+      "title": "Will Ethereum hit $3k by September 30, 2026?",
+      "slug": "will-ethereum-hit-3k-by-september-30-2026",
+      "url": "https://polymarket.com/event/will-ethereum-hit-3k-by-september-30-2026",
+      "category": null,
+      "volume": 9730.945222,
+      "liquidity": 4869.3371,
+      "end_date": "2026-10-01T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.245
+        },
+        {
+          "name": "No",
+          "price": 0.755
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 5.795,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ethereum"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1227345",
+      "title": "Will Kevin Warsh be confirmed as Fed Chair and will rates stay above 2.5% in 2026?",
+      "slug": "will-kevin-warsh-be-confirmed-as-fed-chair-and-will-rates-stay-above-2pt5-in-2026-958",
+      "url": "https://polymarket.com/event/will-kevin-warsh-be-confirmed-as-fed-chair-and-will-rates-stay-above-2pt5-in-2026-958",
+      "category": null,
+      "volume": 9645.086228,
+      "liquidity": 3040.318,
+      "end_date": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.94
+        },
+        {
+          "name": "No",
+          "price": 0.06
+        }
+      ],
+      "tags": [
+        "economy"
+      ],
+      "relevance": {
+        "score": 5.757,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Fed"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "economy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1082181",
+      "title": "Will Canada’s 2026 inflation be between 2.5% and 2.9%?",
+      "slug": "will-canadas-2026-inflation-be-between-2pt5-and-2pt9",
+      "url": "https://polymarket.com/event/will-canadas-2026-inflation-be-between-2pt5-and-2pt9",
+      "category": null,
+      "volume": 9823.312600999996,
+      "liquidity": 1439.35112,
+      "end_date": "2027-01-18T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.2955
+        },
+        {
+          "name": "No",
+          "price": 0.7045
+        }
+      ],
+      "tags": [
+        "inflation"
+      ],
+      "relevance": {
+        "score": 5.727,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "inflation"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "inflation"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2954996",
+      "title": "Will Alibaba have the best Math AI model at the end of August 2026?",
+      "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+      "url": "https://polymarket.com/event/will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+      "category": null,
+      "volume": 9947.699383,
+      "liquidity": 727.79721,
+      "end_date": "2026-08-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.003
+        },
+        {
+          "name": "No",
+          "price": 0.997
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.714,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3093556",
+      "title": "Will Z.ai be the third-best Chinese AI company at the end of September 2026?",
+      "slug": "will-zptai-be-the-third-best-chinese-ai-company-at-the-end-of-september-2026-20260722220502457",
+      "url": "https://polymarket.com/event/will-zptai-be-the-third-best-chinese-ai-company-at-the-end-of-september-2026-20260722220502457",
+      "category": null,
+      "volume": 9646.036309,
+      "liquidity": 525.1839,
+      "end_date": "2026-09-30T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.465
+        },
+        {
+          "name": "No",
+          "price": 0.535
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.707,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3093466",
+      "title": "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?",
+      "slug": "will-alibaba-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722215814735",
+      "url": "https://polymarket.com/event/will-alibaba-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722215814735",
+      "category": null,
+      "volume": 9646.847521,
+      "liquidity": 233.701,
+      "end_date": "2026-09-30T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.36
+        },
+        {
+          "name": "No",
+          "price": 0.64
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.701,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3251322",
+      "title": "Will Erling Haaland be the #1 searched person on Google in the US this year?",
+      "slug": "will-erling-haaland-be-the-1-searched-person-on-google-in-the-us-this-year-20260730192940389",
+      "url": "https://polymarket.com/event/will-erling-haaland-be-the-1-searched-person-on-google-in-the-us-this-year-20260730192940389",
+      "category": null,
+      "volume": 9876.836671000001,
+      "liquidity": 7866.61934,
+      "end_date": "2026-12-31T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.1305
+        },
+        {
+          "name": "No",
+          "price": 0.8695
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.106,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Google"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3207791",
+      "title": "Will the next Google Gemini Pro model be released on August 27, 2026?",
+      "slug": "will-the-next-google-gemini-pro-model-be-released-on-august-27-2026-20260729182045902",
+      "url": "https://polymarket.com/event/will-the-next-google-gemini-pro-model-be-released-on-august-27-2026-20260729182045902",
+      "category": null,
+      "volume": 9723.62341,
+      "liquidity": 2724.72254,
+      "end_date": "2026-08-28T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.025
+        },
+        {
+          "name": "No",
+          "price": 0.975
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.002,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Google"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3231235",
+      "title": "Situational Awareness Anthropic sale confirmed by August 31?",
+      "slug": "situational-awareness-anthropic-sale-confirmed-by-august-31-20260730182057663",
+      "url": "https://polymarket.com/event/situational-awareness-anthropic-sale-confirmed-by-august-31-20260730182057663",
+      "category": null,
+      "volume": 9918.953201,
+      "liquidity": 604.85266,
+      "end_date": null,
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.034
+        },
+        {
+          "name": "No",
+          "price": 0.966
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 3.961,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2745549",
+      "title": "Will Russia capture Kozacha Lopan by December 31, 2026?",
+      "slug": "will-russia-capture-kozacha-lopan-by-december-31-2026-20260630005737621",
+      "url": "https://polymarket.com/event/will-russia-capture-kozacha-lopan-by-december-31-2026-20260630005737621",
+      "category": null,
+      "volume": 9712.109915000001,
+      "liquidity": 2029.6948,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.475
+        },
+        {
+          "name": "No",
+          "price": 0.525
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 1.888,
+        "reasons": [
+          "strategy_tag"
+        ],
+        "matched_keywords": [],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 22,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
