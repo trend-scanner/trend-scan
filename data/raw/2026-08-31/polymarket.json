@@ -1,0 +1,913 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-08-31",
+  "snapshot_at": "2026-08-31T08:25:03.351801+09:00",
+  "items": [
+    {
+      "market_id": "2468461",
+      "title": "Will Ethereum dip to $500 by December 31, 2026?",
+      "slug": "will-ethereum-dip-to-500-by-december-31-2026-from-june-8",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-500-by-december-31-2026-from-june-8",
+      "category": null,
+      "volume": 97672.7611,
+      "liquidity": 67869.63499,
+      "end_date": "2027-01-01T05:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.024
+        },
+        {
+          "name": "No",
+          "price": 0.976
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 7.577,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ethereum"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2364962",
+      "title": "Will Trump and Putin meet next in China?",
+      "slug": "will-trump-and-putin-meet-next-in-china-784",
+      "url": "https://polymarket.com/event/will-trump-and-putin-meet-next-in-china-784",
+      "category": null,
+      "volume": 98874.430295,
+      "liquidity": 39751.6213,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.405
+        },
+        {
+          "name": "No",
+          "price": 0.595
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 7.384,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "China"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3829909",
+      "title": "Will Bitcoin dip to $70,000 August 24-30?",
+      "slug": "will-bitcoin-dip-to-70k-august-24-30-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-august-24-30-2026",
+      "category": null,
+      "volume": 96803.888493,
+      "liquidity": 40086.39684,
+      "end_date": "2026-08-31T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0005
+        },
+        {
+          "name": "No",
+          "price": 0.9995
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 7.37,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2954948",
+      "title": "Will Baidu have the best Chinese AI model at the end of August 2026?",
+      "slug": "will-baidu-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241595",
+      "url": "https://polymarket.com/event/will-baidu-have-the-best-chinese-ai-model-at-the-end-of-august-2026-20260717004241595",
+      "category": null,
+      "volume": 98242.01042400001,
+      "liquidity": 16530.89923,
+      "end_date": "2026-09-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0005
+        },
+        {
+          "name": "No",
+          "price": 0.9995
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.913,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2760256",
+      "title": "Will Ukraine re-enter Hryshyne by September 30?",
+      "slug": "will-ukraine-re-enter-hryshyne-by-september-30",
+      "url": "https://polymarket.com/event/will-ukraine-re-enter-hryshyne-by-september-30",
+      "category": null,
+      "volume": 96877.94002700005,
+      "liquidity": 2215.9127,
+      "end_date": "2026-09-30T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.085
+        },
+        {
+          "name": "No",
+          "price": 0.915
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 6.613,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3554762",
+      "title": "Will Anthropic have the #1 AI model at the end of October 2026?",
+      "slug": "will-anthropic-have-the-1-ai-model-at-the-end-of-october-2026-20260811194841244",
+      "url": "https://polymarket.com/event/will-anthropic-have-the-1-ai-model-at-the-end-of-october-2026-20260811194841244",
+      "category": null,
+      "volume": 9632.265909,
+      "liquidity": 2007.6864,
+      "end_date": "2026-11-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.85
+        },
+        {
+          "name": "No",
+          "price": 0.15
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.086,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3008459",
+      "title": "Will OpenAI be the second-best Code Arena | WebDev AI lab at the end of August 2026?",
+      "slug": "will-openai-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-august-2026-20260720215927836",
+      "url": "https://polymarket.com/event/will-openai-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-august-2026-20260720215927836",
+      "category": null,
+      "volume": 9868.799406,
+      "liquidity": 1427.85787,
+      "end_date": "2026-09-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0105
+        },
+        {
+          "name": "No",
+          "price": 0.9895
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.077,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3008669",
+      "title": "Will Anthropic be the second-best Math AI lab at the end of August 2026?",
+      "slug": "will-anthropic-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207697",
+      "url": "https://polymarket.com/event/will-anthropic-be-the-second-best-math-ai-lab-at-the-end-of-august-2026-20260720225207697",
+      "category": null,
+      "volume": 9640.859576,
+      "liquidity": 745.69573,
+      "end_date": "2026-09-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0055
+        },
+        {
+          "name": "No",
+          "price": 0.9945
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.061,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1126856",
+      "title": "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?",
+      "slug": "will-venezuelan-crude-oil-production-reach-1pt5m-barrels-per-day-in-2026",
+      "url": "https://polymarket.com/event/will-venezuelan-crude-oil-production-reach-1pt5m-barrels-per-day-in-2026",
+      "category": null,
+      "volume": 9840.316797,
+      "liquidity": 600.96918,
+      "end_date": "2027-02-28T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0725
+        },
+        {
+          "name": "No",
+          "price": 0.9275
+        }
+      ],
+      "tags": [
+        "energy"
+      ],
+      "relevance": {
+        "score": 6.06,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "oil",
+          "crude"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "energy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3572982",
+      "title": "Will OpenAI’s Astra model debut on the Arena Leaderboard at a score of at least 1510?",
+      "slug": "will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1510",
+      "url": "https://polymarket.com/event/will-openais-astra-model-debut-on-the-arena-leaderboard-at-a-score-of-at-least-1510",
+      "category": null,
+      "volume": 9950.437265,
+      "liquidity": 3473.5264,
+      "end_date": null,
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.095
+        },
+        {
+          "name": "No",
+          "price": 0.905
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.769,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1227345",
+      "title": "Will Kevin Warsh be confirmed as Fed Chair and will rates stay above 2.5% in 2026?",
+      "slug": "will-kevin-warsh-be-confirmed-as-fed-chair-and-will-rates-stay-above-2pt5-in-2026-958",
+      "url": "https://polymarket.com/event/will-kevin-warsh-be-confirmed-as-fed-chair-and-will-rates-stay-above-2pt5-in-2026-958",
+      "category": null,
+      "volume": 9648.376228,
+      "liquidity": 3086.8339,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.945
+        },
+        {
+          "name": "No",
+          "price": 0.055
+        }
+      ],
+      "tags": [
+        "economy"
+      ],
+      "relevance": {
+        "score": 5.758,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Fed"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "economy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1370617",
+      "title": "Will Z.ai be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?",
+      "slug": "will-zai-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026",
+      "url": "https://polymarket.com/event/will-zai-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026",
+      "category": null,
+      "volume": 9685.946714000003,
+      "liquidity": 2875.07137,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0015
+        },
+        {
+          "name": "No",
+          "price": 0.9985
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.754,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3212530",
+      "title": "Will Ursula von der Leyen visit Ukraine by December 31, 2026?",
+      "slug": "will-ursula-von-der-leyen-visit-ukraine-by-december-31-2026-20260729210126046",
+      "url": "https://polymarket.com/event/will-ursula-von-der-leyen-visit-ukraine-by-december-31-2026-20260729210126046",
+      "category": null,
+      "volume": 9696.548368,
+      "liquidity": 2355.8052,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.485
+        },
+        {
+          "name": "No",
+          "price": 0.515
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 5.744,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3212531",
+      "title": "Will Mark Rutte visit Ukraine by December 31, 2026?",
+      "slug": "will-mark-rutte-visit-ukraine-by-december-31-2026-20260729210126047",
+      "url": "https://polymarket.com/event/will-mark-rutte-visit-ukraine-by-december-31-2026-20260729210126047",
+      "category": null,
+      "volume": 9629.78212,
+      "liquidity": 2198.2073,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.44
+        },
+        {
+          "name": "No",
+          "price": 0.56
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 5.74,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3257433",
+      "title": "Will Solana reach $140 in August?",
+      "slug": "will-solana-reach-140-in-august-2026",
+      "url": "https://polymarket.com/event/will-solana-reach-140-in-august-2026",
+      "category": null,
+      "volume": 96802.84763500001,
+      "liquidity": 45683.60951,
+      "end_date": "2026-09-01T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0025
+        },
+        {
+          "name": "No",
+          "price": 0.9975
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 5.732,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Solana"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2954996",
+      "title": "Will Alibaba have the best Math AI model at the end of August 2026?",
+      "slug": "will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+      "url": "https://polymarket.com/event/will-alibaba-have-the-best-math-ai-model-at-the-end-of-august-2026-20260717014120872",
+      "category": null,
+      "volume": 9949.699383000001,
+      "liquidity": 1123.48913,
+      "end_date": "2026-09-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0005
+        },
+        {
+          "name": "No",
+          "price": 0.9995
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.722,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3093466",
+      "title": "Will Alibaba be the second-best Code Arena | WebDev AI lab at the end of September 2026?",
+      "slug": "will-alibaba-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722215814735",
+      "url": "https://polymarket.com/event/will-alibaba-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722215814735",
+      "category": null,
+      "volume": 9874.132671,
+      "liquidity": 493.4765,
+      "end_date": "2026-10-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.33
+        },
+        {
+          "name": "No",
+          "price": 0.67
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.709,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3554440",
+      "title": "Will Alibaba be the third-best Math AI lab at the end of October 2026?",
+      "slug": "will-alibaba-be-the-third-best-math-ai-lab-at-the-end-of-october-2026-20260811194841952",
+      "url": "https://polymarket.com/event/will-alibaba-be-the-third-best-math-ai-lab-at-the-end-of-october-2026-20260811194841952",
+      "category": null,
+      "volume": 9777.840539,
+      "liquidity": 524.677,
+      "end_date": "2026-11-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.315
+        },
+        {
+          "name": "No",
+          "price": 0.685
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.708,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3554623",
+      "title": "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of October 2026?",
+      "slug": "will-moonshot-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-october-2026-20260811194841487",
+      "url": "https://polymarket.com/event/will-moonshot-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-october-2026-20260811194841487",
+      "category": null,
+      "volume": 9626.533383000002,
+      "liquidity": 523.0082,
+      "end_date": "2026-11-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.345
+        },
+        {
+          "name": "No",
+          "price": 0.655
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.707,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3212273",
+      "title": "Will Microsoft be the second-largest company in the world by market cap on September 30?",
+      "slug": "will-microsoft-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222933667",
+      "url": "https://polymarket.com/event/will-microsoft-be-the-second-largest-company-in-the-world-by-market-cap-on-september-30-20260729222933667",
+      "category": null,
+      "volume": 9899.766315,
+      "liquidity": 23902.43282,
+      "end_date": "2026-09-30T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0025
+        },
+        {
+          "name": "No",
+          "price": 0.9975
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.427,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Microsoft"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3072358",
+      "title": "Will the highest score achieved by a Google Gemini model on Humanity’s Last Exam in 2026 be 60% or higher?",
+      "slug": "will-the-highest-score-achieved-by-a-google-gemini-model-on-humanitys-last-exam-in-2026-be-60-or-higher-20260723192605548",
+      "url": "https://polymarket.com/event/will-the-highest-score-achieved-by-a-google-gemini-model-on-humanitys-last-exam-in-2026-be-60-or-higher-20260723192605548",
+      "category": null,
+      "volume": 9650.109117,
+      "liquidity": 1755.6592,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.255
+        },
+        {
+          "name": "No",
+          "price": 0.745
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 3.982,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Google"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3231235",
+      "title": "Situational Awareness Anthropic sale confirmed by August 31?",
+      "slug": "situational-awareness-anthropic-sale-confirmed-by-august-31-20260730182057663",
+      "url": "https://polymarket.com/event/situational-awareness-anthropic-sale-confirmed-by-august-31-20260730182057663",
+      "category": null,
+      "volume": 9918.953201,
+      "liquidity": 1469.91515,
+      "end_date": null,
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.031
+        },
+        {
+          "name": "No",
+          "price": 0.969
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 3.979,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2413494",
+      "title": "Will Anthropic's public ticker be $ANT?",
+      "slug": "will-anthropics-public-ticker-be-ant",
+      "url": "https://polymarket.com/event/will-anthropics-public-ticker-be-ant",
+      "category": null,
+      "volume": 9882.026435,
+      "liquidity": 496.82882,
+      "end_date": "2027-12-31T23:30:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.3255
+        },
+        {
+          "name": "No",
+          "price": 0.6745
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 3.959,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 23,
+    "fetched_market_count": 499,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
