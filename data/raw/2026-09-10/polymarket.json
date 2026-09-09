@@ -1,0 +1,675 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-09-10",
+  "snapshot_at": "2026-09-10T08:11:03.368140+09:00",
+  "items": [
+    {
+      "market_id": "4052416",
+      "title": "Will Bitcoin reach $92,500 in September?",
+      "slug": "will-bitcoin-reach-92pt5k-in-september-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-92pt5k-in-september-2026",
+      "category": null,
+      "volume": 99719.27050599996,
+      "liquidity": 63708.7907,
+      "end_date": "2026-10-01T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.08
+        },
+        {
+          "name": "No",
+          "price": 0.92
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 7.597,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2299992",
+      "title": "Will OpenAI's valuation hit (LOW) $800B by December 31?",
+      "slug": "will-openais-valuation-hit-low-800b-by-december-31-852-948",
+      "url": "https://polymarket.com/event/will-openais-valuation-hit-low-800b-by-december-31-852-948",
+      "category": null,
+      "volume": 98038.214764,
+      "liquidity": 7233.1345,
+      "end_date": "2027-01-01T12:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.12
+        },
+        {
+          "name": "No",
+          "price": 0.88
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.725,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2760256",
+      "title": "Will Ukraine re-enter Hryshyne by September 30?",
+      "slug": "will-ukraine-re-enter-hryshyne-by-september-30",
+      "url": "https://polymarket.com/event/will-ukraine-re-enter-hryshyne-by-september-30",
+      "category": null,
+      "volume": 97311.78142999997,
+      "liquidity": 1434.2189,
+      "end_date": "2026-09-30T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.07
+        },
+        {
+          "name": "No",
+          "price": 0.93
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 6.602,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1126856",
+      "title": "Will Venezuelan crude oil production reach 1.5m barrels per day in 2026?",
+      "slug": "will-venezuelan-crude-oil-production-reach-1pt5m-barrels-per-day-in-2026",
+      "url": "https://polymarket.com/event/will-venezuelan-crude-oil-production-reach-1pt5m-barrels-per-day-in-2026",
+      "category": null,
+      "volume": 9840.316797,
+      "liquidity": 816.71148,
+      "end_date": "2027-02-28T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.048
+        },
+        {
+          "name": "No",
+          "price": 0.952
+        }
+      ],
+      "tags": [
+        "energy"
+      ],
+      "relevance": {
+        "score": 6.065,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "oil",
+          "crude"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "energy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "4250779",
+      "title": "Will the price of Bitcoin be between $74,000 and $76,000 on September 12?",
+      "slug": "will-the-price-of-bitcoin-be-between-74000-76000-on-september-12-2026",
+      "url": "https://polymarket.com/event/will-the-price-of-bitcoin-be-between-74000-76000-on-september-12-2026",
+      "category": null,
+      "volume": 9690.825473,
+      "liquidity": 13798.4186,
+      "end_date": "2026-09-12T16:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.135
+        },
+        {
+          "name": "No",
+          "price": 0.865
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 5.973,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3733199",
+      "title": "Will Russia and Ukraine hold any diplomatic meeting by December 31, 2026?",
+      "slug": "will-russia-and-ukraine-hold-any-diplomatic-meeting-by-december-31-2026-20260819-697-428",
+      "url": "https://polymarket.com/event/will-russia-and-ukraine-hold-any-diplomatic-meeting-by-december-31-2026-20260819-697-428",
+      "category": null,
+      "volume": 9839.648963,
+      "liquidity": 13395.5076,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.875
+        },
+        {
+          "name": "No",
+          "price": 0.125
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 5.966,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3747578",
+      "title": "Will Bitcoin hit $150k by December 31, 2027?",
+      "slug": "will-bitcoin-hit-150k-by-december-31-2027",
+      "url": "https://polymarket.com/event/will-bitcoin-hit-150k-by-december-31-2027",
+      "category": null,
+      "volume": 9729.418990999997,
+      "liquidity": 12843.7431,
+      "end_date": "2028-01-01T05:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.18
+        },
+        {
+          "name": "No",
+          "price": 0.82
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 5.954,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1227345",
+      "title": "Will Kevin Warsh be confirmed as Fed Chair and will rates stay above 2.5% in 2026?",
+      "slug": "will-kevin-warsh-be-confirmed-as-fed-chair-and-will-rates-stay-above-2pt5-in-2026-958",
+      "url": "https://polymarket.com/event/will-kevin-warsh-be-confirmed-as-fed-chair-and-will-rates-stay-above-2pt5-in-2026-958",
+      "category": null,
+      "volume": 9802.356228000002,
+      "liquidity": 3374.728,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.945
+        },
+        {
+          "name": "No",
+          "price": 0.055
+        }
+      ],
+      "tags": [
+        "economy"
+      ],
+      "relevance": {
+        "score": 5.766,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Fed"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "economy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1370617",
+      "title": "Will Z.ai be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?",
+      "slug": "will-zai-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026",
+      "url": "https://polymarket.com/event/will-zai-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026",
+      "category": null,
+      "volume": 9757.946714000002,
+      "liquidity": 1922.96609,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0025
+        },
+        {
+          "name": "No",
+          "price": 0.9975
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.736,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3668680",
+      "title": "Next OpenAI GPT Luna (5.7+) released by September 30, 2026?",
+      "slug": "next-openai-gpt-luna-5pt7-released-by-september-30-2026",
+      "url": "https://polymarket.com/event/next-openai-gpt-luna-5pt7-released-by-september-30-2026",
+      "category": null,
+      "volume": 9718.768868,
+      "liquidity": 1636.7674,
+      "end_date": "2026-10-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.895
+        },
+        {
+          "name": "No",
+          "price": 0.105
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.73,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3212531",
+      "title": "Will Mark Rutte visit Ukraine by December 31, 2026?",
+      "slug": "will-mark-rutte-visit-ukraine-by-december-31-2026-20260729210126047",
+      "url": "https://polymarket.com/event/will-mark-rutte-visit-ukraine-by-december-31-2026-20260729210126047",
+      "category": null,
+      "volume": 9783.366256,
+      "liquidity": 1056.8974,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.295
+        },
+        {
+          "name": "No",
+          "price": 0.705
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 5.719,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ukraine"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3093489",
+      "title": "Will Moonshot be the third-best Code Arena | WebDev AI lab at the end of September 2026?",
+      "slug": "will-moonshot-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722220024428",
+      "url": "https://polymarket.com/event/will-moonshot-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-september-2026-20260722220024428",
+      "category": null,
+      "volume": 9969.258812000002,
+      "liquidity": 463.3841,
+      "end_date": "2026-10-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.21
+        },
+        {
+          "name": "No",
+          "price": 0.79
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.709,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2412746",
+      "title": "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?",
+      "slug": "will-anthropics-market-cap-be-between-1pt5t-and-1pt75t-at-market-close-on-ipo-day",
+      "url": "https://polymarket.com/event/will-anthropics-market-cap-be-between-1pt5t-and-1pt75t-at-market-close-on-ipo-day",
+      "category": null,
+      "volume": 97961.61185200003,
+      "liquidity": 14616.03242,
+      "end_date": "2026-12-31T23:55:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0675
+        },
+        {
+          "name": "No",
+          "price": 0.9325
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 5.472,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Anthropic",
+          "IPO"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3072331",
+      "title": "Will the highest score achieved by a Meta model on Humanity’s Last Exam in 2026 be 60% or higher?",
+      "slug": "will-the-highest-score-achieved-by-a-meta-model-on-humanitys-last-exam-in-2026-be-60-or-higher-20260723191934219",
+      "url": "https://polymarket.com/event/will-the-highest-score-achieved-by-a-meta-model-on-humanitys-last-exam-in-2026-be-60-or-higher-20260723191934219",
+      "category": null,
+      "volume": 9972.840589000001,
+      "liquidity": 1099.5899,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.27
+        },
+        {
+          "name": "No",
+          "price": 0.73
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 3.972,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Meta"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3251571",
+      "title": "Will Eurozone GDP growth in Q3 2026 be between 0.4% and 0.7%?",
+      "slug": "will-eurozone-gdp-growth-in-q3-2026-be-between-0pt4-and-0pt7-20260731151541471",
+      "url": "https://polymarket.com/event/will-eurozone-gdp-growth-in-q3-2026-be-between-0pt4-and-0pt7-20260731151541471",
+      "category": null,
+      "volume": 9847.596368999999,
+      "liquidity": 1193.80422,
+      "end_date": "2026-10-30T06:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.1535
+        },
+        {
+          "name": "No",
+          "price": 0.8465
+        }
+      ],
+      "tags": [
+        "marketing"
+      ],
+      "relevance": {
+        "score": 3.972,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "GDP"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2928989",
+      "title": "Will DeepSeek IPO by March 31, 2027?",
+      "slug": "will-deepseek-ipo-by-march-31-2027-20260714175933545",
+      "url": "https://polymarket.com/event/will-deepseek-ipo-by-march-31-2027-20260714175933545",
+      "category": null,
+      "volume": 9884.556392999999,
+      "liquidity": 1035.7798,
+      "end_date": "2027-04-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.245
+        },
+        {
+          "name": "No",
+          "price": 0.755
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 3.97,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "IPO"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "4192216",
+      "title": "Will MrBeast's next video get less than 40 million views on week 1?",
+      "slug": "will-mrbeasts-next-video-get-less-than-40-million-views-on-week-1-20260905",
+      "url": "https://polymarket.com/event/will-mrbeasts-next-video-get-less-than-40-million-views-on-week-1-20260905",
+      "category": null,
+      "volume": 9782.436688000002,
+      "liquidity": 27931.84218,
+      "end_date": "2026-09-12T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0005
+        },
+        {
+          "name": "No",
+          "price": 0.9995
+        }
+      ],
+      "tags": [
+        "video"
+      ],
+      "relevance": {
+        "score": 2.406,
+        "reasons": [
+          "strategy_tag"
+        ],
+        "matched_keywords": [],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "video"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 17,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
