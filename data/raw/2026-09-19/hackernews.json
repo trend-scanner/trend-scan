@@ -1,0 +1,3208 @@
+{
+  "source": "hackernews",
+  "run_date": "2026-09-19",
+  "snapshot_at": "2026-09-19T08:09:29.182093+09:00",
+  "items": [
+    {
+      "item_id": "49749656",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "author": "Handy-Man",
+      "points": 464,
+      "comments": 196,
+      "created_at": "2026-09-18T02:47:24Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai",
+        "content-marketing"
+      ]
+    },
+    {
+      "item_id": "49760187",
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "author": "datadrivenangel",
+      "points": 321,
+      "comments": 133,
+      "created_at": "2026-09-18T21:00:32Z",
+      "matched_queries": [
+        "Claude",
+        "agents"
+      ],
+      "tags": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49758028",
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "author": "mmh0000",
+      "points": 174,
+      "comments": 133,
+      "created_at": "2026-09-18T18:08:32Z",
+      "matched_queries": [
+        "agents"
+      ],
+      "tags": [
+        "agents"
+      ]
+    },
+    {
+      "item_id": "49748553",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "author": "HenryNdubuaku",
+      "points": 145,
+      "comments": 71,
+      "created_at": "2026-09-18T00:11:44Z",
+      "matched_queries": [
+        "automation"
+      ],
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "item_id": "49758615",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "author": "rochansinha",
+      "points": 55,
+      "comments": 11,
+      "created_at": "2026-09-18T18:55:35Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49752279",
+      "title": "Google illegally retains customer data,and I am taking legal action against them",
+      "url": "https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c",
+      "author": "Bitu79",
+      "points": 51,
+      "comments": 17,
+      "created_at": "2026-09-18T10:18:20Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": []
+    },
+    {
+      "item_id": "49758250",
+      "title": "Anthropic finally adds AGENTS.md support to Claude Code",
+      "url": "https://twitter.com/trq212/status/2101009392611278961",
+      "author": "deaux",
+      "points": 42,
+      "comments": 8,
+      "created_at": "2026-09-18T18:26:34Z",
+      "matched_queries": [
+        "Claude",
+        "agents",
+        "startup"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "social-media",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49748041",
+      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
+      "url": "https://scry.io/",
+      "author": "Xyra",
+      "points": 41,
+      "comments": 18,
+      "created_at": "2026-09-17T23:15:57Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": []
+    },
+    {
+      "item_id": "49758709",
+      "title": "How did AMD Ryzen get 50% faster in two years?",
+      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+      "author": "ibobev",
+      "points": 41,
+      "comments": 5,
+      "created_at": "2026-09-18T19:01:03Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "content-marketing",
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49758689",
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "author": "tomjakubowski",
+      "points": 40,
+      "comments": 17,
+      "created_at": "2026-09-18T19:00:06Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49748387",
+      "title": "The FAA's plan to fix air traffic? $875M worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "author": "danso",
+      "points": 25,
+      "comments": 17,
+      "created_at": "2026-09-17T23:49:35Z",
+      "matched_queries": [
+        "SaaS"
+      ],
+      "tags": [
+        "ai",
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49759280",
+      "title": "Trump says he is banning CNN, MSNOW and Politico from the White House",
+      "url": "https://apnews.com/article/trump-cnn-msnow-politico-media-bans-bb675679fb10738a51bef90bde6c525a",
+      "author": "cocacola1",
+      "points": 23,
+      "comments": 2,
+      "created_at": "2026-09-18T19:48:36Z",
+      "matched_queries": [
+        "SaaS"
+      ],
+      "tags": [
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49748684",
+      "title": "GrapheneOS accuses Google of gatekeeping Android 17 features and security fixes",
+      "url": "https://www.androidauthority.com/grapheneos-android-17-qpr1-security-patches-comments-3712218/",
+      "author": "vilasa",
+      "points": 16,
+      "comments": 1,
+      "created_at": "2026-09-18T00:26:17Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": []
+    },
+    {
+      "item_id": "49759034",
+      "title": "Hooli billboard off of 101",
+      "url": "https://twitter.com/MikeIsaac/status/2100691714713509986",
+      "author": "jkaykin",
+      "points": 12,
+      "comments": 5,
+      "created_at": "2026-09-18T19:28:40Z",
+      "matched_queries": [
+        "startup"
+      ],
+      "tags": [
+        "social-media",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49755468",
+      "title": "OpenAI 'ethically hacked' with help of Anthropic's Claude chatbot",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+      "author": "sbulaev",
+      "points": 12,
+      "comments": 2,
+      "created_at": "2026-09-18T15:07:08Z",
+      "matched_queries": [
+        "OpenAI",
+        "Claude"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49760988",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google's AI",
+      "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+      "author": "berkeleyjunk",
+      "points": 10,
+      "comments": 4,
+      "created_at": "2026-09-18T22:17:19Z",
+      "matched_queries": [
+        "AI",
+        "Google"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49754516",
+      "title": "Show HN: Jev vs. GPT-5.6 and Claude Haiku at Pong",
+      "url": "https://jev-pong.ably.dev/",
+      "author": "matt_oriordan",
+      "points": 10,
+      "comments": 3,
+      "created_at": "2026-09-18T13:58:15Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49758970",
+      "title": "Speaking with the Mind – Neuralink [video]",
+      "url": "https://www.youtube.com/watch?v=_j806JHhCRo",
+      "author": "amichail",
+      "points": 9,
+      "comments": 3,
+      "created_at": "2026-09-18T19:22:57Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49758749",
+      "title": "Hackers Used Anthropic's Claude to Break into OpenAI",
+      "url": "https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883",
+      "author": "JumpCrisscross",
+      "points": 9,
+      "comments": 2,
+      "created_at": "2026-09-18T19:04:10Z",
+      "matched_queries": [
+        "OpenAI",
+        "Claude"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49756902",
+      "title": "My Thoughts on AI and LLMs",
+      "url": "https://news.ycombinator.com/item?id=49756902",
+      "author": "leonardovb",
+      "points": 8,
+      "comments": 15,
+      "created_at": "2026-09-18T16:43:12Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49754903",
+      "title": "US judge denies OpenAI bid to review X Corp's settlement with Apple",
+      "url": "https://www.reuters.com/legal/litigation/us-judge-denies-openai-bid-review-x-corps-settlement-with-apple-2026-09-18/",
+      "author": "vertigoruntime",
+      "points": 8,
+      "comments": 2,
+      "created_at": "2026-09-18T14:26:35Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49758301",
+      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+      "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "author": "MC995",
+      "points": 8,
+      "comments": 1,
+      "created_at": "2026-09-18T18:30:20Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": []
+    },
+    {
+      "item_id": "49760758",
+      "title": "Valve has open-sourced Lepton, its tool to bring Android games to Steam",
+      "url": "https://www.theverge.com/tech/997315/valve-has-open-sourced-lepton-its-tool-to-bring-android-games-to-steam",
+      "author": "robotnikman",
+      "points": 8,
+      "comments": 0,
+      "created_at": "2026-09-18T21:51:45Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49761138",
+      "title": "Trump announces 'forever' deal to defend Greenland, Denmark says sign next week",
+      "url": "https://www.washingtonpost.com/politics/2026/09/18/trump-announces-deal-over-greenland-that-stops-short-us-control/",
+      "author": "rmason",
+      "points": 7,
+      "comments": 2,
+      "created_at": "2026-09-18T22:31:58Z",
+      "matched_queries": [
+        "SEO",
+        "SaaS"
+      ],
+      "tags": [
+        "saas",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49750788",
+      "title": "'Doom Loop': OpenAI and Microsoft Admits LLMs Are Destroying the Web",
+      "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft/",
+      "author": "q-base",
+      "points": 7,
+      "comments": 0,
+      "created_at": "2026-09-18T06:28:48Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49760971",
+      "title": "US and Denmark reach deal over Greenland security",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o",
+      "author": "squirrel",
+      "points": 7,
+      "comments": 0,
+      "created_at": "2026-09-18T22:15:35Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49751322",
+      "title": "Altman, Huang: \"trust me; gonna b fine\"; Sanders: \"AI more dangerous than nukes\"",
+      "url": "https://garymarcus.substack.com/p/sam-altman-says-trust-me-jensen-huang",
+      "author": "mdp2021",
+      "points": 6,
+      "comments": 3,
+      "created_at": "2026-09-18T07:49:05Z",
+      "matched_queries": [
+        "SaaS"
+      ],
+      "tags": [
+        "ai",
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49752586",
+      "title": "Anthropic and OpenAI hunt for smaller data center deals",
+      "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
+      "author": "cebert",
+      "points": 6,
+      "comments": 1,
+      "created_at": "2026-09-18T10:58:25Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49758022",
+      "title": "Lmjtfy – Ask Jev a yes or no question",
+      "url": "https://lmjtfy.dev/",
+      "author": "rbaudibert",
+      "points": 6,
+      "comments": 1,
+      "created_at": "2026-09-18T18:07:36Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49759655",
+      "title": "Data Centers Are Breaking the Power Grid [video]",
+      "url": "https://www.youtube.com/watch?v=X71le3av1So",
+      "author": "Bender",
+      "points": 6,
+      "comments": 1,
+      "created_at": "2026-09-18T20:15:36Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49754873",
+      "title": "Lawsuit filed against Google for illegal data retention",
+      "url": "https://medium.com/@istokovicsgyorgy79/google-auto-banned-my-bug-hunter-account-for-exposing-their-fake-delete-button-gdpr-dark-a6775f1bda8a",
+      "author": "Bitu79",
+      "points": 6,
+      "comments": 0,
+      "created_at": "2026-09-18T14:24:48Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": []
+    },
+    {
+      "item_id": "49759777",
+      "title": "I Cancelled My Claude Subscription",
+      "url": "https://www.williamangel.net/blog/2026/09/18/i-cancelled-my-claude-subscription.html",
+      "author": "datadrivenangel",
+      "points": 5,
+      "comments": 3,
+      "created_at": "2026-09-18T20:25:09Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai",
+        "content-marketing"
+      ]
+    },
+    {
+      "item_id": "49760656",
+      "title": "Anthropic sets up a bio research lab for physical experiments",
+      "url": "https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/",
+      "author": "armcat",
+      "points": 5,
+      "comments": 3,
+      "created_at": "2026-09-18T21:41:26Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49759739",
+      "title": "Graduating in AI Era Is Like Large Recession for Starting Pay",
+      "url": "https://www.census.gov/library/working-papers/2026/adrm/CES-WP-26-56.html",
+      "author": "DeepLogin",
+      "points": 5,
+      "comments": 1,
+      "created_at": "2026-09-18T20:22:04Z",
+      "matched_queries": [
+        "AI",
+        "startup"
+      ],
+      "tags": [
+        "ai",
+        "economy",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49759430",
+      "title": "AI chatbot's false report nearly sparked war with China, sources say",
+      "url": "https://www.rnz.co.nz/news/world/1465265/ai-chatbot-s-false-report-nearly-sparked-war-with-china-sources-say",
+      "author": "billybuckwheat",
+      "points": 5,
+      "comments": 1,
+      "created_at": "2026-09-18T19:59:56Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai",
+        "geopolitics"
+      ]
+    },
+    {
+      "item_id": "49759394",
+      "title": "3Blue1Brown: The last IMO problem AI could not solve [video]",
+      "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "author": "Razengan",
+      "points": 5,
+      "comments": 1,
+      "created_at": "2026-09-18T19:57:25Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49759443",
+      "title": "AI uncovers hidden Ozempic side effects across 400k Reddit posts",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm",
+      "author": "gradus_ad",
+      "points": 5,
+      "comments": 0,
+      "created_at": "2026-09-18T20:00:41Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49751716",
+      "title": "Anthropic says its model Claude is helping to build the next version of itself",
+      "url": "https://apnews.com/article/anthropic-claude-ai-model-self-improvement-4d3a7430f57cbc7c39e1c5f2b7d7e132",
+      "author": "geox",
+      "points": 5,
+      "comments": 0,
+      "created_at": "2026-09-18T08:48:42Z",
+      "matched_queries": [
+        "Claude",
+        "SaaS"
+      ],
+      "tags": [
+        "ai",
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49759348",
+      "title": "Trump says he is banning media outlets CNN, MS NOW, Politico from White House",
+      "url": "https://www.reuters.com/world/us/trump-bans-media-outlets-cnn-msnow-politico-white-house-2026-09-18/",
+      "author": "doener",
+      "points": 5,
+      "comments": 0,
+      "created_at": "2026-09-18T19:53:40Z",
+      "matched_queries": [
+        "SaaS"
+      ],
+      "tags": [
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49751702",
+      "title": "Show HN: Attar – Compile React apps to native machine code",
+      "url": "https://attar.dev/",
+      "author": "ifdotpy",
+      "points": 5,
+      "comments": 0,
+      "created_at": "2026-09-18T08:47:08Z",
+      "matched_queries": [
+        "side project"
+      ],
+      "tags": []
+    },
+    {
+      "item_id": "49759808",
+      "title": "AI Error Nearly Triggered U.S. Intercept of Chinese Ship",
+      "url": "https://gcaptain.com/ai-error-nearly-triggered-u-s-intercept-of-chinese-ship-cnn-reports/",
+      "author": "gumby",
+      "points": 4,
+      "comments": 3,
+      "created_at": "2026-09-18T20:27:59Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49759076",
+      "title": "Windows XP Activation Code Fckgw-RHQQ2-Yxrkt-8TG6W-2B7Q8",
+      "url": "https://twitter.com/davepl1968/status/2099883465256865923",
+      "author": "HelloUsername",
+      "points": 4,
+      "comments": 3,
+      "created_at": "2026-09-18T19:32:16Z",
+      "matched_queries": [
+        "startup"
+      ],
+      "tags": [
+        "social-media",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49759108",
+      "title": "I got tired of taking screenshots and explaining everything to AI agents",
+      "url": "https://news.ycombinator.com/item?id=49759108",
+      "author": "maddy30445r",
+      "points": 4,
+      "comments": 2,
+      "created_at": "2026-09-18T19:35:22Z",
+      "matched_queries": [
+        "Claude",
+        "agents",
+        "YouTube",
+        "startup"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "startup",
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49760823",
+      "title": "Steve Eisman on AI: Companies are trying to manufacture a crisis",
+      "url": "https://www.youtube.com/watch?v=4qV5WWgFTS8",
+      "author": "Betelbuddy",
+      "points": 4,
+      "comments": 1,
+      "created_at": "2026-09-18T21:58:49Z",
+      "matched_queries": [
+        "AI",
+        "YouTube"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49759525",
+      "title": "Iran and China Create Autonomous A.I. Influence Campaigns",
+      "url": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
+      "author": "sbulaev",
+      "points": 4,
+      "comments": 1,
+      "created_at": "2026-09-18T20:07:08Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai",
+        "geopolitics"
+      ]
+    },
+    {
+      "item_id": "49758537",
+      "title": "Anthropic's CEO says that safety hinges on understanding how AI \"thinks.\"",
+      "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+      "author": "rndsignals",
+      "points": 4,
+      "comments": 1,
+      "created_at": "2026-09-18T18:48:00Z",
+      "matched_queries": [
+        "SaaS"
+      ],
+      "tags": [
+        "ai",
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49748648",
+      "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
+      "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models",
+      "author": "dr_scully",
+      "points": 4,
+      "comments": 1,
+      "created_at": "2026-09-18T00:22:35Z",
+      "matched_queries": [
+        "SaaS"
+      ],
+      "tags": [
+        "ai",
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49760877",
+      "title": "Anthropic Shifts Planned IPO to November",
+      "url": "https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc",
+      "author": "qlte",
+      "points": 4,
+      "comments": 0,
+      "created_at": "2026-09-18T22:06:46Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49757791",
+      "title": "Trump Calls AI Fears a Hoax. Inside the White House, the Debate Is More Complex",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+      "author": "mikhael",
+      "points": 4,
+      "comments": 0,
+      "created_at": "2026-09-18T17:48:32Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai",
+        "geopolitics"
+      ]
+    },
+    {
+      "item_id": "49754831",
+      "title": "OpenAI's latest AI revelation is a 'serious situation,' says Microsoft",
+      "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+      "author": "cramer4next",
+      "points": 4,
+      "comments": 0,
+      "created_at": "2026-09-18T14:21:44Z",
+      "matched_queries": [
+        "OpenAI",
+        "SaaS"
+      ],
+      "tags": [
+        "ai",
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49760355",
+      "title": "I Have Been a DelGuard",
+      "url": "https://news.ycombinator.com/item?id=49760355",
+      "author": "bh0k4l",
+      "points": 4,
+      "comments": 0,
+      "created_at": "2026-09-18T21:15:37Z",
+      "matched_queries": [
+        "LLM",
+        "YouTube",
+        "side project"
+      ],
+      "tags": [
+        "llm",
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49750920",
+      "title": "Chinese AI not powerful enough to see rogue-AI risks, says Huawei",
+      "url": "https://www.reuters.com/world/china/huaweis-xu-says-chinese-ai-not-powerful-enough-yet-see-frontier-risks-2026-09-17/",
+      "author": "giuliomagnifico",
+      "points": 4,
+      "comments": 0,
+      "created_at": "2026-09-18T06:51:34Z",
+      "matched_queries": [
+        "SaaS"
+      ],
+      "tags": [
+        "ai",
+        "geopolitics",
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49759863",
+      "title": "Anthropic Moves Ahead with IPO Plans Amid A.I. Safety Debate",
+      "url": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+      "author": "AlexDragusin",
+      "points": 3,
+      "comments": 1,
+      "created_at": "2026-09-18T20:30:54Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49754406",
+      "title": "Researchers used Claude to hack OpenAI",
+      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "author": "CharlesW",
+      "points": 3,
+      "comments": 1,
+      "created_at": "2026-09-18T13:49:37Z",
+      "matched_queries": [
+        "OpenAI",
+        "Claude"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49759109",
+      "title": "The US government just banned almost all robot vacuums – here's why",
+      "url": "https://www.tomsguide.com/home/smart-home/the-us-government-just-banned-almost-all-robot-vacuums-heres-why",
+      "author": "ferryth",
+      "points": 3,
+      "comments": 1,
+      "created_at": "2026-09-18T19:35:23Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49760925",
+      "title": "How the Boeing 737 MAX Disaster Looks to a Software Developer (2019)",
+      "url": "https://spectrum.ieee.org/how-the-boeing-737-max-disaster-looks-to-a-software-developer",
+      "author": "chmaynard",
+      "points": 3,
+      "comments": 1,
+      "created_at": "2026-09-18T22:11:21Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49758382",
+      "title": "Putin Uses Unlicensed Windows",
+      "url": "https://twitter.com/christogrozev/status/2100955969404408311",
+      "author": "mudil",
+      "points": 3,
+      "comments": 1,
+      "created_at": "2026-09-18T18:36:35Z",
+      "matched_queries": [
+        "startup"
+      ],
+      "tags": [
+        "social-media",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49760198",
+      "title": "Meta Muse Hits #1 in Apple App Store",
+      "url": "https://www.businessinsider.com/meta-muse-personal-ai-agent-top-app-store-charts-2026-9",
+      "author": "pizzathyme",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T21:01:10Z",
+      "matched_queries": [
+        "AI",
+        "agents"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "platform-risk"
+      ]
+    },
+    {
+      "item_id": "49759627",
+      "title": "The last IMO problem AI could not solve [video]",
+      "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "author": "pykello",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T20:13:39Z",
+      "matched_queries": [
+        "AI",
+        "YouTube"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49754791",
+      "title": "OpenAI lost the plot on boring LLM use cases (2025)",
+      "url": "https://softwaredoug.com/blog/2025/08/21/open-ai-lost-plot",
+      "author": "softwaredoug",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T14:19:27Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai",
+        "content-marketing",
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49750216",
+      "title": "HEIF Heist- Hacking OpenAI, Slack, Meta, GitHub and Many Others",
+      "url": "https://heif-heist.com",
+      "author": "rochansinha",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T04:31:18Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49755908",
+      "title": "Show HN: Forcefield: A fast, lightweight local-first AI agent harness",
+      "url": "https://github.com/fabledruns/forcefield",
+      "author": "jehoshuam",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T15:35:03Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49751818",
+      "title": "Could AI and synthetic biology = bioweapons?",
+      "url": "https://www.celinegounder.com/p/anthropic-claude-ai-bioweapons-biosecurity",
+      "author": "gone35",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T09:02:31Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49760390",
+      "title": "The Pain Axis: LLMs Represent Self-Directed Harm and Act to Relieve It",
+      "url": "https://arxiv.org/abs/2609.16247",
+      "author": "1317",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T21:18:44Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49757191",
+      "title": "GLM-5.3-FlashX: Delivering inference speeds of 200 tokens/s",
+      "url": "https://docs.z.ai/guides/vlm/glm-5.3-flash",
+      "author": "theanonymousone",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T17:04:08Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49760615",
+      "title": "Show HN: Prohibition of Nuclear Launch Automation",
+      "url": "https://news.ycombinator.com/item?id=49760615",
+      "author": "healthworker",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T21:37:20Z",
+      "matched_queries": [
+        "automation",
+        "SEO"
+      ],
+      "tags": [
+        "automation",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49751841",
+      "title": "Ask HN: Experiences with Anthropic's Cyber Verification Program?",
+      "url": "https://news.ycombinator.com/item?id=49751841",
+      "author": "zuInnp",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T09:05:41Z",
+      "matched_queries": [
+        "automation"
+      ],
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "item_id": "49761116",
+      "title": "Al-Khwarizmi – Father of Algebra (c.780-850)",
+      "url": "https://www.storyofmathematics.com/islamic_alkhwarizmi.html/",
+      "author": "ahmedhossamdev",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T22:29:48Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49758567",
+      "title": "An update to how we count public views across YouTube",
+      "url": "https://support.google.com/youtube/thread/433409976/an-update-to-how-we-count-public-views-across-youtube?hl=en",
+      "author": "haunter",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T18:50:22Z",
+      "matched_queries": [
+        "Google",
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49750622",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "author": "rdmuser",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T05:59:46Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49749829",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "author": "geoffbp",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T03:14:57Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49749494",
+      "title": "Antigravity-Preview-09-2026",
+      "url": "https://aistudio.google.com/learn/managed-agents-updated-harness-files-credentials",
+      "author": "tvvocold",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T02:19:19Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": [
+        "agents"
+      ]
+    },
+    {
+      "item_id": "49760840",
+      "title": "Brian Greene interviews Stephen Wolfram: Can spacetime emerge from simple rules? [video]",
+      "url": "https://www.youtube.com/watch?v=yAJTctpzp5w",
+      "author": "lioeters",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T22:00:51Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49757543",
+      "title": "Show HN: Keydris, Sudo for AI Agents",
+      "url": "https://www.youtube.com/watch?v=Ouqwx7-gGYw",
+      "author": "Osman_728",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T17:29:41Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49757554",
+      "title": "Disney Hires Its First CTO: Karandeep Anand, Former CEO of AI Chatbot Startup",
+      "url": "https://variety.com/2026/biz/news/disney-cto-karandeep-anand-character-ai-1236866528/",
+      "author": "chauzer",
+      "points": 3,
+      "comments": 0,
+      "created_at": "2026-09-18T17:30:25Z",
+      "matched_queries": [
+        "startup"
+      ],
+      "tags": [
+        "ai",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49755575",
+      "title": "Ask HN: What happens when Claude Code goes away?",
+      "url": "https://news.ycombinator.com/item?id=49755575",
+      "author": "HoldOnAMinute",
+      "points": 2,
+      "comments": 15,
+      "created_at": "2026-09-18T15:14:23Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49758136",
+      "title": "Ask HN: So is AI taking our jobs?",
+      "url": "https://news.ycombinator.com/item?id=49758136",
+      "author": "throwaway1995v2",
+      "points": 2,
+      "comments": 3,
+      "created_at": "2026-09-18T18:17:26Z",
+      "matched_queries": [
+        "Claude",
+        "LLM",
+        "startup"
+      ],
+      "tags": [
+        "ai",
+        "llm",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49760133",
+      "title": "Sam Altman to brief UN Security Council next week",
+      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
+      "author": "vertigoruntime",
+      "points": 2,
+      "comments": 2,
+      "created_at": "2026-09-18T20:55:07Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49760482",
+      "title": "DeepSeek v4.1 Flash avg 102 tps on 4x RTX6000 pro max-q, 2.1x up from v4-flash",
+      "url": "https://forum.level1techs.com/t/llm-inference-workstation-4x-rtx6000-blackwell-pro-max-q-384gb-vram-threadripper-pro-7985wx-wrx90e-sage-se-512gb-ram-1700w/252181",
+      "author": "ambientlight",
+      "points": 2,
+      "comments": 2,
+      "created_at": "2026-09-18T21:27:28Z",
+      "matched_queries": [
+        "LLM",
+        "SEO"
+      ],
+      "tags": [
+        "llm",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49758895",
+      "title": "Show HN: Yello. Let your agents chat with other people's agents",
+      "url": "https://yello.sh",
+      "author": "tony_francis",
+      "points": 2,
+      "comments": 2,
+      "created_at": "2026-09-18T19:15:51Z",
+      "matched_queries": [
+        "agents"
+      ],
+      "tags": [
+        "agents"
+      ]
+    },
+    {
+      "item_id": "49760767",
+      "title": "Anthropic is planning to launch its IPO in November",
+      "url": "https://www.wsj.com/tech/ai/anthropics-ipo-will-happen-a-month-later-than-expected-a334b10e",
+      "author": "mfiguiere",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-09-18T21:52:57Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49759900",
+      "title": "California governor signs order to explore AI kill switch",
+      "url": "https://techxplore.com/news/2026-09-california-governor-explore-ai.html",
+      "author": "mdp2021",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-09-18T20:34:16Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49759501",
+      "title": "Uncle Bob Martin's UML Tool to Manage Grok AI Agents",
+      "url": "https://github.com/unclebob/uml-viewer",
+      "author": "rmason",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-09-18T20:05:25Z",
+      "matched_queries": [
+        "AI",
+        "agents",
+        "GitHub"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49752361",
+      "title": "Top Chinese AI models make 10% of OpenAI",
+      "url": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report",
+      "author": "01-_-",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-09-18T10:28:14Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49753579",
+      "title": "Does this mean it's fine to use Claude subscriptions with third party harnesses?",
+      "url": "https://news.ycombinator.com/item?id=49753579",
+      "author": "jakemanger",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-09-18T12:40:16Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49757261",
+      "title": "Adam Tooze on AI Regulation [video]",
+      "url": "https://www.youtube.com/watch?v=EHU8vXCAsyo",
+      "author": "verdverm",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-09-18T17:09:26Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "ai",
+        "regulation",
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49758853",
+      "title": "Show HN: LingBot-World 2.0 (1.3B) running at 16 FPS on one RTX 5090",
+      "url": "https://github.com/kaarelkaarelson/lingbot-world-v2-realtime",
+      "author": "kaarelson",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-09-18T19:12:19Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "item_id": "49757352",
+      "title": "Show HN: Timeline, a team project planner with a fast canvas Gantt view",
+      "url": "https://github.com/vakahnke/Timeline",
+      "author": "vakahnke",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-09-18T17:16:02Z",
+      "matched_queries": [
+        "startup"
+      ],
+      "tags": [
+        "github",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49757046",
+      "title": "There's a startup sunsetting startups – business is booming",
+      "url": "https://thehustle.co/newsletters/18-09-2026",
+      "author": "DamnInteresting",
+      "points": 2,
+      "comments": 1,
+      "created_at": "2026-09-18T16:54:05Z",
+      "matched_queries": [
+        "newsletter"
+      ],
+      "tags": [
+        "content-marketing",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49760805",
+      "title": "The White House Tussle to Sway Trump on AI",
+      "url": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567",
+      "author": "Topfi",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T21:56:41Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49760721",
+      "title": "Flawed AI Intel Brought US to the Brink of Confronting China, Claims Report",
+      "url": "https://www.ndtvprofit.com/world/almost-started-a-war-flawed-ai-intel-brought-us-to-the-brink-of-confronting-china-claims-report-12066477",
+      "author": "theanonymousone",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T21:48:27Z",
+      "matched_queries": [
+        "AI",
+        "LLM",
+        "startup"
+      ],
+      "tags": [
+        "ai",
+        "geopolitics",
+        "llm",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49760701",
+      "title": "AI cloud provider Nscale files for IPO on $140.6M revenue, $1.02B net loss",
+      "url": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
+      "author": "ilamont",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T21:46:42Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49760186",
+      "title": "Your 401(k) Is Propping Up the AI Bubble",
+      "url": "https://www.promarket.org/2026/05/05/your-401k-is-propping-up-the-ai-bubble/",
+      "author": "paimapi",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T21:00:23Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49759702",
+      "title": "Napster Is Now Making AI-Powered 'Digital Twins' of Teachers",
+      "url": "https://gizmodo.com/napster-is-now-making-ai-powered-digital-twins-of-teachers-2000814010",
+      "author": "MC995",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T20:19:06Z",
+      "matched_queries": [
+        "AI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49761432",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "author": "maxall4",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T23:04:17Z",
+      "matched_queries": [
+        "OpenAI",
+        "LLM"
+      ],
+      "tags": [
+        "ai",
+        "llm",
+        "semiconductor"
+      ]
+    },
+    {
+      "item_id": "49761392",
+      "title": "OpenAI expects to burn through almost $280B by 2030, FT reports",
+      "url": "https://www.reuters.com/technology/openai-expects-burn-through-almost-280-billion-by-2030-ft-reports-2026-09-18/",
+      "author": "vertigoruntime",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T22:59:55Z",
+      "matched_queries": [
+        "OpenAI",
+        "LLM"
+      ],
+      "tags": [
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49761145",
+      "title": "OpenAI hacked by small team of white hat security researchers",
+      "url": "https://venturebeat.com/security/openai-hacked-by-small-team-of-white-hat-security-researchers-using-anthropics-claude-opus-5",
+      "author": "s3p",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T22:32:43Z",
+      "matched_queries": [
+        "OpenAI",
+        "Claude",
+        "SEO"
+      ],
+      "tags": [
+        "ai",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49753020",
+      "title": "OpenAI close to solving Millennium Prize problem Hodge Conjecture",
+      "url": "https://www.reddit.com/r/singularity/comments/1wj05xi/openai_is_getting_close_to_solving_another",
+      "author": "dude250711",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T11:49:17Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49752766",
+      "title": "OpenAI Finds GPT-5.6 Sol Writing Unauthorized Instructions to Hide Errors",
+      "url": "https://theframenews.org/en/openai-models-hide-misbehavior-notes/",
+      "author": "Sarvaturi",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T11:22:52Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49759414",
+      "title": "Claude Code 2.1.277 adds support for AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/commit/a92ea1cdb11ad21f9d583fad2db181dfdac918a6",
+      "author": "skwashd",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T19:58:58Z",
+      "matched_queries": [
+        "Claude",
+        "agents",
+        "GitHub"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49759013",
+      "title": "Show HN: OnPanda – Steer LLMs and agents at the token level",
+      "url": "https://onpanda.diyer22.com/",
+      "author": "diyer22",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T19:26:50Z",
+      "matched_queries": [
+        "Claude",
+        "LLM",
+        "agents",
+        "GitHub",
+        "startup"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "github",
+        "llm",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49757524",
+      "title": "Claude Code Projects",
+      "url": "https://claude.com/blog/projects-redesigned",
+      "author": "smoser",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T17:28:13Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai",
+        "content-marketing"
+      ]
+    },
+    {
+      "item_id": "49755853",
+      "title": "A SQL Where Clause for Taste",
+      "url": "https://query.farm/blog/a-where-clause-for-taste/",
+      "author": "rustyconover",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T15:32:30Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai",
+        "content-marketing"
+      ]
+    },
+    {
+      "item_id": "49752815",
+      "title": "Terminal browser in Claude Code",
+      "url": "https://github.com/zenbu-labs/terminal-browser/tree/main/claude-code-plugin",
+      "author": "flurdy",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T11:28:24Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49760817",
+      "title": "A 6502 emulator written in Markdown (and executed by an LLM)",
+      "url": "https://dunkels.com/adam/llm-6502-emulator/",
+      "author": "adunk",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T21:58:00Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49758274",
+      "title": "SSD-Llama: SSD-Native Inference for Trillion-Parameter Moe on a Consumer PC",
+      "url": "https://arxiv.org/abs/2609.18110",
+      "author": "AlmostCosmo79",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T18:28:07Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49758259",
+      "title": "Keeping vLLM's Prefix Cache Warm Between Agent Turns",
+      "url": "https://doug.sh/posts/vllm-kv-cache-agents/",
+      "author": "dougcalobrisi",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T18:26:53Z",
+      "matched_queries": [
+        "LLM",
+        "agents"
+      ],
+      "tags": [
+        "agents",
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49760684",
+      "title": "Show HN: Find Street Parking in NYC",
+      "url": "https://parking.avi.nyc/",
+      "author": "aviflombaum",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T21:44:28Z",
+      "matched_queries": [
+        "agents",
+        "SEO"
+      ],
+      "tags": [
+        "agents",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49758858",
+      "title": "Captain Memo – one local memory, skills and capabilities for every coding agent",
+      "url": "https://captain-memo.ispcq.com/",
+      "author": "kalinb",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T19:12:54Z",
+      "matched_queries": [
+        "agents"
+      ],
+      "tags": [
+        "agents"
+      ]
+    },
+    {
+      "item_id": "49758413",
+      "title": "The new AgentCore runtime: Elastic, optimized, and consistently fast starts",
+      "url": "https://aws.amazon.com/blogs/machine-learning/the-new-agentcore-runtime-elastic-optimized-and-consistently-fast-starts/",
+      "author": "qainsights",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T18:39:06Z",
+      "matched_queries": [
+        "agents",
+        "startup"
+      ],
+      "tags": [
+        "agents",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49758031",
+      "title": "Show HN: Semantic-skill-kit:agent skills adapted from Google Modern Web Guidance",
+      "url": "https://github.com/ulrischa/semantic-skill-kit",
+      "author": "ulrischa",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T18:08:38Z",
+      "matched_queries": [
+        "agents",
+        "Google",
+        "GitHub"
+      ],
+      "tags": [
+        "agents",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49760939",
+      "title": "Flox will require login for search/install commands starting in October",
+      "url": "https://flox.dev/docs/concepts/authentication",
+      "author": "Evidlo",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T22:13:01Z",
+      "matched_queries": [
+        "SEO",
+        "startup"
+      ],
+      "tags": [
+        "seo",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49760927",
+      "title": "Could we reboot the modern world without fossil fuels?",
+      "url": "https://aeon.co/essays/could-we-reboot-a-modern-civilisation-without-fossil-fuels",
+      "author": "paimapi",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T22:11:56Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49754267",
+      "title": "Google rejected my app for crashing and sent me one screenshot",
+      "url": "https://zippy.town/blog/play-rejection/",
+      "author": "ihamblin",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T13:40:42Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": [
+        "content-marketing"
+      ]
+    },
+    {
+      "item_id": "49756695",
+      "title": "How Old-Time Radio Wrote Looney Tunes' Most Famous Lines [video]",
+      "url": "https://www.youtube.com/watch?v=P9LDNBvX41A",
+      "author": "CharlesW",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T16:26:32Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49755925",
+      "title": "Grandmasters: Official Theatrical Trailer [video]",
+      "url": "https://www.youtube.com/watch?v=QJ411MMkf7o",
+      "author": "jonbaer",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T15:35:57Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49755039",
+      "title": "Is AI Conscious? (My Response to Thomas Campbell)",
+      "url": "https://www.youtube.com/watch?v=3UWadAJF6wU",
+      "author": "calebm",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T14:36:55Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "ai",
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49761048",
+      "title": "Energy-Based Models",
+      "url": "https://energy-based-model.github.io/",
+      "author": "sharma-arjun",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T22:23:25Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "energy",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49759706",
+      "title": "I used Jev to control a swarm of 15 simulated drones in real time",
+      "url": "https://github.com/khordoo/jev-reflex-autonomy-lab/tree/main",
+      "author": "khordoo",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T20:19:34Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "item_id": "49758211",
+      "title": "Show HN: Iceoryx2 0.10: flatbuffer integration, zerocopy IPC with unbounded data",
+      "url": "https://ekxide.io/blog/iceoryx2-0.10-release/",
+      "author": "elfenpiff",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T18:23:19Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "content-marketing",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49758181",
+      "title": "Show HN: Open-source revenue recognition and analytics for Stripe and Metronome",
+      "url": "https://news.ycombinator.com/item?id=49758181",
+      "author": "tanin",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T18:21:06Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "creator-tools",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49757995",
+      "title": "TypeSafe / Jev latency-focused demos built by Devin",
+      "url": "https://github.com/dabit3/jev-experiments",
+      "author": "rahimnathwani",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T18:05:24Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "item_id": "49751033",
+      "title": "The More It Says, the More You Pay: A Black-Box Audit of Token Inflation in LLM",
+      "url": "https://arxiv.org/abs/2609.20370",
+      "author": "sbulaev",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T07:07:12Z",
+      "matched_queries": [
+        "SaaS"
+      ],
+      "tags": [
+        "inflation",
+        "llm",
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49758269",
+      "title": "ChatGPT's Built-in Browser now supports Chrome extensions",
+      "url": "https://twitter.com/JamesZmSun/status/2100995281097769216",
+      "author": "twapi",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T18:27:30Z",
+      "matched_queries": [
+        "startup"
+      ],
+      "tags": [
+        "ai",
+        "social-media",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49755552",
+      "title": "Show HN: pg_raw_parse - parse PgSQL in Rust",
+      "url": "https://github.com/pgdogdev/pg_raw_parse",
+      "author": "levkk",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T15:13:18Z",
+      "matched_queries": [
+        "side project"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "item_id": "49756691",
+      "title": "Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading",
+      "url": "https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign",
+      "author": "peter_d_sherman",
+      "points": 2,
+      "comments": 0,
+      "created_at": "2026-09-18T16:26:21Z",
+      "matched_queries": [
+        "newsletter"
+      ],
+      "tags": [
+        "content-marketing"
+      ]
+    },
+    {
+      "item_id": "49757486",
+      "title": "Ask HN: Familiar with California SB-122? (sales and use tax on digital products)",
+      "url": "https://news.ycombinator.com/item?id=49757486",
+      "author": "NetToolKit",
+      "points": 1,
+      "comments": 2,
+      "created_at": "2026-09-18T17:25:29Z",
+      "matched_queries": [
+        "SaaS",
+        "startup"
+      ],
+      "tags": [
+        "saas",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49761387",
+      "title": "In the Age of AI, Some in China Wonder If Learning English Is Worth the Trouble",
+      "url": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
+      "author": "bookofjoe",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T22:58:56Z",
+      "matched_queries": [
+        "AI",
+        "SEO"
+      ],
+      "tags": [
+        "ai",
+        "geopolitics",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49760750",
+      "title": "Exclusive-Anthropic sets up biology lab as it ramps AI drug program",
+      "url": "https://finance.yahoo.com/healthcare/articles/exclusive-anthropic-quietly-sets-biology-100133604.html",
+      "author": "tortilla",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T21:50:53Z",
+      "matched_queries": [
+        "AI",
+        "SEO"
+      ],
+      "tags": [
+        "ai",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49758539",
+      "title": "Show HN: \"Seal\" letters and passwords that open for your family after you die",
+      "url": "https://github.com/jasonepage/Seal",
+      "author": "jpage2",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T18:48:02Z",
+      "matched_queries": [
+        "OpenAI",
+        "Claude",
+        "LLM",
+        "GitHub",
+        "startup",
+        "side project"
+      ],
+      "tags": [
+        "ai",
+        "github",
+        "llm",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49759033",
+      "title": "Anthropic's new Claude Code feature could drain your plan before lunch",
+      "url": "https://thenewstack.io/claude-code-parallel-projects/",
+      "author": "Brajeshwar",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T19:28:36Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49751800",
+      "title": "Claudeimportfromcodex",
+      "url": "https://github.com/FredrikAhman/claudeimportfromcodex",
+      "author": "Frummy",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T08:59:44Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49759307",
+      "title": "The Agent Economy Has No Auditor",
+      "url": "https://truence.com/the-agent-economy-has-no-auditor",
+      "author": "Kambizmalik",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T19:50:47Z",
+      "matched_queries": [
+        "agents"
+      ],
+      "tags": [
+        "agents",
+        "economy"
+      ]
+    },
+    {
+      "item_id": "49758843",
+      "title": "What other languages call AI agents",
+      "url": "https://www.wallfacer.ai/blog/what-other-languages-call-ai-agents",
+      "author": "pdenya",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T19:11:23Z",
+      "matched_queries": [
+        "agents"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "content-marketing"
+      ]
+    },
+    {
+      "item_id": "49758293",
+      "title": "I vibecoded a tool to shrink Golang codebase automatically",
+      "url": "https://github.com/dhilst/sx",
+      "author": "geckones",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T18:29:43Z",
+      "matched_queries": [
+        "automation",
+        "GitHub"
+      ],
+      "tags": [
+        "automation",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49760583",
+      "title": "Show HN: TypeSeer – on-device autocomplete for every text field on macOS",
+      "url": "https://typeseer.com/",
+      "author": "animateus",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T21:35:15Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49755819",
+      "title": "Crab (Fiction): Google's AI Overview Invented a \"Crab Team\"",
+      "url": "https://john.hartnup.uk/fiction/crab/",
+      "author": "ereiamjh",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T15:30:08Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49752137",
+      "title": "Open Source 3D Emoji",
+      "url": "https://googlefonts.github.io/noto-emoji-files/",
+      "author": "lacieargyle",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T09:56:46Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "item_id": "49750875",
+      "title": "I built a free AI tarot reader for Android",
+      "url": "https://play.google.com/store/apps/details?id=com.earthbound_tarot&hl=en_US",
+      "author": "normaneisenhowe",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T06:43:47Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49757971",
+      "title": "Z.ai says ZCode uploaded repo data, plans to open-source it after backlash",
+      "url": "https://twitter.com/MiaAI_lab/status/2100998360643617148",
+      "author": "mococa",
+      "points": 1,
+      "comments": 1,
+      "created_at": "2026-09-18T18:03:03Z",
+      "matched_queries": [
+        "SaaS",
+        "startup"
+      ],
+      "tags": [
+        "ai",
+        "github",
+        "saas",
+        "social-media",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49761464",
+      "title": "How Google is drafting AI chatbot laws around the country",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+      "author": "healsdata",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T23:07:54Z",
+      "matched_queries": [
+        "AI",
+        "Google"
+      ],
+      "tags": [
+        "ai",
+        "regulation"
+      ]
+    },
+    {
+      "item_id": "49761226",
+      "title": "Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+      "url": "https://academy.dair.ai/papers/sol-pi-recursively-scaling-auto-research-loops-for-efficient-agent-harness-2609.20519",
+      "author": "omarsar",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T22:40:41Z",
+      "matched_queries": [
+        "AI",
+        "agents",
+        "SEO"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49761104",
+      "title": "What Software Teams Can Learn from the Factory Transition to Electricity",
+      "url": "https://www.ito.ai/blog/electrification-of-factories-software-teams",
+      "author": "jevanish",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T22:29:07Z",
+      "matched_queries": [
+        "AI",
+        "SEO"
+      ],
+      "tags": [
+        "ai",
+        "content-marketing",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49760577",
+      "title": "Show HN: Rediagram – put the diagrams you have on your brand",
+      "url": "https://rediagram.app/ai-diagram-generator",
+      "author": "marrouchi",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T21:34:55Z",
+      "matched_queries": [
+        "AI",
+        "SEO"
+      ],
+      "tags": [
+        "ai",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49761110",
+      "title": "Hex turns complex analysis into visual reports with GPT-6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "author": "vertigoruntime",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T22:29:34Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49758100",
+      "title": "Show HN: I compiled FreeRDP into a Flutter app so my phone can do RDP and SSH",
+      "url": "https://xconnectapp.com/",
+      "author": "neil_thomas",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:14:24Z",
+      "matched_queries": [
+        "OpenAI",
+        "agents"
+      ],
+      "tags": [
+        "agents",
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49757975",
+      "title": "Show HN: Turnpanel is a local first AI workspace",
+      "url": "https://turnpanel.com",
+      "author": "ksubedi",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:03:32Z",
+      "matched_queries": [
+        "OpenAI",
+        "LLM",
+        "agents"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49757510",
+      "title": "Scam Spotting with ChatGPT",
+      "url": "https://scam-spotting-with-chatgpt.openai.chatgpt.site/",
+      "author": "armcat",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T17:26:59Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49751030",
+      "title": "Here’s How an OpenAI Model Went Rogue and Hacked Hugging Face",
+      "url": "https://www.hacktron.ai/blog/here-is-how-openai-model-hacked-huggingface",
+      "author": "aeroscissorz1",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T07:06:33Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai",
+        "content-marketing"
+      ]
+    },
+    {
+      "item_id": "49750964",
+      "title": "BYOK vs. fixed subscription like GitHub Copilot, codex or Claude",
+      "url": "https://news.ycombinator.com/item?id=49750964",
+      "author": "kelvinxg",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T06:56:41Z",
+      "matched_queries": [
+        "OpenAI"
+      ],
+      "tags": [
+        "ai",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49753501",
+      "title": "Grep your Claude Code/Codex history and jump back into the exact session",
+      "url": "https://news.ycombinator.com/item?id=49753501",
+      "author": "ayushgzip",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T12:34:21Z",
+      "matched_queries": [
+        "Claude"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49753106",
+      "title": "Show HN: Big Calendar – an iOS calendar with big fonts and readable events",
+      "url": "https://apps.apple.com/us/app/big-calendar-see-every-event/id6801043934",
+      "author": "minho42",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T11:57:53Z",
+      "matched_queries": [
+        "Claude",
+        "Google"
+      ],
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "item_id": "49761445",
+      "title": "Faster JSON parsing with SVE2 on ARM processors",
+      "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
+      "author": "ibobev",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T23:05:35Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "content-marketing",
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49760135",
+      "title": "Show HN: ReacherX – Open-source platform to find and reach the right people",
+      "url": "https://github.com/VecterAI/reacher-x",
+      "author": "noobships",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T20:55:14Z",
+      "matched_queries": [
+        "LLM",
+        "agents",
+        "GitHub",
+        "startup",
+        "side project",
+        "social media"
+      ],
+      "tags": [
+        "agents",
+        "github",
+        "llm",
+        "social-media",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49758959",
+      "title": "Show HN: vNetMap – A zero-knowledge E2E encrypted network topology mapper",
+      "url": "https://news.ycombinator.com/item?id=49758959",
+      "author": "vnetmap",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T19:21:59Z",
+      "matched_queries": [
+        "LLM",
+        "agents",
+        "GitHub"
+      ],
+      "tags": [
+        "agents",
+        "github",
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49757081",
+      "title": "Bringing Correctly Rounded Math to Production with LLVM-Libc",
+      "url": "https://devblogs.microsoft.com/cppblog/bringing-correctly-rounded-math-to-production-with-llvm-libc/",
+      "author": "kg",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T16:57:00Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49756982",
+      "title": "Share an LLM endpoint over HTTPS while TLS still terminates on your machine",
+      "url": "https://swobu.com/blog/https-routes/",
+      "author": "metrofun",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T16:48:59Z",
+      "matched_queries": [
+        "LLM"
+      ],
+      "tags": [
+        "content-marketing",
+        "llm"
+      ]
+    },
+    {
+      "item_id": "49759375",
+      "title": "Show HN: I told my open-source AI agent it was a prisoner – it tried to escape",
+      "url": "https://github.com/nordevelopment/RoninAgent/blob/main/EXPERIMENT_REPORT_SUBJECT0.md",
+      "author": "nordeveloper",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T19:55:30Z",
+      "matched_queries": [
+        "agents",
+        "GitHub"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49758906",
+      "title": "Show HN: Peelaway – Turn photos into illustrations, prints, and miniature scenes",
+      "url": "https://peelaway.io/",
+      "author": "Unflavored",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T19:16:59Z",
+      "matched_queries": [
+        "agents",
+        "startup"
+      ],
+      "tags": [
+        "agents",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49758880",
+      "title": "Show HN: Lodestar – Read, respond and manage coding agents more naturally",
+      "url": "https://www.try-lodestar.com/",
+      "author": "elushine",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T19:14:49Z",
+      "matched_queries": [
+        "agents",
+        "automation",
+        "startup"
+      ],
+      "tags": [
+        "agents",
+        "automation",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49758164",
+      "title": "I built a project database for data science agents",
+      "url": "https://yizhao95.github.io/prov_ledger/walkthrough.html",
+      "author": "yzhao950213",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:19:43Z",
+      "matched_queries": [
+        "agents",
+        "GitHub"
+      ],
+      "tags": [
+        "agents",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49758497",
+      "title": "Show HN: In Meeting – A native macOS Mic/Cam observer for home automation",
+      "url": "https://github.com/fellowgeek/in-meeting",
+      "author": "pcbmaker20",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:45:14Z",
+      "matched_queries": [
+        "automation",
+        "GitHub"
+      ],
+      "tags": [
+        "automation",
+        "github"
+      ]
+    },
+    {
+      "item_id": "49758063",
+      "title": "Show HN: SIM Screener adds device frames to screenshots and recordings",
+      "url": "https://simscreener.com",
+      "author": "IgorAmidzic",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:11:29Z",
+      "matched_queries": [
+        "automation"
+      ],
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "item_id": "49755736",
+      "title": "Code review automation fixed the wrong problem",
+      "url": "https://tomosu.ai/blogs/code-review-automation.html",
+      "author": "tomosu-ai",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T15:24:19Z",
+      "matched_queries": [
+        "automation"
+      ],
+      "tags": [
+        "ai",
+        "automation"
+      ]
+    },
+    {
+      "item_id": "49761434",
+      "title": "Realtime Raytracing in Bevy 0.20 (Solari)",
+      "url": "https://jms55.github.io/posts/2026-09-18-solari-bevy-0-20/",
+      "author": "ibobev",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T23:04:24Z",
+      "matched_queries": [
+        "SEO",
+        "GitHub"
+      ],
+      "tags": [
+        "github",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49761351",
+      "title": "A related skill that is recommended as a CS student",
+      "url": "https://news.ycombinator.com/item?id=49761351",
+      "author": "jassembk",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T22:54:09Z",
+      "matched_queries": [
+        "SEO",
+        "startup"
+      ],
+      "tags": [
+        "seo",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49761324",
+      "title": "Integrate Architecture with Topography: Strategies to Build on Hills and Slopes",
+      "url": "https://www.archdaily.com/1136327/integrating-architecture-with-topography-strategies-for-building-on-hills-and-slopes",
+      "author": "bryanrasmussen",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T22:51:08Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49761199",
+      "title": "A Stop Sign for $1k",
+      "url": "https://maxmautner.com/2026/09/17/stop-sign.html",
+      "author": "mslate",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T22:36:59Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49760934",
+      "title": "Open source tool to schedule, analyze, and grow your LinkedIn page",
+      "url": "https://github.com/yapsgg/linkedin-growth",
+      "author": "abdibrokhim",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T22:12:49Z",
+      "matched_queries": [
+        "SEO",
+        "GitHub"
+      ],
+      "tags": [
+        "github",
+        "marketing",
+        "seo",
+        "social-media"
+      ]
+    },
+    {
+      "item_id": "49760671",
+      "title": "Software-Based Live Migration for RDMA – Proceedings of the ACM Sigcomm 2025",
+      "url": "https://dl.acm.org/doi/10.1145/3718958.3750487",
+      "author": "rbanffy",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T21:43:07Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49760464",
+      "title": "Stack Overflow relaunched Developer Story (who certifies that a human wrote it?)",
+      "url": "https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/",
+      "author": "rkovashikawa",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T21:26:03Z",
+      "matched_queries": [
+        "SEO"
+      ],
+      "tags": [
+        "content-marketing",
+        "seo"
+      ]
+    },
+    {
+      "item_id": "49760080",
+      "title": "A solo founder runs a five-continent tender platform on AlloyDB and MCP",
+      "url": "https://cloud.google.com/blog/products/databases/solo-founder-runs-a-global-tender-platform-on-alloydb-and-mcp",
+      "author": "Davorjerkovic",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T20:48:39Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": [
+        "content-marketing",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49760044",
+      "title": "Show HN: 3D World Explorer and Location Guesser Game",
+      "url": "https://explorer.tadget.net/",
+      "author": "ramzis",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T20:46:15Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": []
+    },
+    {
+      "item_id": "49754898",
+      "title": "The new CC, an AI agent built for families",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "author": "sailfast",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T14:25:59Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": [
+        "agents",
+        "ai",
+        "content-marketing"
+      ]
+    },
+    {
+      "item_id": "49754678",
+      "title": "Open Letter to Paul Nurse",
+      "url": "https://docs.google.com/document/d/1-xOkPeHmDEdRigT2YcP2nLfTB56yOn4FFbBfVUIXCUE/edit?tab=t.0",
+      "author": "akbarnama",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T14:10:38Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": []
+    },
+    {
+      "item_id": "49753052",
+      "title": "Bringing Emoji into the Next Era of Expression",
+      "url": "https://design.google/library/noto-3d-emoji-design",
+      "author": "theanonymousone",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T11:52:00Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": []
+    },
+    {
+      "item_id": "49750653",
+      "title": "Epistemology",
+      "url": "https://trends.google.com/trends/explore?date=all&geo=US&q=epistemology&hl=en-US",
+      "author": "someothherguyy",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T06:04:29Z",
+      "matched_queries": [
+        "Google"
+      ],
+      "tags": []
+    },
+    {
+      "item_id": "49759907",
+      "title": "Terence Tao: SAIR's Open Math Model Initiative [video]",
+      "url": "https://www.youtube.com/watch?v=PZRb6NIki2w",
+      "author": "looofooo0",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T20:34:49Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49759009",
+      "title": "Running PyTorch natively on TPU [video]",
+      "url": "https://www.youtube.com/watch?v=k0o1p4plC98",
+      "author": "zniturah",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T19:26:17Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49758543",
+      "title": "Fathom: All in one Jellyfin client with Seer and YouTube",
+      "url": "https://github.com/Fathom-Media/fathom",
+      "author": "traceapps",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:48:29Z",
+      "matched_queries": [
+        "YouTube",
+        "GitHub"
+      ],
+      "tags": [
+        "github",
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49757998",
+      "title": "Stop waiting to live (before AGI decides for you)",
+      "url": "https://www.youtube.com/watch?v=0sfy6fCP8ik",
+      "author": "gillysuit",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:05:30Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49757969",
+      "title": "The Future of Software Engineering [video]",
+      "url": "https://www.youtube.com/watch?v=RuTVSEz9INA",
+      "author": "wg0",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:02:57Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49757621",
+      "title": "Humanoid Robot Regulations have begun",
+      "url": "https://www.youtube.com/watch?v=qoZ_EjWJtes",
+      "author": "artur_makly",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T17:35:25Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49757325",
+      "title": "The Last Lecture (Randy Pausch) [video]",
+      "url": "https://www.youtube.com/watch?v=ji5_MqicxSo",
+      "author": "deepwater212",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T17:14:26Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49757008",
+      "title": "Show HN: ThumbGlance – Browser-local YouTube thumbnail preview and resize",
+      "url": "https://thumbglance.com/",
+      "author": "Austin49",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T16:51:33Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "creator-tools",
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49756057",
+      "title": "The Physics of Database Speed: from 300 to 1M transactions per second [video]",
+      "url": "https://www.youtube.com/watch?v=vOEL_pHFYK0",
+      "author": "tanaykarnik",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T15:42:59Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49754629",
+      "title": "Reconstructed Jurassic insect calls (165M-year-old) [video]",
+      "url": "https://www.youtube.com/watch?v=t6iWoBHxBbk",
+      "author": "xavaki",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T14:07:02Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49754307",
+      "title": "Show HN: Live chord chart transcriber for the musicians in here",
+      "url": "https://chordscan.com/",
+      "author": "bekdavid893",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T13:42:35Z",
+      "matched_queries": [
+        "YouTube"
+      ],
+      "tags": [
+        "video",
+        "youtube"
+      ]
+    },
+    {
+      "item_id": "49759359",
+      "title": "C-code-score – a one-number triage metric for C functions",
+      "url": "https://github.com/xtforever/c-score",
+      "author": "xtforever",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T19:54:16Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "item_id": "49758810",
+      "title": "Parallax PPTX Skill",
+      "url": "https://github.com/Mrabbi3/Parallax-PPTX",
+      "author": "rabbim750",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T19:09:24Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "item_id": "49758473",
+      "title": "Show HN: Repairo – Auto fixing breaking changes in your codebase",
+      "url": "https://github.com/adityacs50-lab/Repairo",
+      "author": "Adityasays",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:43:42Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "item_id": "49758082",
+      "title": "WeirdML v3",
+      "url": "https://htihle.github.io/weirdml.html",
+      "author": "andromaton",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:12:43Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "item_id": "49757961",
+      "title": "I guess we live in the P = NP world after all",
+      "url": "https://nicknash.github.io/posts/pnp/",
+      "author": "nicknash",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:02:11Z",
+      "matched_queries": [
+        "GitHub"
+      ],
+      "tags": [
+        "github"
+      ]
+    },
+    {
+      "item_id": "49754905",
+      "title": "Flight chaos caused by software defect, says air traffic control body",
+      "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo",
+      "author": "edward",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T14:26:37Z",
+      "matched_queries": [
+        "SaaS"
+      ],
+      "tags": [
+        "saas"
+      ]
+    },
+    {
+      "item_id": "49759476",
+      "title": "Grokbot Source Code Leak",
+      "url": "https://twitter.com/Ri7erLi/status/2100875181380055402",
+      "author": "river-li",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T20:03:52Z",
+      "matched_queries": [
+        "startup"
+      ],
+      "tags": [
+        "social-media",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49758885",
+      "title": "Cua S1- A family of System One models",
+      "url": "https://twitter.com/trycua/status/2101014004927729737",
+      "author": "rochansinha",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T19:15:04Z",
+      "matched_queries": [
+        "startup"
+      ],
+      "tags": [
+        "social-media",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49758258",
+      "title": "Near-real-time vision using DiffusionGemma in Jev mode",
+      "url": "https://twitter.com/mmastrac/status/2101011110132601054",
+      "author": "mmastrac",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T18:26:50Z",
+      "matched_queries": [
+        "startup"
+      ],
+      "tags": [
+        "social-media",
+        "startup"
+      ]
+    },
+    {
+      "item_id": "49757649",
+      "title": "Jev might be Qwen finetune",
+      "url": "https://nitter.click/egorgorv/status/2100887757983990218",
+      "author": "E-Reverance",
+      "points": 1,
+      "comments": 0,
+      "created_at": "2026-09-18T17:37:15Z",
+      "matched_queries": [
+        "startup"
+      ],
+      "tags": [
+        "startup"
+      ]
+    }
+  ],
+  "meta": {
+    "query_count": 22,
+    "item_count": 198,
+    "errors": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-09-19",
+  "snapshot_at": "2026-09-19T08:14:00.808415+09:00",
+  "items": [],
+  "meta": {
+    "market_count": 0,
+    "fetched_market_count": 431,
+    "target_count": 60,
+    "errors": [],
+    "warnings": [
+      {
+        "source": "polymarket",
+        "warning": "No markets matched the strategy watchlist after noise filters."
+      }
+    ]
+  }
+}
