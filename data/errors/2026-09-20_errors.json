@@ -1,0 +1,66 @@
+{
+  "date": "2026-09-20",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-09-20",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-09-20",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260919/20260919",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-09-19",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20260919/20260919"
+      }
+    },
+    {
+      "key": "polymarket:warning:polymarket",
+      "date": "2026-09-20",
+      "source": "polymarket",
+      "level": "warning",
+      "detail_id": "polymarket",
+      "message": "No markets matched the strategy watchlist after noise filters.",
+      "raw": {
+        "source": "polymarket",
+        "warning": "No markets matched the strategy watchlist after noise filters."
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 3,
+    "by_level": {
+      "error": 1,
+      "warning": 2
+    },
+    "by_source": {
+      "rss": 1,
+      "wikipedia": 1,
+      "polymarket": 1
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-09-20",
+        "consecutive_days": 102
+      }
+    ]
+  }
+}
