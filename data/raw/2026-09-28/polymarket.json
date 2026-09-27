@@ -1,0 +1,57 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-09-28",
+  "snapshot_at": "2026-09-28T08:48:03.320398+09:00",
+  "items": [
+    {
+      "market_id": "1132794",
+      "title": "Will China's annual inflation in 2026 be between 0.1% and 0.5%?",
+      "slug": "will-chinas-annual-inflation-in-2026-be-between-0pt1-and-0pt5",
+      "url": "https://polymarket.com/event/will-chinas-annual-inflation-in-2026-be-between-0pt1-and-0pt5",
+      "category": null,
+      "volume": 9991.335614000001,
+      "liquidity": 650.05306,
+      "end_date": "2027-01-10T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.135
+        },
+        {
+          "name": "No",
+          "price": 0.865
+        }
+      ],
+      "tags": [
+        "geopolitics",
+        "inflation"
+      ],
+      "relevance": {
+        "score": 6.313,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "inflation",
+          "China"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics",
+          "inflation"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 1,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
