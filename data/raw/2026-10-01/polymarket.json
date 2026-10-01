@@ -1,0 +1,52 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-10-01",
+  "snapshot_at": "2026-10-01T09:32:02.589837+09:00",
+  "items": [
+    {
+      "market_id": "4424388",
+      "title": "Will the Reserve Bank of India increase the policy repo rate by 25 bps at the October meeting?",
+      "slug": "will-the-reserve-bank-of-india-increase-the-policy-repo-rate-by-25-bps-at-the-october-meeting-20260908161500013",
+      "url": "https://polymarket.com/event/will-the-reserve-bank-of-india-increase-the-policy-repo-rate-by-25-bps-at-the-october-meeting-20260908161500013",
+      "category": null,
+      "volume": 9995.452855,
+      "liquidity": 360.0886,
+      "end_date": "2026-10-07T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.84
+        },
+        {
+          "name": "No",
+          "price": 0.16
+        }
+      ],
+      "tags": [
+        "github",
+        "regulation"
+      ],
+      "relevance": {
+        "score": 1.857,
+        "reasons": [
+          "strategy_tag"
+        ],
+        "matched_keywords": [],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "regulation"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 1,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
