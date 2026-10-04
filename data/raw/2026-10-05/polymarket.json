@@ -1,0 +1,49 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-10-05",
+  "snapshot_at": "2026-10-05T08:59:04.130020+09:00",
+  "items": [
+    {
+      "market_id": "1087311",
+      "title": "Will US unemployment reach at least 6.0% in 2026?",
+      "slug": "will-us-unemployment-reach-at-least-6pt0-in-2026",
+      "url": "https://polymarket.com/event/will-us-unemployment-reach-at-least-6pt0-in-2026",
+      "category": null,
+      "volume": 99937.35934,
+      "liquidity": 3987.51268,
+      "end_date": "2027-02-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0055
+        },
+        {
+          "name": "No",
+          "price": 0.9945
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.929,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "unemployment"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 1,
+    "fetched_market_count": 499,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
