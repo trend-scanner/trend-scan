@@ -1,0 +1,54 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-10-11",
+  "snapshot_at": "2026-10-11T09:15:03.186367+09:00",
+  "items": [
+    {
+      "market_id": "3592203",
+      "title": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+      "slug": "next-zptai-glm-5pt4-released-by-october-31-2026-763",
+      "url": "https://polymarket.com/event/next-zptai-glm-5pt4-released-by-october-31-2026-763",
+      "category": null,
+      "volume": 9991.057608,
+      "liquidity": 375.2331,
+      "end_date": "2026-11-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.645
+        },
+        {
+          "name": "No",
+          "price": 0.355
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.707,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 1,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
