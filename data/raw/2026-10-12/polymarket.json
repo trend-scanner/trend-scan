@@ -1,0 +1,94 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-10-12",
+  "snapshot_at": "2026-10-12T09:28:03.650766+09:00",
+  "items": [
+    {
+      "market_id": "5407354",
+      "title": "Will the price of Bitcoin be above $90,000 on October 14?",
+      "slug": "bitcoin-above-90k-on-october-14-2026",
+      "url": "https://polymarket.com/event/bitcoin-above-90k-on-october-14-2026",
+      "category": null,
+      "volume": 9996.913211000001,
+      "liquidity": 40731.97053,
+      "end_date": "2026-10-14T16:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0135
+        },
+        {
+          "name": "No",
+          "price": 0.9865
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 6.515,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3592203",
+      "title": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+      "slug": "next-zptai-glm-5pt4-released-by-october-31-2026-763",
+      "url": "https://polymarket.com/event/next-zptai-glm-5pt4-released-by-october-31-2026-763",
+      "category": null,
+      "volume": 9992.557608,
+      "liquidity": 450.8018,
+      "end_date": "2026-11-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.57
+        },
+        {
+          "name": "No",
+          "price": 0.43
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.709,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 2,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
