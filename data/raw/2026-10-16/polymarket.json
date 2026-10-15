@@ -1,0 +1,94 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-10-16",
+  "snapshot_at": "2026-10-16T08:42:02.950335+09:00",
+  "items": [
+    {
+      "market_id": "676844",
+      "title": "Bitcoin more valuable than any company before 2027?",
+      "slug": "bitcoin-more-valuable-than-any-company-before-2027",
+      "url": "https://polymarket.com/event/bitcoin-more-valuable-than-any-company-before-2027",
+      "category": null,
+      "volume": 9999.277993000002,
+      "liquidity": 3934.17625,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.016
+        },
+        {
+          "name": "No",
+          "price": 0.984
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 5.779,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3592203",
+      "title": "Next Z.ai GLM (5.4+) released by October 31, 2026?",
+      "slug": "next-zptai-glm-5pt4-released-by-october-31-2026-763",
+      "url": "https://polymarket.com/event/next-zptai-glm-5pt4-released-by-october-31-2026-763",
+      "category": null,
+      "volume": 9993.967607999999,
+      "liquidity": 1025.7887,
+      "end_date": "2026-11-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.62
+        },
+        {
+          "name": "No",
+          "price": 0.38
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.72,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 2,
+    "fetched_market_count": 494,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
