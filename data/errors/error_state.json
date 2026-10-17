@@ -1,25 +1,43 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "sources": {
+    "rss:error:jetro-biznews": {
+      "source": "rss",
+      "level": "error",
+      "detail_id": "jetro-biznews",
+      "message": "503 Server Error: Service Unavailable for url: https://www.jetro.go.jp/rss/biznews.xml",
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "consecutive_days": 1
+    },
+    "rss:error:jetro-news": {
+      "source": "rss",
+      "level": "error",
+      "detail_id": "jetro-news",
+      "message": "503 Server Error: Service Unavailable for url: https://www.jetro.go.jp/rss/news.xml",
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "consecutive_days": 1
+    },
     "rss:error:microsoft-ai": {
       "source": "rss",
       "level": "error",
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-10-17",
-      "consecutive_days": 129
+      "last_seen": "2026-10-18",
+      "consecutive_days": 130
     }
   },
   "resolved": [],
   "summary": {
-    "active_count": 1,
+    "active_count": 3,
     "resolved_count": 0,
     "active_by_level": {
-      "error": 1
+      "error": 3
     },
     "active_by_source": {
-      "rss": 1
+      "rss": 3
     }
   }
 }

@@ -1,0 +1,54 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-10-18",
+  "snapshot_at": "2026-10-18T08:04:03.732268+09:00",
+  "items": [
+    {
+      "market_id": "676844",
+      "title": "Bitcoin more valuable than any company before 2027?",
+      "slug": "bitcoin-more-valuable-than-any-company-before-2027",
+      "url": "https://polymarket.com/event/bitcoin-more-valuable-than-any-company-before-2027",
+      "category": null,
+      "volume": 9999.277993000002,
+      "liquidity": 2035.9068,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.022
+        },
+        {
+          "name": "No",
+          "price": 0.978
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 5.741,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 1,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
