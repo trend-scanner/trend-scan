@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-19",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-10-19",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "rss:error:jetro-news",
+      "date": "2026-10-19",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "jetro-news",
+      "message": "503 Server Error: Service Unavailable for url: https://www.jetro.go.jp/rss/news.xml",
+      "raw": {
+        "source_id": "jetro-news",
+        "error": "503 Server Error: Service Unavailable for url: https://www.jetro.go.jp/rss/news.xml"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-10-19",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20261018/20261018",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-10-18",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20261018/20261018"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-10-19",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20261017/20261017",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-10-17",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20261017/20261017"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-10-19",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20261016/20261016",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-10-16",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20261016/20261016"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 5,
+    "by_level": {
+      "error": 2,
+      "warning": 3
+    },
+    "by_source": {
+      "rss": 2,
+      "wikipedia": 3
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:jetro-news",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "jetro-news",
+        "message": "503 Server Error: Service Unavailable for url: https://www.jetro.go.jp/rss/news.xml",
+        "first_seen": "2026-10-18",
+        "last_seen": "2026-10-19",
+        "consecutive_days": 2
+      },
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-10-19",
+        "consecutive_days": 131
+      }
+    ]
+  }
+}
