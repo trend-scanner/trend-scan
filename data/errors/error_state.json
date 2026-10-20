@@ -1,23 +1,23 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "sources": {
     "rss:error:jetro-biznews": {
       "source": "rss",
       "level": "error",
       "detail_id": "jetro-biznews",
-      "message": "<unknown>:56:10: mismatched tag",
+      "message": "403 Client Error: Forbidden for url: https://www.jetro.go.jp/rss/biznews.xml",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
-      "consecutive_days": 1
+      "last_seen": "2026-10-21",
+      "consecutive_days": 2
     },
     "rss:error:jetro-news": {
       "source": "rss",
       "level": "error",
       "detail_id": "jetro-news",
-      "message": "<unknown>:56:10: mismatched tag",
+      "message": "403 Client Error: Forbidden for url: https://www.jetro.go.jp/rss/news.xml",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-20",
-      "consecutive_days": 3
+      "last_seen": "2026-10-21",
+      "consecutive_days": 4
     },
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -25,8 +25,8 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-10-20",
-      "consecutive_days": 132
+      "last_seen": "2026-10-21",
+      "consecutive_days": 133
     }
   },
   "resolved": [],
