@@ -1,14 +1,23 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "sources": {
+    "rss:error:jetro-biznews": {
+      "source": "rss",
+      "level": "error",
+      "detail_id": "jetro-biznews",
+      "message": "<unknown>:56:10: mismatched tag",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "consecutive_days": 1
+    },
     "rss:error:jetro-news": {
       "source": "rss",
       "level": "error",
       "detail_id": "jetro-news",
-      "message": "503 Server Error: Service Unavailable for url: https://www.jetro.go.jp/rss/news.xml",
+      "message": "<unknown>:56:10: mismatched tag",
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19",
-      "consecutive_days": 2
+      "last_seen": "2026-10-20",
+      "consecutive_days": 3
     },
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -16,29 +25,19 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-10-19",
-      "consecutive_days": 131
+      "last_seen": "2026-10-20",
+      "consecutive_days": 132
     }
   },
-  "resolved": [
-    {
-      "key": "rss:error:jetro-biznews",
-      "source": "rss",
-      "level": "error",
-      "detail_id": "jetro-biznews",
-      "last_seen": "2026-10-18",
-      "consecutive_days": 1,
-      "resolved_on": "2026-10-19"
-    }
-  ],
+  "resolved": [],
   "summary": {
-    "active_count": 2,
-    "resolved_count": 1,
+    "active_count": 3,
+    "resolved_count": 0,
     "active_by_level": {
-      "error": 2
+      "error": 3
     },
     "active_by_source": {
-      "rss": 2
+      "rss": 3
     }
   }
 }
