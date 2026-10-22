@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-22",
+  "entries": [
+    {
+      "key": "rss:error:microsoft-ai",
+      "date": "2026-10-22",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "microsoft-ai",
+      "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+      "raw": {
+        "source_id": "microsoft-ai",
+        "error": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/"
+      }
+    },
+    {
+      "key": "rss:error:jetro-news",
+      "date": "2026-10-22",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "jetro-news",
+      "message": "403 Client Error: Forbidden for url: https://www.jetro.go.jp/rss/news.xml",
+      "raw": {
+        "source_id": "jetro-news",
+        "error": "403 Client Error: Forbidden for url: https://www.jetro.go.jp/rss/news.xml"
+      }
+    },
+    {
+      "key": "rss:error:jetro-biznews",
+      "date": "2026-10-22",
+      "source": "rss",
+      "level": "error",
+      "detail_id": "jetro-biznews",
+      "message": "403 Client Error: Forbidden for url: https://www.jetro.go.jp/rss/biznews.xml",
+      "raw": {
+        "source_id": "jetro-biznews",
+        "error": "403 Client Error: Forbidden for url: https://www.jetro.go.jp/rss/biznews.xml"
+      }
+    },
+    {
+      "key": "wikipedia:warning:Artificial_intelligence",
+      "date": "2026-10-22",
+      "source": "wikipedia",
+      "level": "warning",
+      "detail_id": "Artificial_intelligence",
+      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20261021/20261021",
+      "raw": {
+        "title": "Artificial_intelligence",
+        "observed_date": "2026-10-21",
+        "warning": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Artificial_intelligence/daily/20261021/20261021"
+      }
+    }
+  ],
+  "summary": {
+    "entry_count": 4,
+    "by_level": {
+      "error": 3,
+      "warning": 1
+    },
+    "by_source": {
+      "rss": 3,
+      "wikipedia": 1
+    },
+    "continuous_failures": [
+      {
+        "key": "rss:error:jetro-biznews",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "jetro-biznews",
+        "message": "403 Client Error: Forbidden for url: https://www.jetro.go.jp/rss/biznews.xml",
+        "first_seen": "2026-10-20",
+        "last_seen": "2026-10-22",
+        "consecutive_days": 3
+      },
+      {
+        "key": "rss:error:jetro-news",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "jetro-news",
+        "message": "403 Client Error: Forbidden for url: https://www.jetro.go.jp/rss/news.xml",
+        "first_seen": "2026-10-18",
+        "last_seen": "2026-10-22",
+        "consecutive_days": 5
+      },
+      {
+        "key": "rss:error:microsoft-ai",
+        "source": "rss",
+        "level": "error",
+        "detail_id": "microsoft-ai",
+        "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
+        "first_seen": "2026-06-11",
+        "last_seen": "2026-10-22",
+        "consecutive_days": 134
+      }
+    ]
+  }
+}

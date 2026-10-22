@@ -1,0 +1,164 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-10-22",
+  "snapshot_at": "2026-10-22T09:01:03.589358+09:00",
+  "items": [
+    {
+      "market_id": "5170788",
+      "title": "Will Ethereum dip to $2,300 in October?",
+      "slug": "will-ethereum-dip-to-2300-in-october-2026",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-october-2026",
+      "category": null,
+      "volume": 99827.47666699998,
+      "liquidity": 68245.8064,
+      "end_date": "2026-11-01T04:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.335
+        },
+        {
+          "name": "No",
+          "price": 0.665
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 7.598,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Ethereum"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "676844",
+      "title": "Bitcoin more valuable than any company before 2027?",
+      "slug": "bitcoin-more-valuable-than-any-company-before-2027",
+      "url": "https://polymarket.com/event/bitcoin-more-valuable-than-any-company-before-2027",
+      "category": null,
+      "volume": 9999.277993000002,
+      "liquidity": 2539.14999,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0165
+        },
+        {
+          "name": "No",
+          "price": 0.9835
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 5.751,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3764786",
+      "title": "Will Meta’s market capitalization be between $2.00T and $2.25T at the end of October 2026?",
+      "slug": "will-metas-market-capitalization-be-between-2pt00t-and-2pt25t-at-the-end-of-october-2026",
+      "url": "https://polymarket.com/event/will-metas-market-capitalization-be-between-2pt00t-and-2pt25t-at-the-end-of-october-2026",
+      "category": null,
+      "volume": 9977.540404,
+      "liquidity": 1293.68713,
+      "end_date": "2026-10-31T17:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.062
+        },
+        {
+          "name": "No",
+          "price": 0.938
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 3.976,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Meta"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2928992",
+      "title": "Will DeepSeek IPO by December 31, 2027?",
+      "slug": "will-deepseek-ipo-by-december-31-2027-20260714175933548",
+      "url": "https://polymarket.com/event/will-deepseek-ipo-by-december-31-2027-20260714175933548",
+      "category": null,
+      "volume": 9999.013874999999,
+      "liquidity": 1057.17553,
+      "end_date": "2028-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.6215
+        },
+        {
+          "name": "No",
+          "price": 0.3785
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 3.971,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "IPO"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 4,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
