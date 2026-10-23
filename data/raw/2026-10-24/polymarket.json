@@ -1,0 +1,242 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-10-24",
+  "snapshot_at": "2026-10-24T08:52:02.954438+09:00",
+  "items": [
+    {
+      "market_id": "2303886",
+      "title": "Anthropic vs OpenAI - higher valuation on December 31?",
+      "slug": "anthropic-vs-openai-higher-valuation-on-december-31",
+      "url": "https://polymarket.com/event/anthropic-vs-openai-higher-valuation-on-december-31",
+      "category": null,
+      "volume": 99518.013483,
+      "liquidity": 5522.4351,
+      "end_date": "2027-01-05T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Anthropic",
+          "price": 0.93
+        },
+        {
+          "name": "OpenAI",
+          "price": 0.07
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 7.056,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "687559",
+      "title": "Sam Altman out as OpenAI CEO before 2027?",
+      "slug": "sam-altman-out-as-openai-ceo-before-2027",
+      "url": "https://polymarket.com/event/sam-altman-out-as-openai-ceo-before-2027",
+      "category": null,
+      "volume": 99966.96877299999,
+      "liquidity": 1412.17899,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.05
+        },
+        {
+          "name": "No",
+          "price": 0.95
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.628,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1243896",
+      "title": "Will Brazil’s Annual Inflation in 2026 be less than 3.00%?",
+      "slug": "will-brazils-annual-inflation-in-2026-be-less-than-3pt00",
+      "url": "https://polymarket.com/event/will-brazils-annual-inflation-in-2026-be-less-than-3pt00",
+      "category": null,
+      "volume": 9953.184815,
+      "liquidity": 2126.82796,
+      "end_date": "2027-01-13T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0035
+        },
+        {
+          "name": "No",
+          "price": 0.9965
+        }
+      ],
+      "tags": [
+        "inflation"
+      ],
+      "relevance": {
+        "score": 5.742,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "inflation"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "inflation"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2965149",
+      "title": "Will Erling Haaland be the #1 searched person on Google this year?",
+      "slug": "will-erling-haaland-be-the-1-searched-person-on-google-this-year-20260717214426262",
+      "url": "https://polymarket.com/event/will-erling-haaland-be-the-1-searched-person-on-google-this-year-20260717214426262",
+      "category": null,
+      "volume": 99629.835265,
+      "liquidity": 26029.6381,
+      "end_date": "2027-04-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.155
+        },
+        {
+          "name": "No",
+          "price": 0.845
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 5.367,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Google"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2745579",
+      "title": "Will Tesla launch robotaxis in California by December 31?",
+      "slug": "will-tesla-launch-robotaxis-in-california-by-december-31-20260630142749586",
+      "url": "https://polymarket.com/event/will-tesla-launch-robotaxis-in-california-by-december-31-20260630142749586",
+      "category": null,
+      "volume": 9959.881687000001,
+      "liquidity": 2373.7487,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.135
+        },
+        {
+          "name": "No",
+          "price": 0.865
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 3.997,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Tesla"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "677167",
+      "title": "Will US GDP growth in 2026 be between 1.5% and 2.0%?",
+      "slug": "will-us-gdp-growth-in-2026-be-between-1pt5-and-2pt0",
+      "url": "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-between-1pt5-and-2pt0",
+      "category": null,
+      "volume": 9960.904719000002,
+      "liquidity": 899.42768,
+      "end_date": "2027-01-29T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0185
+        },
+        {
+          "name": "No",
+          "price": 0.9815
+        }
+      ],
+      "tags": [
+        "marketing"
+      ],
+      "relevance": {
+        "score": 3.968,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "GDP"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 6,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
