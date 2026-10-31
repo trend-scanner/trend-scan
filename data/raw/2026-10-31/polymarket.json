@@ -1,0 +1,518 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-10-31",
+  "snapshot_at": "2026-10-31T09:40:04.062160+09:00",
+  "items": [
+    {
+      "market_id": "5686980",
+      "title": "US x Iran ceasefire continues through November 8?",
+      "slug": "us-x-iran-ceasefire-continues-through-november-8",
+      "url": "https://polymarket.com/event/us-x-iran-ceasefire-continues-through-november-8",
+      "category": null,
+      "volume": 989273.8041700001,
+      "liquidity": 87715.1113,
+      "end_date": "2026-11-09T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.725
+        },
+        {
+          "name": "No",
+          "price": 0.275
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 8.6,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "ceasefire"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "6137755",
+      "title": "Will the price of Bitcoin be above $76,000 on October 31?",
+      "slug": "bitcoin-above-76k-on-october-31-2026",
+      "url": "https://polymarket.com/event/bitcoin-above-76k-on-october-31-2026",
+      "category": null,
+      "volume": 98501.937506,
+      "liquidity": 49022.23655,
+      "end_date": "2026-10-31T16:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.9285
+        },
+        {
+          "name": "No",
+          "price": 0.0715
+        }
+      ],
+      "tags": [
+        "crypto"
+      ],
+      "relevance": {
+        "score": 7.565,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Bitcoin"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "crypto"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "4664660",
+      "title": "Will Anthropic have the best AI model at the end of November 2026?",
+      "slug": "will-anthropic-have-the-best-ai-model-at-the-end-of-november-2026",
+      "url": "https://polymarket.com/event/will-anthropic-have-the-best-ai-model-at-the-end-of-november-2026",
+      "category": null,
+      "volume": 98252.23842,
+      "liquidity": 7217.8283,
+      "end_date": "2026-12-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.325
+        },
+        {
+          "name": "No",
+          "price": 0.675
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 7.077,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1371094",
+      "title": "Will Grok AI beat T1 in 2026? ",
+      "slug": "will-t1-beat-grok-ai-in-2026",
+      "url": "https://polymarket.com/event/will-t1-beat-grok-ai-in-2026",
+      "category": null,
+      "volume": 98924.18837699997,
+      "liquidity": 555.06951,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.045
+        },
+        {
+          "name": "No",
+          "price": 0.955
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.6,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "4664390",
+      "title": "Will Anthropic have the best Math AI model at the end of November 2026?",
+      "slug": "will-anthropic-have-the-best-math-ai-model-at-the-end-of-november-2026",
+      "url": "https://polymarket.com/event/will-anthropic-have-the-best-math-ai-model-at-the-end-of-november-2026",
+      "category": null,
+      "volume": 9832.763415000001,
+      "liquidity": 390.38381,
+      "end_date": "2026-12-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.5055
+        },
+        {
+          "name": "No",
+          "price": 0.4945
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.056,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI",
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3409507",
+      "title": "Lisa Cook out as Fed Governor by  October 31?",
+      "slug": "lisa-cook-out-as-fed-governor-by-october-31-20260807204638264",
+      "url": "https://polymarket.com/event/lisa-cook-out-as-fed-governor-by-october-31-20260807204638264",
+      "category": null,
+      "volume": 9830.605867999999,
+      "liquidity": 16986.65422,
+      "end_date": "2026-11-01T03:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0005
+        },
+        {
+          "name": "No",
+          "price": 0.9995
+        }
+      ],
+      "tags": [
+        "economy"
+      ],
+      "relevance": {
+        "score": 6.038,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Fed"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "economy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "5785092",
+      "title": "Will the Central Bank of Colombia increase the monetary policy interest rate by 25 bps at the December meeting?",
+      "slug": "will-the-central-bank-of-colombia-increase-the-monetary-policy-interest-rate-by-25-bps-at-the-december-2026-meeting",
+      "url": "https://polymarket.com/event/will-the-central-bank-of-colombia-increase-the-monetary-policy-interest-rate-by-25-bps-at-the-december-2026-meeting",
+      "category": null,
+      "volume": 9863.83325,
+      "liquidity": 2670.24678,
+      "end_date": "2026-12-18T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.318
+        },
+        {
+          "name": "No",
+          "price": 0.682
+        }
+      ],
+      "tags": [
+        "economy",
+        "regulation"
+      ],
+      "relevance": {
+        "score": 6.002,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "interest rate"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "economy",
+          "regulation"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1370617",
+      "title": "Will Z.ai be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?",
+      "slug": "will-zai-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026",
+      "url": "https://polymarket.com/event/will-zai-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026",
+      "category": null,
+      "volume": 9957.936713999998,
+      "liquidity": 2160.59494,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0015
+        },
+        {
+          "name": "No",
+          "price": 0.9985
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.743,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1321867",
+      "title": "Epic Games IPO before 2027?",
+      "slug": "epic-games-ipo-before-2027",
+      "url": "https://polymarket.com/event/epic-games-ipo-before-2027",
+      "category": null,
+      "volume": 99753.46315999998,
+      "liquidity": 18500.6199,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.017
+        },
+        {
+          "name": "No",
+          "price": 0.983
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 5.218,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "IPO"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3721425",
+      "title": "Will Anthropic's initial public offering occur in October 2026 (ET)?",
+      "slug": "will-anthropics-initial-public-offering-occur-in-october-2026-et",
+      "url": "https://polymarket.com/event/will-anthropics-initial-public-offering-occur-in-october-2026-et",
+      "category": null,
+      "volume": 99974.25139100001,
+      "liquidity": 6677.13465,
+      "end_date": "2028-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0005
+        },
+        {
+          "name": "No",
+          "price": 0.9995
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.983,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Anthropic"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "6267655",
+      "title": "Will Anthropic raise between $85B and $95B in its IPO?",
+      "slug": "will-anthropic-raise-between-85b-and-95b-in-its-ipo",
+      "url": "https://polymarket.com/event/will-anthropic-raise-between-85b-and-95b-in-its-ipo",
+      "category": null,
+      "volume": 9976.395489,
+      "liquidity": 1972.6947,
+      "end_date": "2028-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.295
+        },
+        {
+          "name": "No",
+          "price": 0.705
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.339,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Anthropic",
+          "IPO"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "677167",
+      "title": "Will US GDP growth in 2026 be between 1.5% and 2.0%?",
+      "slug": "will-us-gdp-growth-in-2026-be-between-1pt5-and-2pt0",
+      "url": "https://polymarket.com/event/will-us-gdp-growth-in-2026-be-between-1pt5-and-2pt0",
+      "category": null,
+      "volume": 9993.466119000002,
+      "liquidity": 1350.43267,
+      "end_date": "2027-01-29T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0175
+        },
+        {
+          "name": "No",
+          "price": 0.9825
+        }
+      ],
+      "tags": [
+        "marketing"
+      ],
+      "relevance": {
+        "score": 3.977,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "GDP"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2373683",
+      "title": "Will Russia capture all of Bilytske by December 31?",
+      "slug": "will-russia-capture-all-of-bilytske-by-december-31",
+      "url": "https://polymarket.com/event/will-russia-capture-all-of-bilytske-by-december-31",
+      "category": null,
+      "volume": 98886.95361599997,
+      "liquidity": 20095.625,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.74
+        },
+        {
+          "name": "No",
+          "price": 0.26
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 3.141,
+        "reasons": [
+          "strategy_tag"
+        ],
+        "matched_keywords": [],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 13,
+    "fetched_market_count": 500,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
