@@ -1,0 +1,433 @@
+{
+  "source": "polymarket",
+  "run_date": "2026-11-04",
+  "snapshot_at": "2026-11-04T10:14:03.324820+09:00",
+  "items": [
+    {
+      "market_id": "6172748",
+      "title": "Will WTI Crude Oil (WTI) hit (HIGH) $140 in November?",
+      "slug": "will-wti-reach-140-in-november-2026",
+      "url": "https://polymarket.com/event/will-wti-reach-140-in-november-2026",
+      "category": null,
+      "volume": 99695.012378,
+      "liquidity": 47208.91688,
+      "end_date": "2026-12-01T04:59:59.999Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0335
+        },
+        {
+          "name": "No",
+          "price": 0.9665
+        }
+      ],
+      "tags": [
+        "energy"
+      ],
+      "relevance": {
+        "score": 7.891,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "oil",
+          "crude"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "energy"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1371094",
+      "title": "Will Grok AI beat T1 in 2026? ",
+      "slug": "will-t1-beat-grok-ai-in-2026",
+      "url": "https://polymarket.com/event/will-t1-beat-grok-ai-in-2026",
+      "category": null,
+      "volume": 99777.90964999999,
+      "liquidity": 1369.13134,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.052
+        },
+        {
+          "name": "No",
+          "price": 0.948
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.625,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3072311",
+      "title": "Will the highest score achieved by an Anthropic Claude model on Humanity’s Last Exam in 2026 be 70% or higher?",
+      "slug": "will-the-highest-score-achieved-by-an-anthropic-claude-model-on-humanitys-last-exam-in-2026-be-70-or-higher-20260723190836289",
+      "url": "https://polymarket.com/event/will-the-highest-score-achieved-by-an-anthropic-claude-model-on-humanitys-last-exam-in-2026-be-70-or-higher-20260723190836289",
+      "category": null,
+      "volume": 9794.671325,
+      "liquidity": 1218.6535,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.075
+        },
+        {
+          "name": "No",
+          "price": 0.925
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 6.072,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Anthropic",
+          "Claude"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3358977",
+      "title": "Will Nvidia’s market capitalization be between $5.00T and $5.50T at the end of 2026?",
+      "slug": "will-nvidias-market-capitalization-be-between-4pt50t-and-5pt00t-at-the-end-of-2026-1785882876112",
+      "url": "https://polymarket.com/event/will-nvidias-market-capitalization-be-between-4pt50t-and-5pt00t-at-the-end-of-2026-1785882876112",
+      "category": null,
+      "volume": 9843.176464,
+      "liquidity": 5882.3753,
+      "end_date": "2026-12-31T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.31
+        },
+        {
+          "name": "No",
+          "price": 0.69
+        }
+      ],
+      "tags": [
+        "semiconductor"
+      ],
+      "relevance": {
+        "score": 5.816,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Nvidia"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "semiconductor"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1370617",
+      "title": "Will Z.ai be the first company to have an AI model hit 1550 on Chatbot Arena in 2026?",
+      "slug": "will-zai-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026",
+      "url": "https://polymarket.com/event/will-zai-be-the-first-company-to-have-an-ai-model-hit-1550-on-chatbot-arena-in-2026",
+      "category": null,
+      "volume": 9957.936713999998,
+      "liquidity": 2401.21504,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0005
+        },
+        {
+          "name": "No",
+          "price": 0.9995
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.748,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "AI"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "4895504",
+      "title": "Next Claude Opus (5.6+) released by November 30, 2026?",
+      "slug": "next-claude-opus-released-by-november-30-2026",
+      "url": "https://polymarket.com/event/next-claude-opus-released-by-november-30-2026",
+      "category": null,
+      "volume": 9860.724211,
+      "liquidity": 958.2042,
+      "end_date": "2026-11-30T23:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.615
+        },
+        {
+          "name": "No",
+          "price": 0.385
+        }
+      ],
+      "tags": [
+        "ai"
+      ],
+      "relevance": {
+        "score": 5.718,
+        "reasons": [
+          "watchlist_keyword",
+          "strategy_tag"
+        ],
+        "matched_keywords": [
+          "Claude"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "ai"
+        ],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "3585430",
+      "title": "Tesla and SpaceX merger officially announced by December 31, 2027?",
+      "slug": "tesla-and-spacex-merger-officially-announced-by-december-31-2027",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31-2027",
+      "category": null,
+      "volume": 97588.36621299999,
+      "liquidity": 25048.3749,
+      "end_date": "2028-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.665
+        },
+        {
+          "name": "No",
+          "price": 0.335
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 5.327,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Tesla"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "1321867",
+      "title": "Epic Games IPO before 2027?",
+      "slug": "epic-games-ipo-before-2027",
+      "url": "https://polymarket.com/event/epic-games-ipo-before-2027",
+      "category": null,
+      "volume": 99803.46316000001,
+      "liquidity": 9407.50636,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.017
+        },
+        {
+          "name": "No",
+          "price": 0.983
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 5.036,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "IPO"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "6507441",
+      "title": "Will Solana dip to $60 in November?",
+      "slug": "will-solana-dip-to-60-in-november-2026",
+      "url": "https://polymarket.com/event/will-solana-dip-to-60-in-november-2026",
+      "category": null,
+      "volume": 9870.831522,
+      "liquidity": 32742.0052,
+      "end_date": "2026-12-01T05:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.052
+        },
+        {
+          "name": "No",
+          "price": 0.948
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.604,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Solana"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "6507438",
+      "title": "Will Solana dip to $90 in November?",
+      "slug": "will-solana-dip-to-90-in-november-2026",
+      "url": "https://polymarket.com/event/will-solana-dip-to-90-in-november-2026",
+      "category": null,
+      "volume": 9943.945498,
+      "liquidity": 27132.1457,
+      "end_date": "2026-12-01T05:00:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.86
+        },
+        {
+          "name": "No",
+          "price": 0.14
+        }
+      ],
+      "tags": [],
+      "relevance": {
+        "score": 4.492,
+        "reasons": [
+          "watchlist_keyword"
+        ],
+        "matched_keywords": [
+          "Solana"
+        ],
+        "excluded_keywords": [],
+        "strategy_tags": [],
+        "high_volume_fallback": false
+      }
+    },
+    {
+      "market_id": "2677097",
+      "title": "Will Russia capture all of Drobysheve by December 31?",
+      "slug": "will-russia-capture-all-of-drobysheve-by-december-31",
+      "url": "https://polymarket.com/event/will-russia-capture-all-of-drobysheve-by-december-31",
+      "category": null,
+      "volume": 98018.727467,
+      "liquidity": 2294.85658,
+      "end_date": "2027-01-01T04:59:00Z",
+      "active": true,
+      "closed": false,
+      "outcomes": [
+        {
+          "name": "Yes",
+          "price": 0.0605
+        },
+        {
+          "name": "No",
+          "price": 0.9395
+        }
+      ],
+      "tags": [
+        "geopolitics"
+      ],
+      "relevance": {
+        "score": 2.776,
+        "reasons": [
+          "strategy_tag"
+        ],
+        "matched_keywords": [],
+        "excluded_keywords": [],
+        "strategy_tags": [
+          "geopolitics"
+        ],
+        "high_volume_fallback": false
+      }
+    }
+  ],
+  "meta": {
+    "market_count": 11,
+    "fetched_market_count": 496,
+    "target_count": 60,
+    "errors": [],
+    "warnings": []
+  }
+}
