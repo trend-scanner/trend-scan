@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,74 +7,74 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-11-17",
-      "consecutive_days": 160
-    },
-    "wikipedia:error:Digital_marketing": {
+      "last_seen": "2026-11-18",
+      "consecutive_days": 161
+    }
+  },
+  "resolved": [
+    {
+      "key": "wikipedia:error:Digital_marketing",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "Digital_marketing",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Digital_marketing/daily/20261116/20261116",
-      "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-11-18"
     },
-    "wikipedia:error:E-commerce": {
+    {
+      "key": "wikipedia:error:E-commerce",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "E-commerce",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/E-commerce/daily/20261116/20261116",
-      "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-11-18"
     },
-    "wikipedia:error:Newsletter": {
+    {
+      "key": "wikipedia:error:Newsletter",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "Newsletter",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Newsletter/daily/20261116/20261116",
-      "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-11-18"
     },
-    "wikipedia:error:Social_media_marketing": {
+    {
+      "key": "wikipedia:error:Social_media_marketing",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "Social_media_marketing",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia.org/all-access/all-agents/Social_media_marketing/daily/20261116/20261116",
-      "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-11-18"
     },
-    "wikipedia:error:YouTube": {
+    {
+      "key": "wikipedia:error:YouTube",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "YouTube",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/YouTube/daily/20261116/20261116",
-      "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-11-18"
     },
-    "wikipedia:error:大規模言語モデル": {
+    {
+      "key": "wikipedia:error:大規模言語モデル",
       "source": "wikipedia",
       "level": "error",
       "detail_id": "大規模言語モデル",
-      "message": "404 Client Error: Not Found for url: https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/ja.wikipedia.org/all-access/all-agents/%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB/daily/20261116/20261116",
-      "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
-      "consecutive_days": 1
+      "consecutive_days": 1,
+      "resolved_on": "2026-11-18"
     }
-  },
-  "resolved": [],
+  ],
   "summary": {
-    "active_count": 7,
-    "resolved_count": 0,
+    "active_count": 1,
+    "resolved_count": 6,
     "active_by_level": {
-      "error": 7
+      "error": 1
     },
     "active_by_source": {
-      "rss": 1,
-      "wikipedia": 6
+      "rss": 1
     }
   }
 }
