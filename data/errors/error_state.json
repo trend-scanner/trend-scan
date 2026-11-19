@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,69 +7,14 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-11-18",
-      "consecutive_days": 161
+      "last_seen": "2026-11-19",
+      "consecutive_days": 162
     }
   },
-  "resolved": [
-    {
-      "key": "wikipedia:error:Digital_marketing",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Digital_marketing",
-      "last_seen": "2026-11-17",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-18"
-    },
-    {
-      "key": "wikipedia:error:E-commerce",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "E-commerce",
-      "last_seen": "2026-11-17",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-18"
-    },
-    {
-      "key": "wikipedia:error:Newsletter",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Newsletter",
-      "last_seen": "2026-11-17",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-18"
-    },
-    {
-      "key": "wikipedia:error:Social_media_marketing",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Social_media_marketing",
-      "last_seen": "2026-11-17",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-18"
-    },
-    {
-      "key": "wikipedia:error:YouTube",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "YouTube",
-      "last_seen": "2026-11-17",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-18"
-    },
-    {
-      "key": "wikipedia:error:大規模言語モデル",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "大規模言語モデル",
-      "last_seen": "2026-11-17",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-18"
-    }
-  ],
+  "resolved": [],
   "summary": {
     "active_count": 1,
-    "resolved_count": 6,
+    "resolved_count": 0,
     "active_by_level": {
       "error": 1
     },
