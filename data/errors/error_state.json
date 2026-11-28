@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "sources": {
     "rss:error:microsoft-ai": {
       "source": "rss",
@@ -7,96 +7,14 @@
       "detail_id": "microsoft-ai",
       "message": "410 Client Error: Gone for url: https://blogs.microsoft.com/ai/feed/",
       "first_seen": "2026-06-11",
-      "last_seen": "2026-11-27",
-      "consecutive_days": 170
+      "last_seen": "2026-11-28",
+      "consecutive_days": 171
     }
   },
-  "resolved": [
-    {
-      "key": "wikipedia:error:ChatGPT",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "ChatGPT",
-      "last_seen": "2026-11-26",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-27"
-    },
-    {
-      "key": "wikipedia:error:Creator_economy",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Creator_economy",
-      "last_seen": "2026-11-26",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-27"
-    },
-    {
-      "key": "wikipedia:error:Cryptocurrency",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Cryptocurrency",
-      "last_seen": "2026-11-26",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-27"
-    },
-    {
-      "key": "wikipedia:error:Digital_marketing",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Digital_marketing",
-      "last_seen": "2026-11-26",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-27"
-    },
-    {
-      "key": "wikipedia:error:Inflation",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "Inflation",
-      "last_seen": "2026-11-26",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-27"
-    },
-    {
-      "key": "wikipedia:error:YouTube",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "YouTube",
-      "last_seen": "2026-11-26",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-27"
-    },
-    {
-      "key": "wikipedia:error:副業",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "副業",
-      "last_seen": "2026-11-26",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-27"
-    },
-    {
-      "key": "wikipedia:error:大規模言語モデル",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "大規模言語モデル",
-      "last_seen": "2026-11-26",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-27"
-    },
-    {
-      "key": "wikipedia:error:物価",
-      "source": "wikipedia",
-      "level": "error",
-      "detail_id": "物価",
-      "last_seen": "2026-11-26",
-      "consecutive_days": 1,
-      "resolved_on": "2026-11-27"
-    }
-  ],
+  "resolved": [],
   "summary": {
     "active_count": 1,
-    "resolved_count": 9,
+    "resolved_count": 0,
     "active_by_level": {
       "error": 1
     },
